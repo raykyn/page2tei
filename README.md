@@ -36,6 +36,7 @@ optional arguments:
 - The TextStyle-tag is handled in a very project-specific way and you might want to change the conversion behavior for this tag for your project. Look into the insert_attributes-function to change it. 
 - The date-tag at the moment uses a standard day-month-year format in the "when"-attribute. Your project might want to handle this differently, look into the insert_attributes-function to change its behavior.
 - Note that this script was developed for very specific use in context of the edition project Königsfelden (https://www.koenigsfelden.uzh.ch/) and we can not be aware of any needs your project has. Feel welcome to ask for features and help in the "Issues"-tab on Github.
+- Yes, one of the examples produces an invalid TEI-file, because it contains overlapping tags. I included it to show how the script reports these errors.
 
 ## Contact
 Please report bugs and request features via the Issues-tab on Github.
