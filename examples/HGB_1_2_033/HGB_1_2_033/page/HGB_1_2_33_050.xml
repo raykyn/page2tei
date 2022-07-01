@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:50</Created>
+        <LastChange>2020-04-19T01:31:45.557+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869490" pageNr="50" tsid="27912710" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=ZCQNHPLTPPYYAODBCQVHDRNB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NECPPRWQQJRGWDVHBUTEQFDX" imageId="5736353"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_050.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242860" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rfs5j_1"/>
+                <RegionRefIndexed index="1" regionRef="rUzxV_2"/>
+                <RegionRefIndexed index="2" regionRef="rNgaB_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rfs5j_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,731 621,731 621,1217 211,1217"/>
+            <TextLine id="rfs5j_1l1" custom="readingOrder {index:0;}">
+                <Coords points="286,817 317,806 327,815 359,814 371,827 385,815 410,812 422,825 435,821 444,829 503,819 509,717 488,715 468,727 432,695 416,699 380,679 354,683 333,702 293,699"/>
+                <Baseline points="300,794 327,796 354,799 381,801 409,803 436,804 463,804 491,804"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rfs5j_1l2" custom="readingOrder {index:1;}">
+                <Coords points="217,1021 257,1006 317,1022 376,979 421,967 466,973 496,996 527,986 579,1019 581,828 427,829 390,811 375,826 312,830 219,794"/>
+                <Baseline points="230,939 255,941 281,942 307,943 333,944 359,944 385,944 410,944 436,944 462,944 488,944 514,944 540,944 566,944"/>
+                <TextEquiv>
+                    <Unicode>25/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rfs5j_1l3" custom="readingOrder {index:2;}">
+                <Coords points="263,1088 282,1096 344,1071 359,1075 369,1065 417,1080 455,1069 469,1085 490,1081 493,998 408,994 351,1024 266,1010"/>
+                <Baseline points="278,1047 303,1051 328,1055 353,1056 378,1057 403,1058 428,1058 453,1058 479,1059"/>
+                <TextEquiv>
+                    <Unicode>Enbeung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rfs5j_1l4" custom="readingOrder {index:3;}">
+                <Coords points="297,1201 324,1207 340,1195 369,1221 392,1227 465,1221 469,1101 426,1102 373,1085 322,1124 299,1116"/>
+                <Baseline points="309,1179 337,1179 366,1179 395,1181 424,1182 453,1182"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+25/1518
+Enbeung
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rUzxV_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="592,211 1414,211 1414,405 592,405"/>
+            <TextLine id="rUzxV_2l1" custom="readingOrder {index:0;}">
+                <Coords points="639,372 726,393 805,366 973,407 1094,363 1114,383 1152,368 1212,384 1213,233 1022,267 899,210 846,235 730,209 640,226"/>
+                <Baseline points="651,314 678,318 705,320 733,323 760,324 788,326 815,326 843,326 870,326 898,326 925,326 952,325 980,324 1007,324 1035,324 1062,323 1090,323 1117,324 1145,324 1172,326 1200,327"/>
+                <TextEquiv>
+                    <Unicode>1658 Juni 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1658 Juni 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rNgaB_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="635,416 2671,416 2671,2029 635,2029"/>
+            <TextLine id="rNgaB_3l1" custom="readingOrder {index:0;}">
+                <Coords points="646,548 2683,540 2683,426 1031,494 646,407"/>
+                <Baseline points="659,522 759,524 860,524 960,524 1061,524 1161,524 1262,524 1362,524 1463,524 1563,524 1664,522 1765,522 1865,521 1966,521 2066,520 2167,519 2267,519 2368,518 2468,518 2569,516 2670,516"/>
+                <TextEquiv>
+                    <Unicode>Hanns Peter Düring jnnamen gesambter weil. Frauen Elisabetha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l2" custom="readingOrder {index:1;}">
+                <Coords points="647,644 2133,663 2633,635 2633,557 646,548"/>
+                <Baseline points="660,626 758,626 856,626 954,626 1052,626 1150,626 1248,626 1346,624 1444,624 1542,623 1641,623 1739,621 1837,621 1935,621 2033,620 2131,620 2229,620 2327,620 2425,620 2523,620 2622,621"/>
+                <TextEquiv>
+                    <Unicode>Jselin, Hanns Frentzen des Raths sel. Wittib Erben, hat derselben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l3" custom="readingOrder {index:2;}">
+                <Coords points="643,741 1709,781 2579,701 2206,635 1410,697 642,668"/>
+                <Baseline points="654,731 749,731 845,731 940,731 1036,729 1132,729 1227,729 1323,728 1419,728 1514,728 1610,726 1706,726 1801,726 1897,725 1993,725 2088,725 2184,723 2280,723 2375,723 2471,722 2567,722"/>
+                <TextEquiv>
+                    <Unicode>Wirtschaft sanmbt Scheren, Stallung, dam. und Hantgarten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l4" custom="readingOrder {index:3;}">
+                <Coords points="627,865 2435,881 2435,766 2196,741 1959,742 1874,808 1592,754 627,772"/>
+                <Baseline points="639,836 728,834 817,833 906,833 995,831 1085,831 1174,831 1263,831 1352,831 1441,831 1531,831 1620,831 1709,830 1798,830 1887,830 1977,830 2066,830 2155,828 2244,827 2333,827 2423,825"/>
+                <TextEquiv>
+                    <Unicode>Künerhoof und Plossglend auch darzu erkaufte Hallung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l5" custom="readingOrder {index:4;}">
+                <Coords points="626,943 2492,954 2491,836 2142,906 1976,846 1865,907 1686,855 1486,909 625,865"/>
+                <Baseline points="639,930 735,932 832,932 929,932 1026,932 1122,932 1219,932 1316,932 1413,932 1510,931 1606,930 1703,930 1800,929 1897,928 1994,927 2090,927 2187,926 2284,926 2381,924 2478,924"/>
+                <TextEquiv>
+                    <Unicode>des Caplins Stall genandt, wie selbige in Eschnmervorstatt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l6" custom="readingOrder {index:5;}">
+                <Coords points="634,1063 2468,1081 2616,1047 2616,974 1882,1006 1569,947 1504,998 1346,938 1135,1005 634,1005"/>
+                <Baseline points="648,1035 745,1035 843,1034 941,1034 1039,1032 1136,1032 1234,1031 1332,1031 1430,1031 1527,1029 1625,1029 1723,1029 1821,1029 1918,1028 2016,1028 2114,1028 2212,1026 2309,1026 2407,1025 2505,1025 2603,1025"/>
+                <TextEquiv>
+                    <Unicode>einseits neben dem Hoof zum Taradis, anderseits neben Gregow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l7" custom="readingOrder {index:6;}">
+                <Coords points="638,1156 2183,1184 2562,1156 2562,1056 638,1070"/>
+                <Baseline points="651,1133 750,1133 850,1133 950,1133 1050,1133 1150,1133 1250,1133 1350,1131 1450,1131 1550,1130 1650,1130 1750,1128 1850,1128 1950,1127 2050,1127 2150,1125 2250,1125 2350,1124 2450,1124 2550,1122"/>
+                <TextEquiv>
+                    <Unicode>Schülern gelegen, und hinden auf den Wittenbergischen Hoof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l8" custom="readingOrder {index:7;}">
+                <Coords points="632,1262 2574,1232 2573,1167 2438,1133 2335,1188 632,1174"/>
+                <Baseline points="645,1236 740,1235 836,1235 932,1233 1028,1233 1124,1232 1220,1232 1315,1232 1411,1230 1507,1230 1603,1230 1699,1230 1795,1229 1891,1229 1986,1229 2082,1229 2178,1227 2274,1227 2370,1227 2466,1226 2562,1226"/>
+                <TextEquiv>
+                    <Unicode>stossend, dessgleichen den zu solcher Wintschaft gehörigen Visch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l9" custom="readingOrder {index:8;}">
+                <Coords points="627,1357 1651,1364 1746,1346 1746,1265 1598,1294 1552,1252 1336,1305 1212,1243 861,1304 626,1261"/>
+                <Baseline points="639,1340 693,1338 748,1337 803,1335 857,1334 912,1334 967,1332 1021,1332 1076,1332 1131,1331 1186,1331 1240,1331 1295,1331 1350,1331 1404,1331 1459,1329 1514,1329 1568,1328 1623,1328 1678,1326 1733,1325"/>
+                <TextEquiv>
+                    <Unicode>bronnen auf dem Blomlen, gefrönt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l10" custom="readingOrder {index:9;}">
+                <Coords points="763,1481 2533,1443 2517,1333 2198,1400 1883,1335 1710,1399 1597,1344 1220,1402 762,1355"/>
+                <Baseline points="774,1440 861,1438 948,1436 1035,1434 1123,1433 1210,1433 1297,1431 1384,1431 1472,1431 1559,1431 1646,1430 1733,1430 1821,1430 1908,1430 1995,1430 2082,1429 2170,1428 2257,1427 2344,1425 2431,1424 2519,1421"/>
+                <TextEquiv>
+                    <Unicode>M. Hanns Marcht der Lührman kauft sie sum 3500 ℔.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1673,1654 1769,1656 1827,1686 1942,1651 1988,1679 2252,1635 2252,1550 2191,1565 2146,1535 1887,1598 1753,1495 1673,1506"/>
+                <Baseline points="1686,1623 1713,1624 1741,1626 1768,1626 1796,1628 1824,1628 1851,1629 1879,1629 1906,1629 1934,1629 1962,1628 1989,1628 2017,1628 2044,1628 2072,1626 2100,1626 2127,1626 2155,1625 2182,1625 2210,1625 2238,1625"/>
+                <TextEquiv>
+                    <Unicode>Fertigungsbuch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l12" custom="readingOrder {index:11;}">
+                <Coords points="725,1761 823,1746 1024,1782 1092,1739 1172,1776 1331,1748 1371,1783 1454,1767 1453,1664 1423,1657 1239,1640 1013,1699 882,1640 724,1646"/>
+                <Baseline points="738,1727 773,1730 808,1734 843,1736 878,1738 913,1739 948,1740 983,1740 1018,1740 1053,1739 1089,1739 1124,1737 1159,1736 1194,1736 1229,1734 1264,1733 1299,1733 1334,1731 1369,1731 1404,1731 1440,1731"/>
+                <TextEquiv>
+                    <Unicode>Saradilr = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l13" custom="readingOrder {index:12;}">
+                <Coords points="715,1979 2548,1932 2546,1786 1401,1882 713,1797"/>
+                <Baseline points="728,1928 818,1931 908,1934 999,1935 1089,1937 1179,1937 1270,1937 1360,1937 1450,1935 1541,1934 1631,1932 1721,1931 1812,1929 1902,1928 1992,1925 2083,1923 2173,1920 2263,1919 2354,1917 2444,1916 2535,1914"/>
+                <TextEquiv>
+                    <Unicode>Schüler Greg neben 15 auf S. v. 17 ao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNgaB_3l14" custom="readingOrder {index:13;}">
+                <Coords points="2207,2050 2273,2035 2295,2058 2333,2048 2383,2084 2411,2064 2438,2069 2471,2057 2472,1949 2437,1941 2399,1958 2374,1943 2354,1953 2336,1935 2288,1950 2208,1934"/>
+                <Baseline points="2220,2021 2246,2023 2273,2025 2299,2027 2326,2028 2352,2028 2379,2028 2405,2027 2432,2025 2459,2021"/>
+                <TextEquiv>
+                    <Unicode>1650</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hanns Peter Düring jnnamen gesambter weil. Frauen Elisabetha
+Jselin, Hanns Frentzen des Raths sel. Wittib Erben, hat derselben
+Wirtschaft sanmbt Scheren, Stallung, dam. und Hantgarten,
+Künerhoof und Plossglend auch darzu erkaufte Hallung
+des Caplins Stall genandt, wie selbige in Eschnmervorstatt,
+einseits neben dem Hoof zum Taradis, anderseits neben Gregow
+Schülern gelegen, und hinden auf den Wittenbergischen Hoof
+stossend, dessgleichen den zu solcher Wintschaft gehörigen Visch.
+bronnen auf dem Blomlen, gefrönt.
+M. Hanns Marcht der Lührman kauft sie sum 3500 ℔.
+Fertigungsbuch.
+Saradilr = 13
+Schüler Greg neben 15 auf S. v. 17 ao
+1650</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:35</Created>
+        <LastChange>2020-04-19T01:29:22.268+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869455" pageNr="42" tsid="27912643" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KJMACBUCILKBYZXYFCDVPPDC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMVKWCTXUGGZCFPQEZAGPLVA" imageId="5736318"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_042.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242852" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rLshB_1"/>
+                <RegionRefIndexed index="1" regionRef="r2zfQ_2"/>
+                <RegionRefIndexed index="2" regionRef="rXqhj_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rLshB_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="219,687 632,687 632,1100 219,1100"/>
+            <TextLine id="rLshB_1l1" custom="readingOrder {index:0;}">
+                <Coords points="330,700 353,701 365,714 395,713 405,703 448,705 476,734 547,732 553,592 529,584 506,595 486,587 465,596 439,579 411,586 381,574 336,577"/>
+                <Baseline points="344,696 371,700 398,701 426,702 453,703 481,704 508,705 536,708"/>
+                <TextEquiv>
+                    <Unicode>h v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLshB_1l2" custom="readingOrder {index:1;}">
+                <Coords points="203,886 275,913 308,896 426,889 490,848 540,847 599,871 602,738 552,747 408,701 367,733 270,728 206,756"/>
+                <Baseline points="218,822 244,822 270,824 297,824 323,825 349,825 376,827 402,827 428,828 455,828 481,830 507,830 534,830 560,830 587,830"/>
+                <TextEquiv>
+                    <Unicode>13/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLshB_1l3" custom="readingOrder {index:2;}">
+                <Coords points="293,953 325,964 350,957 380,973 393,961 423,969 430,961 508,958 509,911 437,881 427,889 405,883 382,898 332,899 294,888"/>
+                <Baseline points="305,945 332,948 359,949 386,951 413,951 440,951 467,951 495,950"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLshB_1l4" custom="readingOrder {index:3;}">
+                <Coords points="308,1071 350,1081 365,1076 383,1094 398,1094 413,1109 445,1109 445,988 405,988 388,996 370,986 350,1004 345,998 328,1004 308,1001"/>
+                <Baseline points="321,1070 348,1071 376,1071 404,1071 432,1070"/>
+                <TextEquiv>
+                    <Unicode>15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>h v
+13/1538
+neben
+15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2zfQ_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,181 1458,181 1458,386 599,386"/>
+            <TextLine id="r2zfQ_2l1" custom="readingOrder {index:0;}">
+                <Coords points="663,322 1252,324 1251,196 1119,244 989,174 746,224 663,195"/>
+                <Baseline points="677,309 705,311 733,311 761,312 789,312 817,312 845,312 873,312 901,312 929,312 958,312 986,311 1014,311 1042,311 1070,311 1098,311 1126,311 1154,311 1182,311 1210,311 1239,311"/>
+                <TextEquiv>
+                    <Unicode>1634 Februar 14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1634 Februar 14.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rXqhj_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="642,381 2696,381 2696,1781 642,1781"/>
+            <TextLine id="rXqhj_3l1" custom="readingOrder {index:0;}">
+                <Coords points="716,582 901,521 2530,548 2545,418 2200,470 2037,418 1269,484 1068,425 715,447"/>
+                <Baseline points="728,506 818,509 908,512 998,513 1088,513 1179,513 1269,513 1359,513 1449,512 1539,510 1630,509 1720,509 1810,507 1900,506 1990,504 2081,504 2171,504 2261,504 2351,505 2441,506 2532,509"/>
+                <TextEquiv>
+                    <Unicode>gebastian Beck jnnamen u. als Schaffner des Ablts zu bitzel,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l2" custom="readingOrder {index:1;}">
+                <Coords points="659,642 1475,618 1640,690 1870,619 2403,641 2403,556 658,542"/>
+                <Baseline points="671,612 761,614 851,614 942,614 1032,614 1123,614 1213,614 1304,612 1394,612 1485,612 1575,611 1666,611 1756,611 1847,609 1937,609 2028,608 2118,608 2209,608 2299,606 2390,606"/>
+                <TextEquiv>
+                    <Unicode>hat Hanns Jacoben Werdenbergs des Wirts zum Kappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l3" custom="readingOrder {index:2;}">
+                <Coords points="640,735 2619,753 2634,623 2246,683 2101,621 1983,687 639,665"/>
+                <Baseline points="651,717 749,717 848,717 946,717 1045,716 1143,716 1242,716 1340,716 1439,714 1537,714 1636,714 1734,713 1833,713 1931,711 2030,711 2128,710 2227,710 2325,709 2424,708 2522,707 2621,707"/>
+                <TextEquiv>
+                    <Unicode>bewonende Gastherberg zum Rappen genannt, in Eschennervorstatt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l4" custom="readingOrder {index:3;}">
+                <Coords points="645,863 2427,843 2594,825 2594,750 645,781"/>
+                <Baseline points="657,827 753,825 849,822 945,822 1042,821 1138,819 1234,818 1330,818 1427,818 1523,816 1619,816 1715,816 1812,815 1908,815 2004,813 2100,813 2197,812 2293,812 2389,810 2485,809 2582,807"/>
+                <TextEquiv>
+                    <Unicode>einseits neben dem Hof zum Daradis, anderseiten Bartlin Müklers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l5" custom="readingOrder {index:4;}">
+                <Coords points="631,951 2593,934 2592,869 2469,828 1782,896 1606,838 1324,890 630,858"/>
+                <Baseline points="644,923 740,923 837,921 934,921 1031,920 1128,920 1224,920 1321,918 1418,918 1515,917 1612,917 1708,915 1805,915 1902,914 1999,914 2096,912 2192,911 2289,909 2386,909 2483,908 2580,906"/>
+                <TextEquiv>
+                    <Unicode>sel. Witiben gelegen, versessener Znsen wegen, welche ab solcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l6" custom="readingOrder {index:5;}">
+                <Coords points="652,1051 1410,1023 1648,1095 1838,1022 2161,1078 2679,1034 2513,927 2391,982 2148,926 652,964"/>
+                <Baseline points="665,1019 765,1019 865,1019 965,1019 1065,1019 1165,1019 1265,1019 1365,1019 1465,1019 1565,1019 1665,1017 1765,1017 1865,1017 1965,1017 2065,1016 2165,1016 2265,1014 2365,1014 2465,1013 2565,1013 2666,1011"/>
+                <TextEquiv>
+                    <Unicode>Gastherberg ermeltem Abbt zu litgel 2 ℔ 10 sh. jährl. verzinst werde,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l7" custom="readingOrder {index:6;}">
+                <Coords points="656,1176 705,1156 723,1165 764,1135 779,1142 836,1131 854,1146 878,1127 919,1137 915,1055 877,1047 845,1058 792,1051 777,1059 746,1038 685,1069 664,1050 649,1051"/>
+                <Baseline points="665,1128 691,1126 718,1123 745,1121 772,1119 798,1118 825,1116 852,1116 879,1116 906,1116"/>
+                <TextEquiv>
+                    <Unicode>gefrönt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l8" custom="readingOrder {index:7;}">
+                <Coords points="830,1271 2119,1247 2139,1136 830,1146"/>
+                <Baseline points="842,1211 906,1214 970,1215 1034,1217 1098,1218 1163,1218 1227,1218 1291,1220 1355,1218 1419,1218 1484,1218 1548,1217 1612,1217 1676,1215 1740,1215 1805,1214 1869,1214 1933,1212 1997,1212 2061,1212 2126,1212"/>
+                <TextEquiv>
+                    <Unicode>ten ligelschaffner kauft sie sum 1 ℔ 3sh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1803,1476 1876,1441 2036,1496 2148,1423 2271,1424 2271,1281 2209,1261 2143,1298 2093,1276 2033,1303 1803,1295"/>
+                <Baseline points="1815,1409 1841,1410 1867,1413 1893,1413 1919,1413 1945,1413 1971,1413 1997,1413 2023,1412 2050,1412 2076,1410 2102,1410 2128,1410 2154,1410 2180,1410 2206,1412 2232,1414 2259,1418"/>
+                <TextEquiv>
+                    <Unicode>fertigungsbuch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l10" custom="readingOrder {index:9;}">
+                <Coords points="744,1572 885,1590 951,1534 1022,1563 1239,1521 1480,1547 1478,1452 1330,1440 1218,1469 1080,1436 990,1463 910,1447 834,1385 784,1406 741,1389"/>
+                <Baseline points="755,1517 790,1518 826,1520 861,1521 897,1521 933,1522 968,1521 1004,1521 1039,1520 1075,1520 1111,1518 1146,1517 1182,1516 1217,1515 1253,1514 1289,1512 1324,1512 1360,1511 1395,1511 1431,1511 1467,1512"/>
+                <TextEquiv>
+                    <Unicode>Pasaubit = 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXqhj_3l11" custom="readingOrder {index:10;}">
+                <Coords points="748,1744 835,1738 865,1768 981,1788 1021,1750 1106,1770 1263,1727 1311,1756 1499,1743 1498,1623 1345,1636 1288,1679 1243,1654 1070,1672 915,1585 747,1586"/>
+                <Baseline points="759,1704 795,1711 831,1717 867,1721 904,1725 940,1727 976,1728 1013,1728 1049,1728 1085,1726 1122,1725 1158,1723 1194,1721 1230,1719 1267,1718 1303,1716 1339,1716 1376,1715 1412,1716 1448,1718 1485,1721"/>
+                <TextEquiv>
+                    <Unicode>Rappen = 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>gebastian Beck jnnamen u. als Schaffner des Ablts zu bitzel,
+hat Hanns Jacoben Werdenbergs des Wirts zum Kappen
+bewonende Gastherberg zum Rappen genannt, in Eschennervorstatt,
+einseits neben dem Hof zum Daradis, anderseiten Bartlin Müklers
+sel. Witiben gelegen, versessener Znsen wegen, welche ab solcher
+Gastherberg ermeltem Abbt zu litgel 2 ℔ 10 sh. jährl. verzinst werde,
+gefrönt.
+ten ligelschaffner kauft sie sum 1 ℔ 3sh.
+fertigungsbuch
+Pasaubit = 13.
+Rappen = 15</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

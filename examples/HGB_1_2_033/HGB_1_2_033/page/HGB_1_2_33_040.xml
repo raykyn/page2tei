@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:03</Created>
+        <LastChange>2020-04-19T01:28:50.442+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869446" pageNr="40" tsid="27912627" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=YBFIPVKZWFBVEBKPYKOZZDVF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUSTUJGXZODSFBLXBMZENUST" imageId="5736309"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_040.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242850" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rhzvN_1"/>
+                <RegionRefIndexed index="1" regionRef="rAne6_2"/>
+                <RegionRefIndexed index="2" regionRef="rphlN_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rhzvN_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="219,805 653,805 653,1257 219,1257"/>
+            <TextLine id="rhzvN_1l1" custom="readingOrder {index:0;}">
+                <Coords points="289,903 310,907 333,892 376,913 435,880 453,898 517,891 529,743 479,749 459,733 438,731 413,746 377,726 346,726 329,739 303,734"/>
+                <Baseline points="305,840 330,844 356,847 381,850 407,854 432,854 458,857 483,857 509,855"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rhzvN_1l2" custom="readingOrder {index:1;}">
+                <Coords points="217,1016 269,1020 288,1007 365,1053 437,1015 471,1029 512,1020 540,1051 609,1046 617,933 580,924 550,938 413,886 375,912 276,883 226,887"/>
+                <Baseline points="231,998 257,994 283,991 310,990 336,991 362,993 389,996 415,999 441,1002 468,1006 494,1009 520,1011 547,1012 573,1012 600,1010"/>
+                <TextEquiv>
+                    <Unicode>25/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rhzvN_1l3" custom="readingOrder {index:2;}">
+                <Coords points="354,1110 373,1111 387,1125 396,1116 406,1126 425,1119 459,1146 490,1149 507,1140 523,1145 537,1131 559,1134 560,1087 520,1081 490,1050 459,1044 429,1049 415,1041 355,1056"/>
+                <Baseline points="366,1112 392,1115 418,1117 444,1119 470,1119 496,1119 522,1118 548,1116"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rhzvN_1l4" custom="readingOrder {index:3;}">
+                <Coords points="370,1238 389,1235 401,1242 435,1212 451,1212 483,1234 487,1229 495,1234 513,1219 534,1220 531,1145 517,1146 508,1139 489,1149 448,1127 424,1121 415,1126 401,1114 384,1120 365,1116"/>
+                <Baseline points="381,1217 409,1218 437,1218 465,1217 493,1215 522,1212"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+25/1538
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rAne6_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="872,224 2064,224 2064,395 872,395"/>
+            <TextLine id="rAne6_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1067,410 1171,374 1265,399 1433,367 1555,372 1620,422 1783,383 1868,403 2019,385 2046,324 1705,292 1577,316 1437,278 1391,305 1359,276 1309,308 1069,295"/>
+                <Baseline points="1080,341 1127,342 1175,342 1222,344 1270,344 1318,345 1365,345 1413,347 1461,347 1508,348 1556,349 1604,350 1651,351 1699,351 1747,353 1794,354 1842,354 1890,356 1937,356 1985,357 2033,357"/>
+                <TextEquiv>
+                    <Unicode>DdtE EDDD DDT SEDDDBU TADEL BASSEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DdtE EDDD DDT SEDDDBU TADEL BASSEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rphlN_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="635,373 2686,373 2686,1632 635,1632"/>
+            <TextLine id="rphlN_3l1" custom="readingOrder {index:0;}">
+                <Coords points="737,504 774,496 786,501 796,491 810,498 866,459 896,459 895,372 881,372 870,384 853,372 834,392 820,387 797,406 771,402 761,393 735,398"/>
+                <Baseline points="747,447 774,447 802,448 829,447 857,447 885,444"/>
+                <TextEquiv>
+                    <Unicode>1033</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l2" custom="readingOrder {index:1;}">
+                <Coords points="831,581 1333,551 1525,622 1695,569 2248,628 2317,574 2689,590 2690,456 2522,521 2252,435 2063,517 1771,430 1455,506 1105,406 831,459"/>
+                <Baseline points="842,542 933,545 1025,546 1117,548 1209,549 1301,549 1392,549 1484,551 1576,551 1668,551 1760,551 1851,551 1943,551 2035,551 2127,551 2219,552 2310,552 2402,553 2494,554 2586,555 2678,557"/>
+                <TextEquiv>
+                    <Unicode>Wilh. Thumeren, des Wirths zum Rappen del. Erbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l3" custom="readingOrder {index:2;}">
+                <Coords points="732,676 744,676 760,664 774,674 826,667 843,678 852,669 866,674 873,666 892,666 892,610 878,610 871,603 859,603 852,610 831,596 795,610 776,608 769,613 753,606 732,610"/>
+                <Baseline points="743,650 770,651 797,651 824,650 851,650 879,651"/>
+                <TextEquiv>
+                    <Unicode>1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l4" custom="readingOrder {index:3;}">
+                <Coords points="887,781 1631,817 1801,760 2552,817 2665,806 2666,698 1472,693 1179,596 888,647"/>
+                <Baseline points="899,735 986,737 1074,738 1162,739 1250,740 1337,741 1425,743 1513,744 1601,744 1688,746 1776,746 1864,747 1952,747 2039,749 2127,749 2215,750 2303,750 2390,752 2478,752 2566,753 2654,753"/>
+                <TextEquiv>
+                    <Unicode>Jacob Verdenberg gibt vom Hauß zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l5" custom="readingOrder {index:4;}">
+                <Coords points="675,888 2255,907 2564,880 2564,816 1792,760 1676,816 1253,767 1010,821 768,763 675,819"/>
+                <Baseline points="686,849 779,849 872,849 965,849 1059,849 1152,849 1245,849 1339,849 1432,849 1525,849 1619,849 1712,850 1805,851 1898,851 1992,851 2085,852 2178,852 2272,854 2365,854 2458,855 2552,855"/>
+                <TextEquiv>
+                    <Unicode>Rappen und desselbigen Gietteren laut des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l6" custom="readingOrder {index:5;}">
+                <Coords points="683,974 2506,1003 2590,992 2591,896 683,884"/>
+                <Baseline points="696,947 790,945 884,944 978,944 1072,944 1166,944 1260,945 1355,945 1449,947 1543,948 1637,948 1731,950 1825,951 1919,951 2014,951 2108,953 2202,953 2296,951 2390,951 2484,950 2579,947"/>
+                <TextEquiv>
+                    <Unicode>dritten Hahrbuchs 8 ℔ 14ß bit, und von 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l7" custom="readingOrder {index:6;}">
+                <Coords points="715,1070 2576,1075 2576,987 2348,970 2138,1023 716,974"/>
+                <Baseline points="728,1040 819,1041 911,1044 1003,1046 1095,1047 1187,1047 1278,1049 1370,1050 1462,1050 1554,1052 1646,1052 1737,1052 1829,1052 1921,1052 2013,1052 2105,1052 2196,1052 2288,1052 2380,1050 2472,1050 2564,1050"/>
+                <TextEquiv>
+                    <Unicode>Juchf. etckhers in der Mittleren Hardt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l8" custom="readingOrder {index:7;}">
+                <Coords points="665,1183 2446,1197 2439,1083 1678,1127 1608,1082 666,1077"/>
+                <Baseline points="677,1139 764,1142 852,1145 940,1148 1028,1149 1116,1151 1204,1152 1292,1152 1380,1152 1468,1152 1556,1152 1643,1152 1731,1152 1819,1152 1907,1152 1995,1152 2083,1152 2171,1152 2259,1152 2347,1154 2435,1154"/>
+                <TextEquiv>
+                    <Unicode>1 ℔ 1ß thüet zusammen 4 ℔ 15 ßlat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rphlN_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1813,1451 1962,1433 2011,1453 2053,1432 2112,1452 2211,1426 2242,1443 2350,1440 2390,1429 2392,1344 2349,1358 2284,1321 2208,1357 2126,1320 2067,1350 2013,1335 1954,1357 1815,1355"/>
+                <Baseline points="1826,1418 1853,1419 1881,1419 1908,1419 1936,1421 1964,1421 1991,1422 2019,1422 2046,1424 2074,1424 2102,1424 2129,1424 2157,1425 2184,1425 2212,1425 2240,1427 2267,1427 2295,1427 2322,1427 2350,1428 2378,1428"/>
+                <TextEquiv>
+                    <Unicode>S. Jtat - 608sud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1033
+Wilh. Thumeren, des Wirths zum Rappen del. Erbe
+1538
+Jacob Verdenberg gibt vom Hauß zum
+Rappen und desselbigen Gietteren laut des
+dritten Hahrbuchs 8 ℔ 14ß bit, und von 7
+Juchf. etckhers in der Mittleren Hardt
+1 ℔ 1ß thüet zusammen 4 ℔ 15 ßlat.
+S. Jtat - 608sud</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

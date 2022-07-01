@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:30</Created>
+        <LastChange>2020-04-19T01:36:11.455+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869570" pageNr="66" tsid="27912924" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=CXMHSLPURJVQWXSNZXOCXRFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=APOLOJODYOPFGXLOSOWMGQWV" imageId="5736433"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_066.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242876" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rpZcH_1"/>
+                <RegionRefIndexed index="1" regionRef="ryjcl_3"/>
+                <RegionRefIndexed index="2" regionRef="rGAAP_4"/>
+                <RegionRefIndexed index="3" regionRef="rKCPJ_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rpZcH_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,687 653,687 653,1213 190,1213"/>
+            <TextLine id="rpZcH_1l1" custom="readingOrder {index:0;}">
+                <Coords points="197,757 275,750 325,771 363,754 406,765 441,755 459,765 516,762 519,713 472,710 440,679 399,700 374,686 355,689 298,642 276,644 223,600 208,599"/>
+                <Baseline points="210,725 237,729 264,733 291,737 318,740 345,743 372,745 399,746 426,747 453,747 480,746 507,744"/>
+                <TextEquiv>
+                    <Unicode>Osehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rpZcH_1l2" custom="readingOrder {index:1;}">
+                <Coords points="188,927 234,914 290,964 479,924 568,949 579,816 520,807 482,821 446,787 393,776 346,789 328,779 271,811 244,802 197,818"/>
+                <Baseline points="201,887 226,888 252,891 278,896 303,900 329,904 355,908 381,913 406,916 432,919 458,920 483,919 509,917 535,911 561,903"/>
+                <TextEquiv>
+                    <Unicode>151984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rpZcH_1l3" custom="readingOrder {index:2;}">
+                <Coords points="269,1040 284,1038 301,1050 318,1044 335,1057 348,1051 359,1062 378,1050 395,1062 411,1053 432,1063 447,1050 505,1055 507,999 463,980 435,985 426,979 396,993 362,976 327,984 271,975"/>
+                <Baseline points="279,1034 306,1041 333,1044 360,1047 387,1047 414,1046 441,1046 468,1046 495,1046"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rpZcH_1l4" custom="readingOrder {index:3;}">
+                <Coords points="297,1197 331,1187 346,1203 359,1206 381,1185 391,1192 411,1186 417,1193 437,1176 461,1179 463,1130 452,1130 427,1103 414,1102 400,1091 380,1092 366,1077 323,1082 301,1076"/>
+                <Baseline points="309,1158 337,1167 365,1170 393,1170 421,1168 450,1167"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Osehen
+151984
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="ryjcl_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="628,264 1292,264 1292,405 628,405"/>
+            <TextLine id="ryjcl_3l1" custom="readingOrder {index:0;}">
+                <Coords points="671,396 710,382 729,402 749,394 789,400 833,376 859,381 863,283 820,281 800,289 790,282 746,302 729,290 675,297"/>
+                <Baseline points="683,360 710,359 738,360 765,362 793,363 820,365 848,363"/>
+                <TextEquiv>
+                    <Unicode>2756.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2756.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rGAAP_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="592,366 2643,366 2643,1711 592,1711"/>
+            <TextLine id="rGAAP_4l1" custom="readingOrder {index:0;}">
+                <Coords points="835,488 1140,483 1278,548 1469,484 2422,489 2574,545 2575,333 2063,436 1792,384 1340,436 1130,352 835,366"/>
+                <Baseline points="845,465 935,465 1025,467 1116,467 1206,467 1297,468 1387,468 1478,468 1568,468 1659,468 1749,468 1840,468 1930,470 2021,470 2111,470 2202,470 2292,470 2383,470 2473,471 2564,471"/>
+                <TextEquiv>
+                    <Unicode>Die Herberg zum Rappen in Uheineck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l2" custom="readingOrder {index:1;}">
+                <Coords points="1450,590 1495,584 1536,600 1560,588 1598,608 1652,583 1723,580 1800,603 1882,587 1883,518 1843,511 1823,523 1705,493 1673,506 1643,488 1583,509 1553,491 1452,485"/>
+                <Baseline points="1461,560 1486,560 1512,560 1538,561 1563,563 1589,564 1615,566 1640,567 1666,567 1692,569 1717,570 1743,570 1769,569 1794,568 1820,566 1846,564 1872,560"/>
+                <TextEquiv>
+                    <Unicode>Vorstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l3" custom="readingOrder {index:2;}">
+                <Coords points="702,697 2201,699 2319,684 2319,613 1687,584 1564,631 1399,567 1227,604 1147,565 973,635 883,587 702,635"/>
+                <Baseline points="713,668 792,668 872,668 952,669 1032,669 1112,669 1191,669 1271,669 1351,669 1431,669 1511,669 1590,668 1670,668 1750,668 1830,668 1910,668 1989,666 2069,666 2149,666 2229,666 2309,665"/>
+                <TextEquiv>
+                    <Unicode>1763. Herr Felix Batier Soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l4" custom="readingOrder {index:3;}">
+                <Coords points="767,826 1079,783 1283,849 1415,787 1662,781 2077,849 2434,785 2434,714 2303,697 2159,740 2034,684 1157,735 767,688"/>
+                <Baseline points="779,765 861,767 943,767 1025,767 1108,767 1190,767 1272,768 1354,768 1437,768 1519,768 1601,768 1683,768 1766,768 1848,768 1930,768 2012,768 2095,767 2177,767 2259,767 2341,767 2424,765"/>
+                <TextEquiv>
+                    <Unicode>℔ 10 ß - d jährlich auf Pfingsten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l5" custom="readingOrder {index:4;}">
+                <Coords points="1548,986 1641,1009 1664,987 1765,986 1834,1011 1959,1004 1991,982 2092,1009 2206,987 2205,898 2160,892 2137,910 1947,909 1911,942 1879,921 1780,937 1741,915 1653,944 1548,917"/>
+                <Baseline points="1560,980 1591,980 1623,980 1655,980 1687,980 1718,978 1750,978 1782,978 1814,978 1845,978 1877,978 1909,977 1941,977 1972,977 2004,977 2036,977 2068,975 2099,975 2131,975 2163,975 2195,975"/>
+                <TextEquiv>
+                    <Unicode>Dow STST BSTAADTDUd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l6" custom="readingOrder {index:5;}">
+                <Coords points="1705,1092 1808,1080 1950,1091 2002,1048 2039,1039 2037,996 2020,994 2005,1003 1977,995 1958,1009 1936,990 1898,1017 1872,1009 1839,1032 1802,1018 1759,1026 1702,1010"/>
+                <Baseline points="1715,1071 1741,1070 1767,1070 1793,1069 1819,1068 1845,1067 1871,1066 1897,1065 1923,1064 1949,1064 1975,1064 2001,1062 2028,1062"/>
+                <TextEquiv>
+                    <Unicode>102. 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l7" custom="readingOrder {index:6;}">
+                <Coords points="1351,1361 1362,1362 1371,1354 1377,1359 1384,1354 1404,1353 1419,1204 1402,1202 1386,1213 1367,1209"/>
+                <Baseline points="1362,1361 1392,1364"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l8" custom="readingOrder {index:7;}">
+                <Coords points="830,1384 1079,1449 1199,1392 1327,1432 1643,1384 1826,1423 1830,1286 1706,1332 1487,1322 1241,1363 946,1230 833,1268"/>
+                <Baseline points="842,1347 890,1355 939,1362 988,1369 1037,1373 1085,1378 1134,1380 1183,1383 1232,1385 1280,1386 1329,1386 1378,1386 1427,1386 1475,1386 1524,1386 1573,1385 1622,1385 1670,1385 1719,1383 1768,1385 1817,1385"/>
+                <TextEquiv>
+                    <Unicode>Rappen = 15nen13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rGAAP_4l9" custom="readingOrder {index:8;}">
+                <Coords points="761,1623 1157,1599 1283,1639 1488,1581 1682,1592 1791,1653 1883,1613 1948,1642 1995,1617 1997,1490 1527,1526 1332,1489 1158,1522 1012,1479 762,1494"/>
+                <Baseline points="773,1587 833,1589 894,1592 954,1592 1015,1593 1076,1593 1136,1592 1197,1592 1257,1590 1318,1589 1379,1587 1439,1587 1500,1587 1560,1587 1621,1589 1682,1590 1742,1594 1803,1598 1863,1603 1924,1610 1985,1619"/>
+                <TextEquiv>
+                    <Unicode>heit ob Zins ao 1763</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Herberg zum Rappen in Uheineck
+Vorstatt
+1763. Herr Felix Batier Soll
+℔ 10 ß - d jährlich auf Pfingsten.
+Dow STST BSTAADTDUd.
+102. 63
+8
+Rappen = 15nen13
+heit ob Zins ao 1763</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rKCPJ_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="1662,299 2445,299 2445,436 1662,436"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

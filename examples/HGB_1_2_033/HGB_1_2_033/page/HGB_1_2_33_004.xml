@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:11</Created>
+        <LastChange>2020-04-19T01:19:32.569+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869335" pageNr="4" tsid="27912311" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=NHCCGZZTGTUZKXNMCSUJSETN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TVMMFRTMCZLDVPRDIWOSDHUZ" imageId="5736198"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_004.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242811" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rbHOH_1"/>
+                <RegionRefIndexed index="1" regionRef="ruW3Q_2"/>
+                <RegionRefIndexed index="2" regionRef="rI9Zw_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rbHOH_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="219,818 617,818 617,1366 219,1366"/>
+            <TextLine id="rbHOH_1l1" custom="readingOrder {index:0;}">
+                <Coords points="208,949 240,960 282,945 397,1006 506,986 592,1001 604,848 541,841 517,823 486,829 450,800 355,836 303,811 268,832 217,833"/>
+                <Baseline points="222,932 247,933 273,934 299,935 325,937 351,940 377,942 403,944 428,946 454,949 480,951 506,953 532,956 558,957 584,957"/>
+                <TextEquiv>
+                    <Unicode>15/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rbHOH_1l2" custom="readingOrder {index:1;}">
+                <Coords points="281,1079 363,1086 382,1104 416,1103 444,1088 482,1097 484,997 443,999 428,1009 403,993 369,1007 351,1025 300,1016 282,1021"/>
+                <Baseline points="294,1068 319,1071 344,1071 369,1072 395,1073 420,1073 445,1073 471,1073"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rbHOH_1l3" custom="readingOrder {index:2;}">
+                <Coords points="278,1232 299,1232 311,1239 347,1221 370,1226 380,1218 403,1223 410,1215 423,1215 422,1105 376,1098 358,1111 340,1104 323,1119 315,1114 302,1127 277,1123"/>
+                <Baseline points="291,1211 321,1214 351,1214 381,1212 411,1211"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rbHOH_1l4" custom="readingOrder {index:3;}">
+                <Coords points="227,1320 275,1337 290,1322 338,1348 356,1333 409,1358 448,1333 507,1332 539,1355 562,1351 565,1218 524,1228 504,1212 469,1214 373,1260 323,1233 279,1247 229,1239"/>
+                <Baseline points="239,1314 265,1314 291,1314 317,1314 343,1315 369,1316 395,1316 421,1317 447,1317 473,1319 499,1319 525,1320 551,1320"/>
+                <TextEquiv>
+                    <Unicode>und Mitte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1518
+neben
+13.
+und Mitte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="ruW3Q_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,246 2054,246 2054,440 599,440"/>
+            <TextLine id="ruW3Q_2l1" custom="readingOrder {index:0;}">
+                <Coords points="646,419 1958,423 1959,324 1413,336 1301,295 1031,330 647,266"/>
+                <Baseline points="659,363 723,366 787,366 852,368 916,369 981,369 1045,369 1109,369 1174,369 1238,369 1303,369 1367,368 1431,368 1496,368 1560,368 1625,368 1689,368 1753,368 1818,368 1882,369 1947,371"/>
+                <TextEquiv>
+                    <Unicode>1521 Zinstag noch Assumpeionis Marie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1521 Zinstag noch Assumpeionis Marie.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rI9Zw_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,429 2696,429 2696,2165 628,2165"/>
+            <TextLine id="rI9Zw_3l1" custom="readingOrder {index:0;}">
+                <Coords points="636,597 2399,611 2592,581 2593,500 2183,452 1482,536 1350,477 636,508"/>
+                <Baseline points="650,552 746,555 842,560 939,561 1035,564 1132,566 1228,567 1325,569 1421,569 1518,569 1614,569 1710,569 1807,569 1903,569 2000,569 2096,569 2193,569 2289,569 2386,569 2482,569 2579,570"/>
+                <TextEquiv>
+                    <Unicode>Martin Strauf der Würt zum Rapen, u. seine Frau Sionecha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l2" custom="readingOrder {index:1;}">
+                <Coords points="647,680 2476,691 2573,676 2573,597 647,627"/>
+                <Baseline points="659,666 754,666 849,668 944,668 1039,669 1134,669 1229,669 1324,669 1419,669 1514,669 1610,669 1705,668 1800,668 1895,668 1990,668 2085,668 2180,668 2275,668 2370,668 2465,668 2561,669"/>
+                <TextEquiv>
+                    <Unicode>verkaufen an Franz Borenn des Rats u. seine Frau Helena,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l3" custom="readingOrder {index:2;}">
+                <Coords points="660,787 2565,785 2527,675 2300,739 2091,678 1009,739 660,685"/>
+                <Baseline points="672,765 766,765 860,765 954,766 1048,767 1142,767 1236,767 1330,767 1424,767 1518,767 1612,767 1706,768 1800,768 1894,767 1988,767 2082,767 2176,767 2270,767 2364,765 2458,765 2552,764"/>
+                <TextEquiv>
+                    <Unicode>5 fl. jährl zinses, ab jrem Herperg gnant zum Rapen. mit Hus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l4" custom="readingOrder {index:3;}">
+                <Coords points="650,894 2324,918 2581,897 2581,788 2329,839 1807,773 1641,842 650,820"/>
+                <Baseline points="662,860 757,863 852,864 947,866 1043,867 1138,867 1233,867 1329,867 1424,867 1519,866 1615,866 1710,864 1805,864 1900,863 1996,863 2091,863 2186,863 2282,863 2377,864 2472,865 2568,867"/>
+                <TextEquiv>
+                    <Unicode>Hofstatt schuren stallung garten, u. Eschamevorstatt, zwüschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l5" custom="readingOrder {index:4;}">
+                <Coords points="650,996 2609,1023 2553,891 650,894"/>
+                <Baseline points="662,966 758,966 855,966 952,965 1049,965 1145,965 1242,965 1339,963 1436,963 1532,963 1629,963 1726,963 1823,963 1919,963 2016,963 2113,965 2210,965 2306,965 2403,965 2500,966 2597,966"/>
+                <TextEquiv>
+                    <Unicode>dem Hus zum Baradys, u. Martin Herlolzhoner des seilers hus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l6" custom="readingOrder {index:5;}">
+                <Coords points="652,1120 2509,1098 2509,1006 2376,984 2221,1045 1808,972 1620,1039 1505,973 794,1045 652,990"/>
+                <Baseline points="665,1071 756,1070 848,1068 939,1068 1031,1067 1122,1065 1214,1065 1305,1065 1397,1064 1488,1064 1580,1064 1671,1064 1763,1062 1854,1062 1946,1064 2037,1064 2129,1064 2220,1065 2312,1065 2403,1067 2495,1068"/>
+                <TextEquiv>
+                    <Unicode>glegen, jücht hinden an der herren von Thierstein garten, u. an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l7" custom="readingOrder {index:6;}">
+                <Coords points="658,1175 2559,1216 2655,1178 2656,1091 658,1112"/>
+                <Baseline points="671,1160 769,1161 868,1161 966,1163 1065,1163 1163,1163 1262,1164 1360,1164 1459,1164 1557,1164 1656,1164 1755,1164 1853,1164 1952,1164 2050,1164 2149,1164 2247,1164 2346,1164 2444,1164 2543,1164 2642,1164"/>
+                <TextEquiv>
+                    <Unicode>Hansen zum Wag garten, zinst über u. über der s. Johans Brüderschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l8" custom="readingOrder {index:7;}">
+                <Coords points="650,1283 2112,1318 2606,1281 2606,1195 649,1199"/>
+                <Baseline points="662,1269 758,1268 855,1266 951,1266 1048,1265 1144,1265 1241,1265 1337,1265 1434,1265 1530,1265 1627,1265 1723,1265 1820,1265 1916,1265 2013,1265 2109,1265 2206,1265 2302,1263 2399,1263 2495,1263 2592,1262"/>
+                <TextEquiv>
+                    <Unicode>uf Burg jährl. 1 ℔, u. dan 1sh. vom garten von eig. jtem deren von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l9" custom="readingOrder {index:8;}">
+                <Coords points="664,1365 2654,1398 2654,1334 2498,1294 1194,1344 664,1278"/>
+                <Baseline points="678,1361 776,1362 874,1364 972,1364 1070,1364 1168,1364 1266,1364 1364,1364 1462,1363 1560,1362 1659,1362 1757,1361 1855,1361 1953,1360 2051,1359 2149,1359 2247,1361 2345,1361 2443,1362 2541,1364 2640,1365"/>
+                <TextEquiv>
+                    <Unicode>Sennen 5 Eabls zinses. Htein so geben Hans zur Bag u. Barthlome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l10" custom="readingOrder {index:9;}">
+                <Coords points="643,1506 2602,1521 2550,1386 1880,1435 1261,1373 923,1431 642,1355"/>
+                <Baseline points="656,1467 752,1466 849,1466 945,1466 1042,1464 1139,1464 1235,1464 1332,1463 1429,1463 1525,1463 1622,1461 1719,1461 1815,1461 1912,1461 2009,1460 2105,1460 2202,1460 2299,1460 2395,1460 2492,1460 2589,1461"/>
+                <TextEquiv>
+                    <Unicode>Schinder von Metttenz von jn husern, einem Besiger des huses zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l11" custom="readingOrder {index:10;}">
+                <Coords points="658,1600 1713,1574 1812,1632 2016,1573 2316,1632 2548,1581 2548,1492 658,1508"/>
+                <Baseline points="671,1563 764,1563 857,1563 950,1563 1043,1562 1137,1562 1230,1562 1323,1562 1416,1562 1509,1562 1603,1562 1696,1562 1789,1562 1882,1562 1975,1562 2069,1562 2162,1562 2255,1562 2348,1562 2441,1562 2535,1562"/>
+                <TextEquiv>
+                    <Unicode>Kappe jährl 3 ℔. davon gehört den Closterfrauen zu Olspeig 2 2 lb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l12" custom="readingOrder {index:11;}">
+                <Coords points="637,1703 2593,1690 2593,1631 2392,1591 637,1604"/>
+                <Baseline points="650,1664 746,1664 843,1664 939,1663 1036,1662 1132,1662 1229,1662 1325,1662 1422,1662 1518,1661 1615,1661 1711,1661 1808,1661 1904,1661 2001,1661 2097,1661 2194,1661 2290,1661 2387,1661 2483,1661 2580,1661"/>
+                <TextEquiv>
+                    <Unicode>daumb er treger ist, von derselben Begery geben die Closterfsauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l13" custom="readingOrder {index:12;}">
+                <Coords points="638,1774 2546,1788 2546,1722 2075,1676 1924,1734 1698,1675 1305,1736 638,1705"/>
+                <Baseline points="650,1760 744,1761 838,1761 932,1761 1026,1761 1121,1761 1215,1761 1309,1761 1403,1761 1497,1761 1592,1761 1686,1761 1780,1761 1874,1761 1968,1761 2063,1761 2157,1761 2251,1763 2345,1763 2439,1763 2534,1763"/>
+                <TextEquiv>
+                    <Unicode>der vorgemelten Bruderschaft jährl iner, sodan ab jrem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l14" custom="readingOrder {index:13;}">
+                <Coords points="634,1876 2007,1870 2247,1929 2502,1828 1111,1775 815,1828 634,1774"/>
+                <Baseline points="647,1857 739,1859 831,1860 923,1862 1015,1862 1107,1862 1199,1862 1291,1862 1383,1862 1475,1862 1568,1860 1660,1860 1752,1860 1844,1860 1936,1860 2028,1860 2120,1860 2212,1862 2304,1863 2396,1865 2489,1868"/>
+                <TextEquiv>
+                    <Unicode>Hus u. Hofstatt mit sant dem gertlin dashunder glegen, su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l15" custom="readingOrder {index:14;}">
+                <Coords points="634,1984 2698,1984 2698,1889 2550,1877 1414,1942 634,1879"/>
+                <Baseline points="647,1961 748,1962 850,1964 952,1964 1054,1965 1156,1965 1258,1964 1359,1964 1461,1964 1563,1962 1665,1962 1767,1961 1869,1961 1971,1961 2072,1959 2174,1959 2276,1961 2378,1961 2480,1962 2582,1964 2684,1965"/>
+                <TextEquiv>
+                    <Unicode>Eschamer vorstatt an dem genanten hus zum Rapen, zinst s. Johans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l16" custom="readingOrder {index:15;}">
+                <Coords points="1212,2009 1228,2009 1248,2019 1279,2016 1287,2023 1292,2018 1299,2021 1329,1989 1352,1992 1352,1966 1311,1977 1299,1977 1283,1962 1260,1965 1255,1960 1250,1965 1212,1966"/>
+                <Baseline points="1226,2009 1254,2012 1283,2013 1311,2012 1340,2006"/>
+                <TextEquiv>
+                    <Unicode>Ehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l17" custom="readingOrder {index:16;}">
+                <Coords points="768,2082 2689,2050 2688,1986 2609,1974 767,2003"/>
+                <Baseline points="780,2063 874,2061 969,2060 1064,2057 1159,2055 1254,2052 1348,2051 1443,2049 1538,2047 1633,2045 1728,2043 1822,2042 1917,2040 2012,2040 2107,2039 2202,2039 2296,2039 2391,2039 2486,2040 2581,2042 2676,2043"/>
+                <TextEquiv>
+                    <Unicode>Rappen = 13 neb 13 Breiff Martin Eg v Th v 15 becke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l18" custom="readingOrder {index:17;}">
+                <Coords points="2362,2109 2383,2112 2411,2098 2429,2114 2490,2108 2510,2124 2556,2123 2570,2139 2583,2131 2601,2147 2639,2141 2642,2047 2604,2056 2571,2039 2553,2049 2543,2041 2492,2060 2471,2051 2435,2060 2413,2049 2389,2066 2364,2068"/>
+                <Baseline points="2375,2094 2400,2094 2425,2094 2450,2095 2475,2096 2501,2097 2526,2099 2551,2100 2576,2100 2601,2100 2627,2100"/>
+                <TextEquiv>
+                    <Unicode>seit 1507</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l19" custom="readingOrder {index:18;}">
+                <Coords points="827,2150 962,2157 1002,2134 1151,2159 1221,2130 1332,2148 1427,2119 1454,2138 1531,2101 1529,2063 1383,2044 1324,2080 1249,2055 1219,2074 1099,2064 983,2102 882,2058 823,2068"/>
+                <Baseline points="840,2147 873,2145 907,2145 941,2143 975,2142 1009,2141 1043,2139 1077,2138 1111,2137 1145,2135 1179,2134 1212,2132 1246,2130 1280,2129 1314,2127 1348,2126 1382,2124 1416,2123 1450,2121 1484,2120 1518,2118"/>
+                <TextEquiv>
+                    <Unicode>Sarader = 20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rI9Zw_3l20" custom="readingOrder {index:19;}">
+                <Coords points="1759,2144 1796,2166 1917,2143 2462,2162 2503,2153 2504,2104 2422,2113 2316,2067 2221,2101 1982,2070 1900,2094 1760,2076"/>
+                <Baseline points="1772,2141 1807,2142 1843,2144 1879,2146 1915,2148 1951,2149 1987,2151 2022,2151 2058,2153 2094,2153 2130,2154 2166,2154 2202,2154 2238,2156 2273,2156 2309,2156 2345,2156 2381,2156 2417,2157 2453,2157 2489,2157"/>
+                <TextEquiv>
+                    <Unicode>Eg v. Th v 15nbin 15 seit 1510</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Martin Strauf der Würt zum Rapen, u. seine Frau Sionecha
+verkaufen an Franz Borenn des Rats u. seine Frau Helena,
+5 fl. jährl zinses, ab jrem Herperg gnant zum Rapen. mit Hus
+Hofstatt schuren stallung garten, u. Eschamevorstatt, zwüschen
+dem Hus zum Baradys, u. Martin Herlolzhoner des seilers hus
+glegen, jücht hinden an der herren von Thierstein garten, u. an
+Hansen zum Wag garten, zinst über u. über der s. Johans Brüderschaft
+uf Burg jährl. 1 ℔, u. dan 1sh. vom garten von eig. jtem deren von
+Sennen 5 Eabls zinses. Htein so geben Hans zur Bag u. Barthlome
+Schinder von Metttenz von jn husern, einem Besiger des huses zum
+Kappe jährl 3 ℔. davon gehört den Closterfrauen zu Olspeig 2 2 lb.
+daumb er treger ist, von derselben Begery geben die Closterfsauen
+der vorgemelten Bruderschaft jährl iner, sodan ab jrem
+Hus u. Hofstatt mit sant dem gertlin dashunder glegen, su
+Eschamer vorstatt an dem genanten hus zum Rapen, zinst s. Johans
+Ehr
+Rappen = 13 neb 13 Breiff Martin Eg v Th v 15 becke
+seit 1507
+Sarader = 20
+Eg v. Th v 15nbin 15 seit 1510</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

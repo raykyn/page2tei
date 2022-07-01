@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:11</Created>
+        <LastChange>2020-04-19T01:26:40.386+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869414" pageNr="32" tsid="27912560" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=LEAMLCMPVAUAZQNDEETHYQHL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYLEDFHQBYLATDYTVYDJGSLB" imageId="5736277"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_032.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242840" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rZeSg_1"/>
+                <RegionRefIndexed index="1" regionRef="rHGiF_2"/>
+                <RegionRefIndexed index="2" regionRef="rIU0m_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rZeSg_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="204,696 660,696 660,1156 204,1156"/>
+            <TextLine id="rZeSg_1l1" custom="readingOrder {index:0;}">
+                <Coords points="492,872 509,866 530,879 557,878 569,873 583,855 613,852 588,732 576,735 558,759 537,768 499,746 489,758 480,752 468,755"/>
+                <Baseline points="503,864 533,849 566,843 599,843"/>
+                <TextEquiv>
+                    <Unicode>84.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rZeSg_1l2" custom="readingOrder {index:1;}">
+                <Coords points="211,921 296,907 315,925 330,918 352,929 383,912 405,923 438,907 467,916 474,737 407,719 309,746 293,732 260,741 241,728 218,730"/>
+                <Baseline points="225,846 250,849 276,849 302,849 327,849 353,849 379,850 404,852 430,855 456,860"/>
+                <TextEquiv>
+                    <Unicode>24/1545</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rZeSg_1l3" custom="readingOrder {index:2;}">
+                <Coords points="285,998 315,998 340,1011 370,1011 387,1001 437,1018 457,1005 507,1008 506,913 409,924 377,948 362,946 332,919 285,929"/>
+                <Baseline points="299,981 327,986 355,987 383,987 411,986 439,984 467,984 495,986"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rZeSg_1l4" custom="readingOrder {index:3;}">
+                <Coords points="301,1135 337,1147 354,1133 372,1148 408,1139 429,1157 450,1144 472,1149 488,1003 473,1001 441,1018 418,1003 405,1012 381,1001 362,1012 358,1006 315,1007"/>
+                <Baseline points="320,1086 348,1093 377,1097 406,1101 435,1103 464,1101"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>84.
+24/1545
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rHGiF_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="621,270 1730,270 1730,432 621,432"/>
+            <TextLine id="rHGiF_2l1" custom="readingOrder {index:0;}">
+                <Coords points="642,438 1075,410 1262,470 1355,409 1531,462 1693,430 1694,373 1600,366 1464,275 1354,345 1193,310 941,368 803,306 644,314"/>
+                <Baseline points="656,393 707,393 758,393 809,393 861,393 912,393 963,392 1015,392 1066,392 1117,392 1169,393 1220,393 1271,393 1322,395 1374,396 1425,398 1476,401 1528,403 1579,407 1630,411 1682,414"/>
+                <TextEquiv>
+                    <Unicode>1585 - 1597 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1585 - 1597 fehlen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rIU0m_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="624,421 2657,421 2657,1396 624,1396"/>
+            <TextLine id="rIU0m_3l1" custom="readingOrder {index:0;}">
+                <Coords points="660,522 1625,515 1706,573 1813,515 2091,567 2149,518 2415,526 2415,474 2167,481 1996,390 1732,466 661,435"/>
+                <Baseline points="674,483 760,489 846,493 933,497 1019,498 1106,501 1192,501 1279,503 1365,503 1452,503 1538,503 1624,503 1711,503 1797,503 1884,504 1970,504 2057,506 2143,507 2230,509 2316,512 2403,515"/>
+                <TextEquiv>
+                    <Unicode>1598 Nouw Zinse uff Pfungsten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l2" custom="readingOrder {index:1;}">
+                <Coords points="644,621 1536,670 2255,621 2368,680 2654,637 2656,533 2225,589 1928,522 1773,579 646,519"/>
+                <Baseline points="656,587 755,591 854,594 954,597 1053,600 1152,602 1252,603 1351,605 1450,605 1550,606 1649,608 1748,608 1848,609 1947,610 2046,611 2146,612 2245,615 2344,617 2444,620 2543,623 2643,626"/>
+                <TextEquiv>
+                    <Unicode>Item die herberg zum Rappen sol ferlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l3" custom="readingOrder {index:2;}">
+                <Coords points="650,707 702,722 831,705 883,728 918,708 1035,714 1144,754 1239,720 1239,643 1192,635 1083,669 901,611 817,670 725,625 650,637"/>
+                <Baseline points="662,693 690,695 718,696 746,697 775,698 803,698 831,699 859,699 888,699 916,699 944,699 972,699 1001,698 1029,698 1057,698 1085,698 1114,698 1142,698 1170,699 1198,699 1227,701"/>
+                <TextEquiv>
+                    <Unicode>der presentz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l4" custom="readingOrder {index:3;}">
+                <Coords points="1580,736 1602,739 1649,772 1676,763 1696,771 1757,723 1786,733 1829,729 1831,647 1803,654 1779,646 1746,665 1721,650 1704,659 1667,636 1627,657 1612,644 1582,651"/>
+                <Baseline points="1593,699 1618,698 1643,698 1668,698 1693,701 1718,702 1743,704 1768,704 1793,702 1818,699"/>
+                <TextEquiv>
+                    <Unicode>12/ 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l5" custom="readingOrder {index:4;}">
+                <Coords points="680,824 2489,856 2586,844 2587,765 681,720"/>
+                <Baseline points="692,791 786,794 880,795 974,797 1068,798 1162,800 1256,801 1350,802 1444,803 1538,804 1633,804 1727,806 1821,806 1915,807 2009,809 2103,810 2197,812 2291,813 2385,816 2479,818 2574,821"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1599. Ebenso 1600. Ebenso 1601.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l6" custom="readingOrder {index:5;}">
+                <Coords points="677,921 1475,950 1729,915 1942,957 1911,833 1597,867 1469,819 1254,864 678,821"/>
+                <Baseline points="690,893 755,896 820,899 885,900 950,902 1016,903 1081,903 1146,903 1211,905 1276,905 1342,905 1407,905 1472,905 1537,905 1602,905 1668,905 1733,906 1798,908 1863,909 1929,912"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1602. Ebenso 1603.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIU0m_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1331,1311 1587,1354 1764,1318 1887,1365 2039,1327 2524,1342 2525,1251 2416,1229 1332,1226"/>
+                <Baseline points="1344,1280 1402,1281 1460,1283 1519,1283 1577,1284 1635,1286 1694,1286 1752,1287 1810,1287 1869,1289 1927,1289 1985,1290 2044,1290 2102,1290 2160,1292 2219,1292 2277,1292 2335,1293 2394,1293 2452,1295 2511,1295"/>
+                <TextEquiv>
+                    <Unicode>DDDDAS Aor DTASTAD ADA BADTAASEDB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1598 Nouw Zinse uff Pfungsten.
+Item die herberg zum Rappen sol ferlich
+der presentz
+12/ 8.
+Ebenso 1599. Ebenso 1600. Ebenso 1601.
+Ebenso 1602. Ebenso 1603.
+DDDDAS Aor DTASTAD ADA BADTAASEDB.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

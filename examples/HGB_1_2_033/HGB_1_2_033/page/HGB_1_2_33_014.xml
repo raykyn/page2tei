@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:35</Created>
+        <LastChange>2020-04-19T01:22:07.164+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869380" pageNr="14" tsid="27912395" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=EVMMZVQGCLCSCRVSXJAEIXXJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMOKPERTCGRBPJZWPFOSCCGJ" imageId="5736243"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_014.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242821" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rEQCt_1"/>
+                <RegionRefIndexed index="1" regionRef="rGGPg_2"/>
+                <RegionRefIndexed index="2" regionRef="ryxK5_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rEQCt_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,770 639,770 639,1200 211,1200"/>
+            <TextLine id="rEQCt_1l1" custom="readingOrder {index:0;}">
+                <Coords points="284,1066 303,1066 312,1075 342,1069 367,1088 388,1091 410,1076 425,1082 450,1069 471,1088 496,1088 496,1030 478,1030 432,993 386,1008 367,1026 309,996 284,1002"/>
+                <Baseline points="300,1052 325,1054 351,1056 377,1055 402,1053 428,1053 454,1054 480,1056"/>
+                <TextEquiv>
+                    <Unicode>Eiseng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rEQCt_1l2" custom="readingOrder {index:1;}">
+                <Coords points="306,1227 324,1229 336,1217 346,1223 361,1220 379,1207 395,1207 434,1175 440,1182 452,1169 468,1169 467,1117 433,1120 414,1105 399,1108 365,1088 350,1097 322,1076 303,1076"/>
+                <Baseline points="321,1169 347,1174 373,1175 400,1173 426,1171 453,1170"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Eiseng
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rGGPg_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="635,264 1314,264 1314,432 635,432"/>
+            <TextLine id="rGGPg_2l1" custom="readingOrder {index:0;}">
+                <Coords points="663,366 819,386 872,368 1157,377 1159,233 1113,226 1072,260 992,271 952,302 894,279 829,300 747,238 664,234"/>
+                <Baseline points="677,356 702,357 728,359 754,360 780,361 806,362 832,362 857,363 883,363 909,363 935,363 961,363 987,363 1012,363 1038,363 1064,363 1090,363 1116,362 1142,362"/>
+                <TextEquiv>
+                    <Unicode>1532 Juli 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1532 Juli 30.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="ryxK5_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="614,395 2686,395 2686,1741 614,1741"/>
+            <TextLine id="ryxK5_3l1" custom="readingOrder {index:0;}">
+                <Coords points="671,579 1534,568 1863,637 2004,576 2324,570 2391,632 2692,580 2668,494 2379,466 1995,523 672,477"/>
+                <Baseline points="686,554 785,555 885,557 984,558 1084,559 1183,560 1283,560 1382,560 1482,560 1581,560 1681,560 1780,560 1880,560 1979,560 2079,560 2178,560 2278,560 2377,560 2477,560 2576,561 2676,563"/>
+                <TextEquiv>
+                    <Unicode>Ulrich Schuher Schaffner der Camerey der Lohen Stifft hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l2" custom="readingOrder {index:1;}">
+                <Coords points="662,708 2695,668 2695,601 2391,631 2302,569 2044,633 1906,569 1639,633 1538,568 905,631 662,585"/>
+                <Baseline points="677,659 777,659 877,659 977,659 1077,660 1177,660 1277,660 1377,660 1477,660 1577,660 1678,660 1778,660 1878,660 1978,662 2078,662 2178,662 2278,662 2378,662 2478,662 2578,662 2679,662"/>
+                <TextEquiv>
+                    <Unicode>Martin Kauffen Herberg, genannt zum Rappen, nid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l3" custom="readingOrder {index:2;}">
+                <Coords points="647,787 2695,815 2695,708 2011,664 647,708"/>
+                <Baseline points="662,759 762,759 863,759 964,759 1065,759 1166,759 1267,759 1367,758 1468,758 1569,759 1670,759 1771,759 1872,759 1973,759 2073,759 2174,761 2275,761 2376,761 2477,762 2578,762 2679,764"/>
+                <TextEquiv>
+                    <Unicode>sampt der Schüren Stallung und Garten, dashinder, in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l4" custom="readingOrder {index:3;}">
+                <Coords points="664,892 2701,897 2673,811 2369,770 2142,831 2019,775 1687,827 665,775"/>
+                <Baseline points="680,857 780,857 880,857 980,857 1080,858 1181,858 1281,858 1381,858 1481,858 1581,859 1682,860 1782,860 1882,860 1982,860 2082,860 2183,860 2283,860 2383,860 2483,861 2583,861 2684,861"/>
+                <TextEquiv>
+                    <Unicode>Esehauer Vorstatt, zwischen dem Hus zum Taradies und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l5" custom="readingOrder {index:4;}">
+                <Coords points="206,1013 1451,966 2006,1046 2695,932 2075,860 1141,932 467,767 208,823"/>
+                <Baseline points="222,914 344,925 467,935 590,942 713,949 836,953 958,957 1081,960 1204,962 1327,962 1450,962 1572,962 1695,960 1818,960 1941,959 2064,959 2186,959 2309,959 2432,959 2555,961 2678,963"/>
+                <TextEquiv>
+                    <Unicode>10 /1558 dem andern Martin Stauffen Hus glegen, von versessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l6" custom="readingOrder {index:5;}">
+                <Coords points="653,1109 2526,1102 2686,1084 2686,986 653,1005"/>
+                <Baseline points="668,1059 768,1059 868,1058 968,1058 1068,1058 1169,1058 1269,1058 1369,1058 1469,1058 1569,1058 1670,1058 1770,1058 1870,1058 1970,1058 2070,1058 2171,1059 2271,1059 2371,1059 2471,1061 2571,1061 2672,1062"/>
+                <TextEquiv>
+                    <Unicode>er zinsen halp, als es jährl. der Camerey 13 sh. Edim von Eis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l7" custom="readingOrder {index:6;}">
+                <Coords points="644,1235 737,1183 1108,1241 1277,1174 1415,1229 1729,1174 1729,1106 1587,1085 1345,1125 893,1118 853,1081 740,1127 644,1106"/>
+                <Baseline points="660,1158 712,1158 765,1158 817,1158 870,1158 923,1158 975,1158 1028,1158 1081,1158 1133,1160 1186,1160 1239,1160 1291,1160 1344,1160 1397,1160 1449,1160 1502,1160 1555,1158 1607,1158 1660,1157 1713,1155"/>
+                <TextEquiv>
+                    <Unicode>genschaft wegen zinst, gefrönt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l8" custom="readingOrder {index:7;}">
+                <Coords points="2049,1275 2141,1287 2200,1333 2301,1339 2384,1283 2626,1271 2626,1092 2525,1108 2445,1087 2368,1142 2048,1103"/>
+                <Baseline points="2064,1260 2091,1259 2118,1259 2145,1259 2173,1259 2200,1259 2227,1259 2255,1259 2282,1259 2309,1259 2337,1260 2364,1260 2391,1260 2418,1260 2446,1260 2473,1260 2500,1259 2528,1259 2555,1257 2582,1257 2610,1254"/>
+                <TextEquiv>
+                    <Unicode>Frönungsbuch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l9" custom="readingOrder {index:8;}">
+                <Coords points="786,1528 968,1501 1051,1536 1164,1493 1376,1482 1554,1542 1597,1527 1598,1413 1506,1391 1312,1424 1125,1386 1017,1431 895,1363 787,1408"/>
+                <Baseline points="801,1469 840,1474 879,1478 918,1481 957,1484 996,1485 1035,1487 1074,1487 1113,1487 1152,1487 1192,1487 1231,1485 1270,1485 1309,1484 1348,1484 1387,1482 1426,1482 1465,1482 1504,1482 1543,1484 1583,1485"/>
+                <TextEquiv>
+                    <Unicode>Paradils = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryxK5_3l10" custom="readingOrder {index:9;}">
+                <Coords points="781,1694 913,1686 1002,1730 1184,1677 1386,1682 1420,1716 1549,1702 1550,1564 1482,1588 1378,1571 1224,1628 1160,1597 1043,1605 869,1505 783,1528"/>
+                <Baseline points="798,1640 834,1645 871,1651 908,1655 945,1659 982,1661 1019,1664 1055,1664 1092,1665 1129,1665 1166,1665 1203,1664 1240,1664 1277,1662 1313,1661 1350,1660 1387,1659 1424,1658 1461,1658 1498,1658 1535,1658"/>
+                <TextEquiv>
+                    <Unicode>Kappen = 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ulrich Schuher Schaffner der Camerey der Lohen Stifft hat
+Martin Kauffen Herberg, genannt zum Rappen, nid
+sampt der Schüren Stallung und Garten, dashinder, in
+Esehauer Vorstatt, zwischen dem Hus zum Taradies und
+10 /1558 dem andern Martin Stauffen Hus glegen, von versessen
+er zinsen halp, als es jährl. der Camerey 13 sh. Edim von Eis
+genschaft wegen zinst, gefrönt.
+Frönungsbuch.
+Paradils = 13
+Kappen = 15</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:04</Created>
+        <LastChange>2020-04-19T01:38:34.161+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869614" pageNr="74" tsid="27913000" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=XAFUHWYUOQPFMNMUOQJEOHDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIUDCBUDSBLHRQNQSBHMCAXC" imageId="5736477"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_074.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242884" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rseN7_1"/>
+                <RegionRefIndexed index="1" regionRef="rHEbO_2"/>
+                <RegionRefIndexed index="2" regionRef="rg4Nu_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rseN7_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="226,1006 603,1006 603,1396 226,1396"/>
+            <TextLine id="rseN7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="304,1094 360,1084 383,1070 452,1068 467,1056 515,1069 522,920 490,908 469,915 432,906 418,915 376,908 365,918 358,912 335,924 312,923"/>
+                <Baseline points="320,1041 346,1045 372,1049 398,1052 425,1053 451,1053 477,1052 504,1049"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rseN7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="228,1161 309,1192 365,1185 387,1166 422,1174 463,1161 502,1179 571,1184 577,1090 543,1098 477,1058 375,1072 323,1094 284,1079 233,1088"/>
+                <Baseline points="242,1143 268,1143 295,1143 321,1145 348,1146 374,1148 401,1150 427,1153 454,1155 480,1156 507,1158 533,1160 560,1160"/>
+                <TextEquiv>
+                    <Unicode>15/1038</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rseN7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="276,1265 311,1272 359,1263 379,1274 407,1270 417,1281 429,1276 462,1288 490,1279 493,1216 462,1215 430,1203 415,1187 366,1218 356,1210 343,1217 319,1191 301,1203 278,1202"/>
+                <Baseline points="290,1251 317,1254 344,1256 371,1256 398,1257 425,1257 452,1259 479,1262"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rseN7_1l4" custom="readingOrder {index:3;}">
+                <Coords points="295,1401 310,1404 331,1389 343,1392 361,1383 401,1394 409,1386 457,1382 459,1322 434,1319 399,1287 391,1292 358,1289 351,1296 328,1286 298,1290"/>
+                <Baseline points="309,1367 336,1370 363,1370 390,1370 417,1370 444,1373"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1038
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rHEbO_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="585,233 1256,233 1256,419 585,419"/>
+            <TextLine id="rHEbO_2l1" custom="readingOrder {index:0;}">
+                <Coords points="647,361 661,355 667,356 673,343 690,345 697,335 709,330 679,247 660,254 645,251 642,255 631,256 613,266"/>
+                <Baseline points="656,350 698,335"/>
+                <TextEquiv>
+                    <Unicode>"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rHEbO_2l2" custom="readingOrder {index:1;}">
+                <Coords points="667,383 897,377 915,395 980,385 996,397 1036,374 1086,397 1127,387 1127,288 1064,283 1023,311 963,294 935,309 894,276 841,291 793,276 733,332 667,330"/>
+                <Baseline points="680,351 705,351 731,351 756,351 782,350 807,350 833,350 859,350 884,350 910,350 935,350 961,350 987,350 1012,350 1038,350 1063,350 1089,350 1115,351"/>
+                <TextEquiv>
+                    <Unicode>163 Mai 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>"
+163 Mai 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rg4Nu_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="614,425 2668,425 2668,2147 614,2147"/>
+            <TextLine id="rg4Nu_3l1" custom="readingOrder {index:0;}">
+                <Coords points="656,575 770,559 798,587 876,563 967,588 1010,562 1033,577 1214,558 1288,578 1287,497 1213,472 1057,458 997,499 926,467 893,490 857,470 805,493 656,484"/>
+                <Baseline points="669,549 699,549 729,549 759,549 790,548 820,548 850,548 881,548 911,548 941,548 972,546 1002,546 1032,546 1062,546 1093,546 1123,545 1153,545 1184,545 1214,545 1244,545 1275,545"/>
+                <TextEquiv>
+                    <Unicode>Kaufs-Poublicatio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l2" custom="readingOrder {index:1;}">
+                <Coords points="910,665 2627,687 2591,564 2195,611 2013,561 909,574"/>
+                <Baseline points="921,644 1005,647 1090,647 1174,648 1259,648 1344,648 1428,648 1513,648 1597,647 1682,647 1767,645 1851,644 1936,644 2020,642 2105,642 2190,641 2274,641 2359,641 2443,642 2528,642 2613,644"/>
+                <TextEquiv>
+                    <Unicode>Es verkauft Hr. Vorstadtmstr. Johannes Marikht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l3" custom="readingOrder {index:2;}">
+                <Coords points="628,796 2669,780 2668,692 2507,662 1429,713 1002,656 911,720 628,718"/>
+                <Baseline points="642,750 742,749 843,747 943,747 1044,747 1145,747 1245,746 1346,746 1447,746 1547,746 1648,746 1749,746 1849,746 1950,746 2051,744 2151,744 2252,744 2353,744 2453,743 2554,743 2655,741"/>
+                <TextEquiv>
+                    <Unicode>an Hrn. Felix Battier, d. gr. Ro, die Gastherberg zuem Raaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l4" custom="readingOrder {index:3;}">
+                <Coords points="635,906 1481,851 2415,905 2592,872 2592,792 635,810"/>
+                <Baseline points="647,848 743,848 840,848 936,848 1033,846 1130,846 1226,846 1323,846 1420,846 1516,846 1613,845 1710,845 1806,845 1903,845 2000,845 2096,845 2193,845 2290,845 2386,845 2483,846 2580,846"/>
+                <TextEquiv>
+                    <Unicode>genandt, bestehend in Behausung, Scheuren, Stallungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l5" custom="readingOrder {index:4;}">
+                <Coords points="631,973 2211,953 2363,1003 2625,957 2625,894 1577,914 1161,856 630,908"/>
+                <Baseline points="642,948 740,947 839,947 937,945 1036,945 1134,945 1233,945 1331,945 1430,945 1528,945 1627,945 1726,945 1824,945 1923,944 2021,944 2120,944 2218,944 2317,944 2415,944 2514,942 2613,942"/>
+                <TextEquiv>
+                    <Unicode>Schnettenen, Hoofen, Hoofstadt, Garthen und Matten sammt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l6" custom="readingOrder {index:5;}">
+                <Coords points="642,1079 2444,1102 2644,1069 2644,1006 1389,966 641,1019"/>
+                <Baseline points="653,1052 751,1050 850,1050 949,1049 1048,1047 1147,1047 1246,1047 1345,1047 1444,1046 1543,1046 1642,1046 1740,1046 1839,1046 1938,1046 2037,1046 2136,1046 2235,1046 2334,1046 2433,1046 2532,1044 2631,1044"/>
+                <TextEquiv>
+                    <Unicode>all übriger Zugehördt und Gerechtigkeith, an und beyen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l7" custom="readingOrder {index:6;}">
+                <Coords points="626,1173 2581,1155 2346,1057 2232,1118 626,1097"/>
+                <Baseline points="638,1154 734,1152 831,1150 927,1149 1024,1148 1120,1148 1217,1146 1313,1146 1410,1146 1506,1146 1603,1146 1699,1146 1796,1148 1892,1148 1989,1148 2085,1148 2182,1146 2278,1146 2375,1146 2471,1145 2568,1145"/>
+                <TextEquiv>
+                    <Unicode>anderen in der Eschemer Vorstadt, zwüschen dem Paradus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l8" custom="readingOrder {index:7;}">
+                <Coords points="631,1292 2376,1296 2676,1273 2676,1187 631,1216"/>
+                <Baseline points="644,1248 750,1248 856,1247 962,1247 1069,1245 1175,1245 1281,1245 1387,1244 1494,1244 1600,1244 1706,1244 1812,1244 1919,1244 2025,1244 2131,1244 2237,1244 2344,1244 2450,1244 2556,1244 2663,1244"/>
+                <TextEquiv>
+                    <Unicode>und Mstr. Heinrich Salathe, dem Schuemacher, gelegen, hinden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l9" custom="readingOrder {index:8;}">
+                <Coords points="636,1364 2472,1384 2639,1300 636,1316"/>
+                <Baseline points="650,1349 748,1347 847,1346 946,1344 1045,1343 1144,1343 1243,1343 1341,1343 1440,1341 1539,1341 1638,1341 1737,1341 1836,1341 1935,1341 2033,1341 2132,1341 2231,1341 2330,1340 2429,1340 2528,1338 2627,1337"/>
+                <TextEquiv>
+                    <Unicode>aber an den Murthenbergerhsof und mit dem Ansgang an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l10" custom="readingOrder {index:9;}">
+                <Coords points="632,1443 2657,1484 2657,1383 2568,1368 632,1397"/>
+                <Baseline points="645,1443 745,1443 845,1442 945,1442 1045,1442 1145,1442 1245,1442 1345,1442 1445,1441 1545,1440 1645,1440 1745,1440 1845,1440 1945,1440 2045,1440 2145,1440 2245,1439 2345,1439 2445,1439 2545,1439 2645,1439"/>
+                <TextEquiv>
+                    <Unicode>ein gemeines Gässlem neben hit. Hrn. Abrist Ehinger, des Raths,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l11" custom="readingOrder {index:10;}">
+                <Coords points="630,1576 2544,1566 2574,1467 629,1490"/>
+                <Baseline points="641,1545 737,1544 833,1542 929,1542 1025,1541 1121,1541 1217,1541 1313,1541 1409,1541 1505,1541 1601,1541 1697,1539 1793,1539 1889,1539 1985,1539 2081,1539 2177,1538 2273,1538 2369,1536 2465,1536 2561,1535"/>
+                <TextEquiv>
+                    <Unicode>stossendt, samt einer Ein- und Anofarth zwüschen Mste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l12" custom="readingOrder {index:11;}">
+                <Coords points="645,1670 2632,1691 2670,1567 645,1579"/>
+                <Baseline points="657,1640 757,1640 857,1641 957,1641 1057,1641 1157,1641 1257,1641 1357,1641 1457,1641 1557,1640 1657,1640 1757,1640 1857,1640 1957,1640 2057,1640 2157,1638 2257,1638 2357,1638 2457,1637 2557,1637 2658,1635"/>
+                <TextEquiv>
+                    <Unicode>Leonhardt Bürgin, dem Einspauniger, Mstr. Roth, dem Han-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l13" custom="readingOrder {index:12;}">
+                <Coords points="623,1768 2537,1787 2648,1700 623,1705"/>
+                <Baseline points="635,1740 735,1740 835,1740 935,1740 1035,1740 1135,1740 1235,1740 1335,1740 1435,1740 1535,1739 1635,1739 1735,1739 1835,1739 1935,1737 2035,1737 2135,1737 2235,1737 2335,1737 2435,1736 2535,1736 2636,1736"/>
+                <TextEquiv>
+                    <Unicode>macher und Hrn. Samuel Stehelin, dem Gollverwalter zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l14" custom="readingOrder {index:13;}">
+                <Coords points="636,1851 1012,1899 2608,1854 2361,1768 636,1765"/>
+                <Baseline points="650,1839 747,1839 844,1839 941,1839 1039,1839 1136,1839 1233,1838 1330,1838 1428,1838 1525,1838 1622,1838 1719,1838 1817,1838 1914,1838 2011,1838 2108,1838 2206,1839 2303,1839 2400,1839 2497,1839 2595,1841"/>
+                <TextEquiv>
+                    <Unicode>Jt. Jakob gelegen, vornen an die besagthe Porstadt aus ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l15" custom="readingOrder {index:14;}">
+                <Coords points="646,1984 687,1990 731,1951 774,1959 804,1951 825,1968 847,1954 893,1958 890,1870 853,1889 830,1884 797,1896 784,1886 767,1894 728,1862 683,1892 643,1901"/>
+                <Baseline points="656,1938 683,1941 711,1943 739,1942 767,1941 795,1939 823,1937 851,1935 879,1934"/>
+                <TextEquiv>
+                    <Unicode>hend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l16" custom="readingOrder {index:15;}">
+                <Coords points="1088,1990 1106,1987 1131,1997 1136,1992 1151,1992 1172,2005 1207,2005 1207,1909 1194,1909 1182,1896 1169,1899 1134,1879 1114,1884 1088,1879"/>
+                <Baseline points="1101,1982 1132,1982 1163,1982 1194,1982"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l17" custom="readingOrder {index:16;}">
+                <Coords points="691,2065 840,2040 1252,2067 1324,2035 1458,2033 1457,1975 1280,1978 1234,1954 1147,1996 1083,1977 1010,1996 947,1967 919,1993 886,1968 689,1977"/>
+                <Baseline points="704,2037 741,2037 778,2037 815,2037 852,2037 889,2037 926,2037 963,2037 1000,2036 1037,2036 1074,2036 1111,2034 1148,2034 1185,2033 1222,2032 1259,2030 1296,2030 1333,2028 1370,2026 1407,2023 1445,2021"/>
+                <TextEquiv>
+                    <Unicode>Z. Raben = 15 ne 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l18" custom="readingOrder {index:17;}">
+                <Coords points="1435,2119 1718,2145 1945,2101 2074,2154 2180,2097 2470,2081 2670,2140 2669,2050 2548,2005 2470,2033 2111,1992 2020,2048 1927,2015 1775,2057 1570,1957 1434,1990"/>
+                <Baseline points="1446,2076 1506,2085 1567,2091 1627,2096 1688,2099 1748,2100 1809,2102 1869,2102 1930,2100 1990,2099 2051,2097 2112,2095 2172,2092 2233,2090 2293,2088 2354,2087 2414,2087 2475,2087 2535,2088 2596,2090 2657,2094"/>
+                <TextEquiv>
+                    <Unicode>Salathe Hsch Eig v Th v 15abe 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rg4Nu_3l19" custom="readingOrder {index:18;}">
+                <Coords points="680,2141 788,2104 824,2129 889,2117 965,2144 1334,2118 1332,2037 1169,2080 1035,2042 977,2063 853,2047 808,2078 679,2070"/>
+                <Baseline points="692,2123 723,2121 755,2121 786,2120 818,2120 849,2120 881,2118 912,2118 944,2118 975,2118 1007,2118 1038,2118 1070,2118 1101,2117 1133,2117 1164,2117 1196,2115 1227,2114 1259,2112 1290,2111 1322,2108"/>
+                <TextEquiv>
+                    <Unicode>z. Parader = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kaufs-Poublicatio.
+Es verkauft Hr. Vorstadtmstr. Johannes Marikht
+an Hrn. Felix Battier, d. gr. Ro, die Gastherberg zuem Raaben
+genandt, bestehend in Behausung, Scheuren, Stallungen,
+Schnettenen, Hoofen, Hoofstadt, Garthen und Matten sammt
+all übriger Zugehördt und Gerechtigkeith, an und beyen,
+anderen in der Eschemer Vorstadt, zwüschen dem Paradus
+und Mstr. Heinrich Salathe, dem Schuemacher, gelegen, hinden
+aber an den Murthenbergerhsof und mit dem Ansgang an
+ein gemeines Gässlem neben hit. Hrn. Abrist Ehinger, des Raths,
+stossendt, samt einer Ein- und Anofarth zwüschen Mste.
+Leonhardt Bürgin, dem Einspauniger, Mstr. Roth, dem Han-
+macher und Hrn. Samuel Stehelin, dem Gollverwalter zu
+Jt. Jakob gelegen, vornen an die besagthe Porstadt aus ge-
+hend.
+Th v
+Z. Raben = 15 ne 13
+Salathe Hsch Eig v Th v 15abe 19
+z. Parader = 13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

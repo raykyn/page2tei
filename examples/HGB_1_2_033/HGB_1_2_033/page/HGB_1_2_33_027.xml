@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:29</Created>
+        <LastChange>2020-04-19T01:25:26.242+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869404" pageNr="27" tsid="27912512" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=NQIAWWXGIEGURQEPTKMXUMKU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZWXLZMLOTGYGKKGBVGHMURKY" imageId="5736267"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_027.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242835" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rTo1W_1"/>
+                <RegionRefIndexed index="1" regionRef="rrqhE_2"/>
+                <RegionRefIndexed index="2" regionRef="rAPzP_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rTo1W_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,783 635,783 635,1235 211,1235"/>
+            <TextLine id="rTo1W_1l1" custom="readingOrder {index:0;}">
+                <Coords points="205,958 270,959 322,1006 445,974 476,989 562,980 582,836 536,838 516,820 480,846 392,786 351,806 335,793 306,805 228,784"/>
+                <Baseline points="224,900 249,903 274,907 300,911 325,917 351,921 376,926 402,930 427,933 453,936 478,938 504,939 529,939 555,939"/>
+                <TextEquiv>
+                    <Unicode>23/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rTo1W_1l2" custom="readingOrder {index:1;}">
+                <Coords points="283,1088 315,1081 350,1094 358,1087 380,1105 430,1083 448,1099 473,1089 495,1107 515,1108 517,1008 492,1005 452,1019 420,996 367,990 349,1004 337,997 284,1015"/>
+                <Baseline points="296,1059 321,1059 347,1059 373,1060 399,1061 425,1062 451,1062 477,1062 503,1062"/>
+                <TextEquiv>
+                    <Unicode>Rinkene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rTo1W_1l3" custom="readingOrder {index:2;}">
+                <Coords points="278,1217 303,1217 338,1200 346,1207 368,1192 386,1195 403,1187 438,1203 468,1200 468,1093 448,1098 433,1090 406,1103 398,1097 376,1102 358,1087 328,1092 313,1082 278,1092"/>
+                <Baseline points="291,1176 318,1176 346,1178 373,1179 401,1179 428,1178 456,1173"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>23/1518
+Rinkene
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rrqhE_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="649,229 1752,229 1752,432 649,432"/>
+            <TextLine id="rrqhE_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1174,395 1307,414 1347,387 1449,423 1562,380 1689,432 1689,310 1534,295 1489,318 1399,319 1314,269 1279,300 1236,280 1174,300"/>
+                <Baseline points="1187,374 1212,374 1238,372 1264,372 1289,372 1315,374 1341,374 1367,374 1392,374 1418,374 1444,374 1470,374 1495,374 1521,374 1547,374 1573,373 1598,372 1624,370 1650,369 1676,366"/>
+                <TextEquiv>
+                    <Unicode>Juni. 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rrqhE_2l2" custom="readingOrder {index:1;}">
+                <Coords points="715,381 807,407 962,398 1069,440 1072,305 932,282 882,284 852,306 807,285 739,329 716,323"/>
+                <Baseline points="728,375 753,373 778,371 804,371 829,371 854,371 880,372 905,374 931,375 956,377 981,377 1007,377 1032,376 1058,375"/>
+                <TextEquiv>
+                    <Unicode>1577.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Juni. 30.
+1577.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rAPzP_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="642,443 2686,443 2686,2152 642,2152"/>
+            <TextLine id="rAPzP_3l1" custom="readingOrder {index:0;}">
+                <Coords points="700,585 2609,617 2691,597 2692,517 958,526 701,427"/>
+                <Baseline points="713,564 811,568 909,570 1007,573 1106,574 1204,575 1302,576 1400,576 1499,576 1597,576 1695,576 1793,576 1892,576 1990,576 2088,576 2186,575 2285,576 2383,576 2481,576 2579,578 2678,579"/>
+                <TextEquiv>
+                    <Unicode>Caspar Schöllis sel. nachgelassene Kinder, Besitzer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l2" custom="readingOrder {index:1;}">
+                <Coords points="660,691 2652,709 2652,612 2530,581 2220,645 1610,579 1458,641 1038,577 661,629"/>
+                <Baseline points="674,672 772,672 870,671 968,671 1067,671 1165,671 1263,671 1362,672 1460,672 1558,672 1657,674 1755,674 1853,674 1951,675 2050,675 2148,675 2246,675 2345,675 2443,675 2541,675 2640,674"/>
+                <TextEquiv>
+                    <Unicode>von Hus &amp; Hoff Cantra Jorg Schlösser dem Rint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l3" custom="readingOrder {index:2;}">
+                <Coords points="676,833 821,773 1703,847 2653,816 2685,731 1939,683 1718,742 1439,679 1201,737 989,679 676,733"/>
+                <Baseline points="690,770 789,771 888,771 987,771 1086,771 1185,771 1284,771 1384,771 1483,771 1582,771 1681,771 1780,771 1879,771 1978,771 2078,773 2177,774 2276,774 2375,777 2474,779 2573,780 2673,783"/>
+                <TextEquiv>
+                    <Unicode>zum Ratpen in Eschemervorstadt, wegen eines Lensters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l4" custom="readingOrder {index:3;}">
+                <Coords points="665,896 1811,932 1994,878 2184,939 2314,888 2603,957 2688,935 2689,827 665,821"/>
+                <Baseline points="678,870 777,870 877,869 977,869 1077,869 1177,870 1277,870 1377,870 1477,872 1577,872 1677,873 1776,873 1876,875 1976,875 2076,876 2176,876 2276,878 2376,878 2476,878 2576,878 2676,878"/>
+                <TextEquiv>
+                    <Unicode>so der Bekl, um einer Behausung werthers grosser gemacht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l5" custom="readingOrder {index:4;}">
+                <Coords points="673,991 686,991 711,1009 733,992 751,1004 776,992 818,995 843,983 861,988 861,918 849,918 816,890 776,912 754,889 714,919 674,901"/>
+                <Baseline points="686,966 713,968 740,969 767,969 794,968 821,968 848,969"/>
+                <TextEquiv>
+                    <Unicode>hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1294,1117 1354,1078 1494,1137 1759,1085 1899,1082 1996,1125 2279,1091 2280,981 2085,984 2007,1025 1838,981 1755,1027 1538,942 1296,940"/>
+                <Baseline points="1308,1059 1358,1063 1408,1065 1459,1067 1509,1069 1560,1070 1610,1071 1661,1073 1711,1073 1762,1074 1812,1074 1863,1074 1913,1074 1964,1074 2014,1074 2065,1074 2115,1074 2166,1074 2216,1074 2267,1074"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l7" custom="readingOrder {index:6;}">
+                <Coords points="2384,1117 2402,1119 2409,1127 2432,1116 2444,1122 2488,1103 2507,1087 2521,1103 2531,1096 2549,1098 2556,1000 2541,999 2535,991 2475,1014 2447,994 2393,1005"/>
+                <Baseline points="2400,1068 2427,1068 2455,1071 2482,1076 2510,1077 2538,1074"/>
+                <TextEquiv>
+                    <Unicode>77.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l8" custom="readingOrder {index:7;}">
+                <Coords points="1275,1313 1293,1314 1298,1309 1305,1316 1310,1311 1340,1317 1348,1310 1372,1313 1398,1303 1413,1306 1414,1241 1401,1241 1362,1222 1346,1230 1319,1224 1299,1231 1277,1223"/>
+                <Baseline points="1289,1296 1316,1299 1344,1300 1372,1299 1400,1299"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l9" custom="readingOrder {index:8;}">
+                <Coords points="741,1430 873,1454 1075,1403 1421,1433 1505,1381 1787,1420 1789,1345 1700,1309 1557,1328 1436,1276 1345,1319 1186,1271 1067,1310 748,1223"/>
+                <Baseline points="755,1352 806,1358 857,1362 908,1367 959,1371 1010,1373 1061,1376 1112,1377 1163,1379 1214,1379 1265,1380 1316,1380 1367,1382 1418,1382 1469,1383 1520,1383 1571,1385 1622,1386 1673,1389 1724,1391 1775,1395"/>
+                <TextEquiv>
+                    <Unicode>Rappein = 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l10" custom="readingOrder {index:9;}">
+                <Coords points="764,1704 1184,1668 1790,1739 2041,1673 2238,1733 2323,1701 2324,1556 2175,1515 1927,1550 1763,1491 1350,1550 1185,1485 765,1529"/>
+                <Baseline points="776,1619 852,1623 929,1626 1006,1628 1083,1629 1160,1631 1236,1631 1313,1631 1390,1631 1467,1631 1544,1631 1620,1631 1697,1631 1774,1631 1851,1631 1928,1632 2004,1634 2081,1635 2158,1638 2235,1642 2312,1646"/>
+                <TextEquiv>
+                    <Unicode>Schöllin Catp hinter 9 ao 1559</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAPzP_3l11" custom="readingOrder {index:10;}">
+                <Coords points="770,1911 1049,1956 1238,1907 1487,2018 1825,1924 2622,2004 2655,1852 1193,1770 1039,1818 777,1711"/>
+                <Baseline points="783,1875 875,1885 968,1894 1061,1901 1154,1907 1247,1911 1340,1916 1432,1919 1525,1922 1618,1924 1711,1926 1804,1928 1897,1929 1990,1931 2082,1933 2175,1935 2268,1938 2361,1941 2454,1945 2547,1950 2640,1956"/>
+                <TextEquiv>
+                    <Unicode>Schloster Joss Eig v Th v 15 neb 13 ao 1590</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Caspar Schöllis sel. nachgelassene Kinder, Besitzer
+von Hus &amp; Hoff Cantra Jorg Schlösser dem Rint
+zum Ratpen in Eschemervorstadt, wegen eines Lensters
+so der Bekl, um einer Behausung werthers grosser gemacht
+hat.
+Fünfergerichtsprot. 6.
+77.
+Th v
+Rappein = 15 neb 13
+Schöllin Catp hinter 9 ao 1559
+Schloster Joss Eig v Th v 15 neb 13 ao 1590</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

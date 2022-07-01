@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:31</Created>
+        <LastChange>2020-04-19T01:33:41.535+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869522" pageNr="57" tsid="27912767" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=TVFOGKLHUBXHGXSAYUOCSBSW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNCSHHYWZYNEASRKGVCREGOR" imageId="5736385"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_057.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rsBfy_1"/>
+                <RegionRefIndexed index="1" regionRef="r7vrn_3"/>
+                <RegionRefIndexed index="2" regionRef="rJ6kY_4"/>
+                <RegionRefIndexed index="3" regionRef="rMMqF_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rsBfy_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,608 617,608 617,1060 190,1060"/>
+            <TextLine id="rsBfy_1l1" custom="readingOrder {index:0;}">
+                <Coords points="188,772 255,784 315,766 329,781 349,767 468,772 525,812 561,808 583,799 587,621 508,643 477,628 460,645 436,622 405,631 381,609 357,618 269,594 191,626"/>
+                <Baseline points="201,752 227,749 254,747 280,746 307,746 333,746 360,746 386,747 413,749 439,749 466,752 492,752 519,755 545,756 572,756"/>
+                <TextEquiv>
+                    <Unicode>1/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rsBfy_1l2" custom="readingOrder {index:1;}">
+                <Coords points="252,923 286,926 300,937 339,914 367,935 387,931 474,953 479,831 431,839 408,814 382,810 360,824 350,816 321,844 306,836 287,850 256,834"/>
+                <Baseline points="266,882 294,886 322,889 351,890 379,891 408,891 436,891 465,893"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rsBfy_1l3" custom="readingOrder {index:2;}">
+                <Coords points="277,1047 304,1049 341,1019 360,1037 398,1034 428,1053 448,1051 454,936 424,944 393,938 387,930 370,937 323,905 310,917 284,913"/>
+                <Baseline points="291,1017 320,1019 349,1020 379,1022 408,1023 438,1025"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1/1518
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r7vrn_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,259 1939,259 1939,445 599,445"/>
+            <TextLine id="r7vrn_3l1" custom="readingOrder {index:0;}">
+                <Coords points="637,365 673,377 683,367 728,372 755,367 762,359 829,357 829,297 805,304 773,290 759,295 742,290 718,268 692,273 651,245 637,245"/>
+                <Baseline points="648,344 676,344 704,344 733,345 761,345 789,344 818,342"/>
+                <TextEquiv>
+                    <Unicode>1602.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7vrn_3l2" custom="readingOrder {index:1;}">
+                <Coords points="643,471 1586,468 1936,532 2500,475 2478,402 2068,367 1795,411 644,375"/>
+                <Baseline points="656,444 747,446 839,447 930,447 1022,449 1114,449 1205,450 1297,450 1389,450 1480,450 1572,450 1664,452 1755,452 1847,452 1939,452 2030,452 2122,453 2214,453 2305,453 2397,455 2489,455"/>
+                <TextEquiv>
+                    <Unicode>Ao 176. Johannes Märckht der Junger soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1602.
+Ao 176. Johannes Märckht der Junger soll</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rJ6kY_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="581,381 2643,381 2643,1523 581,1523"/>
+            <TextLine id="rJ6kY_4l1" custom="readingOrder {index:0;}">
+                <Coords points="705,585 2344,617 2646,566 2646,516 1415,465 705,518"/>
+                <Baseline points="716,554 811,554 907,554 1003,552 1099,552 1195,552 1291,552 1387,552 1483,552 1579,554 1675,554 1770,554 1866,554 1962,554 2058,554 2154,554 2250,554 2346,554 2442,552 2538,552 2634,551"/>
+                <TextEquiv>
+                    <Unicode>℔ 5 ß -ȡ auf Martinj vom Wirthohauß zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l2" custom="readingOrder {index:1;}">
+                <Coords points="652,719 707,723 748,697 808,708 887,695 998,704 1024,692 1026,594 988,591 958,614 942,604 898,616 858,581 789,587 758,568 702,593 654,595"/>
+                <Baseline points="665,654 691,654 718,654 745,654 772,654 798,656 825,656 852,656 879,656 905,657 932,657 959,659 986,659 1013,660"/>
+                <TextEquiv>
+                    <Unicode>Rappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l3" custom="readingOrder {index:2;}">
+                <Coords points="1200,884 1467,868 1559,910 1822,870 2193,892 2350,950 2493,895 2496,806 2051,844 1751,777 1203,807"/>
+                <Baseline points="1214,849 1277,851 1340,851 1404,853 1467,854 1530,856 1594,858 1657,860 1720,863 1784,864 1847,867 1910,870 1974,872 2037,874 2100,876 2164,879 2227,881 2290,882 2354,884 2417,885 2481,887"/>
+                <TextEquiv>
+                    <Unicode>Prectord der Schadasida. Stadt Ao1525.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l4" custom="readingOrder {index:3;}">
+                <Coords points="1583,979 1670,980 1719,1002 1780,970 1830,968 1872,988 1893,970 1929,974 1928,885 1877,875 1824,884 1802,873 1791,886 1764,882 1744,905 1644,871 1607,903 1580,907"/>
+                <Baseline points="1593,947 1620,948 1647,950 1674,950 1701,948 1728,947 1755,945 1782,943 1809,941 1836,939 1863,939 1890,938 1917,939"/>
+                <TextEquiv>
+                    <Unicode>23. 521.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l5" custom="readingOrder {index:4;}">
+                <Coords points="1150,1128 1196,1129 1225,1152 1266,1125 1291,1143 1334,1126 1362,1134 1374,1034 1324,1045 1303,1026 1285,1031 1257,1003 1249,1010 1206,987 1167,985"/>
+                <Baseline points="1166,1104 1192,1105 1218,1107 1244,1110 1271,1113 1297,1117 1323,1121 1350,1125"/>
+                <TextEquiv>
+                    <Unicode>20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l6" custom="readingOrder {index:5;}">
+                <Coords points="671,1251 1107,1195 1443,1236 1549,1193 1719,1204 1719,1111 1649,1101 990,1145 860,1085 671,1076"/>
+                <Baseline points="683,1155 734,1164 785,1171 836,1178 887,1181 938,1184 989,1185 1041,1187 1092,1187 1143,1185 1194,1184 1245,1182 1296,1181 1347,1178 1399,1176 1450,1175 1501,1173 1552,1172 1603,1172 1654,1172 1706,1173"/>
+                <TextEquiv>
+                    <Unicode>Kappen = 23 neben 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l7" custom="readingOrder {index:6;}">
+                <Coords points="1505,1334 1589,1347 1639,1323 1670,1345 1706,1326 1745,1350 1788,1353 1824,1334 1862,1353 1893,1327 1910,1330 1911,1241 1856,1245 1808,1223 1776,1245 1748,1230 1709,1249 1654,1232 1611,1246 1556,1195 1506,1217"/>
+                <Baseline points="1517,1328 1542,1328 1567,1328 1593,1328 1618,1328 1644,1328 1669,1326 1694,1326 1720,1326 1745,1326 1771,1326 1796,1328 1821,1329 1847,1329 1872,1331 1898,1334"/>
+                <TextEquiv>
+                    <Unicode>His neben 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rJ6kY_4l8" custom="readingOrder {index:7;}">
+                <Coords points="693,1432 1218,1417 1425,1480 1674,1407 2221,1445 2221,1334 2070,1312 1566,1358 826,1274 693,1324"/>
+                <Baseline points="704,1406 779,1413 854,1417 929,1419 1005,1422 1080,1422 1155,1424 1231,1422 1306,1421 1381,1421 1457,1419 1532,1418 1607,1416 1682,1415 1758,1415 1833,1416 1908,1416 1984,1419 2059,1423 2134,1427 2210,1434"/>
+                <TextEquiv>
+                    <Unicode>Markt Hs Eig v 15 seit 1658</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>℔ 5 ß -ȡ auf Martinj vom Wirthohauß zum
+Rappen
+Prectord der Schadasida. Stadt Ao1525.
+23. 521.
+20.
+Kappen = 23 neben 13
+His neben 13
+Markt Hs Eig v 15 seit 1658</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rMMqF_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2050,377 2240,377 2240,405 2050,405"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

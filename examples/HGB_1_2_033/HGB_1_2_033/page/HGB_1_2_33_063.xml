@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:31</Created>
+        <LastChange>2020-04-19T01:35:26.355+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869553" pageNr="63" tsid="27912861" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SQBQJVTLPXGVZDTAQAYEBVJD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TTNFVDGWXZIXPRIYINPBSXQG" imageId="5736416"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_063.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242873" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rBBFe_1"/>
+                <RegionRefIndexed index="1" regionRef="rBbUv_2"/>
+                <RegionRefIndexed index="2" regionRef="ruw3t_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rBBFe_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,683 624,683 624,1082 190,1082"/>
+            <TextLine id="rBBFe_1l1" custom="readingOrder {index:0;}">
+                <Coords points="189,828 211,836 233,824 287,854 334,855 383,826 429,847 447,835 500,853 540,846 542,738 507,743 466,722 416,744 368,703 331,720 287,702 225,740 191,722"/>
+                <Baseline points="201,815 226,813 251,813 276,812 301,812 326,813 351,813 377,815 402,815 427,816 452,816 477,818 502,818 528,816"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBBFe_1l2" custom="readingOrder {index:1;}">
+                <Coords points="265,955 305,956 319,945 337,958 365,951 380,966 405,967 416,981 438,976 498,992 512,895 416,902 376,874 344,867 325,847 280,851"/>
+                <Baseline points="281,939 306,942 332,944 358,947 384,951 410,954 436,958 462,963 488,968"/>
+                <TextEquiv>
+                    <Unicode>Eibeng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBBFe_1l3" custom="readingOrder {index:2;}">
+                <Coords points="301,1054 333,1053 399,1104 419,1093 453,1098 459,997 432,995 419,980 385,965 363,967 332,992 305,997"/>
+                <Baseline points="315,1037 340,1042 366,1044 392,1046 418,1046 444,1046"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+Eibeng
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rBbUv_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="621,272 1335,272 1335,416 621,416"/>
+            <TextLine id="rBbUv_2l1" custom="readingOrder {index:0;}">
+                <Coords points="649,407 965,379 1024,402 1088,377 1255,390 1301,378 1302,285 1201,324 1103,287 1046,316 978,298 902,342 784,302 649,341"/>
+                <Baseline points="660,369 691,369 723,369 754,369 786,369 817,369 849,369 880,369 912,369 943,369 975,369 1006,369 1038,369 1069,369 1101,369 1132,369 1164,371 1195,371 1227,371 1258,372 1290,372"/>
+                <TextEquiv>
+                    <Unicode>1719. Martini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1719. Martini.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="ruw3t_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="614,412 2628,412 2628,2125 614,2125"/>
+            <TextLine id="ruw3t_3l1" custom="readingOrder {index:0;}">
+                <Coords points="639,495 2624,504 2624,440 2423,385 2362,442 639,404"/>
+                <Baseline points="651,467 749,467 847,465 945,465 1043,465 1141,465 1239,465 1337,467 1435,467 1533,467 1632,468 1730,468 1828,468 1926,470 2024,470 2122,470 2220,470 2318,470 2416,470 2514,470 2613,470"/>
+                <TextEquiv>
+                    <Unicode>Thumprobstey, boonen und pfenning Zinse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l2" custom="readingOrder {index:1;}">
+                <Coords points="649,598 2499,623 2499,547 2124,489 1851,545 1554,483 1235,538 649,493"/>
+                <Baseline points="662,563 753,566 844,567 935,569 1026,570 1118,570 1209,570 1300,570 1391,570 1482,570 1574,570 1665,570 1756,570 1847,569 1938,569 2030,570 2121,570 2212,570 2303,572 2394,573 2486,576"/>
+                <TextEquiv>
+                    <Unicode>Item die wirtschafft zum Raaben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l3" custom="readingOrder {index:2;}">
+                <Coords points="653,698 1701,677 1895,738 2280,673 2420,732 2626,694 2627,591 1871,645 654,598"/>
+                <Baseline points="665,662 762,665 859,668 957,669 1054,671 1152,672 1249,672 1346,672 1444,672 1541,672 1639,671 1736,671 1833,671 1931,669 2028,669 2126,669 2223,671 2320,671 2418,672 2515,674 2613,677"/>
+                <TextEquiv>
+                    <Unicode>Eschemer vorstatt, deren jezige besitzerin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l4" custom="readingOrder {index:3;}">
+                <Coords points="653,819 2518,780 2631,834 2631,726 2521,696 653,699"/>
+                <Baseline points="666,767 763,768 861,768 958,770 1056,771 1154,771 1251,771 1349,771 1447,773 1544,773 1642,773 1740,773 1837,773 1935,773 2033,773 2130,773 2228,773 2326,773 2423,773 2521,773 2619,774"/>
+                <TextEquiv>
+                    <Unicode>h. Johann Marckhten seligen fr. wittib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l5" custom="readingOrder {index:4;}">
+                <Coords points="665,899 876,932 1001,882 1163,916 1391,875 1775,932 1961,879 2133,930 2132,822 2088,803 1197,835 910,782 665,823"/>
+                <Baseline points="677,866 749,868 821,870 893,870 965,872 1037,872 1109,872 1182,870 1254,870 1326,869 1398,867 1470,867 1542,866 1614,864 1687,864 1759,863 1831,863 1903,863 1975,864 2047,865 2120,867"/>
+                <TextEquiv>
+                    <Unicode>soll jährlich - 1 ℔ 2 ß. 65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l6" custom="readingOrder {index:5;}">
+                <Coords points="671,980 1047,1019 1120,975 1466,1015 1542,976 1962,1033 2013,1016 2014,886 1714,932 1503,887 1209,922 1093,889 968,938 806,884 671,899"/>
+                <Baseline points="683,962 748,963 814,965 880,965 946,966 1012,966 1078,966 1143,966 1209,966 1275,966 1341,965 1407,965 1473,965 1539,965 1604,963 1670,965 1736,965 1802,965 1868,966 1934,967 2000,969"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1720. Ebenso 1721.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l7" custom="readingOrder {index:6;}">
+                <Coords points="2134,991 2390,981 2519,1028 2588,1014 2639,1030 2641,915 2622,909 2589,926 2501,914 2410,930 2362,905 2332,924 2264,878 2229,880 2195,911 2136,905"/>
+                <Baseline points="2147,963 2172,965 2197,966 2222,966 2248,967 2273,968 2298,968 2323,968 2349,968 2374,969 2399,969 2424,969 2450,969 2475,970 2500,971 2525,971 2551,972 2576,972 2601,974 2627,975"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1722.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l8" custom="readingOrder {index:7;}">
+                <Coords points="655,1090 1639,1143 1843,1076 2505,1103 2550,1020 656,1009"/>
+                <Baseline points="668,1065 761,1067 855,1067 948,1067 1042,1067 1135,1067 1229,1067 1322,1067 1416,1067 1509,1067 1603,1067 1696,1068 1790,1068 1883,1068 1977,1068 2070,1070 2164,1071 2257,1072 2351,1074 2444,1076 2538,1077"/>
+                <TextEquiv>
+                    <Unicode>1723 die Wurthschaft zum Raben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l9" custom="readingOrder {index:8;}">
+                <Coords points="662,1207 2385,1195 2385,1119 1997,1090 1764,1139 662,1112"/>
+                <Baseline points="674,1164 758,1166 843,1167 928,1168 1013,1169 1098,1169 1183,1169 1268,1169 1353,1167 1438,1167 1523,1167 1607,1166 1692,1166 1777,1166 1862,1166 1947,1166 2032,1166 2117,1167 2202,1167 2287,1169 2372,1172"/>
+                <TextEquiv>
+                    <Unicode>Eschemer vorstatt - 1 ℔ 2 ß 63.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l10" custom="readingOrder {index:9;}">
+                <Coords points="650,1292 2512,1320 2618,1281 2618,1190 650,1191"/>
+                <Baseline points="662,1263 759,1265 856,1266 953,1268 1051,1268 1148,1268 1245,1268 1342,1268 1440,1268 1537,1268 1634,1268 1731,1268 1829,1268 1926,1268 2023,1268 2120,1268 2218,1268 2315,1269 2412,1269 2509,1271 2607,1272"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1724. Ebenso 1725. Ebenso 1726.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l11" custom="readingOrder {index:10;}">
+                <Coords points="651,1376 1134,1425 1272,1349 1394,1410 2540,1393 2474,1302 651,1293"/>
+                <Baseline points="662,1364 755,1364 848,1365 942,1365 1035,1365 1128,1367 1222,1367 1315,1366 1408,1365 1502,1365 1595,1365 1688,1365 1782,1364 1875,1364 1968,1364 2062,1364 2155,1364 2248,1364 2342,1365 2435,1365 2529,1367"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1727. Ebenso 1728. Ebenso 1729.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l12" custom="readingOrder {index:11;}">
+                <Coords points="647,1482 2534,1493 2498,1414 2152,1377 1722,1433 1450,1377 647,1404"/>
+                <Baseline points="659,1461 752,1463 845,1464 938,1466 1031,1466 1125,1466 1218,1466 1311,1466 1404,1466 1497,1466 1591,1464 1684,1464 1777,1464 1870,1463 1963,1463 2057,1463 2150,1463 2243,1464 2336,1466 2429,1467 2523,1469"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1730. Ebenso 1731. Ebenso 1732.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l13" custom="readingOrder {index:12;}">
+                <Coords points="640,1618 2495,1608 2478,1500 640,1496"/>
+                <Baseline points="653,1566 744,1566 836,1566 927,1568 1019,1568 1110,1568 1202,1568 1293,1568 1385,1566 1476,1566 1568,1566 1659,1566 1751,1565 1842,1565 1934,1565 2025,1565 2117,1565 2208,1565 2300,1565 2391,1565 2483,1566"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1733. Ebenso 1734. 1735/6 fehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l14" custom="readingOrder {index:13;}">
+                <Coords points="629,1695 707,1722 791,1680 928,1708 1043,1674 1321,1694 1321,1588 1191,1591 1080,1627 1004,1588 629,1614"/>
+                <Baseline points="641,1668 674,1670 707,1670 741,1670 774,1670 807,1670 841,1670 874,1670 907,1671 941,1671 974,1671 1007,1671 1041,1671 1074,1671 1107,1671 1141,1671 1174,1671 1207,1671 1241,1671 1274,1671 1308,1671"/>
+                <TextEquiv>
+                    <Unicode>1736 wie oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l15" custom="readingOrder {index:14;}">
+                <Coords points="1622,1866 1812,1899 1892,1871 2031,1899 2179,1870 2323,1905 2402,1894 2404,1774 2190,1802 2103,1738 2009,1758 1624,1743"/>
+                <Baseline points="1634,1850 1671,1851 1709,1851 1747,1853 1785,1853 1823,1854 1860,1854 1898,1856 1936,1856 1974,1857 2012,1857 2049,1859 2087,1859 2125,1860 2163,1862 2201,1862 2238,1863 2276,1863 2314,1865 2352,1865 2390,1866"/>
+                <TextEquiv>
+                    <Unicode>DDDA5 ADT DDTDTADEDB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ruw3t_3l16" custom="readingOrder {index:15;}">
+                <Coords points="1623,1983 1788,1978 1841,2006 1987,1970 2156,1970 2372,2003 2396,1994 2398,1913 1971,1883 1931,1907 1861,1874 1806,1903 1689,1873 1625,1892"/>
+                <Baseline points="1637,1937 1674,1939 1711,1941 1749,1943 1786,1944 1823,1946 1861,1947 1898,1947 1935,1949 1973,1949 2010,1950 2047,1950 2085,1950 2122,1950 2159,1950 2197,1952 2234,1952 2271,1952 2309,1952 2346,1952 2384,1953"/>
+                <TextEquiv>
+                    <Unicode>Do NSE TANSTADTEUDDDB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thumprobstey, boonen und pfenning Zinse.
+Item die wirtschafft zum Raaben in
+Eschemer vorstatt, deren jezige besitzerin
+h. Johann Marckhten seligen fr. wittib
+soll jährlich - 1 ℔ 2 ß. 65
+Ebenso 1720. Ebenso 1721.
+Ebenso 1722.
+1723 die Wurthschaft zum Raben in
+Eschemer vorstatt - 1 ℔ 2 ß 63.
+Ebenso 1724. Ebenso 1725. Ebenso 1726.
+Ebenso 1727. Ebenso 1728. Ebenso 1729.
+Ebenso 1730. Ebenso 1731. Ebenso 1732.
+Ebenso 1733. Ebenso 1734. 1735/6 fehlt.
+1736 wie oben.
+DDDA5 ADT DDTDTADEDB.
+Do NSE TANSTADTEUDDDB.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

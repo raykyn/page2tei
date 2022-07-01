@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:44</Created>
+        <LastChange>2020-04-19T01:26:09.244+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869410" pageNr="30" tsid="27912547" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KPHFTJMJNPHQYLAEZRNXJQGD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THFSWTACIUHYGKYKGIYTQARJ" imageId="5736273"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_030.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242838" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rRUs5_1"/>
+                <RegionRefIndexed index="1" regionRef="rXhVU_3"/>
+                <RegionRefIndexed index="2" regionRef="r2Fwv_4"/>
+                <RegionRefIndexed index="3" regionRef="rhpzL_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rRUs5_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="219,849 628,849 628,1283 219,1283"/>
+            <TextLine id="rRUs5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="236,1052 374,1040 465,991 505,1024 549,1035 595,1015 604,894 535,879 491,903 400,874 334,895 283,874 247,893"/>
+                <Baseline points="254,978 279,981 304,981 330,985 355,987 381,990 406,992 432,995 457,996 483,998 508,999 534,999 559,999 585,998"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRUs5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="300,1129 327,1144 345,1134 354,1142 389,1142 414,1129 452,1150 459,1142 469,1150 491,1140 521,1145 522,1045 479,1053 462,1035 402,1035 377,1052 352,1042 300,1047"/>
+                <Baseline points="311,1119 339,1122 367,1124 396,1124 424,1124 453,1124 481,1122 510,1121"/>
+                <TextEquiv>
+                    <Unicode>heiseng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRUs5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="324,1311 344,1309 404,1268 414,1273 464,1266 474,1277 486,1277 489,1150 471,1150 462,1142 451,1149 427,1146 399,1166 374,1160 354,1180 326,1179"/>
+                <Baseline points="339,1232 366,1236 393,1238 420,1239 447,1237 474,1235"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+heiseng
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rXhVU_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1001,205 2240,205 2240,410 1001,410"/>
+            <TextLine id="rXhVU_3l1" custom="readingOrder {index:0;}">
+                <Coords points="1228,380 2094,396 2111,274 1806,325 1229,295"/>
+                <Baseline points="1241,356 1283,356 1326,356 1369,356 1412,356 1454,356 1497,357 1540,357 1583,357 1625,357 1668,359 1711,359 1754,360 1796,360 1839,360 1882,362 1925,363 1967,363 2010,365 2053,366 2096,368"/>
+                <TextEquiv>
+                    <Unicode>AOttib DD Abr SEDDDDD SEAib.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AOttib DD Abr SEDDDDD SEAib.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2Fwv_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="610,375 2686,375 2686,1457 610,1457"/>
+            <TextLine id="r2Fwv_4l1" custom="readingOrder {index:0;}">
+                <Coords points="703,477 728,481 772,458 806,466 824,462 838,475 846,471 870,485 890,486 894,411 872,405 859,414 832,412 808,391 778,404 754,382 726,398 708,399"/>
+                <Baseline points="716,453 743,452 770,453 797,455 824,458 851,459 878,462"/>
+                <TextEquiv>
+                    <Unicode>1583</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l2" custom="readingOrder {index:1;}">
+                <Coords points="711,601 2542,613 2542,516 2254,460 1832,520 1554,436 1295,522 1059,416 712,512"/>
+                <Baseline points="725,546 815,549 905,552 995,554 1085,555 1176,555 1266,557 1356,557 1446,557 1536,557 1627,557 1717,557 1807,557 1897,557 1987,557 2078,558 2168,558 2258,558 2348,560 2438,561 2529,563"/>
+                <TextEquiv>
+                    <Unicode>Jerz Schlöster, der Wirth zu dem Rappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l3" custom="readingOrder {index:2;}">
+                <Coords points="737,675 1146,662 1215,702 1519,669 1651,702 1686,689 1686,580 1424,577 1340,620 1021,560 904,627 737,602"/>
+                <Baseline points="750,653 796,653 842,653 888,653 934,653 981,653 1027,654 1073,654 1119,656 1165,656 1212,656 1258,657 1304,657 1350,657 1396,656 1443,656 1489,655 1535,654 1581,652 1627,650 1674,647"/>
+                <TextEquiv>
+                    <Unicode>in Escheinerforstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l4" custom="readingOrder {index:3;}">
+                <Coords points="772,807 2467,780 2467,628 1867,720 1113,665 1031,713 896,660 772,707"/>
+                <Baseline points="783,752 866,752 950,752 1033,752 1117,752 1200,752 1284,752 1367,752 1451,752 1534,752 1618,752 1702,752 1785,752 1869,752 1952,752 2036,752 2119,752 2203,752 2286,753 2370,753 2454,753"/>
+                <TextEquiv>
+                    <Unicode>forhin Jacob Nico (1592.) und Martin Strieff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l5" custom="readingOrder {index:4;}">
+                <Coords points="677,901 2694,912 2694,825 2406,772 2266,831 1942,753 1738,822 677,794"/>
+                <Baseline points="690,855 789,854 889,854 988,854 1088,852 1187,852 1287,852 1386,852 1486,852 1585,852 1685,852 1785,852 1884,854 1984,854 2083,855 2183,855 2282,857 2382,857 2481,858 2581,860 2681,860"/>
+                <TextEquiv>
+                    <Unicode>Geben fehrlichen von dem Haous in Goutteren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l6" custom="readingOrder {index:5;}">
+                <Coords points="662,1012 1235,966 2176,1019 2614,976 2614,901 662,912"/>
+                <Baseline points="674,957 770,957 866,956 963,956 1059,956 1155,956 1252,956 1348,956 1444,954 1541,954 1637,954 1733,954 1830,954 1926,954 2022,954 2119,954 2215,954 2311,954 2408,953 2504,953 2601,953"/>
+                <TextEquiv>
+                    <Unicode>zu dem Kappen, wie es in dem Jo Jor Buch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l7" custom="readingOrder {index:6;}">
+                <Coords points="670,1078 1330,1102 1594,1067 1896,1107 1973,1092 1973,977 670,1021"/>
+                <Baseline points="683,1053 746,1055 810,1058 874,1058 938,1059 1002,1059 1066,1059 1130,1059 1194,1059 1258,1059 1322,1058 1385,1058 1449,1057 1513,1056 1577,1056 1641,1056 1705,1056 1769,1056 1833,1057 1897,1058 1961,1059"/>
+                <TextEquiv>
+                    <Unicode>in geschriben ist, 3 ℔ 14 ß 6ib.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l8" custom="readingOrder {index:7;}">
+                <Coords points="718,1185 766,1193 816,1167 923,1191 985,1169 1139,1181 1141,1081 1108,1091 1076,1071 1011,1065 966,1092 939,1081 891,1100 854,1095 820,1060 770,1086 720,1068"/>
+                <Baseline points="732,1149 758,1149 784,1149 811,1149 837,1149 863,1149 890,1149 916,1149 942,1149 969,1151 995,1151 1021,1151 1048,1152 1074,1153 1100,1154 1127,1154"/>
+                <TextEquiv>
+                    <Unicode>O531 DDD 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2Fwv_4l9" custom="readingOrder {index:8;}">
+                <Coords points="1765,1336 1824,1354 1867,1332 1988,1351 2088,1327 2210,1354 2245,1334 2277,1357 2345,1333 2345,1278 2308,1300 2131,1270 1987,1286 1908,1230 1885,1253 1833,1237 1766,1251"/>
+                <Baseline points="1776,1322 1803,1323 1831,1323 1859,1324 1887,1325 1915,1326 1943,1326 1970,1328 1998,1328 2026,1329 2054,1329 2082,1329 2110,1329 2138,1331 2165,1331 2193,1330 2221,1329 2249,1329 2277,1329 2305,1328 2333,1326"/>
+                <TextEquiv>
+                    <Unicode>St DDD = Corbado</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1583
+Jerz Schlöster, der Wirth zu dem Rappen
+in Escheinerforstatt
+forhin Jacob Nico (1592.) und Martin Strieff
+Geben fehrlichen von dem Haous in Goutteren
+zu dem Kappen, wie es in dem Jo Jor Buch
+in geschriben ist, 3 ℔ 14 ß 6ib.
+O531 DDD 7
+St DDD = Corbado</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rhpzL_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2352,307 2427,307 2427,375 2352,375"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

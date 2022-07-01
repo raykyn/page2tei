@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:44</Created>
+        <LastChange>2020-04-19T01:37:52.926+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869603" pageNr="72" tsid="27912979" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=OOAPBMYOLUDKRAUJPMJJHRUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJHVCSIHFMPXKDYOVKTEXVGN" imageId="5736466"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_072.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242882" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r8FVc_1"/>
+                <RegionRefIndexed index="1" regionRef="rwaUO_3"/>
+                <RegionRefIndexed index="2" regionRef="rRJmy_4"/>
+                <RegionRefIndexed index="3" regionRef="ryQUU_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r8FVc_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="175,661 653,661 653,1148 175,1148"/>
+            <TextLine id="r8FVc_1l1" custom="readingOrder {index:0;}">
+                <Coords points="306,715 345,733 420,728 431,741 478,744 489,757 525,760 536,612 461,612 439,596 417,597 397,578 377,594 314,599"/>
+                <Baseline points="317,714 345,716 373,717 401,719 430,722 458,725 486,726 515,726"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8FVc_1l2" custom="readingOrder {index:1;}">
+                <Coords points="178,890 212,881 240,901 267,887 321,913 355,890 410,884 560,909 594,893 598,731 532,760 458,768 323,719 253,751 182,747"/>
+                <Baseline points="192,867 218,867 244,866 270,867 296,867 322,868 348,869 374,870 400,872 426,872 452,873 478,875 504,875 530,874 556,873 582,872"/>
+                <TextEquiv>
+                    <Unicode>15/1537</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8FVc_1l3" custom="readingOrder {index:2;}">
+                <Coords points="287,1051 314,1046 337,1029 342,1034 368,1014 392,1014 414,1029 421,1021 440,1026 457,1014 483,1014 483,954 468,957 409,938 370,962 347,953 332,962 311,960 301,950 287,953"/>
+                <Baseline points="300,1004 328,1004 356,1005 385,1005 413,1005 441,1004 470,1002"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8FVc_1l4" custom="readingOrder {index:3;}">
+                <Coords points="292,1162 318,1166 350,1145 366,1153 388,1147 420,1172 439,1170 444,1051 415,1052 364,1031 349,1038 342,1033 318,1049 296,1045"/>
+                <Baseline points="306,1106 336,1109 367,1112 398,1113 429,1109"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1537
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rwaUO_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,255 1005,255 1005,392 642,392"/>
+            <TextLine id="rwaUO_3l1" custom="readingOrder {index:0;}">
+                <Coords points="673,353 687,354 699,367 728,361 763,368 797,360 808,367 828,359 851,384 865,384 869,308 821,301 812,293 776,299 690,249 678,249"/>
+                <Baseline points="686,351 714,350 742,350 770,352 798,355 826,356 854,357"/>
+                <TextEquiv>
+                    <Unicode>2803.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2803.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rRJmy_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="646,360 2643,360 2643,1877 646,1877"/>
+            <TextLine id="rRJmy_4l1" custom="readingOrder {index:0;}">
+                <Coords points="715,509 2586,523 2648,516 2648,356 2290,427 2076,384 1749,434 1379,340 715,392"/>
+                <Baseline points="728,462 823,463 918,464 1014,465 1109,465 1205,465 1300,465 1395,465 1491,465 1586,465 1682,465 1777,465 1872,465 1968,465 2063,465 2159,465 2254,465 2349,465 2445,465 2540,467 2636,467"/>
+                <TextEquiv>
+                    <Unicode>Herr Felix Battier, der Handelsmann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l2" custom="readingOrder {index:1;}">
+                <Coords points="656,605 1832,582 2171,648 2565,590 2081,485 1975,547 656,485"/>
+                <Baseline points="668,564 762,564 856,566 950,566 1044,567 1139,567 1233,567 1327,567 1421,567 1515,567 1610,567 1704,567 1798,568 1892,569 1986,569 2081,570 2175,570 2269,572 2363,573 2457,575 2552,578"/>
+                <TextEquiv>
+                    <Unicode>1795. Herr Christoff de Mathias Ebinger, des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l3" custom="readingOrder {index:2;}">
+                <Coords points="1212,692 1370,684 1417,723 1475,693 1745,680 1783,704 1826,683 2110,706 2111,623 2028,595 1903,632 1624,583 1469,626 1214,582"/>
+                <Baseline points="1226,656 1269,657 1313,657 1356,659 1400,659 1444,660 1487,660 1531,660 1575,660 1618,662 1662,662 1706,662 1749,662 1793,663 1837,663 1880,663 1924,665 1968,666 2011,668 2055,669 2099,671"/>
+                <TextEquiv>
+                    <Unicode>Grossen Raths, soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l4" custom="readingOrder {index:3;}">
+                <Coords points="692,782 1116,835 1463,775 1606,833 1704,781 2625,808 2578,681 2007,740 693,691"/>
+                <Baseline points="705,761 800,761 895,762 991,762 1086,762 1181,762 1277,762 1372,762 1467,762 1563,764 1658,764 1753,764 1849,764 1944,765 2039,765 2135,767 2230,768 2325,770 2421,771 2516,773 2612,774"/>
+                <TextEquiv>
+                    <Unicode>1 ℔ 5ß bis jährlich auf Martini, den 1. Norp,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l5" custom="readingOrder {index:4;}">
+                <Coords points="693,893 977,866 1633,940 1838,884 2459,886 2400,802 2118,790 1932,839 1223,791 1137,838 693,831"/>
+                <Baseline points="704,864 791,864 878,864 965,864 1052,864 1139,864 1226,864 1314,864 1401,866 1488,866 1575,867 1662,867 1749,868 1836,869 1924,870 2011,870 2098,872 2185,873 2272,873 2359,875 2447,875"/>
+                <TextEquiv>
+                    <Unicode>von seiner Behausung zum Kappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l6" custom="readingOrder {index:5;}">
+                <Coords points="692,981 1014,1022 1205,958 1315,1002 2477,970 2477,925 2117,877 1993,928 1475,896 1380,938 1072,881 693,924"/>
+                <Baseline points="704,960 792,960 880,960 968,962 1056,962 1144,962 1232,962 1320,963 1408,963 1496,965 1584,965 1672,966 1760,966 1848,968 1936,968 2024,969 2112,969 2200,970 2288,971 2376,971 2465,972"/>
+                <TextEquiv>
+                    <Unicode>oder Raben in der Stescheiner Porstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l7" custom="readingOrder {index:6;}">
+                <Coords points="701,1121 1706,1074 1956,1146 2247,1106 2247,975 1672,964 1522,1038 1305,992 1243,1034 701,1026"/>
+                <Baseline points="713,1061 789,1064 865,1065 941,1065 1017,1067 1093,1067 1169,1066 1245,1065 1321,1065 1397,1065 1474,1064 1550,1064 1626,1064 1702,1064 1778,1064 1854,1064 1930,1065 2006,1067 2082,1068 2158,1072 2235,1076"/>
+                <TextEquiv>
+                    <Unicode>gelegen, jer Bohnen &amp; Pfeningzins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l8" custom="readingOrder {index:7;}">
+                <Coords points="939,1214 1091,1180 1234,1212 1335,1160 1580,1221 1657,1191 1740,1206 1760,1096 1691,1074 1569,1138 1491,1087 1383,1122 1326,1079 1199,1116 1047,1079 939,1128"/>
+                <Baseline points="951,1160 990,1160 1030,1160 1070,1160 1110,1158 1150,1158 1190,1158 1230,1158 1270,1158 1310,1160 1350,1160 1389,1160 1429,1160 1469,1161 1509,1161 1549,1162 1589,1163 1629,1163 1669,1164 1709,1164 1749,1166"/>
+                <TextEquiv>
+                    <Unicode>1806 losgekauft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l9" custom="readingOrder {index:8;}">
+                <Coords points="1505,1283 1708,1306 1772,1282 1848,1302 1932,1278 1984,1302 2061,1281 2152,1291 2152,1234 2052,1216 1992,1233 1873,1197 1794,1239 1505,1205"/>
+                <Baseline points="1517,1268 1548,1268 1579,1267 1610,1266 1641,1266 1672,1266 1703,1266 1734,1266 1765,1266 1796,1268 1828,1268 1859,1268 1890,1268 1921,1268 1952,1269 1983,1269 2014,1269 2045,1269 2076,1269 2107,1268 2139,1268"/>
+                <TextEquiv>
+                    <Unicode>Do SESEl ObTADDEDES.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l10" custom="readingOrder {index:9;}">
+                <Coords points="1660,1382 1722,1389 1824,1357 1862,1372 1888,1356 2034,1368 2031,1297 1913,1291 1888,1309 1795,1318 1756,1294 1740,1306 1656,1294"/>
+                <Baseline points="1670,1358 1695,1359 1720,1359 1745,1358 1770,1358 1795,1357 1820,1356 1845,1355 1870,1353 1895,1351 1920,1350 1945,1348 1970,1346 1995,1344 2021,1343"/>
+                <TextEquiv>
+                    <Unicode>2ao 1124.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l11" custom="readingOrder {index:10;}">
+                <Coords points="1354,1520 1368,1523 1390,1511 1413,1531 1461,1519 1476,1505 1491,1506 1494,1413 1482,1412 1460,1428 1429,1422 1422,1429 1415,1424 1410,1429 1394,1416 1358,1422"/>
+                <Baseline points="1367,1509 1394,1508 1422,1509 1450,1511 1478,1512"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l12" custom="readingOrder {index:11;}">
+                <Coords points="761,1579 884,1632 1300,1608 1478,1637 1569,1606 1691,1636 1873,1586 1874,1486 1740,1532 1497,1489 1291,1541 762,1462"/>
+                <Baseline points="773,1572 827,1572 881,1573 936,1574 990,1574 1044,1575 1099,1576 1153,1577 1207,1578 1262,1578 1316,1580 1370,1580 1425,1581 1479,1581 1533,1581 1588,1582 1642,1583 1696,1583 1751,1583 1805,1581 1860,1581"/>
+                <TextEquiv>
+                    <Unicode>Rapprung = 25 al 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rRJmy_4l13" custom="readingOrder {index:12;}">
+                <Coords points="776,1827 1220,1800 1327,1845 1488,1786 1637,1863 1989,1781 2396,1863 2399,1696 778,1703"/>
+                <Baseline points="789,1764 868,1771 948,1775 1028,1779 1108,1779 1187,1779 1267,1779 1347,1776 1427,1775 1506,1773 1586,1772 1666,1770 1746,1770 1825,1770 1905,1773 1985,1776 2065,1783 2144,1792 2224,1803 2304,1818 2384,1835"/>
+                <TextEquiv>
+                    <Unicode>Ebinger Chr Eig v 25 ao 1798</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr Felix Battier, der Handelsmann,
+1795. Herr Christoff de Mathias Ebinger, des
+Grossen Raths, soll
+1 ℔ 5ß bis jährlich auf Martini, den 1. Norp,
+von seiner Behausung zum Kappen
+oder Raben in der Stescheiner Porstatt
+gelegen, jer Bohnen &amp; Pfeningzins.
+1806 losgekauft.
+Do SESEl ObTADDEDES.
+2ao 1124.
+Th v
+Rapprung = 25 al 13.
+Ebinger Chr Eig v 25 ao 1798</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="ryQUU_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2258,329 2485,329 2485,388 2258,388"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:50</Created>
+        <LastChange>2020-04-19T01:37:14.072+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869593" pageNr="70" tsid="27912959" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KGUPYACBZDHDISCKDVPWBHEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TWXHMHUYPKOPVKEROXAOHVHB" imageId="5736456"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_070.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242880" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rywiU_1"/>
+                <RegionRefIndexed index="1" regionRef="rIABZ_3"/>
+                <RegionRefIndexed index="2" regionRef="rVWSt_4"/>
+                <RegionRefIndexed index="3" regionRef="r1qxP_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rywiU_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="161,722 624,722 624,1244 161,1244"/>
+            <TextLine id="rywiU_1l1" custom="readingOrder {index:0;}">
+                <Coords points="261,760 311,750 325,761 415,756 442,773 480,739 502,740 510,599 452,599 429,619 411,609 374,619 362,609 269,622"/>
+                <Baseline points="278,737 303,739 329,741 355,744 381,747 407,749 433,749 459,748 485,746"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rywiU_1l2" custom="readingOrder {index:1;}">
+                <Coords points="185,1047 247,1039 305,1061 333,1034 382,1028 468,1057 576,1050 577,911 455,897 412,857 366,847 188,891"/>
+                <Baseline points="200,995 225,993 251,990 277,989 303,988 328,987 354,987 380,987 406,988 432,989 457,990 483,992 509,995 535,996 561,999"/>
+                <TextEquiv>
+                    <Unicode>13/158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rywiU_1l3" custom="readingOrder {index:2;}">
+                <Coords points="281,1088 299,1089 320,1108 357,1106 384,1126 440,1115 467,1138 491,1129 516,1133 519,1047 466,1058 430,1035 417,1041 406,1031 390,1043 356,1026 332,1035 302,1009 283,1008"/>
+                <Baseline points="296,1095 321,1095 347,1097 372,1097 398,1098 424,1100 449,1100 475,1101 501,1100"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rywiU_1l4" custom="readingOrder {index:3;}">
+                <Coords points="293,1217 339,1227 354,1239 370,1227 385,1240 416,1231 434,1240 471,1228 472,1118 429,1114 417,1123 374,1126 353,1116 322,1138 294,1131"/>
+                <Baseline points="308,1212 337,1215 367,1215 396,1214 426,1214 456,1217"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+13/158
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rIABZ_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="614,268 1005,268 1005,410 614,410"/>
+            <TextLine id="rIABZ_3l1" custom="readingOrder {index:0;}">
+                <Coords points="646,383 714,382 732,398 760,383 799,391 843,383 845,300 814,302 757,272 744,284 726,284 704,305 686,289 649,288"/>
+                <Baseline points="663,353 690,354 718,355 745,356 773,356 800,357 828,359"/>
+                <TextEquiv>
+                    <Unicode>1800.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1800.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rVWSt_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="599,368 2643,368 2643,1940 599,1940"/>
+            <TextLine id="rVWSt_4l1" custom="readingOrder {index:0;}">
+                <Coords points="783,467 922,504 1244,464 1296,498 1438,464 1856,495 2022,462 2022,360 1011,326 783,390"/>
+                <Baseline points="800,456 860,458 920,458 980,459 1041,459 1101,459 1161,459 1222,459 1282,459 1342,459 1403,459 1463,459 1523,459 1583,459 1644,459 1704,458 1764,458 1825,458 1885,459 1945,459 2006,459"/>
+                <TextEquiv>
+                    <Unicode>Herr Johannes Märckht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l2" custom="readingOrder {index:1;}">
+                <Coords points="609,632 925,568 2551,619 2489,511 2173,487 609,482"/>
+                <Baseline points="623,575 718,570 814,566 909,563 1005,561 1100,560 1196,560 1291,558 1387,558 1482,560 1578,560 1674,561 1769,561 1865,563 1960,563 2056,564 2151,564 2247,564 2342,564 2438,564 2534,563"/>
+                <TextEquiv>
+                    <Unicode>Gartor.) Herr Felix Battier der Handelsmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l3" custom="readingOrder {index:2;}">
+                <Coords points="934,699 2031,679 2209,714 2261,696 2262,616 934,600"/>
+                <Baseline points="948,659 1016,658 1084,657 1153,657 1221,657 1289,657 1358,659 1426,659 1494,659 1563,659 1631,660 1700,660 1768,661 1836,662 1905,662 1973,662 2041,662 2110,662 2178,662 2247,662"/>
+                <TextEquiv>
+                    <Unicode>und des grossen Raths soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l4" custom="readingOrder {index:3;}">
+                <Coords points="738,792 1641,767 1985,822 2280,760 2437,815 2551,797 2551,680 2185,730 2062,680 738,688"/>
+                <Baseline points="753,761 842,759 931,759 1020,758 1109,758 1198,758 1287,758 1376,758 1465,759 1554,759 1644,759 1733,759 1822,759 1911,759 2000,759 2089,759 2178,759 2267,758 2356,758 2445,756 2535,755"/>
+                <TextEquiv>
+                    <Unicode>℔ 5ß - ȡ Jährlichen auf Martini vom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l5" custom="readingOrder {index:4;}">
+                <Coords points="146,840 566,915 2634,902 2626,791 933,819 147,717"/>
+                <Baseline points="161,825 283,833 406,841 529,846 652,851 775,855 898,858 1020,860 1143,861 1266,863 1389,863 1512,863 1635,862 1758,861 1880,861 2003,860 2126,860 2249,858 2372,858 2495,860 2618,860"/>
+                <TextEquiv>
+                    <Unicode>Ceschnart Wirthshauß zum Rappen in der Eschener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l6" custom="readingOrder {index:5;}">
+                <Coords points="666,1019 1305,959 2067,1035 2494,1000 2494,920 665,896"/>
+                <Baseline points="681,965 770,963 860,963 950,962 1040,962 1130,962 1220,960 1309,960 1399,960 1489,960 1579,960 1669,960 1759,960 1849,960 1938,960 2028,960 2118,960 2208,960 2298,960 2388,960 2478,959"/>
+                <TextEquiv>
+                    <Unicode>Vorstatt, zwischen dem Parddyß und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l7" custom="readingOrder {index:6;}">
+                <Coords points="637,1091 2508,1118 2527,998 2041,1033 1863,980 1734,1038 1363,965 637,1020"/>
+                <Baseline points="653,1053 745,1055 838,1056 931,1058 1024,1059 1117,1059 1210,1061 1303,1061 1396,1061 1489,1062 1582,1062 1674,1062 1767,1062 1860,1062 1953,1062 2046,1062 2139,1064 2232,1064 2325,1064 2418,1064 2511,1065"/>
+                <TextEquiv>
+                    <Unicode>Mr Heinrich Salate dem Schuemacher ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l8" custom="readingOrder {index:7;}">
+                <Coords points="657,1183 1726,1229 2249,1183 2381,1245 2517,1123 658,1097"/>
+                <Baseline points="672,1154 763,1157 854,1158 946,1160 1037,1161 1129,1163 1220,1163 1312,1164 1403,1164 1495,1164 1586,1166 1677,1166 1769,1166 1860,1166 1952,1166 2043,1166 2135,1166 2226,1166 2318,1166 2409,1167 2501,1167"/>
+                <TextEquiv>
+                    <Unicode>legen, hinten aber an den Wittenberger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l9" custom="readingOrder {index:8;}">
+                <Coords points="644,1290 819,1345 991,1292 1301,1341 1301,1197 1236,1185 1181,1209 1129,1188 1089,1216 1055,1191 951,1222 874,1179 834,1200 788,1179 745,1213 711,1191 643,1222"/>
+                <Baseline points="660,1262 691,1265 722,1265 753,1266 785,1266 816,1266 847,1266 879,1266 910,1266 941,1265 973,1263 1004,1263 1035,1263 1066,1262 1098,1262 1129,1262 1160,1263 1192,1263 1223,1265 1254,1268 1286,1271"/>
+                <TextEquiv>
+                    <Unicode>Hoff stossendt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l10" custom="readingOrder {index:9;}">
+                <Coords points="1223,1527 1846,1451 2458,1502 2490,1354 2365,1404 1698,1379 1594,1422 1483,1371 1221,1376"/>
+                <Baseline points="1236,1451 1301,1451 1366,1449 1431,1449 1496,1448 1562,1448 1627,1448 1692,1446 1757,1446 1822,1445 1888,1445 1953,1445 2018,1443 2083,1443 2148,1443 2214,1443 2279,1442 2344,1442 2409,1442 2475,1442"/>
+                <TextEquiv>
+                    <Unicode>Dooctorum der Schatzeer. Stadt o1445.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l11" custom="readingOrder {index:10;}">
+                <Coords points="1721,1545 1786,1562 1859,1535 1887,1550 1915,1531 1943,1552 1961,1533 1985,1532 2050,1555 2075,1548 2073,1459 2020,1451 1925,1463 1897,1448 1867,1464 1854,1452 1845,1462 1805,1453 1719,1471"/>
+                <Baseline points="1736,1535 1762,1537 1789,1539 1816,1539 1843,1538 1870,1538 1897,1536 1923,1535 1950,1533 1977,1532 2004,1532 2031,1532 2058,1533"/>
+                <TextEquiv>
+                    <Unicode>tol. 852.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l12" custom="readingOrder {index:11;}">
+                <Coords points="1194,1620 1215,1615 1260,1639 1289,1612 1323,1609 1355,1591 1383,1598 1374,1481 1339,1478 1284,1517 1277,1511 1245,1526 1222,1550 1189,1556"/>
+                <Baseline points="1209,1605 1235,1607 1262,1606 1288,1605 1315,1602 1341,1597 1368,1593"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l13" custom="readingOrder {index:12;}">
+                <Coords points="1290,1692 1364,1696 1419,1680 1460,1704 1478,1694 1537,1733 1574,1717 1617,1735 1659,1691 1690,1690 1688,1580 1574,1579 1534,1595 1454,1572 1427,1588 1402,1579 1372,1604 1353,1586 1289,1612"/>
+                <Baseline points="1305,1683 1331,1682 1357,1680 1384,1680 1410,1679 1436,1679 1463,1677 1489,1677 1515,1677 1542,1677 1568,1676 1594,1676 1621,1676 1647,1676 1674,1676"/>
+                <TextEquiv>
+                    <Unicode>15 neben 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l14" custom="readingOrder {index:13;}">
+                <Coords points="671,1695 846,1728 886,1703 926,1735 979,1701 1061,1749 1113,1734 1215,1753 1280,1723 1281,1628 1078,1617 1044,1635 921,1599 832,1611 762,1548 673,1532"/>
+                <Baseline points="686,1671 715,1672 744,1674 773,1675 802,1677 831,1677 860,1679 889,1679 918,1680 947,1680 976,1680 1005,1682 1034,1682 1063,1682 1092,1682 1121,1680 1150,1680 1179,1680 1208,1679 1237,1679 1266,1677"/>
+                <TextEquiv>
+                    <Unicode>Rappun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l15" custom="readingOrder {index:14;}">
+                <Coords points="1623,1821 1673,1812 1703,1828 1771,1787 1799,1803 1824,1791 1906,1833 1995,1807 2047,1836 2078,1821 2080,1735 2040,1716 2003,1740 1960,1748 1923,1729 1874,1752 1822,1720 1733,1719 1682,1677 1626,1685"/>
+                <Baseline points="1640,1800 1666,1797 1693,1794 1719,1793 1746,1791 1772,1791 1799,1791 1825,1791 1852,1791 1878,1793 1905,1795 1931,1796 1958,1797 1984,1799 2011,1802 2037,1804 2064,1805"/>
+                <TextEquiv>
+                    <Unicode>Th v neben 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVWSt_4l16" custom="readingOrder {index:15;}">
+                <Coords points="656,1892 1538,1952 1646,1892 2383,1923 2384,1803 2286,1781 2042,1840 1773,1788 1069,1819 818,1716 658,1733"/>
+                <Baseline points="671,1863 755,1865 840,1866 925,1869 1010,1871 1095,1872 1180,1874 1265,1875 1350,1877 1435,1877 1520,1878 1604,1878 1689,1880 1774,1880 1859,1880 1944,1880 2029,1880 2114,1880 2199,1878 2284,1878 2369,1877"/>
+                <TextEquiv>
+                    <Unicode>Battier Felix Eg v 15 seit 1763</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Herr Johannes Märckht
+Gartor.) Herr Felix Battier der Handelsmann
+und des grossen Raths soll
+℔ 5ß - ȡ Jährlichen auf Martini vom
+Ceschnart Wirthshauß zum Rappen in der Eschener
+Vorstatt, zwischen dem Parddyß und
+Mr Heinrich Salate dem Schuemacher ge-
+legen, hinten aber an den Wittenberger
+Hoff stossendt.
+Dooctorum der Schatzeer. Stadt o1445.
+tol. 852.
+Th v
+15 neben 12
+Rappun
+Th v neben 13.
+Battier Felix Eg v 15 seit 1763</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r1qxP_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="1637,360 2018,360 2018,416 1637,416"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

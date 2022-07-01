@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:31</Created>
+        <LastChange>2020-04-19T01:27:27.862+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869427" pageNr="35" tsid="27912584" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SXPTIEZLCQEQBAZFZRSUDYNE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXOJEETXJPMCOXLBOJRECKJL" imageId="5736290"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_035.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242845" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rqjVz_1"/>
+                <RegionRefIndexed index="1" regionRef="ryCfx_2"/>
+                <RegionRefIndexed index="2" regionRef="rMNAM_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rqjVz_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="240,774 524,774 524,1047 240,1047"/>
+            <TextLine id="rqjVz_1l1" custom="readingOrder {index:0;}">
+                <Coords points="255,914 292,918 322,904 366,918 392,897 403,904 431,888 480,904 480,834 447,841 399,816 361,839 331,839 324,832 283,844 255,839"/>
+                <Baseline points="266,876 291,880 316,882 341,882 367,882 392,879 417,879 442,879 468,881"/>
+                <TextEquiv>
+                    <Unicode>nneben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqjVz_1l2" custom="readingOrder {index:1;}">
+                <Coords points="302,1010 330,1013 349,1003 391,1035 413,1024 444,1040 450,933 419,937 406,922 371,927 356,915 339,916 330,906 307,905"/>
+                <Baseline points="315,1001 344,1003 374,1004 404,1005 434,1008"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>nneben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="ryCfx_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,242 1616,242 1616,449 642,449"/>
+            <TextLine id="ryCfx_2l1" custom="readingOrder {index:0;}">
+                <Coords points="661,379 740,392 761,371 796,365 810,379 821,370 893,394 965,372 966,276 936,262 922,269 904,259 881,273 858,254 839,266 820,256 748,299 663,263"/>
+                <Baseline points="674,356 699,354 724,354 750,354 775,354 800,354 826,355 851,356 876,357 902,357 927,357 953,356"/>
+                <TextEquiv>
+                    <Unicode>1610.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryCfx_2l2" custom="readingOrder {index:1;}">
+                <Coords points="674,485 1547,475 1547,382 1327,394 1232,368 1155,428 1004,427 939,380 872,414 796,365 675,399"/>
+                <Baseline points="686,447 728,450 771,453 813,455 856,458 898,459 941,459 983,459 1026,459 1068,459 1111,459 1153,459 1196,458 1238,458 1281,458 1323,458 1366,458 1408,458 1451,458 1493,459 1536,461"/>
+                <TextEquiv>
+                    <Unicode>Eschemer. Vorstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1610.
+Eschemer. Vorstatt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rMNAM_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="614,384 2650,384 2650,1584 614,1584"/>
+            <TextLine id="rMNAM_3l1" custom="readingOrder {index:0;}">
+                <Coords points="650,578 854,565 1118,619 1211,566 1761,584 1817,566 1817,483 1696,466 1578,530 1497,470 1344,534 1042,466 942,516 870,479 650,504"/>
+                <Baseline points="662,558 719,557 776,557 833,557 890,557 947,558 1004,558 1062,558 1119,558 1176,558 1233,560 1290,560 1347,560 1404,560 1462,560 1519,561 1576,561 1633,561 1690,560 1747,560 1805,560"/>
+                <TextEquiv>
+                    <Unicode>Rechte Seite vom Thoreher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l2" custom="readingOrder {index:1;}">
+                <Coords points="662,672 854,729 926,674 1014,698 1172,666 1230,713 1321,665 1736,672 1736,614 1581,587 1367,633 1240,583 1156,636 913,569 824,611 662,591"/>
+                <Baseline points="674,656 726,656 779,656 831,656 884,657 936,657 989,657 1041,657 1094,657 1146,659 1199,659 1252,659 1304,659 1357,660 1409,660 1462,660 1514,660 1567,660 1619,662 1672,662 1725,662"/>
+                <TextEquiv>
+                    <Unicode>16. Spanner Jacob Thur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l3" custom="readingOrder {index:2;}">
+                <Coords points="651,798 1667,812 1758,766 1871,829 1987,774 2528,773 2387,687 2336,726 2120,667 1772,733 1617,672 1473,730 651,706"/>
+                <Baseline points="662,758 754,758 847,758 940,758 1033,758 1125,758 1218,758 1311,758 1404,759 1496,759 1589,759 1682,761 1775,761 1867,761 1960,762 2053,762 2146,762 2238,764 2331,764 2424,764 2517,764"/>
+                <TextEquiv>
+                    <Unicode>87. Wirthohauss zum Rappen, Jacob Weidenberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l4" custom="readingOrder {index:3;}">
+                <Coords points="652,876 1206,883 1280,937 1362,870 1979,869 1924,808 1404,822 1286,784 1044,831 908,770 652,827"/>
+                <Baseline points="663,855 728,857 793,857 858,858 923,858 989,860 1054,860 1119,860 1184,860 1249,860 1315,860 1380,860 1445,860 1510,860 1575,861 1641,861 1706,861 1771,863 1836,863 1901,864 1967,866"/>
+                <TextEquiv>
+                    <Unicode>18. Laradiss Jacob Waldnlr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l5" custom="readingOrder {index:4;}">
+                <Coords points="1310,1111 1481,1061 2052,1106 2660,1072 2660,1007 2605,984 2164,1005 2069,967 1967,1020 1893,982 1679,1000 1628,958 1310,984"/>
+                <Baseline points="1322,1053 1388,1055 1454,1056 1521,1056 1587,1058 1653,1058 1720,1059 1786,1059 1852,1059 1919,1059 1985,1059 2051,1059 2118,1059 2184,1061 2250,1061 2317,1061 2383,1061 2449,1061 2516,1062 2582,1062 2649,1062"/>
+                <TextEquiv>
+                    <Unicode>felix Platter, Beschr. der Statt Basel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l6" custom="readingOrder {index:5;}">
+                <Coords points="882,1471 1007,1470 1049,1508 1081,1483 1132,1504 1277,1459 1351,1460 1408,1491 1576,1439 1577,1384 1461,1385 1368,1356 1198,1396 1169,1368 1078,1381 1018,1331 884,1316"/>
+                <Baseline points="893,1443 926,1446 960,1448 993,1451 1027,1452 1061,1452 1094,1453 1128,1454 1161,1454 1195,1454 1229,1454 1262,1454 1296,1454 1329,1454 1363,1454 1397,1454 1430,1454 1464,1454 1497,1455 1531,1455 1565,1455"/>
+                <TextEquiv>
+                    <Unicode>Kappen = 25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rMNAM_3l7" custom="readingOrder {index:6;}">
+                <Coords points="884,1588 1190,1557 1276,1606 1448,1612 1555,1568 1601,1587 1601,1478 1473,1473 1376,1504 1206,1467 1083,1506 977,1465 884,1479"/>
+                <Baseline points="896,1545 930,1548 965,1550 999,1552 1034,1553 1069,1554 1103,1554 1138,1554 1173,1554 1207,1554 1242,1553 1277,1553 1311,1552 1346,1551 1381,1551 1415,1550 1450,1550 1485,1550 1519,1550 1554,1550 1589,1550"/>
+                <TextEquiv>
+                    <Unicode>SohrachEt = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rechte Seite vom Thoreher.
+16. Spanner Jacob Thur.
+87. Wirthohauss zum Rappen, Jacob Weidenberg.
+18. Laradiss Jacob Waldnlr.
+felix Platter, Beschr. der Statt Basel.
+Kappen = 25
+SohrachEt = 13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

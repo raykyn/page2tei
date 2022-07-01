@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:09</Created>
+        <LastChange>2020-04-19T01:36:40.754+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869581" pageNr="68" tsid="27912942" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=AMZKXSHSINFHCFNMWVSKPBPJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOGAPMCORTYCKVNPPVVNDTML" imageId="5736444"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_068.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242878" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rPGx3_1"/>
+                <RegionRefIndexed index="1" regionRef="rrSSs_2"/>
+                <RegionRefIndexed index="2" regionRef="rVqo5_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rPGx3_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,731 624,731 624,1163 197,1163"/>
+            <TextLine id="rPGx3_1l1" custom="readingOrder {index:0;}">
+                <Coords points="181,934 271,941 287,955 367,916 414,929 435,910 493,908 511,893 542,923 573,919 579,797 528,812 487,782 449,790 391,747 335,762 291,737 252,760 216,740 190,744"/>
+                <Baseline points="197,864 223,866 249,867 275,868 301,870 327,873 353,875 379,877 405,878 431,880 457,881 483,881 509,881 535,880 561,878"/>
+                <TextEquiv>
+                    <Unicode>25/ 1545</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rPGx3_1l2" custom="readingOrder {index:1;}">
+                <Coords points="265,1021 293,1031 360,1031 398,1008 418,1023 450,1001 488,995 488,958 430,958 395,931 353,946 338,933 265,961"/>
+                <Baseline points="278,996 306,998 334,999 362,999 391,999 419,998 447,998 476,996"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rPGx3_1l3" custom="readingOrder {index:2;}">
+                <Coords points="281,1142 293,1143 301,1136 321,1144 352,1131 371,1138 394,1134 408,1148 423,1149 430,1046 417,1045 407,1052 393,1039 383,1038 367,1050 318,1031 288,1029"/>
+                <Baseline points="296,1113 325,1117 354,1120 383,1122 413,1119"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25/ 1545
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rrSSs_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="614,248 1522,248 1522,440 614,440"/>
+            <TextLine id="rrSSs_2l1" custom="readingOrder {index:0;}">
+                <Coords points="675,401 832,431 1103,380 1230,380 1350,418 1446,386 1446,303 1328,323 1268,285 1216,307 1158,275 1050,309 983,284 878,286 835,314 768,278 675,290"/>
+                <Baseline points="686,374 723,373 760,372 798,372 835,371 872,371 910,371 947,371 984,369 1022,369 1059,369 1096,369 1134,369 1171,371 1208,371 1246,371 1283,372 1320,374 1358,375 1395,376 1433,378"/>
+                <TextEquiv>
+                    <Unicode>1737. Juli. 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1737. Juli. 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rVqo5_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="592,443 2643,443 2643,1676 592,1676"/>
+            <TextLine id="rVqo5_3l1" custom="readingOrder {index:0;}">
+                <Coords points="635,612 1759,582 2245,650 2598,614 2643,486 635,505"/>
+                <Baseline points="647,567 746,570 845,572 944,573 1043,573 1143,575 1242,575 1341,575 1440,576 1539,576 1639,576 1738,576 1837,575 1936,575 2035,575 2135,575 2234,575 2333,575 2432,575 2531,575 2631,575"/>
+                <TextEquiv>
+                    <Unicode>frau Fäschin H. Johanns Märchin, Wirths zum Raaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l2" custom="readingOrder {index:1;}">
+                <Coords points="626,696 2404,682 2652,752 2627,597 626,631"/>
+                <Baseline points="638,677 738,675 838,675 938,675 1038,675 1138,675 1238,675 1338,675 1438,675 1538,675 1639,675 1739,675 1839,675 1939,675 2039,675 2139,675 2239,675 2339,675 2439,674 2539,674 2640,672"/>
+                <TextEquiv>
+                    <Unicode>sel. Wb. contra Hans Georg Mödler, Besitzer der echbehausung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l3" custom="readingOrder {index:2;}">
+                <Coords points="636,807 2063,777 2581,850 2609,733 1605,682 1529,734 636,739"/>
+                <Baseline points="647,770 744,771 842,773 939,773 1037,774 1134,774 1232,774 1329,774 1427,774 1524,774 1622,774 1719,774 1817,774 1914,774 2012,774 2109,773 2207,773 2304,773 2402,773 2499,774 2597,774"/>
+                <TextEquiv>
+                    <Unicode>am gemeinen Gässlin, betr. Wasserstein u. Sächwasser,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l4" custom="readingOrder {index:3;}">
+                <Coords points="624,890 649,902 694,887 729,914 772,914 807,886 839,899 899,883 985,895 1032,882 1031,785 996,778 926,818 864,783 809,786 766,824 734,809 623,805"/>
+                <Baseline points="636,873 661,874 687,875 712,875 738,876 763,876 789,876 814,876 840,876 865,875 891,875 916,875 942,873 967,873 993,872 1019,872"/>
+                <TextEquiv>
+                    <Unicode>u. Stall.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l5" custom="readingOrder {index:4;}">
+                <Coords points="2350,996 2378,983 2420,999 2438,982 2490,995 2545,980 2578,983 2590,996 2610,988 2612,848 2549,848 2517,825 2497,832 2477,817 2432,821 2399,843 2352,825"/>
+                <Baseline points="2363,963 2389,966 2415,968 2441,969 2467,969 2493,968 2519,968 2545,968 2571,968 2597,969"/>
+                <TextEquiv>
+                    <Unicode>174</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1313,1007 1433,998 1550,1050 1666,996 1806,1020 1844,988 1934,1022 2229,1020 2230,920 2175,909 1942,942 1805,880 1715,911 1405,878 1314,912"/>
+                <Baseline points="1325,962 1369,965 1414,968 1458,970 1503,972 1547,974 1592,974 1636,975 1681,975 1725,975 1770,975 1815,975 1859,975 1904,975 1948,975 1993,975 2037,975 2082,976 2126,977 2171,978 2216,980"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1657,1084 1675,1085 1703,1110 1711,1108 1718,1113 1738,1107 1771,1115 1778,1020 1765,1019 1754,1006 1741,1010 1736,1004 1731,1009 1713,1005 1689,1026 1662,1024"/>
+                <Baseline points="1671,1064 1701,1068 1731,1071 1761,1070"/>
+                <TextEquiv>
+                    <Unicode>I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l8" custom="readingOrder {index:7;}">
+                <Coords points="621,1129 656,1137 728,1079 786,1097 806,1079 954,1082 1106,1119 1166,1099 1227,1122 1227,1014 1151,982 951,989 929,1007 741,979 621,989"/>
+                <Baseline points="632,1068 661,1068 690,1070 719,1070 748,1070 777,1071 806,1071 836,1071 865,1071 894,1071 923,1071 952,1071 981,1071 1010,1071 1040,1071 1069,1071 1098,1071 1127,1070 1156,1070 1185,1068 1215,1068"/>
+                <TextEquiv>
+                    <Unicode>1738 Juni 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l9" custom="readingOrder {index:8;}">
+                <Coords points="2079,1123 2123,1118 2136,1108 2156,1110 2202,1085 2223,1098 2238,1099 2248,1017 2233,1015 2216,1029 2207,1020 2172,1018 2164,1023 2140,1012 2126,1023 2091,1022"/>
+                <Baseline points="2099,1062 2124,1069 2150,1071 2176,1074 2202,1076 2228,1080"/>
+                <TextEquiv>
+                    <Unicode>30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l10" custom="readingOrder {index:9;}">
+                <Coords points="2350,1102 2399,1122 2422,1110 2462,1120 2507,1093 2540,1096 2555,1084 2585,1099 2615,1084 2616,1014 2538,1016 2521,1001 2466,1003 2453,992 2370,1049 2350,1049"/>
+                <Baseline points="2363,1079 2389,1077 2416,1077 2443,1077 2469,1077 2496,1077 2523,1079 2549,1079 2576,1079 2603,1080"/>
+                <TextEquiv>
+                    <Unicode>. 53.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1276,1335 1296,1333 1308,1346 1321,1336 1336,1343 1366,1326 1396,1342 1418,1337 1420,1227 1382,1221 1335,1231 1320,1218 1277,1233"/>
+                <Baseline points="1289,1305 1318,1308 1347,1311 1376,1310 1406,1305"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l12" custom="readingOrder {index:11;}">
+                <Coords points="734,1375 934,1461 1119,1458 1214,1446 1297,1381 1803,1420 1840,1408 1841,1327 1443,1295 1380,1334 1203,1313 1110,1345 838,1255 735,1270"/>
+                <Baseline points="746,1362 800,1368 854,1373 908,1376 962,1379 1016,1380 1070,1382 1125,1383 1179,1383 1233,1383 1287,1383 1341,1383 1395,1383 1449,1382 1504,1382 1558,1380 1612,1380 1666,1379 1720,1379 1774,1379 1829,1379"/>
+                <TextEquiv>
+                    <Unicode>Rappen = 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l13" custom="readingOrder {index:12;}">
+                <Coords points="1576,1511 1703,1499 1726,1514 1766,1483 1844,1510 1931,1499 1999,1538 2062,1512 2061,1432 2008,1415 1936,1446 1881,1442 1717,1389 1675,1419 1647,1407 1610,1433 1575,1428"/>
+                <Baseline points="1589,1499 1614,1499 1640,1499 1665,1499 1691,1499 1716,1499 1742,1498 1767,1497 1793,1497 1818,1496 1844,1496 1869,1495 1895,1494 1920,1494 1946,1494 1971,1494 1997,1495 2022,1496 2048,1497"/>
+                <TextEquiv>
+                    <Unicode>Ris neben 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVqo5_3l14" custom="readingOrder {index:13;}">
+                <Coords points="712,1552 1224,1651 1628,1585 2144,1589 2323,1655 2309,1494 2000,1539 1763,1482 1684,1549 1407,1476 1251,1514 961,1491 887,1430 714,1457"/>
+                <Baseline points="725,1545 804,1553 883,1559 963,1565 1042,1570 1121,1573 1201,1577 1280,1580 1359,1582 1439,1584 1518,1584 1597,1586 1677,1586 1756,1586 1835,1585 1915,1584 1994,1583 2073,1583 2153,1581 2232,1580 2312,1578"/>
+                <TextEquiv>
+                    <Unicode>Märh Joh Eig v 15 seit 1658</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>frau Fäschin H. Johanns Märchin, Wirths zum Raaben
+sel. Wb. contra Hans Georg Mödler, Besitzer der echbehausung
+am gemeinen Gässlin, betr. Wasserstein u. Sächwasser,
+u. Stall.
+174
+Fünfergerichtsprot. 30.
+I
+1738 Juni 5.
+30.
+. 53.
+Th v
+Rappen = 15 neb 13
+Ris neben 1
+Märh Joh Eig v 15 seit 1658</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

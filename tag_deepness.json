@@ -1,0 +1,22 @@
+{
+    "abbrev": 0,
+    "sic": 1,
+    "supplied": 2,
+    "del": 3,
+    "delete": 4,
+    "unclear": 5,
+    "gap": 6,
+    "damage": 7,
+    "add": 8,
+    "subst": 10,
+    "person": 11,
+    "place": 12,
+    "organization": 13,
+    "measure": 14,
+    "measurement": 15,
+    "date": 16,
+    "hi": 17,
+    "highlighted": 18,
+    "textStyle": 19,
+    "comment": 20
+}

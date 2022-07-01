@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:50</Created>
+        <LastChange>2020-04-19T01:31:26.182+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869485" pageNr="49" tsid="27912700" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KTTQXNEIVAGGUPANEBKMDDYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NGBRJSJOJDWCXUMHTRZYSPTV" imageId="5736348"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_049.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242859" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rkM8q_1"/>
+                <RegionRefIndexed index="1" regionRef="rrO7W_2"/>
+                <RegionRefIndexed index="2" regionRef="rAA2W_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rkM8q_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="186,735 624,735 624,1143 186,1143"/>
+            <TextLine id="rkM8q_1l1" custom="readingOrder {index:0;}">
+                <Coords points="174,885 246,919 306,920 402,876 525,897 571,887 574,773 449,790 399,737 332,757 229,754 212,736 181,737"/>
+                <Baseline points="188,858 214,858 241,858 267,858 294,860 320,861 347,863 374,864 400,866 427,868 453,869 480,871 506,872 533,872 560,872"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rkM8q_1l2" custom="readingOrder {index:1;}">
+                <Coords points="257,977 280,975 294,991 330,985 347,996 370,984 390,1000 420,994 475,1014 480,911 423,926 389,912 330,932 295,910 260,913"/>
+                <Baseline points="270,974 297,977 325,980 353,981 380,981 408,983 436,983 464,984"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rkM8q_1l3" custom="readingOrder {index:2;}">
+                <Coords points="286,1134 301,1132 311,1138 334,1129 369,1136 382,1129 427,1142 433,1034 415,1035 406,1027 387,1036 341,1013 319,1032 292,1026"/>
+                <Baseline points="300,1097 329,1100 358,1101 387,1103 416,1104"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rrO7W_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="614,277 1185,277 1185,445 614,445"/>
+            <TextLine id="rrO7W_2l1" custom="readingOrder {index:0;}">
+                <Coords points="644,378 1022,390 1024,310 1004,302 963,321 896,292 850,311 812,303 746,317 704,286 671,306 646,303"/>
+                <Baseline points="656,366 681,368 706,369 731,369 757,371 782,371 807,371 833,372 858,372 883,372 908,372 934,372 959,374 984,374 1010,375"/>
+                <TextEquiv>
+                    <Unicode>1658 Mai 8.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1658 Mai 8.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rAA2W_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="642,447 2671,447 2671,1877 642,1877"/>
+            <TextLine id="rAA2W_3l1" custom="readingOrder {index:0;}">
+                <Coords points="638,576 895,642 1092,579 2276,580 2377,633 2611,588 2612,528 984,529 906,478 638,526"/>
+                <Baseline points="651,567 748,567 845,569 943,569 1040,570 1137,570 1235,570 1332,570 1429,570 1527,570 1624,572 1721,572 1819,572 1916,572 2013,570 2111,570 2208,570 2305,570 2403,570 2500,570 2598,570"/>
+                <TextEquiv>
+                    <Unicode>Weil Frauw Elisabetha Jselin Erben, haben die Wirtschaft zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l2" custom="readingOrder {index:1;}">
+                <Coords points="638,702 2639,711 2639,618 2551,578 2344,641 638,609"/>
+                <Baseline points="650,668 748,669 847,669 946,671 1045,671 1144,671 1243,671 1341,672 1440,672 1539,672 1638,672 1737,672 1836,672 1935,672 2033,672 2132,672 2231,671 2330,671 2429,671 2528,671 2627,671"/>
+                <TextEquiv>
+                    <Unicode>Rappen genannt, in Escheiner Porstatt, neben einseit dem Hoof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l3" custom="readingOrder {index:2;}">
+                <Coords points="633,833 787,775 1068,846 1156,782 1782,777 1898,838 2183,775 2405,838 2675,780 2127,687 2021,742 633,704"/>
+                <Baseline points="647,768 747,770 848,770 949,770 1050,771 1151,771 1251,771 1352,771 1453,771 1554,770 1655,770 1755,770 1856,770 1957,770 2058,770 2159,770 2259,770 2360,770 2461,770 2562,771 2663,771"/>
+                <TextEquiv>
+                    <Unicode>zum Paradies genannt, anderseit neben Tregers Schulern gelegen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l4" custom="readingOrder {index:3;}">
+                <Coords points="642,884 1374,931 2278,877 2656,938 2682,781 2343,841 2253,788 642,831"/>
+                <Baseline points="656,867 756,867 857,869 957,869 1058,869 1159,870 1259,870 1360,870 1461,870 1561,870 1662,870 1763,869 1863,869 1964,869 2065,869 2165,870 2266,870 2367,870 2467,872 2568,872 2669,873"/>
+                <TextEquiv>
+                    <Unicode>hinden auf den Wintenberger Hoof stoßsend, sampt Scherren Stallung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l5" custom="readingOrder {index:4;}">
+                <Coords points="643,990 2667,1002 2667,943 2415,890 643,932"/>
+                <Baseline points="656,966 755,968 855,968 955,968 1055,969 1155,969 1255,969 1355,969 1455,969 1555,969 1655,969 1754,969 1854,968 1954,968 2054,968 2154,968 2254,969 2354,969 2454,969 2554,971 2654,971"/>
+                <TextEquiv>
+                    <Unicode>Bann und Kantgarten, Hüner höflin und Blosglendt, auch darzu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l6" custom="readingOrder {index:5;}">
+                <Coords points="637,1078 2671,1109 2671,1038 2452,985 2154,1042 1745,976 1624,1037 637,988"/>
+                <Baseline points="650,1065 750,1065 850,1067 951,1067 1051,1068 1152,1068 1252,1068 1352,1068 1453,1068 1553,1068 1654,1068 1754,1068 1854,1068 1955,1068 2055,1068 2156,1068 2256,1068 2356,1068 2457,1068 2557,1070 2658,1070"/>
+                <TextEquiv>
+                    <Unicode>erckhaufter Stallung, des Capplins Stallung genannt, desgleichen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l7" custom="readingOrder {index:6;}">
+                <Coords points="629,1223 732,1172 1214,1226 1366,1171 2673,1186 2618,1092 1802,1144 1681,1078 1240,1135 629,1096"/>
+                <Baseline points="642,1166 742,1166 843,1167 944,1167 1045,1167 1146,1167 1247,1167 1348,1167 1449,1167 1550,1167 1651,1167 1751,1169 1852,1169 1953,1169 2054,1169 2155,1169 2256,1169 2357,1169 2458,1169 2559,1169 2660,1170"/>
+                <TextEquiv>
+                    <Unicode>zu der Wirtschaft gehörigen Fischbonnen, auf dem Blämlin, dahin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l8" custom="readingOrder {index:7;}">
+                <Coords points="636,1292 1310,1335 1676,1277 2016,1335 2292,1277 2372,1327 2620,1287 2620,1214 636,1234"/>
+                <Baseline points="648,1268 751,1268 854,1268 957,1268 1060,1268 1163,1268 1266,1268 1369,1268 1472,1268 1575,1268 1679,1268 1782,1268 1885,1268 1988,1268 2091,1268 2194,1268 2297,1268 2400,1268 2503,1268 2607,1268"/>
+                <TextEquiv>
+                    <Unicode>sie sich allerseits guetliehen vereinbahret und verglichen, gefrönt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l9" custom="readingOrder {index:8;}">
+                <Coords points="2140,1399 2175,1405 2238,1375 2314,1396 2369,1437 2443,1393 2516,1378 2569,1412 2637,1415 2638,1294 2550,1311 2507,1285 2426,1337 2332,1318 2293,1278 2141,1296"/>
+                <Baseline points="2153,1361 2179,1362 2205,1364 2231,1365 2257,1367 2283,1368 2310,1368 2336,1368 2362,1368 2388,1368 2414,1368 2440,1368 2467,1367 2493,1367 2519,1367 2545,1368 2571,1368 2597,1370 2624,1370"/>
+                <TextEquiv>
+                    <Unicode>Frönungsbuch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l10" custom="readingOrder {index:9;}">
+                <Coords points="694,1606 817,1637 863,1610 910,1635 966,1585 1022,1576 1135,1602 1214,1572 1294,1608 1342,1601 1398,1589 1399,1473 1358,1493 1210,1476 1136,1516 1058,1480 1013,1490 940,1439 695,1406"/>
+                <Baseline points="708,1536 741,1546 775,1554 809,1560 843,1565 877,1569 911,1571 944,1571 978,1571 1012,1571 1046,1569 1080,1568 1114,1567 1148,1565 1181,1563 1215,1561 1249,1560 1283,1559 1317,1560 1351,1562 1385,1563"/>
+                <TextEquiv>
+                    <Unicode>Rappen = 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAA2W_3l11" custom="readingOrder {index:10;}">
+                <Coords points="684,1806 901,1844 1077,1774 1378,1818 1430,1784 1429,1683 1285,1670 1091,1715 911,1637 861,1655 797,1621 682,1632"/>
+                <Baseline points="695,1758 731,1762 767,1766 803,1767 839,1770 875,1772 911,1773 948,1775 984,1775 1020,1775 1056,1775 1092,1773 1128,1773 1164,1770 1201,1770 1237,1767 1273,1764 1309,1761 1345,1758 1381,1755 1418,1751"/>
+                <TextEquiv>
+                    <Unicode>Pagader = 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weil Frauw Elisabetha Jselin Erben, haben die Wirtschaft zum
+Rappen genannt, in Escheiner Porstatt, neben einseit dem Hoof
+zum Paradies genannt, anderseit neben Tregers Schulern gelegen, und
+hinden auf den Wintenberger Hoof stoßsend, sampt Scherren Stallung
+Bann und Kantgarten, Hüner höflin und Blosglendt, auch darzu
+erckhaufter Stallung, des Capplins Stallung genannt, desgleichen den
+zu der Wirtschaft gehörigen Fischbonnen, auf dem Blämlin, dahin
+sie sich allerseits guetliehen vereinbahret und verglichen, gefrönt
+Frönungsbuch.
+Rappen = 15
+Pagader = 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

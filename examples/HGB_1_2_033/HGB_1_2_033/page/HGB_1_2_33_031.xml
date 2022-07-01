@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:59</Created>
+        <LastChange>2020-04-19T01:26:26.774+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869412" pageNr="31" tsid="27912555" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=BFUGRTHQERSZNFGMGEHLNRPB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SYNAWYYIXVPTHIWDOCKQHMNA" imageId="5736275"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_031.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242839" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rpEW9_1"/>
+                <RegionRefIndexed index="1" regionRef="rJ0aw_2"/>
+                <RegionRefIndexed index="2" regionRef="r9MTp_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rpEW9_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="240,892 606,892 606,1257 240,1257"/>
+            <TextLine id="rpEW9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="240,1087 265,1093 313,1071 353,1087 388,1070 440,1086 455,1071 490,1070 573,1091 576,922 501,927 476,944 401,910 368,932 354,917 328,934 296,921 243,927"/>
+                <Baseline points="254,1008 279,1012 305,1013 330,1015 356,1017 381,1017 407,1019 433,1019 458,1019 484,1017 509,1017 535,1017 561,1016"/>
+                <TextEquiv>
+                    <Unicode>14/ 158</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rpEW9_1l2" custom="readingOrder {index:1;}">
+                <Coords points="303,1178 335,1170 360,1182 424,1145 492,1153 537,1141 535,1081 515,1084 490,1070 453,1086 387,1071 328,1095 300,1093"/>
+                <Baseline points="315,1142 341,1145 367,1146 393,1146 420,1143 446,1142 472,1140 498,1139 525,1142"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rpEW9_1l3" custom="readingOrder {index:2;}">
+                <Coords points="368,1315 396,1316 437,1293 458,1300 467,1294 505,1300 522,1294 515,1149 485,1151 465,1144 438,1153 420,1147 388,1168 361,1170"/>
+                <Baseline points="378,1241 403,1241 429,1240 455,1238 481,1236 507,1236"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14/ 158
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rJ0aw_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1138,229 2133,229 2133,405 1138,405"/>
+            <TextLine id="rJ0aw_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1197,382 2034,390 2064,385 2064,280 1962,272 1929,305 1807,315 1624,282 1267,310 1197,287"/>
+                <Baseline points="1209,350 1251,350 1293,350 1335,351 1377,351 1419,351 1461,351 1503,351 1545,351 1587,351 1630,351 1672,351 1714,351 1756,351 1798,351 1840,351 1882,351 1924,351 1966,350 2008,350 2051,350"/>
+                <TextEquiv>
+                    <Unicode>Adtliic Ev Aor STDDDDD SEAEC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Adtliic Ev Aor STDDDDD SEAEC.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r9MTp_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="606,364 2671,364 2671,1741 606,1741"/>
+            <TextLine id="r9MTp_3l1" custom="readingOrder {index:0;}">
+                <Coords points="669,505 739,472 904,464 959,486 1099,460 1149,510 1289,477 1356,499 1449,447 1448,389 1353,405 1263,372 1196,393 1056,368 951,406 754,372 669,405"/>
+                <Baseline points="681,453 718,452 756,450 794,449 832,449 870,449 907,449 945,449 983,450 1021,450 1059,452 1096,452 1134,452 1172,452 1210,452 1248,452 1285,450 1323,449 1361,447 1399,445 1437,441"/>
+                <TextEquiv>
+                    <Unicode>1590. 1591 fehlt.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l2" custom="readingOrder {index:1;}">
+                <Coords points="767,569 1747,614 1957,571 2189,621 2439,581 2439,491 2089,429 1802,524 1434,444 1210,509 767,474"/>
+                <Baseline points="780,549 862,551 944,552 1027,554 1109,555 1191,555 1274,555 1356,555 1438,555 1521,555 1603,555 1685,555 1768,554 1850,554 1932,554 2015,554 2097,552 2179,552 2262,552 2344,552 2427,552"/>
+                <TextEquiv>
+                    <Unicode>Jerg Schlösser, der Virdt zum Cappen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l3" custom="readingOrder {index:2;}">
+                <Coords points="641,710 794,671 999,733 1214,666 1346,709 1391,694 1391,577 1309,604 1259,571 1189,594 1089,566 984,614 906,573 759,561 641,606"/>
+                <Baseline points="653,654 689,654 725,654 761,654 798,653 834,653 870,653 907,653 943,652 979,651 1016,651 1052,651 1088,651 1124,651 1161,651 1197,652 1233,653 1270,654 1306,654 1342,657 1379,659"/>
+                <TextEquiv>
+                    <Unicode>Eschemerforstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l4" custom="readingOrder {index:3;}">
+                <Coords points="650,774 670,779 697,769 740,803 802,769 847,766 872,776 871,688 838,691 788,670 773,680 758,673 703,701 681,694 666,707 648,702"/>
+                <Baseline points="662,756 690,755 718,755 746,753 775,753 803,753 831,753 860,753"/>
+                <TextEquiv>
+                    <Unicode>1592</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l5" custom="readingOrder {index:4;}">
+                <Coords points="811,871 1388,924 1591,869 1673,912 2498,895 2498,815 2298,770 1728,819 1523,767 1423,819 1233,741 1121,804 811,768"/>
+                <Baseline points="824,849 907,849 990,849 1073,849 1156,851 1239,851 1322,851 1405,851 1488,851 1571,852 1654,852 1737,852 1820,852 1903,852 1986,852 2069,852 2152,852 2235,852 2318,851 2401,851 2484,849"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Thouser Jsen, dieser Sitt Birdt zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l6" custom="readingOrder {index:5;}">
+                <Coords points="653,1008 2307,1011 2654,982 2677,890 653,906"/>
+                <Baseline points="666,947 765,950 865,951 965,951 1065,953 1165,953 1265,953 1365,953 1465,951 1565,951 1665,950 1764,950 1864,950 1964,950 2064,950 2164,950 2264,951 2364,953 2464,954 2564,957 2664,962"/>
+                <TextEquiv>
+                    <Unicode>dem Kappen in Eschemerforstatt; gitt jährlichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l7" custom="readingOrder {index:6;}">
+                <Coords points="630,1082 2007,1111 2559,1083 2609,1005 630,1014"/>
+                <Baseline points="644,1050 741,1052 839,1053 937,1055 1034,1055 1132,1056 1230,1056 1327,1056 1425,1056 1523,1056 1621,1056 1718,1056 1816,1056 1914,1055 2011,1055 2109,1055 2207,1053 2304,1053 2402,1052 2500,1052 2598,1050"/>
+                <TextEquiv>
+                    <Unicode>von dem Haus zu dem Kappen und aouch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l8" custom="readingOrder {index:7;}">
+                <Coords points="654,1195 2655,1191 2655,1078 653,1090"/>
+                <Baseline points="666,1151 764,1151 863,1152 962,1152 1061,1154 1160,1154 1259,1154 1357,1154 1456,1154 1555,1154 1654,1152 1753,1152 1852,1152 1951,1151 2049,1151 2148,1149 2247,1149 2346,1148 2445,1148 2544,1146 2643,1146"/>
+                <TextEquiv>
+                    <Unicode>derselbige Soutteren, wie es in dem Jo Jor Buch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l9" custom="readingOrder {index:8;}">
+                <Coords points="638,1309 1232,1236 1390,1296 1845,1271 1844,1191 1762,1217 1669,1177 1510,1208 930,1175 875,1218 755,1174 638,1212"/>
+                <Baseline points="650,1251 709,1253 768,1254 827,1254 886,1253 945,1253 1004,1251 1063,1250 1122,1248 1181,1248 1241,1247 1300,1245 1359,1245 1418,1244 1477,1244 1536,1245 1595,1245 1654,1248 1713,1250 1772,1253 1832,1259"/>
+                <TextEquiv>
+                    <Unicode>zu schen ist 3 ℔ 14 ß68.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l10" custom="readingOrder {index:9;}">
+                <Coords points="654,1372 2220,1379 2220,1327 2041,1291 654,1305"/>
+                <Baseline points="666,1355 743,1355 820,1355 897,1355 974,1355 1051,1355 1128,1355 1205,1355 1282,1353 1359,1353 1436,1354 1513,1355 1590,1355 1667,1355 1744,1356 1821,1356 1898,1358 1975,1359 2052,1361 2129,1363 2207,1365"/>
+                <TextEquiv>
+                    <Unicode>bend. DDDD Nodt DDDD DDb Dob DDD TADTC.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l11" custom="readingOrder {index:10;}">
+                <Coords points="698,1470 2272,1517 2659,1485 2659,1405 697,1398"/>
+                <Baseline points="710,1467 806,1467 903,1466 1000,1464 1097,1464 1194,1463 1291,1463 1388,1461 1485,1461 1582,1460 1679,1460 1775,1458 1872,1458 1969,1458 2066,1457 2163,1457 2260,1457 2357,1457 2454,1457 2551,1458 2648,1458"/>
+                <TextEquiv>
+                    <Unicode>Wis ADoD. DDDD DDD ESTADDE 1ODDDDT BADDDDDDTADT BADB NDB</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9MTp_3l12" custom="readingOrder {index:11;}">
+                <Coords points="1747,1670 1859,1670 1896,1698 1977,1644 2042,1629 2214,1683 2316,1668 2317,1608 2252,1578 2127,1597 1985,1551 1885,1561 1810,1533 1747,1547"/>
+                <Baseline points="1760,1632 1787,1634 1814,1634 1841,1634 1868,1634 1896,1634 1923,1634 1950,1634 1977,1634 2004,1635 2032,1635 2059,1635 2086,1635 2113,1635 2140,1635 2168,1635 2195,1635 2222,1636 2249,1637 2276,1637 2304,1637"/>
+                <TextEquiv>
+                    <Unicode>St D Dad O0. DAdo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1590. 1591 fehlt.)
+Jerg Schlösser, der Virdt zum Cappen in
+Eschemerforstatt
+1592
+Wilhelm Thouser Jsen, dieser Sitt Birdt zu
+dem Kappen in Eschemerforstatt; gitt jährlichen
+von dem Haus zu dem Kappen und aouch
+derselbige Soutteren, wie es in dem Jo Jor Buch
+zu schen ist 3 ℔ 14 ß68.
+bend. DDDD Nodt DDDD DDb Dob DDD TADTC.)
+Wis ADoD. DDDD DDD ESTADDE 1ODDDDT BADDDDDDTADT BADB NDB
+St D Dad O0. DAdo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

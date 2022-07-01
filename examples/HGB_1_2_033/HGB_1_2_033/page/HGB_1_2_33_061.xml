@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:00</Created>
+        <LastChange>2020-04-19T01:34:47.409+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869542" pageNr="61" tsid="27912816" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=EIYYISHSETPNIQIJZTFNQNTM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FNGHHFCBFFESRZKATZJOUDDK" imageId="5736405"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_061.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242871" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rVhCR_1"/>
+                <RegionRefIndexed index="1" regionRef="rxDLT_2"/>
+                <RegionRefIndexed index="2" regionRef="r8BLA_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rVhCR_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="175,643 632,643 632,1086 175,1086"/>
+            <TextLine id="rVhCR_1l1" custom="readingOrder {index:0;}">
+                <Coords points="164,713 183,717 199,703 228,709 248,696 263,706 300,701 325,687 369,694 419,734 451,731 457,620 421,601 388,614 371,608 328,631 271,581 231,596 170,588"/>
+                <Baseline points="179,660 205,663 231,666 257,669 283,671 310,673 336,674 362,675 388,675 414,674 441,671"/>
+                <TextEquiv>
+                    <Unicode>Clesch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVhCR_1l2" custom="readingOrder {index:1;}">
+                <Coords points="182,830 227,823 284,856 349,808 362,819 423,810 466,843 564,818 561,710 500,732 419,734 368,694 305,728 270,699 236,715 179,704"/>
+                <Baseline points="195,806 220,806 245,807 271,807 296,807 322,807 347,807 373,807 398,806 423,804 449,804 474,802 500,800 525,797 551,792"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVhCR_1l3" custom="readingOrder {index:2;}">
+                <Coords points="275,922 300,924 309,934 376,932 390,948 409,951 482,930 486,834 457,825 412,835 359,867 337,864 316,845 278,849"/>
+                <Baseline points="287,924 313,924 339,926 365,927 391,929 417,930 443,930 470,932"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rVhCR_1l4" custom="readingOrder {index:3;}">
+                <Coords points="274,1060 289,1061 304,1049 319,1060 334,1048 353,1059 363,1052 373,1057 403,1042 422,1055 435,1055 436,1016 424,1015 381,979 364,978 331,947 324,949 317,941 301,951 279,947"/>
+                <Baseline points="288,1037 315,1041 342,1041 369,1041 396,1043 423,1046"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Clesch
+15/1538
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rxDLT_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="621,264 1379,264 1379,405 621,405"/>
+            <TextLine id="rxDLT_2l1" custom="readingOrder {index:0;}">
+                <Coords points="648,392 808,389 864,422 934,390 1039,416 1128,393 1209,411 1249,384 1330,417 1352,413 1354,277 1235,283 1107,338 1033,288 782,315 721,275 649,274"/>
+                <Baseline points="660,368 694,368 728,369 762,369 796,369 830,369 864,369 898,369 932,369 966,369 1000,369 1034,369 1068,369 1102,369 1136,370 1170,371 1204,372 1238,374 1272,375 1306,378 1340,381"/>
+                <TextEquiv>
+                    <Unicode>1715 Martini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1715 Martini.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r8BLA_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="592,388 2628,388 2628,1510 592,1510"/>
+            <TextLine id="r8BLA_3l1" custom="readingOrder {index:0;}">
+                <Coords points="622,494 2230,542 2604,509 2604,336 2309,451 622,391"/>
+                <Baseline points="633,473 736,474 839,474 942,476 1045,476 1148,476 1251,476 1354,476 1457,474 1560,474 1664,474 1767,474 1870,474 1973,474 2076,474 2179,476 2282,477 2385,479 2488,482 2592,485"/>
+                <TextEquiv>
+                    <Unicode>Thumprobstey Bronen und Penung Zusse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l2" custom="readingOrder {index:1;}">
+                <Coords points="643,606 2477,602 2477,530 2179,510 1763,552 643,503"/>
+                <Baseline points="656,570 746,572 837,573 927,575 1018,575 1108,575 1199,575 1289,575 1380,575 1470,575 1561,575 1651,575 1742,575 1832,573 1923,573 2013,573 2104,573 2194,573 2285,575 2375,575 2466,575"/>
+                <TextEquiv>
+                    <Unicode>Item die wirthschaft zum Raaben in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l3" custom="readingOrder {index:2;}">
+                <Coords points="619,688 2528,700 2528,613 2250,593 2028,647 619,605"/>
+                <Baseline points="632,671 726,672 820,674 914,675 1008,675 1103,675 1197,675 1291,675 1385,674 1479,674 1574,673 1668,672 1762,672 1856,672 1950,672 2045,672 2139,674 2233,675 2327,678 2421,681 2516,684"/>
+                <TextEquiv>
+                    <Unicode>Aschemer vorstatt deren jeziger besitzer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l4" custom="readingOrder {index:3;}">
+                <Coords points="625,783 957,835 1191,784 1777,838 2400,799 2356,711 1583,691 1019,754 625,710"/>
+                <Baseline points="638,764 725,768 812,771 900,774 987,776 1075,777 1162,777 1250,777 1337,776 1425,776 1512,774 1599,774 1687,773 1774,771 1862,771 1949,771 2037,771 2124,772 2212,773 2299,776 2387,779"/>
+                <TextEquiv>
+                    <Unicode>h. Johannes Marckht, solle jährlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l5" custom="readingOrder {index:4;}">
+                <Coords points="654,884 787,884 895,942 1048,889 1226,899 1226,842 1138,799 1093,828 990,819 965,839 916,816 877,838 816,800 754,834 717,806 655,825"/>
+                <Baseline points="668,870 695,870 722,870 749,870 777,870 804,870 831,870 859,870 886,870 913,870 941,870 968,872 995,872 1022,872 1050,873 1077,873 1104,873 1132,875 1159,875 1186,876 1214,876"/>
+                <TextEquiv>
+                    <Unicode>1 ℔ 2ß 63.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l6" custom="readingOrder {index:5;}">
+                <Coords points="652,998 846,1040 1228,981 1309,1040 1541,981 2595,987 2595,926 2486,898 898,949 652,885"/>
+                <Baseline points="665,968 760,971 856,972 952,974 1048,974 1144,974 1240,974 1336,973 1432,972 1528,971 1624,969 1719,968 1815,968 1911,966 2007,967 2103,968 2199,969 2295,971 2391,975 2487,980 2583,986"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1716. Ebenso 1717. Ebenso 1718.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l7" custom="readingOrder {index:6;}">
+                <Coords points="643,1081 929,1130 2638,1090 2638,1021 2355,994 643,1029"/>
+                <Baseline points="656,1073 754,1074 852,1076 951,1076 1049,1076 1148,1076 1246,1076 1345,1074 1443,1074 1542,1074 1640,1073 1738,1073 1837,1071 1935,1071 2034,1071 2132,1071 2231,1073 2329,1074 2428,1076 2526,1077 2625,1080"/>
+                <TextEquiv>
+                    <Unicode>1719 h. Johann Marckhten seligen fr. Wittib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l8" custom="readingOrder {index:7;}">
+                <Coords points="608,1223 704,1178 849,1207 972,1188 1037,1224 1093,1192 1211,1214 1507,1184 1477,1132 1384,1140 1327,1098 992,1133 608,1109"/>
+                <Baseline points="621,1176 664,1175 708,1175 751,1174 795,1173 839,1173 882,1173 926,1173 970,1173 1013,1173 1057,1173 1101,1173 1144,1173 1188,1173 1232,1173 1275,1173 1319,1173 1363,1173 1406,1173 1450,1173 1494,1173"/>
+                <TextEquiv>
+                    <Unicode>giebt obigen Zins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1586,1393 1771,1380 1825,1409 1899,1379 2086,1399 2194,1378 2278,1410 2354,1390 2354,1292 1975,1318 1903,1286 1820,1328 1684,1279 1586,1309"/>
+                <Baseline points="1598,1364 1635,1365 1672,1367 1709,1367 1747,1368 1784,1368 1821,1368 1858,1368 1896,1368 1933,1368 1970,1368 2007,1367 2045,1367 2082,1367 2119,1365 2156,1365 2194,1365 2231,1365 2268,1365 2305,1364 2343,1364"/>
+                <TextEquiv>
+                    <Unicode>DDDAS ADT TORSTDTBUEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8BLA_3l10" custom="readingOrder {index:9;}">
+                <Coords points="1592,1504 1745,1474 1818,1499 1902,1479 1949,1506 1986,1482 2166,1502 2188,1480 2215,1499 2350,1482 2350,1396 2185,1416 1794,1395 1725,1420 1592,1395"/>
+                <Baseline points="1605,1457 1641,1457 1678,1457 1714,1457 1751,1457 1788,1458 1824,1458 1861,1458 1897,1458 1934,1458 1971,1458 2007,1460 2044,1460 2080,1460 2117,1460 2154,1458 2190,1458 2227,1458 2263,1457 2300,1457 2337,1455"/>
+                <TextEquiv>
+                    <Unicode>DDASTTEENSTNAUEUNDBU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thumprobstey Bronen und Penung Zusse.
+Item die wirthschaft zum Raaben in
+Aschemer vorstatt deren jeziger besitzer,
+h. Johannes Marckht, solle jährlich
+1 ℔ 2ß 63.
+Ebenso 1716. Ebenso 1717. Ebenso 1718.
+1719 h. Johann Marckhten seligen fr. Wittib
+giebt obigen Zins.
+DDDAS ADT TORSTDTBUEL.
+DDASTTEENSTNAUEUNDBU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:03</Created>
+        <LastChange>2020-04-19T01:25:39.453+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869407" pageNr="28" tsid="27912531" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=BQQVSTAETDFBKZFFJPCXITTF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDAJZCVMUQGBTNYRMHWAFAEB" imageId="5736270"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_028.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3xVK_1"/>
+                <RegionRefIndexed index="1" regionRef="rkCDL_2"/>
+                <RegionRefIndexed index="2" regionRef="r87fC_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3xVK_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,652 653,652 653,1161 197,1161"/>
+            <TextLine id="r3xVK_1l1" custom="readingOrder {index:0;}">
+                <Coords points="188,700 299,736 404,698 455,736 496,726 544,756 606,704 635,702 636,599 487,641 412,613 278,629 235,596 189,596"/>
+                <Baseline points="201,681 227,684 253,685 280,687 306,688 332,690 359,691 385,692 412,693 438,693 464,693 491,693 517,693 543,691 570,690 596,688 623,684"/>
+                <TextEquiv>
+                    <Unicode>Reschoofft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3xVK_1l2" custom="readingOrder {index:1;}">
+                <Coords points="207,932 270,925 348,877 382,901 414,887 448,909 482,892 523,907 603,898 604,742 563,761 485,761 456,746 422,758 378,731 327,753 303,738 249,765 208,762"/>
+                <Baseline points="219,854 245,852 272,851 298,852 325,855 351,857 378,860 405,863 431,864 458,864 484,864 511,862 537,856 564,849 591,837"/>
+                <TextEquiv>
+                    <Unicode>22/154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3xVK_1l3" custom="readingOrder {index:2;}">
+                <Coords points="300,977 382,994 433,986 458,998 509,983 508,910 452,915 438,908 404,935 377,918 358,928 316,907 299,907"/>
+                <Baseline points="311,972 337,973 364,974 390,975 417,975 443,975 470,972 497,969"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3xVK_1l4" custom="readingOrder {index:3;}">
+                <Coords points="319,1133 348,1136 355,1144 368,1139 380,1149 404,1130 416,1133 429,1121 448,1124 471,1108 483,1108 485,1020 463,1013 451,1024 439,1022 414,1036 388,1018 368,1020 361,1013 336,1022 322,1019"/>
+                <Baseline points="333,1092 360,1096 388,1099 415,1100 443,1098 471,1095"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Reschoofft
+22/154
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rkCDL_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,264 1159,264 1159,397 642,397"/>
+            <TextLine id="rkCDL_2l1" custom="readingOrder {index:0;}">
+                <Coords points="654,387 705,396 795,379 819,394 863,379 921,401 972,379 1028,399 1043,384 1079,387 1079,299 1026,311 999,294 946,311 882,272 802,304 773,282 739,294 724,282 654,333"/>
+                <Baseline points="666,362 691,364 716,366 741,368 766,369 791,369 816,369 841,369 866,369 891,368 916,368 941,368 966,366 991,366 1016,366 1041,366 1067,366"/>
+                <TextEquiv>
+                    <Unicode>1583 – 84.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1583 – 84.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r87fC_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="606,364 2657,364 2657,1143 606,1143"/>
+            <TextLine id="r87fC_3l1" custom="readingOrder {index:0;}">
+                <Coords points="649,491 1290,553 2365,515 2484,568 2618,547 2620,336 2344,435 1805,391 1406,442 1175,379 650,427"/>
+                <Baseline points="662,459 759,462 856,465 953,467 1050,470 1148,471 1245,473 1342,474 1439,474 1536,476 1634,476 1731,476 1828,477 1925,477 2022,477 2120,479 2217,479 2314,480 2411,482 2508,483 2606,485"/>
+                <TextEquiv>
+                    <Unicode>Item die herberg zum Rappen gibt järlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r87fC_3l2" custom="readingOrder {index:1;}">
+                <Coords points="632,632 742,597 953,639 1034,582 1129,601 1236,590 1235,502 1181,524 1140,499 975,508 834,482 741,507 717,495 683,526 634,513"/>
+                <Baseline points="645,564 675,566 705,569 736,569 766,570 797,572 827,573 858,573 888,575 919,575 949,575 980,575 1010,575 1041,575 1071,575 1102,575 1132,575 1163,575 1193,575 1224,575"/>
+                <TextEquiv>
+                    <Unicode>uff Pfingsten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r87fC_3l3" custom="readingOrder {index:2;}">
+                <Coords points="1482,630 1503,629 1516,617 1528,627 1572,629 1606,615 1625,628 1684,608 1720,627 1724,503 1659,505 1624,531 1592,527 1568,509 1551,518 1539,511 1485,519"/>
+                <Baseline points="1496,570 1522,573 1549,575 1575,576 1602,578 1629,578 1655,578 1682,578 1709,579"/>
+                <TextEquiv>
+                    <Unicode>20ß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r87fC_3l4" custom="readingOrder {index:3;}">
+                <Coords points="652,699 747,720 823,682 913,685 1131,730 1209,685 1423,699 1457,683 1458,627 1215,592 952,640 794,606 653,624"/>
+                <Baseline points="665,666 704,668 743,668 782,669 821,669 860,669 899,671 938,671 977,671 1016,671 1055,671 1094,672 1133,672 1172,672 1211,673 1250,674 1289,674 1328,675 1367,677 1406,678 1445,680"/>
+                <TextEquiv>
+                    <Unicode>1585 - 1596 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r87fC_3l5" custom="readingOrder {index:4;}">
+                <Coords points="1340,1065 2329,1091 2503,1140 2506,1004 2435,991 1341,997"/>
+                <Baseline points="1352,1043 1409,1043 1466,1044 1523,1045 1580,1046 1637,1047 1694,1047 1751,1049 1808,1049 1865,1050 1922,1050 1979,1052 2036,1053 2093,1053 2150,1055 2207,1056 2264,1058 2321,1059 2378,1061 2435,1064 2492,1065"/>
+                <TextEquiv>
+                    <Unicode>OodBAS ADT BASDDE AAA BASTADBUC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item die herberg zum Rappen gibt järlich
+uff Pfingsten
+20ß.
+1585 - 1596 fehlen.
+OodBAS ADT BASDDE AAA BASTADBUC</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

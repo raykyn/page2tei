@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:29</Created>
+        <LastChange>2020-04-19T01:23:43.633+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869394" pageNr="21" tsid="27912447" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=RULJXTDMTBTKMPRPEWHNIGGM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDOVKXWFCVGXQRDAEECDMXTF" imageId="5736257"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_021.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rvq3D_1"/>
+                <RegionRefIndexed index="1" regionRef="r0Wz5_2"/>
+                <RegionRefIndexed index="2" regionRef="rmobW_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rvq3D_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,888 632,888 632,1340 197,1340"/>
+            <TextLine id="rvq3D_1l1" custom="readingOrder {index:0;}">
+                <Coords points="194,1088 231,1099 272,1080 315,1099 343,1083 358,1096 417,1086 428,1099 464,1091 486,1105 533,1084 545,966 510,965 423,925 378,927 365,912 306,917 243,896 214,905"/>
+                <Baseline points="215,1014 240,1018 266,1022 292,1025 318,1028 344,1031 370,1033 395,1035 421,1039 447,1041 473,1044 499,1046 525,1047"/>
+                <TextEquiv>
+                    <Unicode>22/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvq3D_1l2" custom="readingOrder {index:1;}">
+                <Coords points="262,1200 278,1203 295,1192 309,1198 326,1189 346,1200 360,1196 392,1217 444,1196 510,1200 512,1153 490,1143 477,1149 462,1136 450,1147 423,1125 383,1123 358,1109 307,1114 288,1103 267,1104"/>
+                <Baseline points="275,1176 302,1181 330,1186 358,1188 386,1190 414,1190 442,1191 470,1191 498,1190"/>
+                <TextEquiv>
+                    <Unicode>nebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvq3D_1l3" custom="readingOrder {index:2;}">
+                <Coords points="316,1347 332,1345 348,1330 379,1331 427,1306 471,1307 468,1230 424,1238 415,1229 401,1230 389,1240 370,1236 357,1248 345,1248 326,1230 312,1231"/>
+                <Baseline points="327,1299 353,1301 379,1299 406,1296 432,1295 459,1299"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22/1518
+nebene
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r0Wz5_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="678,235 1924,235 1924,427 678,427"/>
+            <TextLine id="r0Wz5_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1036,403 1260,387 1382,418 1433,386 1671,387 1732,419 1834,387 1833,296 1615,292 1513,329 1035,321"/>
+                <Baseline points="1047,375 1085,375 1124,375 1163,375 1201,375 1240,374 1279,374 1317,372 1356,371 1395,371 1434,369 1472,368 1511,368 1550,366 1588,366 1627,365 1666,365 1704,365 1743,365 1782,366 1821,366"/>
+                <TextEquiv>
+                    <Unicode>DDDD Do DoD DDDDDDD BEAEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DDDD Do DoD DDDDDDD BEAEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rmobW_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="599,416 2657,416 2657,1427 599,1427"/>
+            <TextLine id="rmobW_3l1" custom="readingOrder {index:0;}">
+                <Coords points="684,506 717,501 733,515 759,502 812,511 847,498 878,505 922,494 923,403 904,403 890,391 867,412 848,397 818,409 804,395 769,385 685,398"/>
+                <Baseline points="696,464 722,466 749,468 776,468 803,468 830,468 857,468 884,467 911,468"/>
+                <TextEquiv>
+                    <Unicode>1566.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l2" custom="readingOrder {index:1;}">
+                <Coords points="821,585 1001,618 1321,599 1439,646 1554,595 1986,609 1986,511 1888,541 1769,486 1440,539 1225,540 1111,486 1034,530 962,485 821,524"/>
+                <Baseline points="833,561 890,564 947,566 1004,567 1061,569 1118,570 1175,570 1232,570 1289,570 1346,570 1403,570 1460,570 1517,570 1574,569 1631,569 1688,569 1745,569 1802,570 1859,570 1916,572 1974,573"/>
+                <TextEquiv>
+                    <Unicode>Martin zum Kappen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l3" custom="readingOrder {index:2;}">
+                <Coords points="670,704 715,703 800,741 810,732 821,737 881,694 923,700 924,602 826,599 795,608 781,600 748,615 730,605 715,617 697,602 674,601"/>
+                <Baseline points="684,659 709,663 734,665 760,665 785,666 810,666 836,666 861,666 886,669 912,671"/>
+                <TextEquiv>
+                    <Unicode>1567.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l4" custom="readingOrder {index:3;}">
+                <Coords points="873,789 1176,758 1587,827 1780,785 2315,794 2315,724 2124,717 2024,653 1867,725 1566,733 1146,620 873,705"/>
+                <Baseline points="885,762 959,764 1034,765 1109,767 1183,767 1258,768 1333,768 1407,768 1482,768 1557,768 1631,768 1706,768 1781,768 1855,768 1930,768 2005,768 2079,768 2154,770 2229,770 2304,771"/>
+                <TextEquiv>
+                    <Unicode>Hans Rino zum Rapten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l5" custom="readingOrder {index:4;}">
+                <Coords points="663,928 2507,904 2507,803 663,814"/>
+                <Baseline points="674,870 765,869 856,869 947,869 1038,867 1129,867 1220,867 1311,867 1402,867 1493,867 1585,869 1676,869 1767,869 1858,869 1949,870 2040,870 2131,870 2222,870 2313,872 2404,872 2496,872"/>
+                <TextEquiv>
+                    <Unicode>gibt von Huß und Dietteren, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l6" custom="readingOrder {index:5;}">
+                <Coords points="639,1006 2242,1026 2529,1005 2529,905 1411,946 1078,888 639,941"/>
+                <Baseline points="651,977 744,975 837,974 930,972 1024,971 1117,971 1210,971 1304,971 1397,971 1490,971 1584,971 1677,972 1770,972 1863,972 1957,974 2050,974 2143,974 2237,974 2330,974 2423,974 2517,974"/>
+                <TextEquiv>
+                    <Unicode>im Pforbuch verzeichnet Stodt 3 ℔</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l7" custom="readingOrder {index:6;}">
+                <Coords points="667,1085 723,1095 789,1075 814,1094 940,1106 987,1081 1031,1117 1064,1099 1117,1112 1120,991 970,983 909,1001 879,981 837,997 795,987 748,1014 725,1002 669,1012"/>
+                <Baseline points="680,1061 705,1061 730,1062 755,1064 780,1064 805,1065 830,1065 855,1067 880,1067 906,1068 931,1068 956,1068 981,1070 1006,1070 1031,1070 1056,1068 1081,1068 1107,1067"/>
+                <TextEquiv>
+                    <Unicode>148 brl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l8" custom="readingOrder {index:7;}">
+                <Coords points="683,1214 786,1190 835,1217 889,1183 1033,1207 1104,1191 1162,1209 1246,1182 1339,1198 1360,1191 1362,1133 1285,1101 1240,1124 1162,1087 1093,1124 1052,1109 981,1129 905,1097 855,1110 786,1074 685,1095"/>
+                <Baseline points="696,1158 728,1160 761,1160 794,1161 826,1162 859,1163 892,1163 924,1164 957,1164 990,1166 1023,1166 1055,1166 1088,1166 1121,1167 1153,1167 1186,1168 1219,1169 1251,1169 1284,1170 1317,1170 1350,1172"/>
+                <TextEquiv>
+                    <Unicode>Ebenso:53. 1500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rmobW_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1769,1383 1893,1410 1975,1385 2087,1386 2131,1408 2292,1384 2357,1408 2378,1401 2379,1289 2305,1290 2244,1320 2209,1303 2185,1322 2078,1295 2008,1325 1959,1299 1854,1293 1770,1334"/>
+                <Baseline points="1781,1364 1810,1364 1839,1364 1868,1364 1898,1364 1927,1365 1956,1365 1986,1365 2015,1365 2044,1365 2074,1365 2103,1365 2132,1367 2161,1367 2191,1367 2220,1367 2249,1368 2279,1368 2308,1368 2337,1370 2367,1370"/>
+                <TextEquiv>
+                    <Unicode>St. DDDad = CoDBAS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1566.
+Martin zum Kappen.
+1567.
+Hans Rino zum Rapten
+gibt von Huß und Dietteren, wie
+im Pforbuch verzeichnet Stodt 3 ℔
+148 brl.
+Ebenso:53. 1500
+St. DDDad = CoDBAS.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,11 @@
+{
+    "abbrev": "choice",
+    "sic": "choice",
+    "person": "persName",
+    "organization": "orgName",
+    "place": "placeName",
+    "delete": "del",
+    "highlighted": "hi",
+    "textStyle": "hi",
+    "measurement": "measure"
+}

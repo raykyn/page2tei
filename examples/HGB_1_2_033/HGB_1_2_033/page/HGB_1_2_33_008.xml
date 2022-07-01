@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:31</Created>
+        <LastChange>2020-04-19T01:20:40.790+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869357" pageNr="8" tsid="27912347" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KMQCCVSSXUQRVJBMMHROXCZM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NJFLAKHZVECSSJHNQBBRPSMG" imageId="5736220"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_008.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242815" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r98uV_1"/>
+                <RegionRefIndexed index="1" regionRef="rDTbu_2"/>
+                <RegionRefIndexed index="2" regionRef="rO6hc_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r98uV_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,805 610,805 610,1209 211,1209"/>
+            <TextLine id="r98uV_1l1" custom="readingOrder {index:0;}">
+                <Coords points="247,865 265,866 289,890 317,889 330,879 347,885 376,866 416,865 451,882 457,743 439,745 415,726 397,731 372,720 326,743 253,730"/>
+                <Baseline points="261,840 286,839 312,841 338,843 363,847 389,848 415,847 441,840"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r98uV_1l2" custom="readingOrder {index:1;}">
+                <Coords points="226,1017 261,1007 279,1020 304,1005 334,1015 362,993 448,1031 475,1016 553,1042 579,1030 580,876 514,866 451,905 404,867 343,887 227,894"/>
+                <Baseline points="239,960 264,963 289,966 314,968 339,969 364,971 389,971 415,971 440,971 465,969 490,969 515,968 540,966 566,963"/>
+                <TextEquiv>
+                    <Unicode>15/1578</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r98uV_1l3" custom="readingOrder {index:2;}">
+                <Coords points="240,1081 255,1081 280,1105 295,1095 351,1106 361,1099 403,1133 431,1131 433,1020 403,1017 366,996 327,1020 285,1014 269,1021 242,1013"/>
+                <Baseline points="254,1074 281,1076 309,1077 336,1077 364,1078 391,1079 419,1077"/>
+                <TextEquiv>
+                    <Unicode>Ueben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r98uV_1l4" custom="readingOrder {index:3;}">
+                <Coords points="255,1228 295,1227 310,1217 323,1222 356,1205 386,1231 408,1229 411,1126 396,1128 366,1100 351,1107 344,1099 316,1104 308,1098 278,1103 258,1097"/>
+                <Baseline points="269,1179 294,1184 320,1185 346,1185 372,1184 398,1185"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1578
+Ueben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rDTbu_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,185 2169,185 2169,423 599,423"/>
+            <TextLine id="rDTbu_2l1" custom="readingOrder {index:0;}">
+                <Coords points="966,313 1999,314 1998,228 1900,244 1761,197 1696,237 1480,241 1429,206 1291,244 965,180"/>
+                <Baseline points="978,293 1028,294 1078,296 1129,296 1179,296 1230,296 1280,294 1330,294 1381,293 1431,291 1482,290 1532,290 1582,288 1633,288 1683,288 1734,288 1784,290 1834,291 1885,293 1935,296 1986,299"/>
+                <TextEquiv>
+                    <Unicode>Constag Lanut Palentinstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTbu_2l2" custom="readingOrder {index:1;}">
+                <Coords points="626,387 770,435 1044,375 1190,418 1641,369 2042,440 2112,408 2112,325 2004,302 626,304"/>
+                <Baseline points="638,360 711,360 784,362 857,362 930,362 1003,362 1076,362 1149,362 1222,362 1295,362 1369,362 1442,362 1515,362 1588,362 1661,362 1734,362 1807,363 1880,363 1953,365 2026,365 2100,366"/>
+                <TextEquiv>
+                    <Unicode>1527. Movstag nach d Jacobstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Constag Lanut Palentinstag.
+1527. Movstag nach d Jacobstag.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rO6hc_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="585,421 2657,421 2657,1794 585,1794"/>
+            <TextLine id="rO6hc_3l1" custom="readingOrder {index:0;}">
+                <Coords points="626,598 2636,596 2664,472 1832,528 1563,450 1369,540 626,470"/>
+                <Baseline points="638,548 738,553 839,558 940,561 1040,564 1141,565 1242,566 1342,566 1443,566 1544,564 1645,563 1745,563 1846,561 1947,560 2047,560 2148,560 2249,560 2349,561 2450,563 2551,566 2652,570"/>
+                <TextEquiv>
+                    <Unicode>Martin Streiff zum Rappen Contra Marti Seit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l2" custom="readingOrder {index:1;}">
+                <Coords points="637,678 2344,717 2632,675 2632,604 637,630"/>
+                <Baseline points="650,663 748,665 846,668 945,669 1043,671 1142,671 1240,671 1338,671 1437,671 1535,669 1634,669 1732,669 1830,668 1929,668 2027,668 2126,668 2224,668 2322,668 2421,669 2519,672 2618,674"/>
+                <TextEquiv>
+                    <Unicode>u. wirde Beklagter wegen Nichterscheinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l3" custom="readingOrder {index:2;}">
+                <Coords points="650,813 687,818 756,776 798,799 834,789 909,819 960,787 1007,808 1053,798 1053,712 988,681 940,714 887,726 862,708 806,716 731,682 691,717 650,715"/>
+                <Baseline points="663,761 688,762 713,764 738,764 763,765 789,765 814,765 839,765 864,764 889,764 915,764 940,764 965,764 990,765 1015,766 1041,767"/>
+                <TextEquiv>
+                    <Unicode>bestreaft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l4" custom="readingOrder {index:3;}">
+                <Coords points="1354,915 1440,878 1608,917 2158,875 2208,911 2420,862 2651,907 2652,824 2300,773 2206,827 2038,791 1886,834 1686,737 1356,741"/>
+                <Baseline points="1368,851 1431,852 1495,854 1558,855 1622,857 1686,857 1749,858 1813,859 1876,860 1940,860 2004,861 2067,861 2131,861 2194,861 2258,863 2322,863 2385,863 2449,863 2512,864 2576,864 2640,866"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 2. 179.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l5" custom="readingOrder {index:4;}">
+                <Coords points="621,1000 726,1016 848,967 963,1016 1047,969 1636,1001 1686,994 1687,924 1582,897 1271,932 935,870 851,904 622,884"/>
+                <Baseline points="633,963 685,960 737,958 789,957 841,956 893,956 945,956 997,956 1049,957 1101,958 1153,959 1205,960 1257,962 1309,963 1361,964 1413,965 1465,966 1517,966 1569,968 1621,968 1674,966"/>
+                <TextEquiv>
+                    <Unicode>1527. Donstag nach Mathis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l6" custom="readingOrder {index:5;}">
+                <Coords points="2315,1003 2365,998 2395,1025 2493,984 2536,1007 2592,986 2617,1001 2657,1001 2656,907 2616,918 2583,893 2521,929 2485,929 2460,909 2427,932 2369,912 2342,927 2314,922"/>
+                <Baseline points="2327,963 2353,966 2380,967 2406,968 2433,968 2459,966 2486,965 2512,964 2539,963 2565,963 2592,963 2618,966 2645,968"/>
+                <TextEquiv>
+                    <Unicode>2. 184.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1351,1288 1402,1305 1431,1286 1449,1286 1499,1249 1531,1251 1529,1148 1461,1155 1446,1142 1416,1151 1401,1141 1348,1142"/>
+                <Baseline points="1362,1251 1388,1250 1414,1251 1440,1251 1466,1251 1492,1249 1518,1245"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l8" custom="readingOrder {index:7;}">
+                <Coords points="781,1312 957,1382 1381,1331 1593,1410 1844,1433 1917,1392 1922,1299 1838,1276 1501,1249 1403,1294 1242,1291 915,1173 787,1196"/>
+                <Baseline points="794,1293 849,1304 905,1312 960,1319 1016,1325 1072,1329 1127,1334 1183,1338 1239,1340 1294,1343 1350,1344 1406,1346 1461,1348 1517,1349 1573,1350 1628,1352 1684,1355 1740,1356 1795,1359 1851,1363 1907,1368"/>
+                <TextEquiv>
+                    <Unicode>Rappein = 15 neb 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rO6hc_3l9" custom="readingOrder {index:8;}">
+                <Coords points="792,1686 2666,1716 2668,1623 2167,1534 974,1548 797,1477"/>
+                <Baseline points="807,1632 899,1633 991,1635 1084,1637 1176,1638 1269,1640 1361,1643 1453,1644 1546,1647 1638,1650 1731,1652 1823,1654 1915,1657 2008,1659 2100,1662 2193,1665 2285,1668 2377,1671 2470,1674 2562,1677 2655,1680"/>
+                <TextEquiv>
+                    <Unicode>Herbeltztofer Martin Eig v Th v 15 neben Ja 1512</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Martin Streiff zum Rappen Contra Marti Seit
+u. wirde Beklagter wegen Nichterscheinen
+bestreaft.
+Fünfergerichtsprot. 2. 179.
+1527. Donstag nach Mathis.
+2. 184.
+Th v
+Rappein = 15 neb 19
+Herbeltztofer Martin Eig v Th v 15 neben Ja 1512</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

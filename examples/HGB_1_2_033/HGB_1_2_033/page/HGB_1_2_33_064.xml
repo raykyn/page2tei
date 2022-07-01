@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:31</Created>
+        <LastChange>2020-04-19T01:35:42.769+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869558" pageNr="64" tsid="27912879" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=FAVENSHTOLYQOAOCIULTCEJK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWZCHMBHOGXVAEENNMWSVTPX" imageId="5736421"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_064.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242874" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rSNgd_1"/>
+                <RegionRefIndexed index="1" regionRef="rLCZE_2"/>
+                <RegionRefIndexed index="2" regionRef="rAVT0_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rSNgd_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="161,661 664,661 664,1204 161,1204"/>
+            <TextLine id="rSNgd_1l1" custom="readingOrder {index:0;}">
+                <Coords points="287,727 414,704 450,733 473,714 498,721 507,552 469,555 441,571 412,550 367,570 295,571"/>
+                <Baseline points="302,684 328,683 354,683 380,685 407,688 433,690 459,691 486,689"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSNgd_1l2" custom="readingOrder {index:1;}">
+                <Coords points="151,808 299,801 321,816 387,786 505,790 568,840 626,822 630,688 490,745 417,706 299,729 212,686 154,704"/>
+                <Baseline points="164,777 189,778 214,779 239,780 264,781 289,782 314,783 339,785 364,785 389,786 414,788 439,788 464,789 489,789 514,791 539,791 564,791 589,791 615,791"/>
+                <TextEquiv>
+                    <Unicode>Alschendorff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSNgd_1l3" custom="readingOrder {index:2;}">
+                <Coords points="190,991 237,1017 267,1016 289,996 311,1007 365,964 442,934 495,980 580,957 583,844 554,838 481,866 391,806 344,825 195,813"/>
+                <Baseline points="203,945 229,940 255,937 281,935 307,933 333,933 359,935 385,935 411,937 437,939 463,941 489,944 515,945 541,947 567,948"/>
+                <TextEquiv>
+                    <Unicode>15 / 1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSNgd_1l4" custom="readingOrder {index:3;}">
+                <Coords points="257,1126 332,1096 345,1083 374,1102 387,1089 402,1090 426,1110 441,1096 461,1096 463,1027 433,1024 394,986 347,1014 324,1014 303,996 260,1012"/>
+                <Baseline points="272,1047 297,1051 322,1053 348,1053 373,1053 399,1053 424,1053 450,1055"/>
+                <TextEquiv>
+                    <Unicode>nneben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSNgd_1l5" custom="readingOrder {index:4;}">
+                <Coords points="278,1180 330,1178 339,1189 434,1208 447,1095 410,1098 391,1088 375,1099 349,1086 304,1108 287,1106"/>
+                <Baseline points="294,1151 320,1162 346,1168 373,1170 399,1170 426,1169"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+Alschendorff
+15 / 1518
+nneben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rLCZE_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="606,264 2377,264 2377,460 606,460"/>
+            <TextLine id="rLCZE_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1438,406 1468,404 1483,392 1547,400 1570,386 1577,393 1595,386 1604,396 1629,384 1676,382 1677,315 1647,317 1640,310 1618,324 1586,299 1544,291 1514,268 1480,280 1440,277"/>
+                <Baseline points="1452,360 1478,360 1505,362 1531,362 1558,363 1584,363 1611,363 1637,363 1664,362"/>
+                <TextEquiv>
+                    <Unicode>/1176.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLCZE_2l2" custom="readingOrder {index:1;}">
+                <Coords points="616,400 631,403 656,391 708,390 715,398 733,388 755,396 763,389 770,397 783,389 787,395 810,390 812,321 755,309 740,317 730,309 700,306 685,318 665,320 656,309 619,306"/>
+                <Baseline points="629,375 657,378 685,380 713,381 741,381 769,380 797,381"/>
+                <TextEquiv>
+                    <Unicode>1727.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLCZE_2l3" custom="readingOrder {index:2;}">
+                <Coords points="678,505 2515,523 2681,480 2681,396 1215,426 833,353 678,421"/>
+                <Baseline points="689,477 788,476 887,474 986,472 1085,470 1184,470 1283,468 1382,467 1481,467 1580,467 1679,465 1778,465 1877,465 1976,465 2075,465 2174,467 2273,467 2372,467 2471,468 2570,468 2669,470"/>
+                <TextEquiv>
+                    <Unicode>Herr Johann Marckhten Isel. fr. Witib) ℔ gestrichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>/1176.
+1727.
+Herr Johann Marckhten Isel. fr. Witib) ℔ gestrichen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rAVT0_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="632,390 2671,390 2671,1684 632,1684"/>
+            <TextLine id="rAVT0_3l1" custom="readingOrder {index:0;}">
+                <Coords points="1431,603 1446,602 1455,591 1473,600 1495,594 1525,609 1559,595 1588,618 1618,618 1610,502 1571,502 1540,526 1510,516 1486,532 1461,526 1449,540 1427,539"/>
+                <Baseline points="1442,578 1468,576 1495,575 1522,573 1548,571 1575,570 1602,567"/>
+                <TextEquiv>
+                    <Unicode>soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l2" custom="readingOrder {index:1;}">
+                <Coords points="697,670 1049,729 1220,674 2678,688 2641,612 2368,575 1873,633 697,593"/>
+                <Baseline points="710,660 807,663 905,666 1003,668 1101,669 1199,669 1296,671 1394,671 1492,669 1590,669 1688,668 1785,668 1883,666 1981,665 2079,665 2177,663 2274,663 2372,663 2470,664 2568,665 2666,666"/>
+                <TextEquiv>
+                    <Unicode>- ℔ 5ß - ȡ auf Martini vom Winthohauß zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l3" custom="readingOrder {index:2;}">
+                <Coords points="661,796 1926,760 2577,835 2629,721 660,695"/>
+                <Baseline points="672,768 769,768 866,770 963,770 1060,770 1158,770 1255,770 1352,770 1449,768 1546,768 1644,768 1741,767 1838,767 1935,765 2032,765 2130,764 2227,762 2324,762 2421,761 2518,761 2616,759"/>
+                <TextEquiv>
+                    <Unicode>Raaben in Eschemer Korstatt, sseits neben Hrn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l4" custom="readingOrder {index:3;}">
+                <Coords points="665,908 2550,916 2550,798 2493,793 665,796"/>
+                <Baseline points="677,864 770,864 863,866 956,867 1049,867 1142,867 1235,867 1328,867 1421,867 1514,867 1607,867 1700,867 1793,866 1886,866 1979,864 2072,864 2165,864 2258,863 2351,863 2444,863 2537,863"/>
+                <TextEquiv>
+                    <Unicode>Rantz sel. frau Wittib zum Taradiess, Eseits neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l5" custom="readingOrder {index:4;}">
+                <Coords points="730,1009 1673,980 1830,1027 1973,969 2146,981 2146,919 2087,902 1790,930 1723,879 1577,931 1183,881 1072,936 730,908"/>
+                <Baseline points="743,969 812,971 882,972 951,972 1021,972 1090,972 1160,972 1229,971 1299,971 1368,969 1438,968 1507,968 1577,966 1646,966 1716,966 1785,965 1855,966 1924,966 1994,967 2063,969 2133,971"/>
+                <TextEquiv>
+                    <Unicode>Cürtr/. Salathe dem Schuhmacher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1276,1189 1610,1197 1759,1156 2541,1182 2541,1120 2413,1077 2252,1118 2178,1083 2106,1124 1276,1098"/>
+                <Baseline points="1289,1152 1354,1152 1419,1152 1484,1152 1549,1152 1615,1152 1680,1152 1745,1154 1810,1154 1875,1154 1941,1155 2006,1155 2071,1156 2136,1157 2201,1157 2267,1158 2332,1159 2397,1160 2462,1161 2528,1161"/>
+                <TextEquiv>
+                    <Unicode>Dooronus der Schatveea. Stadt ooIIId.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1776,1262 1862,1250 1998,1293 2040,1276 2058,1291 2097,1291 2098,1184 2078,1177 2026,1194 1967,1179 1917,1208 1843,1186 1818,1196 1776,1186"/>
+                <Baseline points="1788,1244 1814,1247 1841,1247 1868,1248 1895,1248 1922,1247 1949,1247 1976,1247 2003,1247 2030,1247 2057,1247 2084,1250"/>
+                <TextEquiv>
+                    <Unicode>25t. 172.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l8" custom="readingOrder {index:7;}">
+                <Coords points="738,1398 867,1419 929,1389 1298,1382 1484,1450 1563,1443 1562,1301 1409,1297 1213,1340 1121,1294 1028,1351 861,1253 737,1256"/>
+                <Baseline points="750,1379 790,1380 830,1380 870,1382 910,1382 950,1382 990,1383 1030,1383 1070,1383 1110,1383 1150,1382 1190,1382 1230,1382 1270,1380 1310,1380 1350,1380 1390,1379 1430,1378 1470,1377 1510,1377 1551,1376"/>
+                <TextEquiv>
+                    <Unicode>Parader = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1687,1484 1808,1500 1856,1469 1940,1472 2017,1479 2068,1508 2106,1479 2157,1505 2210,1482 2213,1385 2166,1374 2010,1442 1972,1411 1949,1423 1913,1399 1845,1415 1802,1381 1690,1383"/>
+                <Baseline points="1700,1461 1726,1461 1752,1463 1778,1463 1804,1464 1831,1464 1857,1466 1883,1467 1909,1468 1935,1469 1962,1470 1988,1470 2014,1472 2040,1472 2066,1473 2093,1473 2119,1473 2145,1473 2171,1473 2198,1473"/>
+                <TextEquiv>
+                    <Unicode>Ehr umb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAVT0_3l10" custom="readingOrder {index:9;}">
+                <Coords points="737,1608 915,1584 1139,1652 1326,1578 1681,1642 1831,1571 2305,1641 2480,1593 2440,1472 1606,1516 1521,1465 1192,1500 736,1445"/>
+                <Baseline points="750,1565 840,1568 930,1572 1021,1574 1111,1575 1202,1575 1292,1574 1383,1574 1473,1572 1564,1570 1654,1568 1745,1566 1835,1564 1926,1562 2016,1561 2107,1560 2197,1560 2288,1560 2378,1562 2469,1565"/>
+                <TextEquiv>
+                    <Unicode>Märht Joh Eig v 15 ao 1749</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>soll
+- ℔ 5ß - ȡ auf Martini vom Winthohauß zum
+Raaben in Eschemer Korstatt, sseits neben Hrn.
+Rantz sel. frau Wittib zum Taradiess, Eseits neben
+Cürtr/. Salathe dem Schuhmacher.
+Dooronus der Schatveea. Stadt ooIIId.
+25t. 172.
+Parader = 13
+Ehr umb 13
+Märht Joh Eig v 15 ao 1749</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

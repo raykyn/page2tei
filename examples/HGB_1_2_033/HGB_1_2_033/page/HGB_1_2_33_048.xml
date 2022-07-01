@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:09</Created>
+        <LastChange>2020-04-19T01:31:08.582+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869480" pageNr="48" tsid="27912692" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=RQKKZZQCEZVHMFPWAKHMDSYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JOAOANBYFBEFFUTQSHWLFKDT" imageId="5736343"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_048.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242858" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="raxmS_1"/>
+                <RegionRefIndexed index="1" regionRef="r0uoT_2"/>
+                <RegionRefIndexed index="2" regionRef="ryTUz_5"/>
+                <RegionRefIndexed index="3" regionRef="rRcK1_4"/>
+                <RegionRefIndexed index="4" regionRef="rLzh4_6"/>
+                <RegionRefIndexed index="5" regionRef="rtn3O_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="raxmS_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="183,285 621,285 621,423 183,423"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r0uoT_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="244,211 2097,211 2097,410 244,410"/>
+            <TextLine id="r0uoT_2l1" custom="readingOrder {index:0;}">
+                <Coords points="203,410 2060,385 2059,293 1491,326 1257,238 993,335 512,258 319,332 202,304"/>
+                <Baseline points="215,359 306,359 398,360 489,362 581,362 673,362 764,362 856,362 948,362 1039,362 1131,362 1223,362 1314,360 1406,360 1498,360 1589,359 1681,359 1773,357 1864,357 1956,356 2048,356"/>
+                <TextEquiv>
+                    <Unicode>auf Zeinstag den S. Jung verkaufen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>auf Zeinstag den S. Jung verkaufen</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="ryTUz_5" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="678,1150 811,1150 811,1252 678,1252"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rRcK1_4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="657,1257 782,1257 782,1510 657,1510"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rLzh4_6" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="621,390 2686,390 2686,1021 621,1021"/>
+            <TextLine id="rLzh4_6l1" custom="readingOrder {index:0;}">
+                <Coords points="792,584 1056,564 1203,616 2225,565 2225,476 2165,504 2082,445 1867,499 1418,465 1271,519 931,425 792,446"/>
+                <Baseline points="804,557 874,557 944,557 1015,557 1085,557 1156,555 1226,555 1297,555 1367,555 1438,555 1508,555 1578,554 1649,554 1719,554 1790,552 1860,552 1931,551 2001,551 2072,549 2142,548 2213,546"/>
+                <TextEquiv>
+                    <Unicode>Judicalienbuch 5. S. 347</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Judicalienbuch 5. S. 347</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rtn3O_3" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1630,1578 2671,1578 2671,2038 1630,2038"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

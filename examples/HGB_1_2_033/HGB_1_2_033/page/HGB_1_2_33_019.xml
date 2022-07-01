@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:11</Created>
+        <LastChange>2020-04-19T01:23:15.428+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869390" pageNr="19" tsid="27912433" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=FMHQULMUTYFMFMFTOEEKHKUM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTCWNOVSFJEOMROWHSLIGUEV" imageId="5736253"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_019.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242826" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rXU8V_1"/>
+                <RegionRefIndexed index="1" regionRef="r78fd_3"/>
+                <RegionRefIndexed index="2" regionRef="rgpEK_4"/>
+                <RegionRefIndexed index="3" regionRef="rEPRK_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rXU8V_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="175,731 660,731 660,1235 175,1235"/>
+            <TextLine id="rXU8V_1l1" custom="readingOrder {index:0;}">
+                <Coords points="303,832 337,833 387,797 421,822 456,801 478,804 480,708 463,708 455,700 433,715 414,695 397,702 377,684 353,678 306,697"/>
+                <Baseline points="317,767 342,768 367,770 392,771 417,773 442,771 467,768"/>
+                <TextEquiv>
+                    <Unicode>2/ 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXU8V_1l2" custom="readingOrder {index:1;}">
+                <Coords points="171,942 244,948 330,922 367,950 465,914 532,947 556,934 630,958 628,827 595,813 522,825 470,801 424,822 364,781 328,809 268,785 215,823 168,827"/>
+                <Baseline points="182,921 207,920 233,918 258,916 284,913 309,912 335,911 361,911 386,909 412,909 437,909 463,909 489,909 514,909 540,911 565,911 591,912 617,912"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXU8V_1l3" custom="readingOrder {index:2;}">
+                <Coords points="260,1086 300,1075 341,1094 381,1084 393,1097 455,1077 510,1107 515,1004 485,1008 464,994 438,1008 419,997 388,1025 334,1025 306,1009 263,1020"/>
+                <Baseline points="275,1059 300,1064 325,1068 350,1071 375,1072 400,1074 425,1074 450,1073 475,1072 500,1070"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXU8V_1l4" custom="readingOrder {index:3;}">
+                <Coords points="304,1220 319,1219 330,1232 352,1237 423,1216 434,1225 448,1214 467,1220 479,1091 403,1111 387,1099 359,1107 316,1095"/>
+                <Baseline points="321,1178 348,1184 375,1189 403,1191 430,1192 458,1191"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2/ 1
+15/1538
+neben
+18</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r78fd_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,255 1572,255 1572,397 642,397"/>
+            <TextLine id="r78fd_3l1" custom="readingOrder {index:0;}">
+                <Coords points="662,395 1087,384 1224,435 1291,385 1561,391 1562,283 1402,310 1221,271 992,331 663,304"/>
+                <Baseline points="674,359 717,359 761,360 805,360 848,362 892,362 936,363 979,363 1023,363 1067,363 1111,363 1154,365 1198,365 1242,365 1285,366 1329,366 1373,368 1416,369 1460,371 1504,372 1548,374"/>
+                <TextEquiv>
+                    <Unicode>1545 - 1550 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1545 - 1550 fehlen.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rgpEK_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="649,377 2671,377 2671,1484 649,1484"/>
+            <TextLine id="rgpEK_4l1" custom="readingOrder {index:0;}">
+                <Coords points="652,488 1990,476 2061,518 2334,483 2364,429 2189,431 2109,364 1841,445 1640,392 653,412"/>
+                <Baseline points="665,456 749,458 833,458 918,459 1002,461 1086,461 1171,462 1255,462 1339,464 1424,464 1508,465 1592,465 1677,465 1761,467 1845,467 1930,467 2014,467 2098,468 2183,468 2267,468 2352,470"/>
+                <TextEquiv>
+                    <Unicode>1551 Camerei Corpus. Frofasten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l2" custom="readingOrder {index:1;}">
+                <Coords points="659,630 917,576 1919,577 2083,642 2496,605 2496,510 2233,482 1627,540 660,490"/>
+                <Baseline points="671,566 761,566 852,566 942,566 1033,566 1124,566 1214,566 1305,566 1396,567 1486,567 1577,567 1668,567 1758,567 1849,568 1940,569 2030,569 2121,569 2212,569 2302,567 2393,567 2484,567"/>
+                <TextEquiv>
+                    <Unicode>Item Marti Müller vom hus Kappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l3" custom="readingOrder {index:2;}">
+                <Coords points="897,686 927,691 982,739 1106,683 1229,692 1255,717 1307,689 1346,695 1348,606 1302,593 1196,613 1101,584 1039,620 1012,605 992,619 899,617"/>
+                <Baseline points="911,663 937,663 963,663 990,662 1016,663 1043,663 1069,663 1096,665 1122,665 1148,666 1175,667 1201,668 1228,668 1254,669 1281,669 1307,669 1334,669"/>
+                <TextEquiv>
+                    <Unicode>11ß. 63.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l4" custom="readingOrder {index:3;}">
+                <Coords points="668,808 708,789 823,805 892,776 934,796 1030,756 1147,814 1216,778 1297,778 1298,729 1183,684 1094,688 1011,729 940,686 883,712 785,699 669,722"/>
+                <Baseline points="680,764 710,762 740,762 770,762 801,761 831,761 861,761 892,761 922,761 952,761 983,761 1013,761 1043,762 1073,762 1104,764 1134,764 1164,765 1195,766 1225,767 1255,770 1286,771"/>
+                <TextEquiv>
+                    <Unicode>155274 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l5" custom="readingOrder {index:4;}">
+                <Coords points="1440,826 1711,781 1939,806 1966,784 2052,824 2175,792 2176,711 2105,722 1968,678 1913,717 1712,690 1641,713 1585,683 1442,704"/>
+                <Baseline points="1454,762 1489,764 1524,764 1560,765 1595,765 1631,765 1666,767 1702,767 1737,767 1773,767 1808,767 1843,767 1879,767 1914,767 1950,767 1985,768 2021,769 2056,771 2092,772 2127,774 2163,776"/>
+                <TextEquiv>
+                    <Unicode>1555 wie oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l6" custom="readingOrder {index:5;}">
+                <Coords points="686,884 829,892 878,919 964,888 1008,912 1121,883 1121,793 1057,780 1026,755 984,787 922,794 883,831 819,801 687,813"/>
+                <Baseline points="698,864 723,864 749,863 775,863 800,863 826,863 852,864 877,864 903,864 929,864 954,864 980,864 1006,866 1031,866 1057,864 1083,864 1109,864"/>
+                <TextEquiv>
+                    <Unicode>1556 fehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l7" custom="readingOrder {index:6;}">
+                <Coords points="1445,885 1519,879 1575,912 1713,909 1789,879 1862,902 1939,884 1983,902 2013,880 2069,898 2123,885 2124,848 1987,806 1876,834 1786,800 1726,819 1690,793 1446,826"/>
+                <Baseline points="1458,863 1490,863 1523,861 1556,861 1588,861 1621,861 1654,861 1686,863 1719,863 1752,863 1785,864 1817,864 1850,864 1883,866 1915,867 1948,868 1981,869 2013,870 2046,870 2079,872 2112,873"/>
+                <TextEquiv>
+                    <Unicode>1557 wie oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l8" custom="readingOrder {index:7;}">
+                <Coords points="689,985 2677,1002 2677,911 2587,896 689,882"/>
+                <Baseline points="701,969 799,969 897,968 995,968 1093,968 1191,968 1289,969 1388,969 1486,969 1584,971 1682,971 1780,972 1878,972 1976,972 2075,972 2173,972 2271,972 2369,971 2467,969 2565,968 2664,965"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1558 mit dem Zusatz: diser zins ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l9" custom="readingOrder {index:8;}">
+                <Coords points="667,1092 778,1119 851,1082 920,1118 999,1076 1013,1089 1143,1078 1143,1014 1065,1002 1023,1017 981,1000 922,1020 895,1001 856,1025 797,986 718,1031 667,1016"/>
+                <Baseline points="680,1064 705,1065 730,1067 755,1067 780,1068 805,1068 830,1068 855,1068 880,1068 905,1068 930,1068 955,1068 980,1068 1005,1067 1030,1066 1055,1065 1080,1065 1105,1064 1130,1064"/>
+                <TextEquiv>
+                    <Unicode>abglössdt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l10" custom="readingOrder {index:9;}">
+                <Coords points="1595,1323 1668,1353 1737,1343 1759,1355 1835,1328 1899,1350 1985,1312 1985,1224 1958,1234 1943,1222 1838,1261 1761,1247 1735,1257 1695,1227 1649,1255 1595,1257"/>
+                <Baseline points="1608,1323 1634,1323 1660,1322 1686,1322 1712,1322 1738,1322 1764,1323 1791,1323 1817,1323 1843,1323 1869,1323 1895,1322 1921,1322 1947,1321 1974,1320"/>
+                <TextEquiv>
+                    <Unicode>805 ß A5 800</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgpEK_4l11" custom="readingOrder {index:10;}">
+                <Coords points="1300,1437 1691,1453 1803,1422 1865,1458 1907,1430 1959,1454 2204,1433 2202,1335 2067,1322 1736,1362 1490,1306 1299,1353"/>
+                <Baseline points="1313,1418 1356,1419 1400,1421 1444,1421 1488,1421 1532,1421 1576,1421 1619,1421 1663,1421 1707,1419 1751,1419 1795,1418 1839,1417 1883,1416 1926,1415 1970,1413 2014,1413 2058,1412 2102,1410 2146,1409 2190,1407"/>
+                <TextEquiv>
+                    <Unicode>DoDED ST EI ADA GRUNDToL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1551 Camerei Corpus. Frofasten.
+Item Marti Müller vom hus Kappen
+11ß. 63.
+155274 fehlen.
+1555 wie oben.
+1556 fehlt.
+1557 wie oben.
+Ebenso 1558 mit dem Zusatz: diser zins ist
+abglössdt.
+805 ß A5 800
+DoDED ST EI ADA GRUNDToL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rEPRK_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2158,312 2420,312 2420,399 2158,399"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

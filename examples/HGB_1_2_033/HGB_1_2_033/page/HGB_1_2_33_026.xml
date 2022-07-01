@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:49</Created>
+        <LastChange>2020-04-19T01:25:10.207+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869403" pageNr="26" tsid="27912497" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SUZKHSXTQCPUNVYQTDQFNCDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHPLTEBLUXMFXKCWKKLUBWIW" imageId="5736266"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_026.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242834" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="riWh4_1"/>
+                <RegionRefIndexed index="1" regionRef="rfUGL_2"/>
+                <RegionRefIndexed index="2" regionRef="rzMrD_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="riWh4_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="305,1394 639,1394 639,1737 305,1737"/>
+            <TextLine id="riWh4_1l1" custom="readingOrder {index:0;}">
+                <Coords points="334,1617 367,1621 383,1606 415,1618 441,1609 461,1623 504,1614 536,1639 591,1608 616,1609 619,1543 583,1552 541,1532 520,1544 462,1546 412,1572 375,1560 336,1564"/>
+                <Baseline points="348,1598 373,1599 399,1600 424,1602 450,1603 475,1604 501,1607 526,1607 552,1608 577,1608 603,1607"/>
+                <TextEquiv>
+                    <Unicode>hluni 18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hluni 18.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rfUGL_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1195,281 2283,281 2283,432 1195,432"/>
+            <TextLine id="rfUGL_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1228,419 1310,451 1449,413 1612,452 1883,412 1962,444 2096,407 2266,427 2265,361 2199,340 1641,335 1570,371 1369,321 1227,338"/>
+                <Baseline points="1242,399 1292,401 1343,401 1393,401 1444,401 1494,400 1545,399 1595,399 1646,398 1696,397 1747,396 1798,395 1848,393 1899,393 1949,392 2000,392 2050,390 2101,390 2151,390 2202,390 2253,390"/>
+                <TextEquiv>
+                    <Unicode>1577. Zwinger, Melthodus apodemica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1577. Zwinger, Melthodus apodemica.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rzMrD_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="585,375 2700,375 2700,2060 585,2060"/>
+            <TextLine id="rzMrD_3l1" custom="readingOrder {index:0;}">
+                <Coords points="2450,422 2485,427 2511,410 2526,426 2564,432 2582,414 2632,443 2673,441 2675,304 2643,288 2597,288 2562,264 2484,336 2451,333"/>
+                <Baseline points="2463,383 2491,385 2519,386 2547,387 2576,387 2604,387 2632,387 2661,389"/>
+                <TextEquiv>
+                    <Unicode>S. 191.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l2" custom="readingOrder {index:1;}">
+                <Coords points="1394,515 1430,510 1504,554 1603,550 1660,508 2003,514 2002,466 1933,442 1842,464 1773,435 1576,476 1548,457 1475,463 1421,423 1393,432"/>
+                <Baseline points="1407,498 1436,500 1465,500 1494,501 1523,501 1552,501 1581,501 1610,501 1639,500 1668,500 1698,498 1727,497 1756,497 1785,495 1814,495 1843,494 1872,494 1901,493 1930,492 1959,492 1989,492"/>
+                <TextEquiv>
+                    <Unicode>Fropngnauler inter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l3" custom="readingOrder {index:2;}">
+                <Coords points="663,643 929,609 1043,615 1087,645 1431,615 1430,513 1293,543 1263,574 1159,527 1086,564 1032,532 1004,555 928,533 814,550 776,576 662,549"/>
+                <Baseline points="674,605 711,606 748,606 785,608 823,608 860,607 897,606 934,606 972,605 1009,605 1046,604 1083,603 1121,602 1158,601 1195,600 1232,600 1270,599 1307,599 1344,599 1381,600 1419,600"/>
+                <TextEquiv>
+                    <Unicode>Cinercam et Lapiderm dis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l4" custom="readingOrder {index:3;}">
+                <Coords points="661,729 717,721 756,754 948,710 1083,742 1189,710 1308,706 1390,743 1455,721 1455,676 1381,641 1307,663 1142,644 1094,670 1005,639 922,673 830,643 661,658"/>
+                <Baseline points="674,707 712,707 750,707 789,707 827,707 866,705 904,705 943,705 981,704 1020,704 1058,702 1096,702 1135,702 1173,701 1212,701 1250,700 1289,699 1327,699 1366,699 1404,699 1443,699"/>
+                <TextEquiv>
+                    <Unicode>Lapiderm et Spaleam dus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l5" custom="readingOrder {index:4;}">
+                <Coords points="661,831 2132,854 2654,816 2653,735 660,760"/>
+                <Baseline points="674,809 772,809 870,807 969,807 1067,806 1166,804 1264,803 1362,801 1461,800 1559,798 1658,797 1756,795 1854,794 1953,792 2051,791 2150,789 2248,788 2346,788 2445,786 2543,786 2642,785"/>
+                <TextEquiv>
+                    <Unicode>Spateam et J. Joannis dus, unum lerreum vallum, allerum Lapideum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1762,948 1851,927 1894,947 1940,919 1983,929 2031,908 2046,923 2094,920 2094,839 2053,854 2008,847 1977,863 1949,853 1927,866 1911,850 1840,861 1802,831 1761,841"/>
+                <Baseline points="1775,894 1800,895 1826,896 1851,896 1877,896 1902,896 1928,896 1954,894 1979,894 2005,894 2030,894 2056,894 2082,893"/>
+                <TextEquiv>
+                    <Unicode>Lauponde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1197,926 1271,910 1332,933 1365,926 1397,949 1471,910 1489,926 1514,910 1593,936 1593,852 1517,862 1499,847 1463,865 1403,852 1377,872 1329,870 1250,827 1197,832"/>
+                <Baseline points="1209,902 1235,902 1262,902 1288,902 1315,903 1341,903 1368,903 1395,903 1421,903 1448,903 1474,903 1501,902 1527,902 1554,902 1581,902"/>
+                <TextEquiv>
+                    <Unicode>Siversoria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l8" custom="readingOrder {index:7;}">
+                <Coords points="650,1041 2704,1010 2703,944 2576,925 649,940"/>
+                <Baseline points="663,1011 764,1010 865,1008 967,1007 1068,1005 1170,1004 1271,1002 1372,1002 1474,1001 1575,1000 1677,999 1778,998 1879,998 1981,996 2082,996 2184,995 2285,993 2386,993 2488,992 2589,990 2691,989"/>
+                <TextEquiv>
+                    <Unicode>Nobilia hospitia, guge absgue magistratus permissu nee institri nee anli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l9" custom="readingOrder {index:8;}">
+                <Coords points="757,1139 2692,1113 2691,1060 2432,1029 756,1078"/>
+                <Baseline points="768,1109 863,1107 959,1106 1054,1106 1150,1104 1245,1104 1341,1104 1436,1103 1532,1103 1627,1101 1723,1101 1819,1100 1914,1100 2010,1098 2105,1097 2201,1097 2296,1095 2392,1094 2487,1091 2583,1089 2679,1086"/>
+                <TextEquiv>
+                    <Unicode>quari possunt, sie ut dominus Morum cauponam vil invitus farere io</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l10" custom="readingOrder {index:9;}">
+                <Coords points="757,1267 907,1263 950,1240 973,1257 1024,1254 1087,1223 1120,1248 1175,1222 1221,1232 1256,1211 1256,1168 1157,1177 1114,1152 1015,1183 992,1166 906,1172 855,1142 756,1158"/>
+                <Baseline points="770,1211 795,1211 820,1211 845,1211 870,1211 895,1211 920,1211 945,1211 970,1211 995,1211 1020,1209 1045,1209 1070,1209 1095,1209 1120,1208 1145,1208 1170,1208 1195,1207 1220,1206 1245,1206"/>
+                <TextEquiv>
+                    <Unicode>galur, praceipua</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l11" custom="readingOrder {index:10;}">
+                <Coords points="849,1339 1196,1314 1235,1341 1275,1308 1461,1356 1660,1323 1783,1350 1853,1313 1852,1255 1768,1241 1731,1269 1464,1237 1328,1274 1246,1227 848,1262"/>
+                <Baseline points="861,1311 910,1310 959,1310 1008,1308 1057,1308 1106,1308 1155,1307 1204,1307 1253,1305 1302,1305 1351,1305 1400,1304 1449,1304 1498,1302 1547,1302 1596,1302 1645,1301 1694,1300 1743,1299 1792,1299 1841,1298"/>
+                <TextEquiv>
+                    <Unicode>Suburbiorum, Cervi, Corvi, Jovis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l12" custom="readingOrder {index:11;}">
+                <Coords points="861,1428 2325,1445 2540,1427 2539,1343 860,1362"/>
+                <Baseline points="873,1407 955,1407 1038,1407 1121,1407 1204,1407 1286,1407 1369,1406 1452,1406 1535,1406 1617,1404 1700,1403 1783,1403 1866,1401 1948,1400 2031,1398 2114,1397 2197,1395 2279,1394 2362,1392 2445,1391 2528,1388"/>
+                <TextEquiv>
+                    <Unicode>Urbis, Coronae, Cupae, Floris, Cuoniac, Sylvestris, Rostri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l13" custom="readingOrder {index:12;}">
+                <Coords points="303,1531 392,1569 450,1529 734,1558 825,1523 1059,1539 1120,1514 1191,1540 1191,1474 1074,1443 646,1469 430,1399 303,1434"/>
+                <Baseline points="315,1500 358,1502 401,1504 444,1506 487,1508 531,1508 574,1509 617,1509 660,1511 703,1511 747,1511 790,1511 833,1511 876,1511 919,1509 963,1509 1006,1509 1049,1508 1092,1508 1135,1506 1179,1505"/>
+                <TextEquiv>
+                    <Unicode>1571537 Jgrobilia mulla.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l14" custom="readingOrder {index:13;}">
+                <Coords points="2515,1635 2533,1640 2543,1632 2569,1635 2594,1619 2609,1632 2622,1621 2637,1626 2657,1606 2685,1610 2684,1550 2651,1540 2641,1550 2616,1555 2575,1528 2550,1538 2535,1531 2514,1534"/>
+                <Baseline points="2528,1589 2556,1592 2585,1592 2614,1592 2643,1590 2672,1589"/>
+                <TextEquiv>
+                    <Unicode>S. 195.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l15" custom="readingOrder {index:14;}">
+                <Coords points="1229,1652 1348,1616 1582,1655 1792,1605 1937,1642 2089,1634 2088,1552 1957,1569 1908,1528 1797,1577 1566,1561 1525,1529 1465,1572 1284,1535 1229,1559"/>
+                <Baseline points="1241,1601 1282,1602 1324,1602 1366,1604 1408,1604 1449,1604 1491,1604 1533,1604 1575,1604 1616,1604 1658,1602 1700,1602 1742,1602 1783,1601 1825,1601 1867,1599 1909,1599 1950,1599 1992,1598 2034,1598 2076,1598"/>
+                <TextEquiv>
+                    <Unicode>Loca Sauperum urbis pro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l16" custom="readingOrder {index:15;}">
+                <Coords points="319,1724 527,1730 561,1710 654,1740 751,1727 786,1758 898,1722 1025,1724 1060,1710 1061,1664 962,1680 813,1639 701,1667 494,1615 320,1673"/>
+                <Baseline points="333,1700 368,1700 404,1700 440,1700 475,1701 511,1703 547,1704 582,1706 618,1707 654,1708 690,1710 725,1712 761,1713 797,1713 832,1713 868,1713 904,1713 939,1712 975,1710 1011,1708 1047,1706"/>
+                <TextEquiv>
+                    <Unicode>u Nitel Megris zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l17" custom="readingOrder {index:16;}">
+                <Coords points="750,1839 2119,1811 2118,1747 1829,1761 1765,1724 1657,1769 1415,1724 1167,1778 1076,1738 967,1778 749,1750"/>
+                <Baseline points="762,1812 829,1812 896,1811 963,1811 1030,1809 1097,1809 1164,1808 1232,1807 1299,1806 1366,1805 1433,1804 1500,1803 1567,1802 1634,1801 1702,1800 1769,1799 1836,1799 1903,1797 1970,1797 2037,1797 2105,1796"/>
+                <TextEquiv>
+                    <Unicode>Intra urben: Frope Münorilas, Noseomum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l18" custom="readingOrder {index:17;}">
+                <Coords points="752,1920 1006,1943 1211,1910 1280,1950 1432,1933 1547,1968 1876,1904 1875,1858 1632,1840 1526,1877 1414,1827 1234,1834 1183,1875 1056,1848 925,1880 853,1840 752,1869"/>
+                <Baseline points="765,1910 819,1910 874,1910 929,1910 984,1910 1039,1910 1094,1910 1148,1908 1203,1908 1258,1908 1313,1907 1368,1907 1423,1905 1478,1905 1532,1904 1587,1904 1642,1902 1697,1902 1752,1901 1807,1901 1862,1901"/>
+                <TextEquiv>
+                    <Unicode>Estra urben. J. Jacobi, pro leprosis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rzMrD_3l19" custom="readingOrder {index:18;}">
+                <Coords points="668,2047 690,2047 721,2023 825,2032 873,2019 893,2034 956,2018 1013,2058 1035,2055 1035,1987 989,1987 958,1965 938,1973 905,1958 849,1976 816,1956 791,1977 743,1980 666,1953"/>
+                <Baseline points="681,2016 707,2016 733,2016 759,2016 786,2015 812,2015 838,2015 865,2015 891,2015 917,2013 944,2013 970,2013 996,2013 1023,2013"/>
+                <TextEquiv>
+                    <Unicode>Danis Zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S. 191.
+Fropngnauler inter
+Cinercam et Lapiderm dis.
+Lapiderm et Spaleam dus.
+Spateam et J. Joannis dus, unum lerreum vallum, allerum Lapideum.
+Lauponde.
+Siversoria
+Nobilia hospitia, guge absgue magistratus permissu nee institri nee anli
+quari possunt, sie ut dominus Morum cauponam vil invitus farere io
+galur, praceipua
+Suburbiorum, Cervi, Corvi, Jovis.
+Urbis, Coronae, Cupae, Floris, Cuoniac, Sylvestris, Rostri.
+1571537 Jgrobilia mulla.
+S. 195.
+Loca Sauperum urbis pro
+u Nitel Megris zum
+Intra urben: Frope Münorilas, Noseomum.
+Estra urben. J. Jacobi, pro leprosis.
+Danis Zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:50</Created>
+        <LastChange>2020-04-19T01:30:57.716+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869476" pageNr="47" tsid="27912689" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=GCNKRLPQXKFCDHAYLQQJDGRO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNCNGKOJGBOMOBSCKQTTBYWE" imageId="5736339"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_047.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242857" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rB8rB_1"/>
+                <RegionRefIndexed index="1" regionRef="rUNRL_2"/>
+                <RegionRefIndexed index="2" regionRef="rM0d6_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rB8rB_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,844 606,844 606,1331 211,1331"/>
+            <TextLine id="rB8rB_1l1" custom="readingOrder {index:0;}">
+                <Coords points="288,922 379,930 403,921 432,944 456,928 505,953 514,846 470,829 456,841 434,829 423,833 373,793 349,802 299,792"/>
+                <Baseline points="302,909 329,911 357,913 384,915 412,919 439,920 467,923 495,923"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rB8rB_1l2" custom="readingOrder {index:1;}">
+                <Coords points="209,1069 271,1063 410,1101 472,1075 497,1099 540,1098 571,1084 575,987 523,990 397,950 356,972 282,967 261,984 212,987"/>
+                <Baseline points="224,1050 249,1050 275,1050 301,1052 327,1053 353,1053 379,1055 404,1056 430,1057 456,1058 482,1058 508,1059 534,1059 560,1059"/>
+                <TextEquiv>
+                    <Unicode>15/1038</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rB8rB_1l3" custom="readingOrder {index:2;}">
+                <Coords points="269,1187 346,1183 382,1190 399,1204 420,1189 432,1195 453,1183 466,1194 476,1184 492,1185 494,1136 473,1141 461,1132 448,1144 430,1139 403,1112 387,1124 339,1119 272,1134"/>
+                <Baseline points="284,1167 311,1173 339,1175 367,1176 395,1178 423,1178 451,1178 479,1179"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rB8rB_1l4" custom="readingOrder {index:3;}">
+                <Coords points="280,1322 329,1312 354,1324 418,1314 445,1336 458,1337 463,1230 403,1216 384,1231 362,1214 351,1219 324,1210 302,1226 285,1225"/>
+                <Baseline points="294,1296 319,1296 345,1297 370,1300 396,1302 421,1302 447,1301"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1038
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rUNRL_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,237 1267,237 1267,419 599,419"/>
+            <TextLine id="rUNRL_2l1" custom="readingOrder {index:0;}">
+                <Coords points="622,394 680,389 719,361 770,394 839,384 895,418 1004,420 1055,387 1163,372 1163,275 1109,273 1048,303 951,285 900,298 806,272 721,277 678,307 622,297"/>
+                <Baseline points="635,359 660,359 686,357 712,357 738,357 764,357 789,356 815,356 841,356 867,356 893,356 918,357 944,357 970,357 996,357 1022,357 1047,357 1073,358 1099,359 1125,359 1151,359"/>
+                <TextEquiv>
+                    <Unicode>1658 Mei 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1658 Mei 7.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rM0d6_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="606,434 2671,434 2671,2165 606,2165"/>
+            <TextLine id="rM0d6_3l1" custom="readingOrder {index:0;}">
+                <Coords points="631,567 795,564 894,594 925,564 968,565 1067,619 1110,600 1171,609 1174,491 1131,498 1042,465 985,499 937,485 875,520 771,484 740,493 716,470 634,475"/>
+                <Baseline points="644,540 669,544 695,547 721,551 747,553 773,554 798,555 824,556 850,557 876,557 902,557 927,557 953,557 979,557 1005,557 1031,557 1056,557 1082,558 1108,558 1134,560 1160,561"/>
+                <TextEquiv>
+                    <Unicode>Anschlag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l2" custom="readingOrder {index:1;}">
+                <Coords points="726,680 2589,701 2589,615 2495,586 2173,625 1944,563 1673,623 1454,568 1086,623 727,562"/>
+                <Baseline points="740,647 831,651 923,654 1015,656 1107,657 1199,659 1290,660 1382,660 1474,660 1566,660 1658,660 1749,660 1841,660 1933,659 2025,659 2117,659 2208,660 2300,660 2392,662 2484,663 2576,665"/>
+                <TextEquiv>
+                    <Unicode>Deif. Frauen Elisabetha Jselin zurückhge,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l3" custom="readingOrder {index:2;}">
+                <Coords points="630,798 1903,766 2225,834 2656,782 2656,723 2531,697 630,681"/>
+                <Baseline points="644,756 743,756 843,758 943,758 1043,759 1143,759 1243,759 1343,759 1443,759 1543,759 1643,759 1742,761 1842,761 1942,761 2042,761 2142,761 2242,761 2342,762 2442,762 2542,764 2642,765"/>
+                <TextEquiv>
+                    <Unicode>Lassene Erben haben die Burthschaft zum Rap-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l4" custom="readingOrder {index:3;}">
+                <Coords points="618,914 960,864 2611,908 2682,895 2682,791 618,812"/>
+                <Baseline points="630,854 732,855 834,857 936,858 1038,860 1140,860 1242,861 1344,861 1446,861 1548,861 1650,861 1752,861 1854,861 1956,861 2058,860 2160,860 2262,860 2364,860 2466,860 2568,861 2670,861"/>
+                <TextEquiv>
+                    <Unicode>Yen genant in Esahmer Postatt, einseits neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l5" custom="readingOrder {index:4;}">
+                <Coords points="622,969 2597,974 2477,898 1219,922 962,863 860,931 622,913"/>
+                <Baseline points="635,954 732,954 829,956 927,956 1024,957 1122,957 1219,957 1316,959 1414,959 1511,959 1609,960 1706,960 1803,960 1901,960 1998,960 2096,960 2193,960 2290,960 2388,960 2485,960 2583,959"/>
+                <TextEquiv>
+                    <Unicode>dem Hoof zum Paradies, anderseits neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l6" custom="readingOrder {index:5;}">
+                <Coords points="631,1110 2626,1079 2626,980 2537,969 2251,1029 631,980"/>
+                <Baseline points="644,1050 742,1052 840,1053 939,1053 1037,1055 1136,1055 1234,1056 1333,1056 1431,1058 1530,1058 1628,1058 1726,1058 1825,1058 1923,1059 2022,1059 2120,1059 2219,1059 2317,1059 2416,1059 2514,1059 2613,1059"/>
+                <TextEquiv>
+                    <Unicode>Oregorio Schulen gelegen, und hinden auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l7" custom="readingOrder {index:6;}">
+                <Coords points="625,1169 1202,1166 1324,1225 1508,1167 2679,1190 2679,1093 625,1112"/>
+                <Baseline points="638,1152 739,1154 840,1155 942,1157 1043,1158 1145,1158 1246,1158 1347,1159 1449,1160 1550,1160 1652,1160 1753,1160 1854,1160 1956,1160 2057,1160 2159,1160 2260,1161 2361,1161 2463,1163 2564,1164 2666,1166"/>
+                <TextEquiv>
+                    <Unicode>den Cüntenbergischen Hoof stossend, sambt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l8" custom="readingOrder {index:7;}">
+                <Coords points="635,1273 1311,1263 1416,1325 1594,1267 2252,1323 2572,1281 2572,1199 2141,1226 1980,1171 1880,1225 636,1191"/>
+                <Baseline points="647,1248 742,1250 838,1251 933,1253 1029,1254 1124,1254 1220,1256 1315,1256 1411,1256 1506,1256 1602,1256 1698,1256 1793,1256 1889,1256 1984,1256 2080,1256 2175,1257 2271,1257 2366,1259 2462,1259 2558,1260"/>
+                <TextEquiv>
+                    <Unicode>Schenren, Stallung, Baumbt Kautzarten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l9" custom="readingOrder {index:8;}">
+                <Coords points="610,1367 2598,1404 2647,1297 611,1301"/>
+                <Baseline points="623,1347 723,1349 824,1350 924,1352 1025,1353 1125,1353 1226,1353 1326,1355 1427,1355 1527,1353 1628,1353 1729,1353 1829,1353 1930,1353 2030,1353 2131,1353 2231,1355 2332,1355 2432,1356 2533,1358 2634,1361"/>
+                <TextEquiv>
+                    <Unicode>Hanes Höfling Blosglindt auch darzu er.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l10" custom="readingOrder {index:9;}">
+                <Coords points="634,1455 1340,1519 2103,1457 2340,1527 2675,1431 2088,1362 1963,1420 634,1370"/>
+                <Baseline points="647,1445 747,1446 848,1448 949,1449 1050,1449 1151,1451 1251,1451 1352,1452 1453,1452 1554,1452 1655,1452 1755,1452 1856,1452 1957,1452 2058,1454 2159,1454 2259,1454 2360,1455 2461,1455 2562,1457 2663,1458"/>
+                <TextEquiv>
+                    <Unicode>Kaufter Stallung, des Lapplins Stallung genan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l11" custom="readingOrder {index:10;}">
+                <Coords points="632,1561 744,1620 931,1554 2589,1586 2549,1484 632,1507"/>
+                <Baseline points="644,1545 740,1545 837,1547 933,1547 1030,1547 1127,1548 1223,1548 1320,1548 1416,1548 1513,1550 1610,1550 1706,1550 1803,1550 1899,1550 1996,1550 2093,1551 2189,1551 2286,1551 2382,1551 2479,1553 2576,1553"/>
+                <TextEquiv>
+                    <Unicode>desgeichen den zue der Burthschaft gehörigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l12" custom="readingOrder {index:11;}">
+                <Coords points="635,1692 2074,1653 2377,1708 2658,1684 2658,1587 635,1588"/>
+                <Baseline points="648,1644 747,1646 847,1646 947,1647 1047,1647 1147,1647 1247,1647 1347,1647 1447,1647 1547,1649 1647,1649 1746,1649 1846,1649 1946,1649 2046,1650 2146,1650 2246,1652 2346,1653 2446,1654 2546,1656 2646,1658"/>
+                <TextEquiv>
+                    <Unicode>Bisehbronnen auf dem Blömlin, und übri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l13" custom="readingOrder {index:12;}">
+                <Coords points="635,1798 2666,1781 2666,1700 1127,1718 878,1653 635,1714"/>
+                <Baseline points="647,1740 747,1742 847,1743 947,1745 1048,1746 1148,1746 1248,1747 1348,1748 1449,1748 1549,1748 1649,1748 1749,1748 1850,1748 1950,1748 2050,1748 2150,1748 2251,1748 2351,1749 2451,1749 2551,1749 2652,1749"/>
+                <TextEquiv>
+                    <Unicode>ger Fingehord und Gerechtigkeit, (dahren die die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l14" custom="readingOrder {index:13;}">
+                <Coords points="622,1863 2540,1861 2675,1915 2676,1783 622,1804"/>
+                <Baseline points="635,1845 736,1845 837,1845 939,1847 1040,1847 1142,1847 1243,1847 1345,1847 1446,1848 1548,1848 1649,1848 1750,1850 1852,1850 1953,1850 2055,1851 2156,1851 2258,1851 2359,1853 2461,1853 2562,1854 2664,1854"/>
+                <TextEquiv>
+                    <Unicode>allerseits guetlichen derembaret und verglichen)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l15" custom="readingOrder {index:14;}">
+                <Coords points="626,2011 1233,1952 1414,2012 1522,1961 2614,1984 2614,1895 2466,1864 627,1893"/>
+                <Baseline points="638,1944 736,1946 834,1947 932,1949 1030,1950 1128,1950 1226,1952 1325,1952 1423,1952 1521,1952 1619,1952 1717,1952 1815,1952 1913,1952 2012,1953 2110,1953 2208,1953 2306,1955 2404,1955 2502,1956 2601,1958"/>
+                <TextEquiv>
+                    <Unicode>gefrönt und wird man solche Burthschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l16" custom="readingOrder {index:15;}">
+                <Coords points="739,2072 1080,2080 1152,2059 1361,2078 1360,1978 1141,2018 1077,2016 975,1966 738,1985"/>
+                <Baseline points="752,2058 781,2060 811,2060 841,2060 871,2060 900,2060 930,2060 960,2060 990,2060 1019,2060 1049,2058 1079,2058 1109,2058 1138,2058 1168,2057 1198,2057 1228,2057 1257,2057 1287,2057 1317,2057 1347,2057"/>
+                <TextEquiv>
+                    <Unicode>Pgacher = 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rM0d6_3l17" custom="readingOrder {index:16;}">
+                <Coords points="722,2150 806,2138 857,2167 908,2136 995,2153 1209,2137 1276,2158 1337,2141 1338,2079 1233,2060 1080,2085 1047,2064 932,2096 911,2075 891,2093 822,2087 784,2061 723,2079"/>
+                <Baseline points="734,2130 763,2133 792,2135 822,2136 851,2138 881,2139 910,2139 940,2140 969,2141 999,2141 1028,2141 1057,2141 1087,2141 1116,2141 1146,2139 1175,2139 1205,2139 1234,2139 1264,2139 1293,2141 1323,2141"/>
+                <TextEquiv>
+                    <Unicode>Raphen = 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anschlag.
+Deif. Frauen Elisabetha Jselin zurückhge,
+Lassene Erben haben die Burthschaft zum Rap-
+Yen genant in Esahmer Postatt, einseits neben
+dem Hoof zum Paradies, anderseits neben
+Oregorio Schulen gelegen, und hinden auf
+den Cüntenbergischen Hoof stossend, sambt
+Schenren, Stallung, Baumbt Kautzarten.
+Hanes Höfling Blosglindt auch darzu er.
+Kaufter Stallung, des Lapplins Stallung genan
+desgeichen den zue der Burthschaft gehörigen
+Bisehbronnen auf dem Blömlin, und übri
+ger Fingehord und Gerechtigkeit, (dahren die die
+allerseits guetlichen derembaret und verglichen)
+gefrönt und wird man solche Burthschaft
+Pgacher = 13
+Raphen = 15</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

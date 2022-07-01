@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:30</Created>
+        <LastChange>2020-04-19T01:27:43.780+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869430" pageNr="36" tsid="27912597" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=RSHSNPPKNGUBIZGFKPSOHESU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YGFZGDHTKSTKJOWKWOFXTHOR" imageId="5736293"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_036.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242846" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rs8N9_1"/>
+                <RegionRefIndexed index="1" regionRef="rAakN_2"/>
+                <RegionRefIndexed index="2" regionRef="rtcd7_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rs8N9_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="240,818 603,818 603,1196 240,1196"/>
+            <TextLine id="rs8N9_1l1" custom="readingOrder {index:0;}">
+                <Coords points="234,998 338,1000 380,985 402,997 464,975 510,1006 566,1000 575,858 533,848 484,860 403,814 346,836 332,822 246,812"/>
+                <Baseline points="251,917 276,921 302,925 327,928 353,931 378,933 404,935 429,937 455,938 480,938 506,938 531,938 557,936"/>
+                <TextEquiv>
+                    <Unicode>25/ 1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rs8N9_1l2" custom="readingOrder {index:1;}">
+                <Coords points="295,1111 340,1095 356,1105 388,1087 419,1094 446,1078 457,1086 464,1080 487,1100 538,1087 536,1019 524,1019 496,994 483,1002 460,982 437,980 405,995 377,986 349,1006 321,992 293,1000"/>
+                <Baseline points="308,1058 335,1059 362,1059 389,1059 416,1059 443,1058 470,1058 497,1056 524,1055"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rs8N9_1l3" custom="readingOrder {index:2;}">
+                <Coords points="310,1218 338,1226 379,1209 389,1219 404,1219 429,1199 455,1192 467,1205 490,1205 492,1089 446,1078 416,1090 393,1113 373,1097 360,1105 347,1097 330,1107 312,1104"/>
+                <Baseline points="323,1164 349,1166 375,1167 401,1167 427,1167 453,1167 479,1167"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25/ 1518
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rAakN_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1023,255 2154,255 2154,414 1023,414"/>
+            <TextLine id="rAakN_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1116,390 2008,399 2142,387 2143,317 1693,299 1561,326 1397,275 1240,320 1116,304"/>
+                <Baseline points="1128,359 1178,359 1228,360 1278,360 1328,360 1378,361 1428,362 1478,362 1528,362 1578,362 1629,362 1679,362 1729,363 1779,363 1829,363 1879,363 1929,363 1979,363 2029,363 2079,365 2130,365"/>
+                <TextEquiv>
+                    <Unicode>ADtESTADTD ADT SEDBSTA SELET BA.51</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ADtESTADTD ADT SEDBSTA SELET BA.51</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rtcd7_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="599,381 2686,381 2686,1597 599,1597"/>
+            <TextLine id="rtcd7_3l1" custom="readingOrder {index:0;}">
+                <Coords points="667,482 710,474 720,485 732,484 755,464 780,471 796,484 821,479 820,403 803,408 770,393 734,419 701,404 679,422 666,422"/>
+                <Baseline points="680,458 705,459 730,459 756,459 781,459 807,456"/>
+                <TextEquiv>
+                    <Unicode>1510</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l2" custom="readingOrder {index:1;}">
+                <Coords points="2226,518 2318,464 2353,488 2439,482 2469,503 2500,481 2697,489 2700,325 2624,349 2569,307 2440,409 2319,386 2291,408 2229,379"/>
+                <Baseline points="2240,456 2266,457 2292,459 2318,459 2344,460 2370,462 2397,462 2423,462 2449,464 2475,464 2501,464 2527,464 2554,464 2580,465 2606,465 2632,465 2658,465 2685,465"/>
+                <TextEquiv>
+                    <Unicode>1618. deuterben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l3" custom="readingOrder {index:2;}">
+                <Coords points="725,576 2604,594 2577,483 2319,463 2071,538 1773,427 1593,517 1345,430 1117,502 726,477"/>
+                <Baseline points="737,557 829,558 922,558 1015,558 1107,559 1200,560 1293,560 1385,560 1478,560 1571,560 1664,560 1756,561 1849,561 1942,561 2034,563 2127,563 2220,564 2312,566 2405,567 2498,569 2591,570"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Thurnssen, Wirth zum Kappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l4" custom="readingOrder {index:3;}">
+                <Coords points="813,702 1011,668 1193,733 1368,651 1751,730 2002,679 2260,730 2521,681 2521,608 1952,631 1897,580 1596,613 1467,556 1277,613 1199,569 814,599"/>
+                <Baseline points="827,653 911,654 995,656 1079,657 1163,659 1247,660 1331,660 1415,660 1499,662 1583,662 1667,662 1751,662 1835,662 1919,663 2003,663 2087,665 2171,665 2255,666 2339,668 2423,669 2507,672"/>
+                <TextEquiv>
+                    <Unicode>zuvor Jergi Schlösser, Jacob Meiao und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l5" custom="readingOrder {index:4;}">
+                <Coords points="866,776 1045,800 1428,776 1563,806 1591,802 1595,678 1437,706 1363,653 1191,728 1104,680 1040,709 963,676 868,711"/>
+                <Baseline points="881,740 917,742 954,743 991,746 1028,747 1064,748 1101,750 1138,752 1175,753 1212,753 1248,755 1285,756 1322,756 1359,758 1396,758 1432,759 1469,761 1506,761 1543,762 1580,764"/>
+                <TextEquiv>
+                    <Unicode>Martin Streis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l6" custom="readingOrder {index:5;}">
+                <Coords points="639,908 2574,884 2523,798 2116,822 2020,763 1841,818 639,794"/>
+                <Baseline points="653,858 748,858 843,858 939,858 1034,858 1130,858 1225,858 1320,860 1416,860 1511,860 1607,860 1702,860 1797,861 1893,861 1988,861 2084,863 2179,863 2274,863 2370,863 2465,864 2561,864"/>
+                <TextEquiv>
+                    <Unicode>gibt von dem Hauß zum Kappen und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l7" custom="readingOrder {index:6;}">
+                <Coords points="649,976 2467,1021 2565,984 2566,903 1552,929 1248,855 1109,930 649,905"/>
+                <Baseline points="662,956 756,956 851,956 945,956 1040,957 1134,957 1229,958 1323,959 1418,959 1512,960 1607,960 1701,960 1796,962 1890,962 1985,962 2079,962 2174,962 2268,962 2363,962 2457,962 2552,960"/>
+                <TextEquiv>
+                    <Unicode>desselbigen Gietteren uf Martini luth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l8" custom="readingOrder {index:7;}">
+                <Coords points="631,1086 1713,1110 1857,1075 1938,1129 2027,1112 1992,998 1595,978 1385,1027 1297,976 1024,977 957,1032 841,976 631,1015"/>
+                <Baseline points="645,1055 713,1058 782,1059 850,1059 919,1059 987,1059 1056,1059 1124,1059 1193,1058 1261,1058 1330,1058 1398,1056 1467,1056 1535,1057 1604,1058 1672,1059 1741,1061 1809,1062 1878,1065 1946,1070 2015,1074"/>
+                <TextEquiv>
+                    <Unicode>des Jo. Jahrbuchs 3 ℔ 14 ß. 62.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l9" custom="readingOrder {index:8;}">
+                <Coords points="644,1193 2505,1207 2689,1186 2690,1123 644,1110"/>
+                <Baseline points="656,1166 757,1166 858,1164 959,1166 1060,1166 1161,1166 1262,1167 1363,1169 1464,1169 1565,1170 1667,1172 1768,1173 1869,1175 1970,1175 2071,1176 2172,1176 2273,1178 2374,1178 2475,1176 2576,1176 2678,1175"/>
+                <TextEquiv>
+                    <Unicode>DDonDoIAll ADD ADT BADTOIS ADTE ADTTADD BBUDDDDHERUUDEUNDEB</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l10" custom="readingOrder {index:9;}">
+                <Coords points="647,1295 819,1316 1183,1274 1406,1305 1482,1275 1596,1301 1596,1228 1432,1194 822,1225 648,1196"/>
+                <Baseline points="659,1260 705,1260 751,1260 797,1260 844,1260 890,1259 936,1259 982,1259 1029,1259 1075,1259 1121,1259 1167,1259 1214,1259 1260,1259 1306,1260 1352,1260 1399,1260 1445,1262 1491,1263 1537,1265 1584,1266"/>
+                <TextEquiv>
+                    <Unicode>122 A 1625 1626 102I. 1825 1020.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtcd7_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1677,1454 2001,1452 2041,1432 2107,1458 2183,1438 2297,1461 2297,1400 2173,1377 2135,1397 2057,1379 2031,1394 1991,1369 1753,1394 1677,1378"/>
+                <Baseline points="1689,1439 1718,1439 1748,1439 1778,1439 1807,1439 1837,1439 1867,1439 1896,1439 1926,1439 1956,1439 1986,1439 2015,1438 2045,1437 2075,1437 2104,1439 2134,1439 2164,1439 2193,1440 2223,1441 2253,1442 2283,1443"/>
+                <TextEquiv>
+                    <Unicode>St. Abov - O05840</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1510
+1618. deuterben
+Wilhelm Thurnssen, Wirth zum Kappen
+zuvor Jergi Schlösser, Jacob Meiao und
+Martin Streis
+gibt von dem Hauß zum Kappen und
+desselbigen Gietteren uf Martini luth
+des Jo. Jahrbuchs 3 ℔ 14 ß. 62.
+DDonDoIAll ADD ADT BADTOIS ADTE ADTTADD BBUDDDDHERUUDEUNDEB
+122 A 1625 1626 102I. 1825 1020.
+St. Abov - O05840</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

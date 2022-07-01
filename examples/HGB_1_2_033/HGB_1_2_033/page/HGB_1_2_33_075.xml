@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:35</Created>
+        <LastChange>2020-04-19T01:38:48.406+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869620" pageNr="75" tsid="27913005" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SMTBVFWUKNTJPJZMQCIBFZDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZRBWQTBKZUEZOHUDZWQIWRMC" imageId="5736483"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_075.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rW3yc_1"/>
+                <RegionRefIndexed index="1" regionRef="rqfRU_2"/>
+                <RegionRefIndexed index="2" regionRef="rHRl6_3"/>
+                <RegionRefIndexed index="3" regionRef="rwviB_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rW3yc_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="254,582 603,582 603,768 254,768"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rqfRU_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="290,198 2204,198 2204,453 290,453"/>
+            <TextLine id="rqfRU_2l1" custom="readingOrder {index:0;}">
+                <Coords points="879,340 962,349 1073,312 1135,347 1264,315 1396,333 1580,319 1580,248 1444,248 1391,273 1191,241 1091,275 1004,224 879,236"/>
+                <Baseline points="891,305 924,305 958,306 992,306 1026,306 1060,306 1094,306 1127,306 1161,306 1195,306 1229,306 1263,306 1297,306 1331,306 1364,306 1398,306 1432,306 1466,306 1500,306 1534,306 1568,306"/>
+                <TextEquiv>
+                    <Unicode>Hierauf verbiethet:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqfRU_2l2" custom="readingOrder {index:1;}">
+                <Coords points="292,414 2148,433 2148,338 1889,310 1082,362 293,326"/>
+                <Baseline points="303,387 394,389 486,389 577,390 669,390 761,392 852,392 944,393 1035,393 1127,395 1219,395 1310,395 1402,395 1493,395 1585,395 1677,395 1768,393 1860,393 1951,392 2043,389 2135,387"/>
+                <TextEquiv>
+                    <Unicode>cet. der Schafneyen we. St. Alban Gottshauses jährl. auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hierauf verbiethet:
+cet. der Schafneyen we. St. Alban Gottshauses jährl. auf</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rHRl6_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="448,436 520,436 520,464 448,464"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rwviB_4" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="524,416 2671,416 2671,1357 524,1357"/>
+            <TextLine id="rwviB_4l1" custom="readingOrder {index:0;}">
+                <Coords points="531,487 628,479 740,526 803,525 858,488 920,517 969,499 1024,513 1089,497 1090,417 1064,428 1023,409 988,434 910,422 863,449 801,425 665,420 626,394 531,432"/>
+                <Baseline points="543,471 569,471 596,470 623,470 649,470 676,470 703,471 729,471 756,471 783,473 810,473 836,474 863,474 890,474 916,476 943,476 970,475 996,474 1023,474 1050,473 1077,471"/>
+                <TextEquiv>
+                    <Unicode>Bodenzins 35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rwviB_4l2" custom="readingOrder {index:1;}">
+                <Coords points="526,612 736,573 856,601 911,559 1432,620 1525,576 1790,578 1827,502 526,513"/>
+                <Baseline points="537,561 600,561 664,563 728,563 792,564 856,564 920,566 984,566 1048,566 1112,567 1176,567 1239,567 1303,567 1367,567 1431,567 1495,567 1559,566 1623,564 1687,563 1751,561 1815,560"/>
+                <TextEquiv>
+                    <Unicode>denzins per Martini 1762 sey bezahlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rwviB_4l3" custom="readingOrder {index:2;}">
+                <Coords points="245,660 2093,680 2077,563 1491,625 245,577"/>
+                <Baseline points="257,645 348,647 439,648 530,648 622,650 713,650 804,650 895,650 987,650 1078,650 1169,650 1260,650 1352,650 1443,648 1534,648 1625,648 1717,648 1808,648 1899,648 1990,648 2082,648"/>
+                <TextEquiv>
+                    <Unicode>Domprobsteyschafney Bodenzins mit Pfingsten 1763.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rwviB_4l4" custom="readingOrder {index:3;}">
+                <Coords points="268,782 2098,774 2135,659 1888,712 268,681"/>
+                <Baseline points="279,737 371,735 463,735 555,734 648,734 740,734 832,734 924,734 1017,734 1109,734 1201,735 1293,735 1386,735 1478,735 1570,735 1662,735 1755,735 1847,734 1939,734 2031,733 2124,732"/>
+                <TextEquiv>
+                    <Unicode>Jährl. d. ß10 mit Mart. Epise. 1763 jährl. ℔ 1. 2. 68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rwviB_4l5" custom="readingOrder {index:4;}">
+                <Coords points="1112,902 1170,927 1572,907 1740,951 1908,892 2070,906 2070,809 2012,798 1915,828 1721,789 1641,849 1470,831 1311,871 1112,809"/>
+                <Baseline points="1124,896 1170,896 1217,897 1264,897 1310,897 1357,897 1404,897 1450,897 1497,897 1544,896 1591,896 1637,896 1684,894 1731,894 1777,894 1824,894 1871,894 1917,894 1964,896 2011,896 2058,897"/>
+                <TextEquiv>
+                    <Unicode>Judicalienbuch 25 S. 1010</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bodenzins 35
+denzins per Martini 1762 sey bezahlt.
+Domprobsteyschafney Bodenzins mit Pfingsten 1763.
+Jährl. d. ß10 mit Mart. Epise. 1763 jährl. ℔ 1. 2. 68
+Judicalienbuch 25 S. 1010</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

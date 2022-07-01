@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:30</Created>
+        <LastChange>2020-04-19T01:32:18.292+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869499" pageNr="52" tsid="27912727" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=OJMWDJKQOENJKTQPKIDQMAHC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MWPFQBIDUZBSZRCWWMECCHMG" imageId="5736362"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_052.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rFDHf_1"/>
+                <RegionRefIndexed index="1" regionRef="rgfKJ_2"/>
+                <RegionRefIndexed index="2" regionRef="rDqqR_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rFDHf_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,835 624,835 624,1292 190,1292"/>
+            <TextLine id="rFDHf_1l1" custom="readingOrder {index:0;}">
+                <Coords points="213,878 321,890 352,880 367,890 412,874 444,883 460,735 435,734 413,750 370,719 348,735 332,718 298,732 276,716 231,714"/>
+                <Baseline points="228,857 253,860 278,864 304,868 329,872 354,875 380,877 405,878 431,876"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFDHf_1l2" custom="readingOrder {index:1;}">
+                <Coords points="202,1079 225,1088 254,1069 319,1086 376,1067 415,1087 462,1062 581,1080 589,951 531,937 470,946 382,890 335,917 287,902 213,909"/>
+                <Baseline points="221,999 246,1002 271,1004 296,1006 321,1008 346,1010 371,1013 397,1015 422,1017 447,1019 472,1020 497,1020 522,1020 547,1020 573,1019"/>
+                <TextEquiv>
+                    <Unicode>15/ 1558</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFDHf_1l3" custom="readingOrder {index:2;}">
+                <Coords points="229,1133 300,1141 318,1152 343,1142 373,1152 432,1134 442,1145 475,1145 475,1079 447,1069 417,1086 364,1068 354,1078 295,1088 278,1073 262,1080 250,1068 229,1067"/>
+                <Baseline points="242,1128 269,1130 297,1131 324,1131 352,1131 379,1131 407,1131 434,1131 462,1130"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFDHf_1l4" custom="readingOrder {index:3;}">
+                <Coords points="260,1294 273,1293 287,1278 298,1283 310,1269 340,1271 356,1283 383,1267 422,1284 442,1278 439,1187 424,1187 393,1168 386,1176 360,1169 350,1179 330,1167 307,1186 282,1179 257,1188"/>
+                <Baseline points="272,1256 298,1255 324,1254 350,1254 376,1253 402,1252 428,1250"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/ 1558
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rgfKJ_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,240 998,240 998,436 599,436"/>
+            <TextLine id="rgfKJ_2l1" custom="readingOrder {index:0;}">
+                <Coords points="669,382 706,392 738,379 755,393 819,382 833,395 849,386 861,390 883,374 901,375 906,291 847,300 783,273 757,245 741,255 717,240 678,248"/>
+                <Baseline points="683,359 708,363 734,367 759,371 785,372 810,374 836,375 861,374 887,372"/>
+                <TextEquiv>
+                    <Unicode>1661</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1661</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rDqqR_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="570,425 2657,425 2657,1975 570,1975"/>
+            <TextLine id="rDqqR_3l1" custom="readingOrder {index:0;}">
+                <Coords points="582,575 825,631 985,565 1124,626 1241,568 1560,631 1656,571 1841,634 2631,604 2631,483 2276,432 1861,434 1567,530 1286,408 582,446"/>
+                <Baseline points="594,558 695,560 796,561 897,561 999,563 1100,563 1201,563 1302,564 1404,564 1505,564 1606,564 1707,564 1809,564 1910,564 2011,564 2112,563 2214,563 2315,563 2416,561 2517,561 2619,560"/>
+                <TextEquiv>
+                    <Unicode>Die Herberg zum Rappen in Eschener Verstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l2" custom="readingOrder {index:1;}">
+                <Coords points="610,709 762,686 810,707 861,669 1008,671 1089,707 1142,674 1226,724 1360,671 1441,689 1441,575 1385,567 1307,620 1246,608 1205,636 919,577 828,631 739,595 610,626"/>
+                <Baseline points="623,662 663,662 703,662 743,662 784,662 824,662 864,662 904,662 945,662 985,662 1025,662 1065,662 1106,662 1146,662 1186,662 1226,662 1267,662 1307,662 1347,662 1387,662 1428,662"/>
+                <TextEquiv>
+                    <Unicode>soll jährlichon 10 sh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l3" custom="readingOrder {index:2;}">
+                <Coords points="754,836 1129,773 1273,834 1455,766 1615,840 1757,764 1851,815 2015,764 2623,800 2656,676 754,717"/>
+                <Baseline points="767,759 860,761 954,761 1048,762 1142,762 1235,762 1329,762 1423,762 1517,762 1610,762 1704,762 1798,761 1892,761 1985,761 2079,761 2173,761 2267,762 2360,762 2454,763 2548,764 2642,765"/>
+                <TextEquiv>
+                    <Unicode>Et. 1747. Besitzt und verzinst H. Johannes Märch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l4" custom="readingOrder {index:3;}">
+                <Coords points="1051,924 1190,873 1236,903 1334,868 1421,908 1461,870 1646,869 1790,935 1907,866 2018,866 2018,825 1772,818 1722,783 1615,839 1506,796 1441,829 1339,784 1263,835 1162,779 1051,792"/>
+                <Baseline points="1064,860 1111,861 1158,862 1205,863 1252,863 1299,864 1346,864 1393,864 1440,864 1487,863 1535,863 1582,863 1629,863 1676,861 1723,861 1770,861 1817,861 1864,861 1911,860 1958,860 2006,861"/>
+                <TextEquiv>
+                    <Unicode>Gastgeb zum Rappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l5" custom="readingOrder {index:4;}">
+                <Coords points="826,1015 2655,978 2637,928 2075,857 1783,936 1563,878 1393,939 1310,870 826,878"/>
+                <Baseline points="839,965 929,965 1019,963 1109,963 1199,963 1290,963 1380,963 1470,962 1560,962 1650,962 1741,962 1831,962 1921,962 2011,962 2101,962 2192,962 2282,962 2372,962 2462,963 2552,963 2643,965"/>
+                <TextEquiv>
+                    <Unicode>1763. Ħ. Felix Battier der Handelsmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l6" custom="readingOrder {index:5;}">
+                <Coords points="2124,1067 2157,1063 2263,1135 2347,1105 2377,1111 2403,1086 2435,1107 2466,1107 2467,993 2437,990 2404,964 2343,1007 2315,1016 2302,1006 2264,1034 2219,1028 2176,992 2125,1019"/>
+                <Baseline points="2136,1055 2162,1056 2188,1058 2215,1058 2241,1059 2268,1059 2294,1059 2320,1059 2347,1059 2373,1059 2400,1059 2426,1060 2453,1062"/>
+                <TextEquiv>
+                    <Unicode>dig. 52.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l7" custom="readingOrder {index:6;}">
+                <Coords points="826,1197 1290,1169 1487,1230 1609,1176 2381,1166 2488,1234 2650,1168 2650,1082 2280,1135 2088,1047 1693,1121 1163,1058 826,1101"/>
+                <Baseline points="840,1163 929,1163 1019,1162 1109,1161 1199,1161 1289,1161 1378,1161 1468,1161 1558,1160 1648,1160 1738,1160 1827,1160 1917,1160 2007,1160 2097,1160 2187,1161 2276,1161 2366,1161 2456,1161 2546,1161 2636,1161"/>
+                <TextEquiv>
+                    <Unicode>1795. H. Christoph de Mathius Ehunger dig F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l8" custom="readingOrder {index:7;}">
+                <Coords points="836,1281 1755,1269 2006,1342 2297,1264 2647,1322 2647,1185 2482,1236 2376,1165 2234,1228 1626,1172 1487,1231 1140,1180 836,1223"/>
+                <Baseline points="848,1263 937,1262 1026,1262 1115,1262 1205,1262 1294,1262 1383,1262 1473,1262 1562,1262 1651,1262 1741,1262 1830,1262 1919,1262 2008,1262 2098,1262 2187,1262 2276,1262 2366,1262 2455,1262 2544,1262 2634,1262"/>
+                <TextEquiv>
+                    <Unicode>1556. December 24. Durch H. Plathsh. Christof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1092,1384 1251,1373 1315,1431 1393,1395 1522,1438 1631,1389 1849,1426 1930,1413 1930,1324 1846,1276 1643,1308 1514,1271 1360,1297 1289,1340 1154,1267 1091,1281"/>
+                <Baseline points="1104,1362 1144,1362 1185,1362 1225,1364 1266,1364 1307,1364 1347,1363 1388,1362 1429,1362 1469,1362 1510,1361 1551,1361 1591,1361 1632,1361 1673,1359 1713,1359 1754,1359 1795,1359 1835,1359 1876,1361 1917,1361"/>
+                <TextEquiv>
+                    <Unicode>Ehinger losgekauft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l10" custom="readingOrder {index:9;}">
+                <Coords points="748,1612 1307,1641 1996,1571 2255,1639 2485,1601 2485,1515 1733,1521 1459,1466 1079,1512 879,1404 747,1447"/>
+                <Baseline points="761,1563 846,1562 932,1562 1017,1562 1103,1562 1188,1560 1274,1560 1359,1560 1445,1560 1530,1560 1616,1560 1702,1560 1787,1560 1873,1560 1958,1560 2044,1560 2129,1559 2215,1559 2300,1559 2386,1559 2472,1559"/>
+                <TextEquiv>
+                    <Unicode>Domstift Pf. Registerlin von 1661 fol. 151.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1135,1764 1150,1764 1178,1782 1203,1773 1226,1776 1239,1766 1274,1767 1284,1775 1297,1767 1340,1766 1342,1685 1307,1692 1299,1684 1269,1686 1236,1667 1201,1674 1193,1666 1137,1665"/>
+                <Baseline points="1148,1740 1173,1744 1199,1748 1225,1749 1250,1749 1276,1748 1302,1747 1328,1746"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDqqR_3l12" custom="readingOrder {index:11;}">
+                <Coords points="713,1869 879,1920 1070,1866 1721,1880 1754,1872 1753,1768 1317,1764 1118,1808 711,1710"/>
+                <Baseline points="726,1842 776,1849 827,1855 878,1860 928,1862 979,1865 1030,1866 1080,1866 1131,1866 1182,1865 1233,1862 1283,1860 1334,1859 1385,1856 1435,1853 1486,1850 1537,1848 1587,1847 1638,1844 1689,1844 1740,1842"/>
+                <TextEquiv>
+                    <Unicode>Kappein = 15 neben 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Herberg zum Rappen in Eschener Verstatt
+soll jährlichon 10 sh.
+Et. 1747. Besitzt und verzinst H. Johannes Märch
+Gastgeb zum Rappen
+1763. Ħ. Felix Battier der Handelsmann
+dig. 52.
+1795. H. Christoph de Mathius Ehunger dig F.
+1556. December 24. Durch H. Plathsh. Christof
+Ehinger losgekauft.
+Domstift Pf. Registerlin von 1661 fol. 151.
+Th v
+Kappein = 15 neben 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

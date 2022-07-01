@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP
+NCSR LineSegmentationTool, v0.3.0 (17_3_2015)</Creator>
+        <Created>2017-06-02T11:25:06</Created>
+        <LastChange>2021-08-04T06:48:39.185+02:00</LastChange>
+        <TranskribusMetadata docId="19694" pageId="520878" pageNr="1" tsid="62295227" status="IN_PROGRESS" userId="6412" imgUrl="https://files.transkribus.eu/Get?id=WGRJHSTPBFKVUEYLXIKOGTKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XEDZVPPRIBUWWVXBCGMDDQIN" imageId="426233"/>
+    </Metadata>
+    <Page imageFilename="U-17_0075_r.jpg" imageWidth="7360" imageHeight="4912">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656673903760" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1496395412096_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1496395412096_1" custom="readingOrder {index:0;}">
+            <Coords points="1974,638 5124,638 5124,2191 1974,2191"/>
+            <TextLine id="r1001" custom="readingOrder {index:0;} person {offset:5; length:55;ref:per000342;} abbrev {offset:46; length:2;expansion:rich;}">
+                <Coords points="2252,667 2033,685 2006,707 2000,732 2000,741 2001,745 2080,786 2679,778 2977,789 3031,762 3123,763 3127,775 3498,770 3502,777 3504,780 3533,777 3615,810 3816,766 3886,759 3927,789 4209,778 4542,801 4844,786 4852,801 4869,808 5022,770 5028,759 5027,754 4984,701 4919,700 4802,700 4682,699 4664,699 4625,698 4562,698 4217,674 3331,674 3311,673 2993,673 2939,668 2259,668 2253,667"/>
+                <Baseline points="2018,757 2522,751 3008,721 3512,739 4016,765 5028,771"/>
+                <TextEquiv>
+                    <Unicode>Wir, Lùpolt, von gotes gnaden herzoge ze Oͤsterˀ und ze Styr, ✳ verjehen ✳ und tuͦn kunt offenlichen ✳ an disem brief ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1002" custom="readingOrder {index:1;} abbrev {offset:68; length:2;expansion:ter;} person {offset:71; length:45; continued:true;ref:per006964;}">
+                <Coords points="3747,761 3478,812 3476,812 3396,778 3383,777 3378,786 3377,786 3363,775 3363,774 3276,773 3163,773 3035,772 2992,779 2988,768 2978,767 2908,767 2888,766 2852,791 2798,784 2645,780 2621,796 2562,797 2036,819 2054,882 2731,845 2760,868 2880,846 3081,850 3156,878 3162,867 3413,851 3478,887 3530,854 3645,849 3764,868 3804,896 3918,855 3919,854 3921,853 3925,878 3927,884 3949,890 3953,886 3964,875 4186,874 4336,902 4432,882 4554,910 4821,902 4931,865 4934,858 4934,855 4931,849 4726,809 4723,809 4711,794 4709,789 4706,788 4631,788 4611,787 4604,787 4598,786 4249,786 4177,785 4122,785 4041,784 3999,784 3998,783 3955,783 3948,782 3844,782 3831,781 3780,781 3748,761"/>
+                <Baseline points="2046,864 2985,851 3550,837 3929,847 4312,869 5074,865"/>
+                <TextEquiv>
+                    <Unicode>allen den, die in sehent oder hoͤrent lesen, ✳ daz unser liebin swestˀ Angnes, von den selben gnaden wilent kuͤnig ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1003" custom="readingOrder {index:2;} person {offset:0; length:9; continued:true;ref:per006964;} abbrev {offset:46; length:2;expansion:her;} person {offset:71; length:39;ref:per007252;} abbrev {offset:92; length:5;expansion:Fridrich;}">
+                <Coords points="2237,911 2143,909 2036,914 2009,909 2049,945 2060,983 2170,991 2346,989 2515,964 3181,951 3470,946 3752,977 3880,953 4144,954 4174,969 4184,978 4206,959 4209,956 4381,957 4649,989 4773,988 4945,982 5022,958 5025,951 5025,948 5021,940 4992,909 4914,909 4752,908 4717,908 4699,907 4691,910 4689,910 4323,874 4214,874 4183,873 4090,885 4087,888 4069,888 4061,868 4059,853 3947,897 3944,897 3914,868 3912,868 3908,867 3856,867 3782,849 3616,887 3615,887 3551,851 3527,851 3519,850 3302,865 3297,873 3267,873 3250,867 3217,859 3148,880 3105,864 3003,862 2995,883 2961,884 2847,888 2699,893 2630,885 2488,888 2372,896 2303,909"/>
+                <Baseline points="2049,965 2544,947 3040,920 3534,927 4014,944 5009,964"/>
+                <TextEquiv>
+                    <Unicode>ze Ungern, ✳ hat erloͤset ✳ mit unsers lieben hˀren und bruͦder, ✳ des hochgebornen koͤnich Frid̄ ✳ ✳ von Rome, ✳ guͦtem ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1005" custom="readingOrder {index:3;} place {offset:93; length:8;ref:loc009772;}">
+                <Coords points="3468,947 3181,952 2174,992 2165,992 2102,991 2074,991 2048,990 2039,1063 2039,1069 2046,1085 2064,1089 2595,1075 2786,1043 2835,1066 3316,1029 3763,1049 4116,1068 4179,1035 4274,1062 4356,1030 4366,1045 4366,1047 4370,1051 4381,1042 4445,1059 4478,1027 4479,1020 4479,1018 4411,963 4409,963 4349,962 4222,962 4205,961 4192,976 4182,976 4157,956 4146,956 4143,955 3884,955 3877,954 3857,974 3852,974 3757,973 3741,973 3469,947"/>
+                <Baseline points="2039,1071 2445,1045 2851,1027 3257,1010 3663,1017 4936,1054"/>
+                <TextEquiv>
+                    <Unicode>willen und urlaub und mit unserm und aller unser bruͦder guͦtem willen und urloub den hof ze Elfingen umb ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1007" custom="readingOrder {index:4;} measure {offset:0; length:28;} organization {offset:35; length:49;ref:org002627;} abbrev {offset:52; length:3;expansion:con;}">
+                <Coords points="4744,1091 4725,1095 4618,1106 4576,1098 4542,1091 4499,1089 4468,1091 4449,1060 4431,1060 4430,1059 4424,1059 4395,1041 4390,1041 4387,1040 4373,1050 4368,1050 4364,1039 4362,1034 4346,1033 4305,1062 4298,1062 4288,1061 4264,1061 4180,1036 4116,1069 4107,1069 3648,1049 3643,1049 3612,1026 3316,1030 2991,1070 2967,1070 2786,1044 2104,1095 2057,1138 2049,1172 2050,1179 2071,1184 2773,1153 3027,1151 3395,1142 3599,1147 3653,1143 3661,1155 3936,1145 4096,1139 4609,1153 4656,1172 5001,1160 5008,1140 5010,1126 4920,1111 4876,1113 4849,1094 4837,1083 4814,1072 4768,1091"/>
+                <Baseline points="2049,1172 2542,1141 3035,1123 3528,1114 4018,1115 5006,1156"/>
+                <TextEquiv>
+                    <Unicode>sibenzehene und hundert mark ✳ der eptissen und dem cōvent des closters Kuͤngesvelt ✳ mit des selben con-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1008" custom="readingOrder {index:5;} organization {offset:24; length:28;ref:org004821;} abbrev {offset:34; length:3;expansion:tern;} person {offset:54; length:33;ref:per012923;} person {offset:94; length:17; continued:true;ref:per013088;}">
+                <Coords points="4094,1140 3792,1145 3712,1144 3675,1147 3620,1147 3404,1145 3390,1144 2773,1154 2370,1214 2051,1239 2056,1291 2211,1287 2411,1271 2568,1262 2611,1253 2664,1249 2732,1246 2777,1242 2809,1243 2841,1241 2876,1239 2911,1236 2991,1237 3051,1240 3130,1245 3294,1218 3299,1226 3302,1231 3374,1223 3464,1215 3472,1223 3511,1207 3564,1221 4083,1237 4163,1236 4217,1238 4265,1242 4311,1241 4338,1244 4359,1245 4393,1241 4410,1251 4435,1249 4497,1252 4586,1247 4664,1252 4773,1260 4889,1251 5019,1246 5015,1202 4937,1193 4605,1168 4269,1155 4095,1140"/>
+                <Baseline points="2070,1274 2939,1216 3295,1212 3645,1208 3998,1206 4989,1237"/>
+                <TextEquiv>
+                    <Unicode>ventes silber ✳ von den erbern rittˀn von Chienberch, Goͤtzlin ame Stad von Schaufhusen ✳ und Johans von Stein-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1010" custom="readingOrder {index:6;} person {offset:0; length:5; continued:true;ref:per013088;} measure {offset:45; length:24;}">
+                <Coords points="3782,1256 3700,1289 3696,1297 3689,1297 3668,1296 3662,1296 3647,1274 3646,1274 3638,1262 3632,1285 3617,1285 3592,1259 3296,1282 3283,1258 3282,1258 3279,1257 2959,1263 2328,1280 2068,1333 2052,1357 2051,1365 2053,1376 2055,1383 2070,1389 2206,1391 2891,1355 3294,1349 3584,1350 3874,1350 4088,1348 4110,1363 4112,1363 4113,1363 4114,1347 4114,1344 4151,1341 4328,1344 4741,1372 5079,1323 5082,1316 5082,1313 5071,1299 4881,1292 4878,1292 4864,1279 4857,1279 4778,1278 4691,1278 4630,1277 4563,1277 4486,1276 4451,1276 4420,1263 4313,1302 4311,1302 4295,1295 4289,1270 4289,1269 4265,1268 4218,1268 4201,1267 4200,1285 4196,1286 4191,1290 4189,1292 4188,1291 4173,1291 4113,1265 4082,1265 4075,1264 4043,1294 4031,1296 4027,1292 4026,1292 4021,1287 4022,1286 4022,1273 4011,1284 3999,1284 3962,1262 3947,1262 3844,1261 3822,1284 3809,1284 3791,1256 3783,1256"/>
+                <Baseline points="2052,1377 2556,1348 3060,1315 3564,1311 4069,1318 4933,1339"/>
+                <TextEquiv>
+                    <Unicode>wurch, ✳ dien er von uns ze phande stùnt umb vierzig und hundert mark. ✳ und suͤllen die eptissen und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1011" custom="readingOrder {index:7;} abbrev {offset:82; length:2;expansion:her;}">
+                <Coords points="4149,1342 4121,1343 4115,1344 4114,1362 4114,1363 4109,1363 4102,1357 4100,1357 4091,1345 3584,1351 3298,1351 3289,1350 2891,1356 2348,1399 2318,1419 2041,1448 2044,1480 2325,1480 2454,1476 2550,1476 2980,1451 3292,1443 3698,1445 4017,1446 4480,1445 4558,1437 4621,1469 4915,1458 5072,1425 5076,1417 5076,1415 5071,1407 5046,1380 4743,1379 4730,1379 4328,1345 4167,1345 4150,1342"/>
+                <Baseline points="2051,1482 2769,1450 3244,1415 3701,1413 4111,1420 5028,1432"/>
+                <TextEquiv>
+                    <Unicode>convent den vor genanten hof haben, ✳ nuͤtzen und niezzen ✳ mit unserm und unsers hˀren, des kuͤnges, und aller unser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1015" custom="readingOrder {index:8;} del {offset:41; length:1;rend:blackened;}">
+                <Coords points="2573,1643 2536,1578 2578,1559 2620,1586 2772,1552 3175,1531 3791,1530 4189,1528 4562,1539 4660,1573 4691,1550 4720,1539 4942,1540 4949,1526 4949,1517 4947,1509 4857,1458 4716,1458 4646,1457 4624,1471 4623,1471 4560,1438 4409,1459 4403,1459 4017,1441 3288,1442 2883,1465 2877,1465 2793,1464 2719,1464 2574,1463 2552,1477 2544,1477 2456,1476 2446,1476 2345,1474 2342,1474 2334,1471 2334,1445 2329,1440 2310,1440 2307,1439 2082,1441 2056,1445 2044,1472 2043,1544 2054,1661 2068,1667 2082,1667 2089,1667 2123,1653 2124,1644 2112,1634 2110,1610 2114,1598 2121,1589 2275,1615 2376,1585 2482,1571 2536,1578 2573,1643"/>
+                <Baseline points="2043,1568 2527,1543 3011,1522 3496,1518 3980,1506 4949,1529"/>
+                <TextEquiv>
+                    <Unicode>bruͦder guͦtem willen und urloup, ✳ alle d die wile, untz wir ald unser bruͦder oder unser erben den hof von in ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1014" custom="readingOrder {index:9;} measure {offset:15; length:36;}">
+                <Coords points="4186,1529 3498,1532 3336,1532 3329,1531 3175,1531 2920,1542 2645,1586 2639,1586 2633,1585 2619,1585 2589,1558 2275,1615 2262,1615 2119,1585 2119,1543 2130,1540 2131,1540 2131,1526 2131,1522 2121,1519 2115,1520 2108,1532 2108,1537 2108,1539 2119,1543 2111,1610 2124,1644 2118,1664 2120,1675 2132,1691 2550,1667 2562,1642 2832,1651 3141,1639 3221,1641 3462,1640 3469,1641 3470,1655 3479,1663 3527,1637 3622,1641 3740,1645 3747,1657 3751,1663 3861,1650 3905,1668 3910,1682 3911,1693 3912,1696 3931,1696 3941,1656 3941,1655 3962,1648 3982,1671 3981,1687 3978,1694 3979,1701 4327,1705 4346,1704 4349,1682 4349,1677 4357,1666 4362,1677 4363,1692 4361,1697 4361,1704 4466,1709 4526,1707 4550,1702 4552,1665 4588,1655 4601,1678 4597,1694 4596,1695 4605,1704 4806,1715 4852,1713 4859,1713 4865,1688 4871,1673 4879,1665 4888,1713 4925,1716 4934,1714 4941,1710 4963,1622 4967,1581 4967,1577 4964,1571 4720,1540 4692,1551 4668,1575 4665,1575 4562,1540 4554,1539 4543,1539 4538,1538 4211,1538 4187,1529"/>
+                <Baseline points="2068,1674 2578,1641 3054,1605 3536,1594 4004,1608 4971,1631"/>
+                <TextEquiv>
+                    <Unicode>erloͤsen ✳ umb sibenzehene und hundert mark silbers. und swaz si des hoves die wile geniezzent, ✳ daz geben wir in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1016" custom="readingOrder {index:10;}">
+                <Coords points="3411,1823 3409,1824 3407,1826 3819,1820 4777,1828 4953,1821 5015,1797 5018,1789 5009,1707 5007,1697 4988,1671 4966,1670 4936,1714 4925,1717 4923,1717 4899,1714 4898,1714 4884,1681 4880,1666 4865,1701 4859,1713 4833,1713 4830,1712 4811,1716 4800,1716 4622,1710 4621,1710 4601,1701 4600,1701 4600,1678 4599,1674 4588,1656 4541,1702 4452,1704 4449,1704 4426,1703 4361,1703 4362,1685 4362,1676 4358,1667 4350,1682 4348,1690 4347,1700 4219,1700 4206,1699 4089,1706 4077,1706 3985,1704 3984,1704 3983,1676 3971,1658 3941,1657 3931,1695 3916,1695 3905,1668 3904,1668 3861,1651 3833,1651 3791,1650 3773,1659 3748,1659 3743,1649 3530,1638 3484,1661 3476,1661 3469,1653 3472,1642 3472,1640 3141,1640 2860,1660 2730,1659 2730,1660 2607,1660 2568,1641 2551,1666 2545,1666 2487,1665 2167,1685 2049,1738 2045,1747 2059,1793 2059,1795 2328,1790 2467,1792 2607,1797 2618,1808 2656,1830 2695,1830 2743,1828 2783,1828 2782,1828 2776,1815 2776,1792 2777,1787 2831,1746 3120,1746 3426,1755 3428,1759 3429,1760 3432,1760 3471,1740 3521,1758 3528,1751 3530,1750 3534,1749 3540,1764 3541,1765 3542,1764 3543,1765 3545,1765 3547,1763 3548,1763 3550,1759 3555,1756 3562,1772 3562,1776 3557,1786 3412,1823"/>
+                <Baseline points="2049,1772 2544,1732 3034,1700 3582,1688 4078,1684 4984,1715"/>
+                <TextEquiv>
+                    <Unicode>ze einem rehtem almuͦsen ✳ und lazzen es in durch got ✳ und durch unser und aller unser vordern sele willen, ✳ daz si ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1563456188414_50" custom="readingOrder {index:11;}">
+                <Coords points="2070,1834 2683,1793 3312,1761 3623,1739 4425,1748 4998,1774 4996,1824 4424,1798 3624,1789 3315,1811 2686,1843 2073,1884"/>
+                <Baseline points="2073,1879 2686,1838 3315,1806 3624,1784 4424,1793 4996,1819"/>
+                <TextEquiv>
+                    <Unicode>got ewiclich fuͤr uns biten suͤllent. ✳ und zeinem urkuͤnde der vor gescribenen dinge ✳ ist dirre brief besigelt mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1020" custom="readingOrder {index:12;} abbrev {offset:2; length:3;expansion:serm;} place {offset:35; length:6;ref:loc000195;} date {offset:42; length:58; continued:true;year:1322; day:9; month:8;} abbrev {offset:70; length:3;expansion:man;}">
+                <Coords points="3817,1821 3529,1824 3177,1862 3175,1862 2870,1838 2359,1895 2352,1895 2332,1894 2313,1894 2149,1893 2058,1943 2050,1967 2050,1972 2053,1983 2094,1992 2355,1986 3193,1952 3510,1947 3680,1946 4696,1960 4994,1922 5002,1911 5002,1906 4991,1870 4980,1852 4861,1851 4826,1851 4753,1828 4221,1829 4163,1829 3818,1821"/>
+                <Baseline points="2050,1986 2541,1946 3033,1914 3524,1898 4016,1893 5002,1911"/>
+                <TextEquiv>
+                    <Unicode>unsmˀ insigel, ✳ der wart geben ze Brugge an sant Lorencien abent, do mā zalt von Cristes gebuͤrt ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1021" custom="readingOrder {index:13;} date {offset:0; length:69; continued:true;year:1322; day:9; month:8;}">
+                <Coords points="3677,1947 3510,1948 3193,1953 2085,2004 2079,2004 2077,2003 2042,2030 2041,2038 2063,2083 2217,2091 2313,2091 2742,2086 3051,2082 3053,2057 3054,2054 3125,2034 3295,2081 3298,2081 3299,2082 3301,2084 3305,2087 3363,2066 3370,2070 3554,2025 3677,2084 3765,2023 3832,2055 4062,1996 4065,1989 4064,1982 4058,1973 3934,1954 3782,1954 3774,1953 3740,1953 3678,1947"/>
+                <Baseline points="2041,2079 2378,2057 2715,2038 3052,2024 3389,2002 4185,2014"/>
+                <TextEquiv>
+                    <Unicode>drùzehen hundert jar ✳ und dar nach in dem zwey und zweinzigistem jar. ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Wir, Lùpolt, von gotes gnaden herzoge ze Oͤsterˀ und ze Styr, ✳ verjehen ✳ und tuͦn kunt offenlichen ✳ an disem brief ✳
+allen den, die in sehent oder hoͤrent lesen, ✳ daz unser liebin swestˀ Angnes, von den selben gnaden wilent kuͤnig ✳
+ze Ungern, ✳ hat erloͤset ✳ mit unsers lieben hˀren und bruͦder, ✳ des hochgebornen koͤnich Frid̄ ✳ ✳ von Rome, ✳ guͦtem ✳
+willen und urlaub und mit unserm und aller unser bruͦder guͦtem willen und urloub den hof ze Elfingen umb ✳
+sibenzehene und hundert mark ✳ der eptissen und dem cōvent des closters Kuͤngesvelt ✳ mit des selben con-
+ventes silber ✳ von den erbern rittˀn von Chienberch, Goͤtzlin ame Stad von Schaufhusen ✳ und Johans von Stein-
+wurch, ✳ dien er von uns ze phande stùnt umb vierzig und hundert mark. ✳ und suͤllen die eptissen und der
+convent den vor genanten hof haben, ✳ nuͤtzen und niezzen ✳ mit unserm und unsers hˀren, des kuͤnges, und aller unser
+bruͦder guͦtem willen und urloup, ✳ alle d die wile, untz wir ald unser bruͦder oder unser erben den hof von in ✳
+erloͤsen ✳ umb sibenzehene und hundert mark silbers. und swaz si des hoves die wile geniezzent, ✳ daz geben wir in
+ze einem rehtem almuͦsen ✳ und lazzen es in durch got ✳ und durch unser und aller unser vordern sele willen, ✳ daz si ✳
+got ewiclich fuͤr uns biten suͤllent. ✳ und zeinem urkuͤnde der vor gescribenen dinge ✳ ist dirre brief besigelt mit
+unsmˀ insigel, ✳ der wart geben ze Brugge an sant Lorencien abent, do mā zalt von Cristes gebuͤrt ✳
+drùzehen hundert jar ✳ und dar nach in dem zwey und zweinzigistem jar. ✳</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

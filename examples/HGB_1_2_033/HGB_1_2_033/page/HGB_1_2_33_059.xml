@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:04</Created>
+        <LastChange>2020-04-19T01:34:15.782+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869531" pageNr="59" tsid="27912788" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=IKYSEBOXPDPYYHFCSFFOQUBR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AAQDVUKGOSAPHYAFZOOQCOWC" imageId="5736394"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_059.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3qkX_1"/>
+                <RegionRefIndexed index="1" regionRef="rLPWp_2"/>
+                <RegionRefIndexed index="2" regionRef="rWzMM_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3qkX_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,731 653,731 653,1143 190,1143"/>
+            <TextLine id="r3qkX_1l1" custom="readingOrder {index:0;}">
+                <Coords points="202,944 239,927 296,952 340,911 420,875 459,905 501,885 538,908 592,881 593,785 569,773 554,787 450,776 389,734 345,753 204,747"/>
+                <Baseline points="216,873 241,868 267,865 293,864 319,864 345,864 371,864 397,866 423,867 449,869 475,869 501,870 527,870 553,869 579,867"/>
+                <TextEquiv>
+                    <Unicode>13 / 1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3qkX_1l2" custom="readingOrder {index:1;}">
+                <Coords points="283,1008 362,998 380,1011 409,1011 431,996 466,1011 476,1001 523,998 523,934 491,934 463,949 422,924 377,951 313,947 303,956 283,954"/>
+                <Baseline points="297,992 323,992 350,992 376,992 403,992 430,992 456,992 483,992 510,992"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3qkX_1l3" custom="readingOrder {index:2;}">
+                <Coords points="311,1134 328,1130 341,1137 351,1130 365,1138 393,1121 402,1124 415,1117 422,1122 440,1108 472,1106 474,1015 437,1024 422,1011 403,1008 368,1022 344,1004 314,1001"/>
+                <Baseline points="324,1097 351,1103 378,1104 405,1104 432,1103 459,1103"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13 / 1518
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rLPWp_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="685,233 1802,233 1802,419 685,419"/>
+            <TextLine id="rLPWp_2l1" custom="readingOrder {index:0;}">
+                <Coords points="694,380 953,410 1007,373 1110,398 1204,376 1470,439 1608,380 1658,393 1658,309 1505,279 1296,281 1059,341 886,279 694,301"/>
+                <Baseline points="707,368 756,368 805,366 855,366 904,366 954,366 1003,366 1052,366 1102,366 1151,366 1201,366 1250,366 1300,368 1349,368 1398,368 1448,368 1497,369 1547,369 1596,369 1646,371"/>
+                <TextEquiv>
+                    <Unicode>1698. Mar. 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1698. Mar. 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rWzMM_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,416 2700,416 2700,1746 628,1746"/>
+            <TextLine id="rWzMM_3l1" custom="readingOrder {index:0;}">
+                <Coords points="698,606 2550,609 2668,580 2669,518 1533,474 916,526 700,439"/>
+                <Baseline points="710,555 807,557 904,558 1002,560 1099,561 1196,561 1294,561 1391,561 1488,561 1586,561 1683,561 1780,561 1878,563 1975,563 2072,563 2170,564 2267,566 2364,567 2462,569 2559,572 2657,575"/>
+                <TextEquiv>
+                    <Unicode>Johann Marckht, Besitzer der Württschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l2" custom="readingOrder {index:1;}">
+                <Coords points="685,718 2605,692 2605,633 2504,608 2102,633 1974,573 1358,639 685,590"/>
+                <Baseline points="698,666 792,666 887,666 982,665 1076,665 1171,665 1266,665 1360,665 1455,665 1550,665 1645,665 1739,665 1834,665 1929,666 2023,666 2118,666 2213,666 2307,666 2402,666 2497,667 2592,668"/>
+                <TextEquiv>
+                    <Unicode>zum Raben contra Caspar Gruninger den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l3" custom="readingOrder {index:2;}">
+                <Coords points="692,782 2464,810 2688,788 2689,694 692,720"/>
+                <Baseline points="704,765 802,763 901,762 999,761 1098,761 1196,761 1295,762 1393,762 1492,764 1590,764 1689,765 1788,767 1886,768 1985,770 2083,770 2182,771 2280,773 2379,773 2477,774 2576,774 2675,774"/>
+                <TextEquiv>
+                    <Unicode>Küefer, Benachbarte in Eschemer Lorstatt, betr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l4" custom="readingOrder {index:3;}">
+                <Coords points="680,896 2428,916 2665,858 2155,774 681,817"/>
+                <Baseline points="693,861 796,861 899,860 1002,861 1105,861 1208,863 1311,864 1414,865 1517,866 1620,867 1724,869 1827,870 1930,872 2033,872 2136,872 2239,872 2342,870 2445,869 2548,867 2652,863"/>
+                <TextEquiv>
+                    <Unicode>der Gerechtigkeit der Einfährt oder Ganzs zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l5" custom="readingOrder {index:4;}">
+                <Coords points="695,979 2506,1001 2659,980 2660,906 695,900"/>
+                <Baseline points="707,953 804,956 901,959 998,962 1095,964 1192,966 1289,968 1386,969 1483,969 1580,971 1677,971 1774,971 1871,972 1968,972 2065,972 2162,972 2259,972 2356,972 2453,972 2550,972 2648,972"/>
+                <TextEquiv>
+                    <Unicode>hinderen Kaben so die Gartheyen miternander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l6" custom="readingOrder {index:5;}">
+                <Coords points="677,1123 731,1131 793,1094 929,1067 983,1087 1101,1070 1136,1093 1301,1078 1301,1012 1252,1036 1193,994 1114,1011 1010,972 941,971 867,1018 678,1022"/>
+                <Baseline points="690,1061 721,1062 753,1062 784,1064 816,1064 847,1064 879,1065 910,1065 942,1065 973,1065 1005,1065 1036,1065 1068,1065 1099,1065 1131,1065 1162,1064 1194,1064 1225,1064 1257,1064 1289,1064"/>
+                <TextEquiv>
+                    <Unicode>gemein haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1332,1200 1423,1171 1598,1232 1854,1174 1913,1208 2113,1169 2680,1195 2646,1106 2426,1128 2165,1073 1532,1107 1460,1042 1332,1082"/>
+                <Baseline points="1343,1157 1409,1161 1475,1166 1541,1167 1608,1170 1674,1171 1740,1172 1807,1172 1873,1172 1939,1172 2006,1170 2072,1170 2138,1169 2204,1169 2271,1167 2337,1167 2403,1167 2470,1167 2536,1167 2602,1169 2669,1170"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 20. 102v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l8" custom="readingOrder {index:7;}">
+                <Coords points="1136,1386 1261,1404 1292,1387 1314,1389 1323,1290 1298,1288 1270,1306 1263,1300 1252,1307 1216,1298 1210,1303 1197,1287 1177,1293 1145,1285"/>
+                <Baseline points="1151,1371 1176,1380 1201,1386 1226,1388 1251,1389 1276,1388 1301,1386"/>
+                <TextEquiv>
+                    <Unicode>h</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l9" custom="readingOrder {index:8;}">
+                <Coords points="725,1494 826,1529 1093,1469 1151,1499 1258,1475 1637,1509 1660,1421 1433,1372 1044,1422 788,1339 726,1348"/>
+                <Baseline points="737,1457 782,1460 827,1463 873,1466 918,1467 964,1467 1009,1467 1055,1467 1100,1466 1146,1466 1191,1464 1236,1463 1282,1463 1327,1463 1373,1463 1418,1463 1464,1464 1509,1466 1555,1469 1600,1473 1646,1478"/>
+                <TextEquiv>
+                    <Unicode>Baben = 25 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l10" custom="readingOrder {index:9;}">
+                <Coords points="1561,1627 1621,1635 1695,1584 1770,1603 1824,1596 1842,1610 1890,1593 1950,1600 1947,1536 1924,1530 1878,1542 1833,1519 1791,1523 1713,1497 1679,1514 1600,1502 1557,1529"/>
+                <Baseline points="1572,1613 1598,1607 1624,1602 1650,1599 1676,1596 1702,1594 1728,1592 1755,1590 1781,1590 1807,1590 1833,1590 1859,1590 1885,1591 1911,1593 1938,1593"/>
+                <TextEquiv>
+                    <Unicode>Th v neben 12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWzMM_3l11" custom="readingOrder {index:10;}">
+                <Coords points="728,1678 1139,1737 2148,1675 2330,1716 2359,1576 1954,1626 1695,1584 1611,1633 1402,1569 953,1584 730,1531"/>
+                <Baseline points="740,1655 820,1658 900,1659 980,1662 1061,1664 1141,1665 1221,1665 1301,1667 1382,1667 1462,1667 1542,1668 1622,1668 1703,1668 1783,1668 1863,1670 1943,1670 2024,1671 2104,1671 2184,1673 2264,1674 2345,1677"/>
+                <TextEquiv>
+                    <Unicode>Marht Hs. Eig v 15 seit 1658</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johann Marckht, Besitzer der Württschaft
+zum Raben contra Caspar Gruninger den
+Küefer, Benachbarte in Eschemer Lorstatt, betr.
+der Gerechtigkeit der Einfährt oder Ganzs zum
+hinderen Kaben so die Gartheyen miternander
+gemein haben.
+Fünfergerichtsprot. 20. 102v.
+h
+Baben = 25 neb 13
+Th v neben 12
+Marht Hs. Eig v 15 seit 1658</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

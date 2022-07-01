@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:35</Created>
+        <LastChange>2020-04-19T01:20:09.735+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869346" pageNr="6" tsid="27912330" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=VICVSFZMMMEPYFVNZOCAICRL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KATXCSDFSFZAKFSCEKARYDCA" imageId="5736209"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_006.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rAQJ7_1"/>
+                <RegionRefIndexed index="1" regionRef="rOOLG_2"/>
+                <RegionRefIndexed index="2" regionRef="rNUGY_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rAQJ7_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,883 624,883 624,1287 211,1287"/>
+            <TextLine id="rAQJ7_1l1" custom="readingOrder {index:0;}">
+                <Coords points="205,1019 243,1039 271,1035 323,1066 405,1014 460,1051 483,1031 500,1046 564,1037 565,934 528,938 475,904 372,893 298,924 207,928"/>
+                <Baseline points="219,1007 244,1007 270,1005 295,1005 321,1005 346,1005 372,1006 397,1007 423,1007 448,1008 474,1009 499,1010 525,1010 551,1011"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAQJ7_1l2" custom="readingOrder {index:1;}">
+                <Coords points="243,1193 268,1194 297,1167 312,1173 323,1166 348,1175 361,1168 380,1176 408,1172 430,1191 443,1189 476,1175 479,1107 444,1105 431,1115 382,1077 367,1084 324,1067 296,1081 248,1077"/>
+                <Baseline points="257,1142 282,1144 308,1147 334,1148 360,1149 386,1149 412,1151 438,1151 464,1151"/>
+                <TextEquiv>
+                    <Unicode>neben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rAQJ7_1l3" custom="readingOrder {index:2;}">
+                <Coords points="249,1300 266,1302 285,1319 306,1308 326,1314 369,1288 400,1285 408,1278 425,1282 432,1199 401,1202 387,1190 369,1199 357,1188 329,1193 294,1177 273,1191 258,1190"/>
+                <Baseline points="266,1253 295,1256 324,1258 354,1262 383,1263 413,1265"/>
+                <TextEquiv>
+                    <Unicode>83.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+neben.
+83.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rOOLG_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="628,202 2050,202 2050,421 628,421"/>
+            <TextLine id="rOOLG_2l1" custom="readingOrder {index:0;}">
+                <Coords points="676,401 1173,369 1309,425 1731,370 1953,409 1954,288 1706,277 1449,332 1189,238 1027,313 676,269"/>
+                <Baseline points="689,365 751,362 814,359 876,357 939,357 1001,356 1064,357 1126,357 1189,357 1251,359 1314,360 1377,360 1439,362 1502,362 1564,363 1627,363 1689,363 1752,362 1814,361 1877,359 1940,357"/>
+                <TextEquiv>
+                    <Unicode>1525. Donstag nach Genli.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1525. Donstag nach Genli.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rNUGY_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="578,395 2686,395 2686,2165 578,2165"/>
+            <TextLine id="rNUGY_3l1" custom="readingOrder {index:0;}">
+                <Coords points="676,579 2423,602 2630,585 2631,530 1772,530 1682,471 676,511"/>
+                <Baseline points="689,549 785,552 881,554 978,557 1074,558 1171,560 1267,561 1364,561 1460,563 1557,563 1653,563 1749,563 1846,563 1942,563 2039,563 2135,563 2232,563 2328,563 2425,563 2521,564 2618,564"/>
+                <TextEquiv>
+                    <Unicode>Hansen Satler in Eschamervorstatt Contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l2" custom="readingOrder {index:1;}">
+                <Coords points="656,665 1186,660 1292,716 2595,675 2595,589 2484,573 1759,633 1489,571 1375,621 656,584"/>
+                <Baseline points="669,656 764,656 860,656 955,656 1051,657 1147,657 1242,657 1338,659 1434,659 1529,659 1625,660 1721,660 1816,660 1912,662 2008,662 2103,663 2199,663 2295,663 2390,663 2486,665 2582,665"/>
+                <TextEquiv>
+                    <Unicode>Martin Streiff betr. sinem Kenel so er uff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l3" custom="readingOrder {index:2;}">
+                <Coords points="669,782 2553,813 2553,719 2473,686 670,714"/>
+                <Baseline points="683,761 775,759 868,758 961,756 1054,756 1147,755 1240,755 1333,755 1426,755 1519,755 1612,756 1704,756 1797,756 1890,758 1983,758 2076,759 2169,760 2262,761 2355,762 2448,762 2541,764"/>
+                <TextEquiv>
+                    <Unicode>sinem Stal neben klägers Gertlin ligen hatz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l4" custom="readingOrder {index:3;}">
+                <Coords points="685,900 2635,895 2635,827 2451,797 686,784"/>
+                <Baseline points="698,861 794,861 890,861 986,861 1082,861 1178,860 1274,860 1371,860 1467,860 1563,860 1659,860 1755,861 1851,861 1947,861 2044,861 2140,861 2236,863 2332,863 2428,863 2524,864 2621,864"/>
+                <TextEquiv>
+                    <Unicode>Gerner soll er ein dassingraben und mit einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l5" custom="readingOrder {index:4;}">
+                <Coords points="644,981 2654,1019 2677,908 644,915"/>
+                <Baseline points="657,956 757,957 857,959 958,959 1058,960 1158,960 1259,960 1359,960 1459,960 1560,960 1660,960 1760,960 1861,960 1961,962 2061,962 2162,963 2262,963 2362,965 2463,968 2563,969 2664,972"/>
+                <TextEquiv>
+                    <Unicode>Mülystein bedechen, damit das Wasser darm ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l6" custom="readingOrder {index:5;}">
+                <Coords points="652,1129 968,1068 1296,1120 1728,1071 1899,1126 2541,1071 2318,986 652,998"/>
+                <Baseline points="665,1065 758,1065 851,1064 944,1064 1037,1064 1130,1063 1223,1062 1317,1062 1410,1061 1503,1061 1596,1059 1689,1059 1782,1059 1875,1059 1969,1059 2062,1059 2155,1059 2248,1059 2341,1061 2434,1061 2528,1064"/>
+                <TextEquiv>
+                    <Unicode>sinke, auch wegen einem din oder handeren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1419,1269 1664,1311 2035,1269 2113,1302 2575,1268 2618,1304 2647,1183 2324,1195 2283,1233 2200,1187 1864,1217 1705,1142 1420,1122"/>
+                <Baseline points="1431,1247 1491,1248 1551,1250 1611,1251 1671,1253 1731,1254 1791,1256 1852,1256 1912,1257 1972,1259 2032,1259 2092,1260 2152,1260 2212,1260 2273,1260 2333,1260 2393,1260 2453,1259 2513,1257 2573,1256 2634,1254"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 2. 168.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l8" custom="readingOrder {index:7;}">
+                <Coords points="644,1375 1307,1401 1462,1372 1540,1408 1775,1379 1775,1321 1543,1287 1159,1332 1000,1266 644,1286"/>
+                <Baseline points="656,1359 711,1359 766,1358 821,1358 877,1358 932,1358 987,1358 1042,1358 1098,1358 1153,1359 1208,1359 1263,1359 1319,1359 1374,1361 1429,1361 1484,1361 1540,1362 1595,1362 1650,1364 1705,1364 1761,1365"/>
+                <TextEquiv>
+                    <Unicode>1526. Lonstag vorm Pfingstag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l9" custom="readingOrder {index:8;}">
+                <Coords points="2365,1382 2401,1368 2421,1388 2469,1404 2545,1382 2580,1390 2600,1373 2618,1386 2641,1371 2676,1387 2677,1316 2576,1304 2543,1329 2515,1316 2497,1331 2472,1323 2457,1333 2404,1310 2366,1312"/>
+                <Baseline points="2378,1359 2403,1361 2429,1362 2455,1362 2481,1362 2507,1362 2533,1362 2559,1362 2585,1362 2611,1363 2637,1364 2663,1367"/>
+                <TextEquiv>
+                    <Unicode>2. 174.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l10" custom="readingOrder {index:9;}">
+                <Coords points="632,1478 2533,1488 2533,1432 2066,1368 1695,1419 632,1392"/>
+                <Baseline points="644,1458 737,1458 831,1458 925,1457 1019,1457 1113,1457 1206,1455 1300,1455 1394,1455 1488,1455 1582,1455 1675,1455 1769,1455 1863,1455 1957,1455 2051,1457 2144,1457 2238,1458 2332,1460 2426,1461 2520,1463"/>
+                <TextEquiv>
+                    <Unicode>Martin Streiff, Besitzer des Huses zum Rappen um </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l11" custom="readingOrder {index:10;}">
+                <Coords points="647,1556 1334,1538 1516,1610 2614,1592 2615,1531 2425,1475 2309,1525 1968,1468 1855,1518 648,1490"/>
+                <Baseline points="660,1550 757,1551 854,1551 951,1551 1048,1551 1145,1551 1242,1551 1339,1551 1436,1551 1533,1551 1630,1551 1727,1551 1824,1551 1921,1551 2018,1553 2115,1553 2212,1554 2309,1556 2406,1558 2503,1560 2601,1563"/>
+                <TextEquiv>
+                    <Unicode>Eschamervorstatt betreffend dem Stall dener hinder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l12" custom="readingOrder {index:11;}">
+                <Coords points="634,1709 1339,1643 2680,1691 2680,1590 634,1631"/>
+                <Baseline points="648,1662 754,1661 860,1659 966,1656 1073,1655 1179,1653 1285,1652 1391,1652 1498,1650 1604,1650 1710,1650 1816,1650 1923,1650 2029,1651 2135,1652 2241,1653 2348,1656 2454,1658 2560,1661 2667,1664"/>
+                <TextEquiv>
+                    <Unicode>sinem Hus an Hansen Sattlers Garten gebenden hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l13" custom="readingOrder {index:12;}">
+                <Coords points="1210,1811 1268,1821 1308,1791 1320,1802 1357,1787 1386,1794 1416,1773 1431,1774 1434,1737 1404,1729 1396,1734 1318,1690 1282,1693 1261,1706 1239,1699 1218,1706"/>
+                <Baseline points="1226,1764 1253,1771 1280,1775 1308,1779 1335,1780 1363,1781 1390,1781 1418,1779"/>
+                <TextEquiv>
+                    <Unicode>Che</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l14" custom="readingOrder {index:13;}">
+                <Coords points="750,1867 1052,1890 1100,1931 1601,1866 1698,1925 1840,1889 1841,1803 1433,1763 1184,1834 1087,1762 965,1766 855,1706 751,1730"/>
+                <Baseline points="762,1838 815,1843 868,1848 922,1851 975,1854 1028,1856 1082,1859 1135,1860 1188,1860 1242,1862 1295,1862 1348,1862 1402,1862 1455,1860 1508,1860 1562,1859 1615,1859 1668,1858 1722,1857 1775,1857 1829,1857"/>
+                <TextEquiv>
+                    <Unicode>Rappen ao 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rNUGY_3l15" custom="readingOrder {index:14;}">
+                <Coords points="753,2114 1073,2078 1160,2117 1449,2045 1748,2127 2038,2056 2124,2090 2252,2056 2251,1909 2135,1949 1766,1887 1594,1935 1516,1893 751,1943"/>
+                <Baseline points="764,2046 837,2051 911,2055 985,2057 1059,2057 1133,2057 1206,2056 1280,2054 1354,2052 1428,2049 1502,2047 1575,2044 1649,2042 1723,2040 1797,2038 1871,2037 1944,2037 2018,2039 2092,2042 2166,2046 2240,2052"/>
+                <TextEquiv>
+                    <Unicode>Schöllin Hs Sabler Eg v 19 ao 1556</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Hansen Satler in Eschamervorstatt Contra
+Martin Streiff betr. sinem Kenel so er uff
+sinem Stal neben klägers Gertlin ligen hatz.
+Gerner soll er ein dassingraben und mit einem
+Mülystein bedechen, damit das Wasser darm ver-
+sinke, auch wegen einem din oder handeren.
+Fünfergerichtsprot. 2. 168.
+1526. Lonstag vorm Pfingstag.
+2. 174.
+Martin Streiff, Besitzer des Huses zum Rappen um 
+Eschamervorstatt betreffend dem Stall dener hinder
+sinem Hus an Hansen Sattlers Garten gebenden hat.
+Che
+Rappen ao 15 neb 13
+Schöllin Hs Sabler Eg v 19 ao 1556</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

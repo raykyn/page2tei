@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:31</Created>
+        <LastChange>2020-04-19T01:29:06.547+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869450" pageNr="41" tsid="27912634" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=KYEFIGXFTUKDTKRLKBZNWQBE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RQGKSLLSYXSZHNMJTCFBHOPZ" imageId="5736313"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_041.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rKau5_1"/>
+                <RegionRefIndexed index="1" regionRef="rCchN_2"/>
+                <RegionRefIndexed index="2" regionRef="r7fu7_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rKau5_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="240,818 624,818 624,1200 240,1200"/>
+            <TextLine id="rKau5_1l1" custom="readingOrder {index:0;}">
+                <Coords points="257,978 303,981 338,1003 412,976 434,993 478,986 527,1016 576,1008 596,851 561,862 486,843 472,853 399,805 356,824 326,813 275,831"/>
+                <Baseline points="276,920 302,925 329,927 356,931 383,936 410,940 437,943 464,947 491,950 518,953 545,953 572,954"/>
+                <TextEquiv>
+                    <Unicode>25/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rKau5_1l2" custom="readingOrder {index:1;}">
+                <Coords points="323,1096 359,1088 368,1095 416,1076 442,1099 474,1106 548,1096 547,1015 525,1017 458,984 429,1004 408,995 391,1009 355,995 322,1000"/>
+                <Baseline points="335,1059 360,1061 385,1061 410,1062 435,1062 460,1062 485,1061 510,1059 536,1056"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rKau5_1l3" custom="readingOrder {index:2;}">
+                <Coords points="347,1202 367,1201 380,1193 393,1204 407,1204 424,1196 444,1173 466,1184 490,1186 486,1095 464,1093 455,1101 450,1097 434,1104 421,1093 414,1098 385,1090 375,1081 371,1086 342,1075"/>
+                <Baseline points="357,1170 387,1171 417,1168 447,1166 477,1167"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>25/1538
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rCchN_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="657,222 2111,222 2111,416 657,416"/>
+            <TextLine id="rCchN_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1062,376 1263,405 1406,380 1500,415 1671,378 2040,406 2039,313 1859,271 1783,291 1694,256 1604,314 1221,279 1061,309"/>
+                <Baseline points="1074,354 1121,356 1169,356 1217,356 1264,356 1312,356 1360,355 1407,354 1455,354 1503,353 1551,353 1598,353 1646,351 1694,351 1741,350 1789,350 1837,350 1884,350 1932,350 1980,350 2028,350"/>
+                <TextEquiv>
+                    <Unicode>AdtEEADD DDT STDDDBA BASEL BASSEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AdtEEADD DDT STDDDBA BASEL BASSEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r7fu7_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="614,375 2678,375 2678,1811 614,1811"/>
+            <TextLine id="r7fu7_3l1" custom="readingOrder {index:0;}">
+                <Coords points="686,497 710,495 728,475 766,476 801,491 831,475 854,496 903,482 897,343 820,342 787,363 759,362 727,342 679,349"/>
+                <Baseline points="696,452 723,450 751,450 779,449 806,447 834,446 862,445 890,441"/>
+                <TextEquiv>
+                    <Unicode>1682.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l2" custom="readingOrder {index:1;}">
+                <Coords points="857,586 1412,577 1540,635 1688,631 1689,495 1632,516 1546,480 1393,508 1307,476 1140,475 1037,503 858,442"/>
+                <Baseline points="869,554 909,555 949,557 990,557 1030,558 1071,558 1111,559 1151,560 1192,560 1232,560 1273,560 1313,560 1353,560 1394,560 1434,560 1475,560 1515,560 1555,560 1596,560 1636,561 1677,561"/>
+                <TextEquiv>
+                    <Unicode>Jacob Werdenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l3" custom="readingOrder {index:2;}">
+                <Coords points="672,677 696,681 705,676 718,687 732,685 739,692 763,676 782,685 791,678 804,685 820,677 842,679 839,609 818,610 808,601 784,609 777,602 763,617 739,613 727,620 715,609 699,616 670,612"/>
+                <Baseline points="683,662 712,662 741,662 771,662 800,660 830,656"/>
+                <TextEquiv>
+                    <Unicode>1835</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l4" custom="readingOrder {index:3;}">
+                <Coords points="806,777 1293,777 1400,838 1704,777 2479,796 2508,734 2322,673 2144,734 1808,668 1418,723 1132,614 806,662"/>
+                <Baseline points="818,756 901,756 985,756 1069,758 1153,758 1237,759 1321,759 1404,761 1488,761 1572,762 1656,762 1740,764 1824,764 1908,765 1991,765 2075,765 2159,765 2243,765 2327,764 2411,764 2495,762"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Thurneysen, des Wirths zum Rappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l5" custom="readingOrder {index:4;}">
+                <Coords points="646,887 2111,922 2482,902 2511,833 1744,777 1466,828 943,769 647,803"/>
+                <Baseline points="659,861 751,860 843,860 935,860 1027,860 1119,860 1211,860 1303,861 1395,861 1487,863 1579,863 1671,863 1763,864 1855,864 1947,866 2039,866 2131,866 2223,866 2315,866 2407,866 2499,864"/>
+                <TextEquiv>
+                    <Unicode>sel. Erben, geben vom Hauß zum Rappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l6" custom="readingOrder {index:5;}">
+                <Coords points="668,1004 2468,987 2468,884 669,923"/>
+                <Baseline points="681,954 769,956 858,956 947,957 1036,959 1125,959 1213,959 1302,960 1391,960 1480,960 1569,960 1657,960 1746,960 1835,960 1924,960 2013,959 2101,959 2190,959 2279,957 2368,957 2457,956"/>
+                <TextEquiv>
+                    <Unicode>und desselbigen Sietteren laut des dritten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l7" custom="readingOrder {index:6;}">
+                <Coords points="664,1079 2586,1093 2586,1022 2359,983 2130,1032 665,998"/>
+                <Baseline points="677,1052 771,1055 866,1059 961,1061 1056,1062 1151,1064 1246,1064 1340,1064 1435,1062 1530,1062 1625,1061 1720,1061 1815,1059 1910,1059 2004,1059 2099,1059 2194,1059 2289,1061 2384,1064 2479,1066 2574,1070"/>
+                <TextEquiv>
+                    <Unicode>Sahrbuchs 3 ℔ 14ß ab, und von 7 Juch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l8" custom="readingOrder {index:7;}">
+                <Coords points="690,1185 2555,1218 2624,1197 2625,1104 691,1116"/>
+                <Baseline points="702,1148 797,1152 893,1155 988,1158 1084,1160 1179,1160 1275,1161 1370,1161 1466,1161 1561,1161 1657,1161 1753,1160 1848,1160 1944,1160 2039,1160 2135,1161 2230,1162 2326,1164 2421,1166 2517,1168 2613,1172"/>
+                <TextEquiv>
+                    <Unicode>Sckhers in der mittleren Hardt 1 ℔ 1ß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l9" custom="readingOrder {index:8;}">
+                <Coords points="693,1292 1938,1278 2115,1317 2115,1190 1369,1191 1235,1234 693,1185"/>
+                <Baseline points="704,1259 777,1259 851,1260 924,1262 998,1262 1072,1262 1145,1263 1219,1263 1293,1263 1366,1263 1440,1262 1513,1262 1587,1262 1661,1262 1734,1262 1808,1263 1882,1263 1955,1263 2029,1264 2103,1265"/>
+                <TextEquiv>
+                    <Unicode>Shuet qusammen 4 ℔ 15ß. 65.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7fu7_3l10" custom="readingOrder {index:9;}">
+                <Coords points="1852,1555 2037,1549 2272,1599 2308,1583 2423,1594 2425,1515 2301,1504 2273,1484 2209,1482 2167,1510 1854,1488"/>
+                <Baseline points="1865,1542 1892,1544 1919,1544 1947,1545 1974,1545 2001,1547 2029,1547 2056,1548 2083,1548 2111,1550 2138,1550 2165,1551 2193,1551 2220,1553 2247,1554 2275,1554 2302,1556 2329,1557 2357,1558 2384,1559 2412,1560"/>
+                <TextEquiv>
+                    <Unicode>St Betat - OoDDAd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1682.
+Jacob Werdenberg
+1835
+Wilhelm Thurneysen, des Wirths zum Rappen
+sel. Erben, geben vom Hauß zum Rappen
+und desselbigen Sietteren laut des dritten
+Sahrbuchs 3 ℔ 14ß ab, und von 7 Juch.
+Sckhers in der mittleren Hardt 1 ℔ 1ß.
+Shuet qusammen 4 ℔ 15ß. 65.
+St Betat - OoDDAd</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

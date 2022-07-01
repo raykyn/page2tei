@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:35</Created>
+        <LastChange>2020-04-19T01:21:51.139+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869376" pageNr="13" tsid="27912385" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=AUSLECNKFBIHIJDFELVVKZVZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNSTIWHVXBGTEEUKCVJCDBDG" imageId="5736239"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_013.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242820" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rSczg_1"/>
+                <RegionRefIndexed index="1" regionRef="rRTiK_2"/>
+                <RegionRefIndexed index="2" regionRef="rYDHK_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rSczg_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="226,883 667,883 667,1444 226,1444"/>
+            <TextLine id="rSczg_1l1" custom="readingOrder {index:0;}">
+                <Coords points="253,1023 289,1019 316,1037 378,1002 430,1032 440,1025 463,1035 501,1020 516,873 421,882 389,869 368,884 341,866 270,856"/>
+                <Baseline points="270,974 297,977 325,981 352,985 380,989 408,992 435,995 463,995 491,993"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSczg_1l2" custom="readingOrder {index:1;}">
+                <Coords points="237,1208 258,1216 283,1202 297,1217 331,1198 361,1211 456,1149 506,1163 533,1149 568,1176 627,1183 630,1078 545,1058 518,1070 490,1040 417,1024 370,1054 306,1031 241,1055"/>
+                <Baseline points="252,1130 278,1134 304,1137 330,1138 356,1140 382,1141 408,1142 434,1142 460,1143 486,1143 512,1143 538,1143 564,1143 590,1143 617,1143"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSczg_1l3" custom="readingOrder {index:2;}">
+                <Coords points="254,1305 304,1306 323,1296 358,1321 385,1307 433,1300 507,1316 508,1251 488,1253 458,1234 431,1248 379,1216 348,1235 305,1232 293,1243 255,1233"/>
+                <Baseline points="267,1287 292,1290 317,1292 343,1292 368,1292 393,1293 419,1293 444,1293 469,1292 495,1292"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rSczg_1l4" custom="readingOrder {index:3;}">
+                <Coords points="306,1402 339,1409 346,1417 358,1410 395,1432 405,1427 417,1433 431,1424 438,1432 451,1420 463,1421 468,1338 425,1335 395,1305 356,1322 342,1316 332,1325 310,1324"/>
+                <Baseline points="318,1401 344,1406 371,1407 398,1408 425,1410 452,1410"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1538
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rRTiK_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1052,240 2269,240 2269,449 1052,449"/>
+            <TextLine id="rRTiK_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1246,416 1497,408 1575,442 1619,409 1733,438 1874,408 1988,447 2130,409 2277,444 2278,324 2135,302 1980,349 1927,320 1691,349 1247,325"/>
+                <Baseline points="1259,386 1309,386 1359,387 1409,387 1460,388 1510,389 1560,389 1611,389 1661,389 1711,389 1762,389 1812,389 1862,389 1912,389 1963,389 2013,390 2063,390 2114,392 2164,393 2214,393 2265,395"/>
+                <TextEquiv>
+                    <Unicode>DD Dor Abrda S.B SaDE2ter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DD Dor Abrda S.B SaDE2ter.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rYDHK_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,416 2700,416 2700,1484 628,1484"/>
+            <TextLine id="rYDHK_3l1" custom="readingOrder {index:0;}">
+                <Coords points="695,515 719,518 784,503 843,537 881,524 883,457 866,457 838,432 814,446 790,433 773,447 745,447 730,439 718,446 697,438"/>
+                <Baseline points="708,491 735,492 762,494 789,494 816,495 843,495 870,494"/>
+                <TextEquiv>
+                    <Unicode>1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l2" custom="readingOrder {index:1;}">
+                <Coords points="854,604 923,627 962,601 1019,624 1155,600 1305,631 1358,605 1431,664 1503,629 1632,651 1635,476 1594,490 1421,442 1261,549 1154,516 1020,531 980,499 856,523"/>
+                <Baseline points="866,564 903,568 941,572 979,573 1017,576 1055,579 1092,580 1130,581 1168,582 1206,582 1244,584 1281,584 1319,584 1357,582 1395,582 1433,582 1470,582 1508,582 1546,582 1584,582 1622,582"/>
+                <TextEquiv>
+                    <Unicode>Marttin Streyff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l3" custom="readingOrder {index:2;}">
+                <Coords points="715,732 2577,723 2577,620 2069,660 1826,555 1422,666 1183,606 715,620"/>
+                <Baseline points="726,689 822,687 919,687 1016,686 1113,686 1209,686 1306,686 1403,686 1500,687 1597,687 1693,687 1790,689 1887,689 1984,689 2081,689 2177,689 2274,689 2371,689 2468,689 2565,687"/>
+                <TextEquiv>
+                    <Unicode>Gitt jerlichs von jedem Stuck nach litt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l4" custom="readingOrder {index:3;}">
+                <Coords points="691,840 1527,787 1840,863 2626,790 2585,718 2069,764 924,685 692,747"/>
+                <Baseline points="704,786 799,783 894,782 990,780 1085,780 1181,780 1276,782 1372,783 1467,785 1563,786 1658,788 1753,789 1849,791 1944,792 2040,792 2135,794 2231,794 2326,792 2422,791 2517,789 2613,786"/>
+                <TextEquiv>
+                    <Unicode>dess H. H. Jtter Register eygentlich von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l5" custom="readingOrder {index:4;}">
+                <Coords points="716,932 2524,935 2524,839 2436,822 1834,862 1705,806 1385,845 1161,794 1041,851 863,802 717,847"/>
+                <Baseline points="728,882 817,882 906,882 995,884 1085,884 1174,884 1263,885 1352,885 1442,887 1531,888 1620,888 1709,890 1799,890 1888,890 1977,891 2066,891 2156,891 2245,890 2334,890 2423,888 2513,887"/>
+                <TextEquiv>
+                    <Unicode>Hort zu Vort ufgerihryben thut 3 ℔</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l6" custom="readingOrder {index:5;}">
+                <Coords points="711,1025 772,1038 816,1014 901,1002 997,1036 1053,1013 1098,1025 1105,905 1022,932 994,914 964,936 928,903 864,935 798,910 737,942 716,936"/>
+                <Baseline points="726,972 751,974 777,975 803,975 829,977 855,978 881,979 907,980 932,981 958,984 984,985 1010,987 1036,989 1062,991 1088,993"/>
+                <TextEquiv>
+                    <Unicode>14 ß 68.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l7" custom="readingOrder {index:6;}">
+                <Coords points="711,1129 759,1129 778,1114 795,1124 840,1100 898,1102 941,1130 998,1101 1046,1120 1069,1101 1110,1110 1110,1024 1052,1013 998,1037 950,1011 852,1004 771,1038 711,1026"/>
+                <Baseline points="722,1082 747,1080 772,1080 797,1079 822,1079 847,1079 872,1079 897,1079 922,1080 947,1080 972,1080 997,1080 1022,1079 1047,1079 1072,1078 1098,1077"/>
+                <TextEquiv>
+                    <Unicode>1558 ABtb. J</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l8" custom="readingOrder {index:7;}">
+                <Coords points="736,1225 2392,1238 2574,1207 2575,1159 737,1124"/>
+                <Baseline points="747,1181 837,1181 928,1181 1019,1181 1110,1182 1200,1182 1291,1183 1382,1184 1473,1185 1563,1185 1654,1187 1745,1187 1836,1188 1926,1190 2017,1190 2108,1191 2199,1193 2289,1194 2380,1195 2471,1196 2562,1197"/>
+                <TextEquiv>
+                    <Unicode>Wis oben. TD3A 1538 1 Sb 1538 ADD A 1530 1510 16II 1512</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l9" custom="readingOrder {index:8;}">
+                <Coords points="707,1307 752,1299 819,1313 834,1299 889,1301 890,1256 873,1255 864,1245 831,1247 824,1239 802,1239 779,1223 759,1240 709,1226"/>
+                <Baseline points="719,1287 745,1286 772,1287 798,1289 825,1290 851,1290 878,1290"/>
+                <TextEquiv>
+                    <Unicode>1513</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYDHK_3l10" custom="readingOrder {index:9;}">
+                <Coords points="1783,1441 1879,1436 1917,1457 1988,1418 2063,1451 2127,1418 2215,1453 2282,1407 2440,1419 2439,1340 2408,1347 2360,1309 2284,1338 2186,1303 2057,1303 2026,1330 1895,1316 1866,1338 1783,1312"/>
+                <Baseline points="1796,1382 1827,1382 1859,1383 1890,1383 1922,1383 1953,1383 1985,1383 2016,1383 2048,1383 2079,1383 2111,1383 2143,1382 2174,1382 2206,1382 2237,1382 2269,1382 2300,1381 2332,1380 2363,1380 2395,1380 2427,1380"/>
+                <TextEquiv>
+                    <Unicode>S" 51020 - O0vad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1538
+Marttin Streyff
+Gitt jerlichs von jedem Stuck nach litt
+dess H. H. Jtter Register eygentlich von
+Hort zu Vort ufgerihryben thut 3 ℔
+14 ß 68.
+1558 ABtb. J
+Wis oben. TD3A 1538 1 Sb 1538 ADD A 1530 1510 16II 1512
+1513
+S" 51020 - O0vad.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

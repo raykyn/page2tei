@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>206250</docId>
+    <title>HGB_1_2_033</title>
+    <uploadTimestamp>1567666083637</uploadTimestamp>
+    <uploader>benjamin.hitz@unibas.ch</uploader>
+    <uploaderId>2526</uploaderId>
+    <nrOfPages>76</nrOfPages>
+    <pageId>8869320</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=ZBUZAKQOSKUOYRBONEBBVTJD</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=ZBUZAKQOSKUOYRBONEBBVTJD</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_206250</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>47774</colId>
+            <colName>HGB_1_002_Aeschenvorstadt</colName>
+            <description>created by benjamin.hitz@unibas.ch</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

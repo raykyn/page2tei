@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:31</Created>
+        <LastChange>2020-04-19T01:32:52.497+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869509" pageNr="54" tsid="27912742" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=LSDBRRYRECBBCDDWJDEWJRPL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LAQUZEKRPUBKZDDJOWGBFDFF" imageId="5736372"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_054.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rgQHf_1"/>
+                <RegionRefIndexed index="1" regionRef="rjNAS_2"/>
+                <RegionRefIndexed index="2" regionRef="rYo17_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rgQHf_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,713 646,713 646,1191 197,1191"/>
+            <TextLine id="rgQHf_1l1" custom="readingOrder {index:0;}">
+                <Coords points="184,760 223,782 277,789 309,778 355,796 430,780 456,808 498,808 504,687 420,678 402,694 353,692 332,711 256,652 188,676"/>
+                <Baseline points="197,746 223,748 250,752 276,756 303,759 329,761 356,763 382,764 409,764 435,762 462,760 489,758"/>
+                <TextEquiv>
+                    <Unicode>Aesel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgQHf_1l2" custom="readingOrder {index:1;}">
+                <Coords points="214,961 263,982 330,983 418,913 484,949 597,948 599,817 577,810 548,807 513,828 484,805 403,784 345,810 304,792 246,833 217,833"/>
+                <Baseline points="227,905 252,906 278,906 303,908 329,909 354,911 380,911 406,912 431,913 457,914 482,914 508,913 533,912 559,910 585,908"/>
+                <TextEquiv>
+                    <Unicode>15/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgQHf_1l3" custom="readingOrder {index:2;}">
+                <Coords points="269,1093 311,1100 360,1075 414,1078 427,1065 451,1083 493,1080 493,1004 469,1011 439,999 409,1009 375,991 348,1011 330,996 269,987"/>
+                <Baseline points="282,1046 310,1046 338,1046 366,1046 395,1046 423,1046 451,1046 480,1046"/>
+                <TextEquiv>
+                    <Unicode>Liehenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rgQHf_1l4" custom="readingOrder {index:3;}">
+                <Coords points="306,1171 332,1176 340,1169 355,1173 373,1167 387,1173 414,1204 456,1205 466,1082 449,1081 435,1067 394,1054 376,1060 366,1055 359,1062 352,1056 314,1058"/>
+                <Baseline points="321,1145 346,1152 372,1157 397,1159 423,1158 449,1155"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Aesel
+15/1518
+Liehenen
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rjNAS_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="635,268 1501,268 1501,405 635,405"/>
+            <TextLine id="rjNAS_2l1" custom="readingOrder {index:0;}">
+                <Coords points="641,419 772,394 824,429 933,383 1056,382 1090,412 1502,398 1504,282 1348,339 1281,304 928,337 862,294 827,318 734,285 643,296"/>
+                <Baseline points="653,372 694,371 736,369 778,369 820,368 862,368 904,368 945,369 987,369 1029,371 1071,372 1113,372 1155,374 1197,375 1238,375 1280,376 1322,377 1364,377 1406,377 1448,376 1490,375"/>
+                <TextEquiv>
+                    <Unicode>1679 Martini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1679 Martini.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rYo17_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,405 2657,405 2657,1623 628,1623"/>
+            <TextLine id="rYo17_3l1" custom="readingOrder {index:0;}">
+                <Coords points="644,479 2279,541 2629,503 2630,365 2274,452 2040,394 644,420"/>
+                <Baseline points="656,467 754,468 852,470 950,471 1048,471 1146,471 1244,473 1342,473 1440,473 1538,473 1637,473 1735,473 1833,474 1931,474 2029,474 2127,474 2225,476 2323,476 2421,477 2519,479 2618,480"/>
+                <TextEquiv>
+                    <Unicode>Thumbprobsteg Bonen und Pfenning Zinse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l2" custom="readingOrder {index:1;}">
+                <Coords points="653,600 2133,618 2580,588 2605,526 1699,540 1465,482 915,542 654,489"/>
+                <Baseline points="665,563 761,566 857,567 954,569 1050,569 1146,570 1243,570 1339,572 1435,572 1532,572 1628,572 1724,572 1821,573 1917,573 2013,573 2110,573 2206,573 2302,573 2399,573 2495,575 2592,575"/>
+                <TextEquiv>
+                    <Unicode>Item die Wirthschafft zum Rappen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l3" custom="readingOrder {index:2;}">
+                <Coords points="665,694 1455,706 1553,655 2596,710 2597,616 665,607"/>
+                <Baseline points="677,666 772,668 867,669 962,669 1058,671 1153,671 1248,671 1344,671 1439,671 1534,671 1630,671 1725,671 1820,669 1915,669 2011,669 2106,669 2201,669 2297,671 2392,671 2487,671 2583,672"/>
+                <TextEquiv>
+                    <Unicode>Eschemer vorstatt zuvor der hof Muc-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l4" custom="readingOrder {index:3;}">
+                <Coords points="656,796 1029,839 1584,789 1712,838 2422,796 2482,710 1850,738 1636,663 1433,732 657,702"/>
+                <Baseline points="668,768 758,768 848,768 938,768 1028,768 1118,768 1208,770 1298,770 1388,770 1478,770 1568,770 1658,770 1748,770 1838,770 1928,771 2018,771 2108,771 2198,771 2288,773 2378,773 2468,773"/>
+                <TextEquiv>
+                    <Unicode>spach, zinst jährlich auf Martini.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l5" custom="readingOrder {index:4;}">
+                <Coords points="819,893 856,881 1019,929 1135,914 1174,879 1302,905 1332,878 1386,878 1421,909 1450,904 1450,793 1272,829 1092,805 1026,835 902,792 819,834"/>
+                <Baseline points="830,870 860,869 890,867 921,867 951,866 982,865 1012,864 1043,864 1073,863 1104,863 1134,863 1164,863 1195,863 1225,863 1256,863 1286,863 1317,864 1347,864 1378,864 1408,866 1439,867"/>
+                <TextEquiv>
+                    <Unicode>It 2 ß 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l6" custom="readingOrder {index:5;}">
+                <Coords points="660,975 2579,985 2579,916 2231,878 1540,937 1387,880 1205,929 660,896"/>
+                <Baseline points="671,962 765,965 860,966 955,966 1049,968 1144,968 1239,966 1333,966 1428,965 1523,964 1618,963 1712,962 1807,962 1902,962 1996,962 2091,963 2186,964 2280,966 2375,969 2470,972 2565,977"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1680. Ebenso 1651. Ebenso 1682.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l7" custom="readingOrder {index:6;}">
+                <Coords points="668,1077 2627,1093 2642,1005 669,1015"/>
+                <Baseline points="680,1059 777,1062 875,1064 972,1065 1070,1065 1167,1067 1265,1065 1362,1065 1460,1065 1557,1064 1655,1062 1752,1062 1850,1061 1947,1061 2045,1061 2142,1062 2240,1064 2337,1065 2435,1068 2532,1072 2630,1077"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1683. Ebenso 1684. Ebenso 1685.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l8" custom="readingOrder {index:7;}">
+                <Coords points="655,1199 2653,1212 2653,1104 2490,1079 1588,1135 1506,1081 1260,1133 655,1088"/>
+                <Baseline points="668,1163 766,1164 865,1164 963,1166 1062,1166 1161,1166 1259,1166 1358,1166 1456,1164 1555,1164 1654,1164 1752,1164 1851,1164 1949,1164 2048,1164 2147,1164 2245,1164 2344,1166 2442,1166 2541,1167 2640,1169"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1686. Ebenso 1687. 1688/89 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1398,1286 1485,1276 1529,1297 1601,1279 1650,1295 1704,1279 1726,1299 1778,1281 1874,1316 1933,1310 1936,1206 1857,1214 1815,1193 1678,1232 1557,1174 1400,1210"/>
+                <Baseline points="1412,1259 1437,1260 1463,1262 1488,1262 1514,1263 1539,1264 1565,1265 1590,1265 1616,1266 1641,1266 1667,1266 1692,1266 1718,1268 1743,1268 1769,1268 1794,1269 1820,1270 1845,1271 1871,1272 1896,1273 1922,1275"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1691.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l10" custom="readingOrder {index:9;}">
+                <Coords points="652,1283 689,1278 751,1316 847,1297 948,1324 1039,1288 1143,1286 1200,1311 1239,1279 1328,1279 1328,1210 1234,1224 1193,1195 1050,1214 1025,1238 852,1240 739,1202 653,1207"/>
+                <Baseline points="665,1268 697,1268 730,1269 762,1269 795,1269 827,1269 860,1269 892,1269 925,1268 957,1268 990,1268 1023,1268 1055,1268 1088,1268 1120,1268 1153,1268 1185,1269 1218,1271 1250,1271 1283,1274 1316,1275"/>
+                <TextEquiv>
+                    <Unicode>1690 wie oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1757,1442 1902,1455 1935,1430 2048,1457 2142,1420 2196,1452 2324,1433 2470,1460 2541,1435 2541,1359 2517,1352 2403,1386 2238,1354 2016,1393 1863,1336 1757,1341"/>
+                <Baseline points="1769,1424 1807,1424 1845,1424 1883,1424 1921,1424 1959,1424 1997,1425 2035,1425 2073,1425 2111,1425 2149,1425 2187,1425 2225,1425 2263,1425 2301,1425 2339,1425 2377,1425 2415,1425 2453,1425 2491,1424 2529,1424"/>
+                <TextEquiv>
+                    <Unicode>DDT BAS ADT NDTSTATBUDU.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rYo17_3l12" custom="readingOrder {index:11;}">
+                <Coords points="1753,1538 1862,1558 1904,1533 2049,1553 2343,1525 2481,1555 2510,1550 2511,1456 2249,1433 2195,1453 2143,1420 2096,1452 1961,1444 1924,1467 1754,1441"/>
+                <Baseline points="1766,1512 1802,1512 1839,1514 1875,1514 1912,1514 1949,1514 1985,1515 2022,1515 2059,1515 2095,1515 2132,1515 2169,1517 2205,1517 2242,1517 2279,1517 2315,1517 2352,1515 2389,1515 2425,1515 2462,1514 2499,1514"/>
+                <TextEquiv>
+                    <Unicode>DoRSt TERSTNATEUNDBU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Thumbprobsteg Bonen und Pfenning Zinse.
+Item die Wirthschafft zum Rappen in
+Eschemer vorstatt zuvor der hof Muc-
+spach, zinst jährlich auf Martini.
+It 2 ß 63
+Ebenso 1680. Ebenso 1651. Ebenso 1682.
+Ebenso 1683. Ebenso 1684. Ebenso 1685.
+Ebenso 1686. Ebenso 1687. 1688/89 fehlen.
+Ebenso 1691.
+1690 wie oben.
+DDT BAS ADT NDTSTATBUDU.
+DoRSt TERSTNATEUNDBU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

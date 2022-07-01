@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:10</Created>
+        <LastChange>2020-04-19T01:23:30.076+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869392" pageNr="20" tsid="27912438" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SPNMUYFMOVRSSAPRCNGEQPNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPWLMFYLGZTCUXKBKPPXINAJ" imageId="5736255"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_020.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242827" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="raXwv_1"/>
+                <RegionRefIndexed index="1" regionRef="r4E8E_2"/>
+                <RegionRefIndexed index="2" regionRef="r7DlQ_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="raXwv_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="247,840 682,840 682,1283 247,1283"/>
+            <TextLine id="raXwv_1l1" custom="readingOrder {index:0;}">
+                <Coords points="264,1035 290,1039 313,1024 383,1044 403,1028 471,1057 505,1043 564,1059 598,1049 608,904 537,887 488,905 453,869 398,866 356,846 309,878 275,881"/>
+                <Baseline points="281,962 306,965 332,969 358,974 384,978 409,981 435,984 461,987 487,988 512,987 538,986 564,982 590,977"/>
+                <TextEquiv>
+                    <Unicode>22/154</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="raXwv_1l2" custom="readingOrder {index:1;}">
+                <Coords points="345,1135 357,1135 399,1163 414,1154 444,1169 493,1149 512,1131 547,1156 562,1154 564,1090 514,1074 507,1081 482,1056 443,1071 425,1054 408,1056 389,1036 373,1043 349,1039"/>
+                <Baseline points="357,1112 384,1116 412,1119 440,1121 467,1122 495,1122 523,1121 551,1119"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="raXwv_1l3" custom="readingOrder {index:2;}">
+                <Coords points="360,1246 395,1255 405,1248 431,1252 443,1240 450,1248 467,1243 488,1255 502,1243 517,1242 516,1152 497,1154 481,1169 466,1157 452,1169 435,1162 428,1167 414,1155 400,1167 390,1162 359,1167"/>
+                <Baseline points="372,1233 398,1235 424,1235 451,1235 477,1234 504,1233"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22/154
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4E8E_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="786,270 1946,270 1946,460 786,460"/>
+            <TextLine id="r4E8E_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1090,408 1378,465 1513,427 1553,448 1670,426 1901,443 1905,340 1839,326 1677,381 1480,347 1408,371 1295,333 1092,356"/>
+                <Baseline points="1101,395 1140,397 1179,399 1219,401 1258,402 1298,404 1337,407 1376,408 1416,410 1455,411 1495,413 1534,414 1573,416 1613,417 1652,419 1692,420 1731,422 1770,423 1810,424 1849,425 1889,426"/>
+                <TextEquiv>
+                    <Unicode>Ob TEAD5 DDD DDDDSDE SEAEC.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ob TEAD5 DDD DDDDSDE SEAEC.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r7DlQ_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="660,451 2686,451 2686,1457 660,1457"/>
+            <TextLine id="r7DlQ_3l1" custom="readingOrder {index:0;}">
+                <Coords points="698,534 713,534 734,518 772,531 794,519 827,527 837,518 894,524 895,464 860,449 836,456 789,438 772,440 750,457 734,449 717,463 700,460"/>
+                <Baseline points="711,509 739,510 768,512 796,512 825,513 853,513 882,512"/>
+                <TextEquiv>
+                    <Unicode>1051.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l2" custom="readingOrder {index:1;}">
+                <Coords points="743,629 2362,653 2431,646 2432,553 744,525"/>
+                <Baseline points="755,585 838,588 921,593 1004,595 1088,597 1171,599 1254,600 1337,600 1421,602 1504,602 1587,602 1670,602 1754,602 1837,602 1920,602 2003,602 2087,602 2170,602 2253,602 2336,603 2420,603"/>
+                <TextEquiv>
+                    <Unicode>Marti zum Rappen 1552: die Erben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l3" custom="readingOrder {index:2;}">
+                <Coords points="705,755 2470,752 2470,659 2374,640 705,643"/>
+                <Baseline points="716,702 803,702 890,702 977,704 1064,704 1151,704 1238,704 1325,705 1412,705 1499,705 1586,705 1673,705 1760,705 1847,705 1934,705 2021,705 2108,704 2195,703 2282,702 2369,701 2457,699"/>
+                <TextEquiv>
+                    <Unicode>git von Huß und Grietter, wie dies im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l4" custom="readingOrder {index:3;}">
+                <Coords points="696,830 2575,853 2625,729 696,761"/>
+                <Baseline points="708,800 803,801 898,803 993,804 1088,804 1184,806 1279,806 1374,807 1469,807 1564,807 1660,807 1755,807 1850,806 1945,806 2040,806 2136,806 2231,806 2326,806 2421,806 2516,806 2612,806"/>
+                <TextEquiv>
+                    <Unicode>Hs. forbuch verzeychnet sind, 3 ℔ 14ß66.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l5" custom="readingOrder {index:4;}">
+                <Coords points="716,928 2511,970 2637,959 2638,881 717,828"/>
+                <Baseline points="728,906 822,908 917,909 1012,911 1107,911 1202,912 1297,912 1391,914 1486,914 1581,915 1676,915 1771,917 1866,917 1961,917 2055,918 2150,920 2245,920 2340,921 2435,923 2530,924 2625,926"/>
+                <TextEquiv>
+                    <Unicode>D80v. v. 1052. 15vv. 1651. 1555. 1656. 1802" 1503. 1550.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l6" custom="readingOrder {index:5;}">
+                <Coords points="713,1026 979,1066 1129,1020 1193,1052 1970,1041 2011,963 714,946"/>
+                <Baseline points="725,1002 788,1001 852,999 915,999 979,999 1043,1001 1106,1001 1170,1002 1234,1004 1297,1005 1361,1007 1425,1008 1488,1010 1552,1011 1616,1013 1679,1013 1743,1013 1807,1013 1870,1013 1934,1011 1998,1010"/>
+                <TextEquiv>
+                    <Unicode>1560. 1581 – 1502. 1583. 1564. 1565. 1500</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7DlQ_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1873,1219 2116,1221 2147,1238 2261,1220 2342,1240 2421,1219 2492,1239 2493,1160 2381,1167 2271,1139 2219,1165 2124,1119 2078,1140 1945,1132 1873,1162"/>
+                <Baseline points="1886,1202 1915,1203 1945,1205 1975,1205 2005,1206 2034,1206 2064,1208 2094,1208 2124,1208 2153,1208 2183,1208 2213,1208 2243,1208 2272,1208 2302,1208 2332,1208 2362,1209 2391,1209 2421,1209 2451,1209 2481,1209"/>
+                <TextEquiv>
+                    <Unicode>St. NtDADa CORBUd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1051.
+Marti zum Rappen 1552: die Erben,
+git von Huß und Grietter, wie dies im
+Hs. forbuch verzeychnet sind, 3 ℔ 14ß66.
+D80v. v. 1052. 15vv. 1651. 1555. 1656. 1802" 1503. 1550.
+1560. 1581 – 1502. 1583. 1564. 1565. 1500
+St. NtDADa CORBUd.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

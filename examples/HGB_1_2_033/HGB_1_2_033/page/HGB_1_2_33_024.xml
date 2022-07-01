@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:36</Created>
+        <LastChange>2020-04-19T01:24:33.417+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869399" pageNr="24" tsid="27912472" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=JXDTZUDQSADJPGYUNLOZRVYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BEOLSVNSWGUGYRMMMSVCZOKA" imageId="5736262"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_024.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242831" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rAy6u_6"/>
+                <RegionRefIndexed index="1" regionRef="rhV7x_4"/>
+                <RegionRefIndexed index="2" regionRef="riRDG_5"/>
+                <RegionRefIndexed index="3" regionRef="rrSfC_13"/>
+                <RegionRefIndexed index="4" regionRef="r2XTt_7"/>
+                <RegionRefIndexed index="5" regionRef="rScdG_11"/>
+                <RegionRefIndexed index="6" regionRef="rCRsq_8"/>
+                <RegionRefIndexed index="7" regionRef="rUGBl_9"/>
+                <RegionRefIndexed index="8" regionRef="r1n6b_12"/>
+                <RegionRefIndexed index="9" regionRef="rX4AJ_14"/>
+                <RegionRefIndexed index="10" regionRef="ropAq_3"/>
+                <RegionRefIndexed index="11" regionRef="rZxaj_1"/>
+                <RegionRefIndexed index="12" regionRef="r9om7_2"/>
+                <RegionRefIndexed index="13" regionRef="rcbCQ_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rAy6u_6" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="323,168 459,168 459,222 323,222"/>
+            <TextLine id="rAy6u_6l1" custom="readingOrder {index:0;}">
+                <Coords points="312,246 332,251 346,241 376,235 394,252 420,228 442,242 465,241 469,141 435,137 396,151 382,146 366,157 350,154 329,171 315,171"/>
+                <Baseline points="324,206 350,204 376,204 402,206 428,208 455,210"/>
+                <TextEquiv>
+                    <Unicode>576</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>576</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rhV7x_4" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="247,233 667,233 667,484 247,484"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="riRDG_5" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="362,290 423,290 423,318 362,318"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rrSfC_13" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="800,150 851,150 851,192 800,192"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r2XTt_7" custom="readingOrder {index:4;} structure {type:header;}">
+            <Coords points="481,154 1167,154 1167,253 481,253"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rScdG_11" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="675,1604 775,1604 775,1724 675,1724"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rCRsq_8" custom="readingOrder {index:6;} structure {type:header;}">
+            <Coords points="1195,146 1285,146 1285,181 1195,181"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rUGBl_9" custom="readingOrder {index:7;} structure {type:header;}">
+            <Coords points="1181,137 2226,137 2226,342 1181,342"/>
+            <TextLine id="rUGBl_9l1" custom="readingOrder {index:0;}">
+                <Coords points="481,221 649,268 1031,217 1297,294 1535,217 1697,264 1850,223 1968,283 2062,233 2151,266 2152,193 1800,141 1106,135 1001,192 481,160"/>
+                <Baseline points="491,210 573,212 655,213 738,213 820,213 903,213 985,213 1067,213 1150,213 1232,213 1315,213 1397,213 1479,213 1562,213 1644,213 1727,215 1809,216 1891,218 1974,219 2056,221 2139,224"/>
+                <TextEquiv>
+                    <Unicode>Meispach der hof, jetz das Wirtohaus zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Meispach der hof, jetz das Wirtohaus zum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r1n6b_12" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1368,150 1458,150 1458,200 1368,200"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rX4AJ_14" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="621,141 2657,141 2657,1100 621,1100"/>
+            <TextLine id="rX4AJ_14l1" custom="readingOrder {index:0;}">
+                <Coords points="243,325 548,395 1277,333 1413,395 1587,316 1801,388 2068,366 2092,275 243,257"/>
+                <Baseline points="254,314 345,315 436,315 527,317 619,317 710,318 801,320 892,320 984,321 1075,323 1166,323 1257,324 1349,324 1440,324 1531,324 1622,324 1714,324 1805,324 1896,323 1987,321 2079,320"/>
+                <TextEquiv>
+                    <Unicode>Rappen zinst järlichen in geltt 1 ℔ 2ß 6℔.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rX4AJ_14l2" custom="readingOrder {index:1;}">
+                <Coords points="301,481 556,495 726,441 812,482 1010,420 1159,494 1898,527 1900,410 1734,373 1364,420 1234,372 303,376"/>
+                <Baseline points="314,434 392,432 471,431 549,431 628,431 707,432 785,432 864,434 943,436 1021,438 1100,440 1179,443 1257,444 1336,447 1415,449 1493,452 1572,453 1651,455 1729,456 1808,456 1887,456"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1597. 1598 - 1606 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rX4AJ_14l3" custom="readingOrder {index:2;}">
+                <Coords points="1013,692 1279,727 1399,692 1642,753 1732,705 1842,706 1844,612 1713,659 1529,613 1439,638 1287,613 1161,642 1015,610"/>
+                <Baseline points="1025,675 1065,678 1105,680 1145,682 1186,684 1226,686 1266,687 1306,688 1347,689 1387,690 1427,692 1467,692 1508,693 1548,693 1588,695 1628,695 1669,696 1709,697 1749,698 1789,699 1830,701"/>
+                <TextEquiv>
+                    <Unicode>ADT BAS ADT BAADTADSEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rappen zinst järlichen in geltt 1 ℔ 2ß 6℔.
+Ebenso 1597. 1598 - 1606 fehlen.
+ADT BAS ADT BAADTADSEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="ropAq_3" custom="readingOrder {index:10;} structure {type:marginalia;}">
+            <Coords points="1813,246 1892,246 1892,296 1813,296"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rZxaj_1" custom="readingOrder {index:11;} structure {type:marginalia;}">
+            <Coords points="1856,272 1989,272 1989,344 1856,344"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r9om7_2" custom="readingOrder {index:12;} structure {type:marginalia;}">
+            <Coords points="2064,268 2133,268 2133,309 2064,309"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rcbCQ_10" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="2233,1626 2657,1626 2657,2056 2233,2056"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

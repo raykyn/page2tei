@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:30</Created>
+        <LastChange>2020-04-19T01:35:57.926+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869564" pageNr="65" tsid="27912908" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=UVYDCUVNWHMZMIPIVATTSBRU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RBWNVUWQAFUPCKGCFRCLZSZQ" imageId="5736427"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_065.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242875" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="ri58w_1"/>
+                <RegionRefIndexed index="1" regionRef="rNxQI_3"/>
+                <RegionRefIndexed index="2" regionRef="rH89K_4"/>
+                <RegionRefIndexed index="3" regionRef="r8YD1_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="ri58w_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="175,731 642,731 642,1143 175,1143"/>
+            <TextLine id="ri58w_1l1" custom="readingOrder {index:0;}">
+                <Coords points="169,925 240,929 270,946 342,930 405,890 533,934 537,796 453,780 399,790 325,745 303,760 257,743 210,753 175,736"/>
+                <Baseline points="182,873 208,873 234,873 260,875 287,878 313,879 339,881 366,882 392,884 418,884 445,884 471,883 497,881 524,876"/>
+                <TextEquiv>
+                    <Unicode>24/1545</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ri58w_1l2" custom="readingOrder {index:1;}">
+                <Coords points="257,988 315,1011 346,996 392,1009 419,1001 430,1010 446,994 470,995 470,959 455,959 409,925 382,918 369,918 317,958 297,942 257,946"/>
+                <Baseline points="269,987 296,989 323,990 350,990 377,990 404,990 431,990 459,990"/>
+                <TextEquiv>
+                    <Unicode>nnlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ri58w_1l3" custom="readingOrder {index:2;}">
+                <Coords points="272,1114 317,1125 334,1143 376,1130 392,1144 427,1149 429,1000 378,1011 349,995 316,1012 309,1007 294,1018 274,1018"/>
+                <Baseline points="284,1098 310,1101 337,1101 363,1100 390,1100 417,1103"/>
+                <TextEquiv>
+                    <Unicode>15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>24/1545
+nnlen
+15.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rNxQI_3" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="624,264 1023,264 1023,397 624,397"/>
+            <TextLine id="rNxQI_3l1" custom="readingOrder {index:0;}">
+                <Coords points="671,373 717,364 742,373 813,363 855,367 855,307 837,305 821,314 803,299 777,319 750,301 739,313 730,308 695,313 686,304 670,302"/>
+                <Baseline points="681,360 708,359 735,359 762,360 789,360 816,359 843,357"/>
+                <TextEquiv>
+                    <Unicode>1756.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1756.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rH89K_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="621,351 2643,351 2643,1728 621,1728"/>
+            <TextLine id="rH89K_4l1" custom="readingOrder {index:0;}">
+                <Coords points="740,525 1215,475 1562,519 1655,472 2525,513 2525,402 2445,389 2050,432 1905,370 1621,432 1501,366 1117,433 740,372"/>
+                <Baseline points="752,470 840,468 928,467 1016,467 1104,465 1192,465 1280,465 1368,465 1456,465 1544,465 1632,465 1720,465 1808,465 1896,465 1984,465 2072,465 2160,465 2248,465 2336,465 2424,464 2513,464"/>
+                <TextEquiv>
+                    <Unicode>Die Wurthschaft zum Rappen in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l2" custom="readingOrder {index:1;}">
+                <Coords points="1132,599 2078,594 2078,514 2015,484 1847,518 1809,488 1644,482 1558,532 1132,484"/>
+                <Baseline points="1143,564 1189,564 1235,566 1281,566 1327,567 1374,567 1420,567 1466,567 1512,567 1558,567 1605,567 1651,566 1697,566 1743,564 1789,564 1836,563 1882,562 1928,561 1974,560 2020,558 2067,558"/>
+                <TextEquiv>
+                    <Unicode>Escheiner Korstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l3" custom="readingOrder {index:2;}">
+                <Coords points="702,703 1466,682 1750,734 2063,644 2305,669 2325,591 702,616"/>
+                <Baseline points="713,668 793,666 873,666 953,665 1033,665 1113,665 1193,663 1273,663 1353,663 1433,663 1514,662 1594,662 1674,662 1754,662 1834,662 1914,662 1994,660 2074,660 2154,660 2234,660 2315,659"/>
+                <TextEquiv>
+                    <Unicode>1763. Herr Felix Battier soll</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l4" custom="readingOrder {index:3;}">
+                <Coords points="693,834 840,781 2478,817 2492,726 693,714"/>
+                <Baseline points="705,770 793,768 882,767 971,765 1060,765 1148,764 1237,764 1326,764 1415,764 1503,764 1592,764 1681,765 1770,765 1858,766 1947,767 2036,767 2125,768 2213,768 2302,770 2391,770 2480,770"/>
+                <TextEquiv>
+                    <Unicode>1 ℔ 2 ß 6℔ jährlich auf Martini per</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l5" custom="readingOrder {index:4;}">
+                <Coords points="716,903 1249,900 1371,948 1798,894 1798,816 1723,804 1412,833 1315,781 1034,839 840,782 717,818"/>
+                <Baseline points="728,861 783,863 839,863 895,863 950,864 1006,864 1062,864 1118,864 1173,864 1229,864 1285,864 1341,864 1396,864 1452,865 1508,866 1564,867 1619,868 1675,870 1731,872 1787,875"/>
+                <TextEquiv>
+                    <Unicode>Bohuen 1 ℔ Pfennigzins.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l6" custom="readingOrder {index:5;}">
+                <Coords points="1525,1088 1720,1118 1873,1092 1935,1114 1971,1083 2071,1107 2195,1093 2195,1022 2133,1011 2084,1031 2022,1005 1931,1027 1902,1007 1813,1038 1762,1001 1640,1034 1524,1012"/>
+                <Baseline points="1536,1079 1568,1077 1600,1077 1633,1076 1665,1075 1697,1074 1730,1074 1762,1074 1794,1074 1827,1074 1859,1074 1891,1075 1924,1076 1956,1076 1988,1076 2021,1076 2053,1076 2085,1076 2118,1075 2150,1074 2183,1074"/>
+                <TextEquiv>
+                    <Unicode>Do Sttlt Dodooidis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l7" custom="readingOrder {index:6;}">
+                <Coords points="1677,1192 1723,1203 1762,1185 1810,1216 1851,1191 1874,1208 1949,1184 1975,1203 2025,1167 2090,1157 2091,1119 2003,1120 1984,1132 1954,1107 1869,1125 1823,1105 1791,1120 1741,1102 1714,1123 1680,1124"/>
+                <Baseline points="1689,1166 1714,1167 1740,1167 1766,1168 1792,1169 1818,1170 1844,1172 1870,1172 1896,1173 1922,1175 1948,1176 1974,1178 2000,1179 2026,1179 2052,1181 2078,1182"/>
+                <TextEquiv>
+                    <Unicode>23 97</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l8" custom="readingOrder {index:7;}">
+                <Coords points="1255,1291 1268,1294 1280,1316 1298,1311 1302,1319 1332,1320 1351,1334 1368,1333 1381,1346 1403,1347 1433,1226 1407,1224 1386,1205 1368,1205 1354,1188 1340,1196 1331,1189 1291,1209 1277,1203"/>
+                <Baseline points="1268,1287 1293,1299 1319,1307 1345,1313 1371,1317 1397,1322"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l9" custom="readingOrder {index:8;}">
+                <Coords points="787,1414 903,1393 1051,1459 1274,1391 1444,1418 1509,1388 1624,1432 1799,1438 1781,1280 1674,1332 1459,1298 1350,1335 789,1263"/>
+                <Baseline points="798,1376 847,1377 897,1380 946,1382 996,1383 1045,1383 1095,1385 1144,1385 1194,1385 1243,1385 1293,1385 1342,1385 1392,1385 1441,1385 1491,1386 1540,1386 1590,1388 1639,1389 1689,1391 1738,1394 1788,1397"/>
+                <TextEquiv>
+                    <Unicode>Kappun = 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rH89K_4l10" custom="readingOrder {index:9;}">
+                <Coords points="800,1614 1206,1612 1274,1667 1668,1607 1818,1665 1999,1630 2000,1539 1847,1512 1682,1565 1620,1534 1464,1565 1303,1509 1056,1537 953,1489 801,1545"/>
+                <Baseline points="812,1601 870,1604 929,1607 988,1609 1047,1611 1106,1611 1164,1613 1223,1613 1282,1614 1341,1614 1400,1614 1458,1614 1517,1614 1576,1614 1635,1616 1694,1616 1752,1617 1811,1618 1870,1620 1929,1622 1988,1625"/>
+                <TextEquiv>
+                    <Unicode>heit ob Zins ao 1763</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Wurthschaft zum Rappen in der
+Escheiner Korstatt
+1763. Herr Felix Battier soll
+1 ℔ 2 ß 6℔ jährlich auf Martini per
+Bohuen 1 ℔ Pfennigzins.
+Do Sttlt Dodooidis
+23 97
+Th v
+Kappun = 15 neb 13
+heit ob Zins ao 1763</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r8YD1_2" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2301,316 2434,316 2434,388 2301,388"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

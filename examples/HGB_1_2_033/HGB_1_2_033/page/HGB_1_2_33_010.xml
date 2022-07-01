@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:11</Created>
+        <LastChange>2020-04-19T01:21:07.098+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869368" pageNr="10" tsid="27912361" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=HFZSUITJGBEZHIGYPRNXDYDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUNSAORSSYFPZJYYVBKZQJXK" imageId="5736231"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_010.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242817" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rbKzd_1"/>
+                <RegionRefIndexed index="1" regionRef="r6ZUN_2"/>
+                <RegionRefIndexed index="2" regionRef="rDTZ5_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rbKzd_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="226,670 678,670 678,1148 226,1148"/>
+            <TextLine id="rbKzd_1l1" custom="readingOrder {index:0;}">
+                <Coords points="230,873 319,884 396,840 492,854 511,844 540,858 600,831 599,711 551,740 517,719 465,736 399,701 260,733 229,722"/>
+                <Baseline points="242,825 268,825 295,825 321,827 348,828 375,828 401,830 428,830 454,830 481,829 508,827 534,824 561,821 588,816"/>
+                <TextEquiv>
+                    <Unicode>13/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rbKzd_1l2" custom="readingOrder {index:1;}">
+                <Coords points="301,999 349,986 377,1007 439,973 525,978 530,848 489,852 470,841 421,856 357,893 336,880 319,892 304,889"/>
+                <Baseline points="315,950 340,950 365,951 390,951 415,952 440,953 465,954 490,955 515,957"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rbKzd_1l3" custom="readingOrder {index:2;}">
+                <Coords points="334,1082 351,1084 404,1133 409,1129 418,1137 454,1116 466,1118 481,974 459,972 447,978 440,972 427,983 402,988 378,1007 367,998 343,994"/>
+                <Baseline points="348,1073 375,1080 402,1084 429,1085 456,1085"/>
+                <TextEquiv>
+                    <Unicode>63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>13/1518
+neben
+63</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r6ZUN_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="671,255 2434,255 2434,388 671,388"/>
+            <TextLine id="r6ZUN_2l1" custom="readingOrder {index:0;}">
+                <Coords points="683,377 2523,407 2523,342 2348,283 2052,308 1939,257 1759,333 1047,259 684,305"/>
+                <Baseline points="695,357 785,359 876,361 967,362 1058,363 1148,363 1239,365 1330,365 1421,365 1511,365 1602,366 1693,366 1784,366 1874,366 1965,366 2056,368 2147,368 2237,369 2328,369 2419,371 2510,372"/>
+                <TextEquiv>
+                    <Unicode>1529 Camerei Capus . Fronfasten Zinse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1529 Camerei Capus . Fronfasten Zinse.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rDTZ5_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="671,301 2686,301 2686,1261 671,1261"/>
+            <TextLine id="rDTZ5_3l1" custom="readingOrder {index:0;}">
+                <Coords points="661,494 2606,514 2606,404 2546,384 1947,439 1750,381 1536,436 661,386"/>
+                <Baseline points="672,467 768,467 864,467 960,468 1056,468 1152,468 1248,468 1345,468 1441,468 1537,468 1633,468 1729,468 1825,468 1921,468 2018,468 2114,469 2210,470 2306,470 2402,470 2498,471 2595,471"/>
+                <TextEquiv>
+                    <Unicode>Item die herberg zum Rappen gibt Marti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTZ5_3l2" custom="readingOrder {index:1;}">
+                <Coords points="690,594 768,572 858,613 900,578 962,606 1112,578 1178,613 1239,595 1312,643 1404,638 1408,484 1371,505 1314,472 1219,528 1062,533 970,476 832,516 789,481 693,498"/>
+                <Baseline points="704,557 738,557 773,557 807,557 842,557 876,557 911,557 945,557 980,557 1014,558 1049,559 1083,559 1118,560 1152,561 1187,563 1221,564 1256,566 1290,569 1325,570 1359,573 1394,576"/>
+                <TextEquiv>
+                    <Unicode>Kreiff - 13ß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTZ5_3l3" custom="readingOrder {index:2;}">
+                <Coords points="698,688 773,692 797,675 895,697 930,678 1035,703 1115,676 1281,687 1282,627 1150,604 979,607 950,626 919,608 854,617 795,584 701,596"/>
+                <Baseline points="711,659 738,662 766,663 794,663 822,665 850,666 878,666 905,666 933,666 961,668 989,668 1017,668 1045,668 1073,668 1100,669 1128,669 1156,671 1184,672 1212,674 1240,675 1268,678"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1530.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTZ5_3l4" custom="readingOrder {index:3;}">
+                <Coords points="1810,736 2133,680 2399,739 2518,693 2628,747 2652,738 2654,606 2557,629 2452,586 2192,626 1812,591"/>
+                <Baseline points="1823,674 1863,671 1904,669 1945,666 1986,665 2027,665 2068,663 2108,663 2149,664 2190,665 2231,666 2272,666 2313,668 2354,669 2394,671 2435,672 2476,674 2517,676 2558,678 2599,679 2640,680"/>
+                <TextEquiv>
+                    <Unicode>1531 - 1541 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTZ5_3l5" custom="readingOrder {index:4;}">
+                <Coords points="1805,1016 1860,1039 1898,1030 1927,1060 1951,1062 1982,1051 2040,1064 2098,1044 2136,1054 2156,1038 2192,1048 2193,964 2172,954 2097,962 2045,934 2020,956 1960,945 1902,963 1836,925 1807,934"/>
+                <Baseline points="1817,1023 1842,1022 1868,1022 1894,1022 1920,1022 1946,1023 1972,1024 1998,1025 2024,1026 2050,1027 2076,1028 2102,1028 2128,1028 2154,1027 2180,1026"/>
+                <TextEquiv>
+                    <Unicode>O01 ß A5 90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rDTZ5_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1524,1136 2284,1126 2370,1156 2416,1148 2417,1073 1525,1035"/>
+                <Baseline points="1535,1107 1578,1109 1621,1110 1665,1113 1708,1113 1752,1115 1795,1116 1838,1118 1882,1118 1925,1119 1969,1119 2012,1121 2055,1121 2099,1121 2142,1121 2186,1121 2229,1122 2272,1122 2316,1122 2359,1122 2403,1121"/>
+                <TextEquiv>
+                    <Unicode>DDDER STSEE AAA BANDNDBDL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item die herberg zum Rappen gibt Marti
+Kreiff - 13ß.
+Ebenso 1530.
+1531 - 1541 fehlen.
+O01 ß A5 90
+DDDER STSEE AAA BANDNDBDL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

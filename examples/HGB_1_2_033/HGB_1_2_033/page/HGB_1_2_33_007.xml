@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:04</Created>
+        <LastChange>2020-04-19T01:20:24.830+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869351" pageNr="7" tsid="27912338" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=VBSPBBKSNIYLDMSMNMQMYYRL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CISXUTMIUMHJUYZXSOSGGZWG" imageId="5736214"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_007.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rt9jB_1"/>
+                <RegionRefIndexed index="1" regionRef="r26n5_2"/>
+                <RegionRefIndexed index="2" regionRef="rBFzz_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rt9jB_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="204,870 632,870 632,1484 204,1484"/>
+            <TextLine id="rt9jB_1l1" custom="readingOrder {index:0;}">
+                <Coords points="272,927 302,939 312,931 318,939 346,934 410,959 455,961 475,837 457,825 441,834 427,822 406,826 393,812 350,821 338,810 289,818"/>
+                <Baseline points="285,914 312,920 339,925 366,930 393,934 420,938 447,939"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rt9jB_1l2" custom="readingOrder {index:1;}">
+                <Coords points="194,1124 231,1138 268,1131 287,1146 404,1086 489,1115 558,1106 564,1009 544,1010 521,988 474,1006 436,1001 372,956 339,969 250,929 206,938"/>
+                <Baseline points="209,1070 235,1067 261,1065 287,1065 313,1067 339,1069 365,1071 391,1075 417,1077 443,1080 469,1082 495,1083 521,1085 548,1083"/>
+                <TextEquiv>
+                    <Unicode>15/1558</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rt9jB_1l3" custom="readingOrder {index:2;}">
+                <Coords points="220,1261 267,1268 337,1244 351,1256 385,1234 483,1264 555,1260 556,1161 498,1163 379,1092 287,1145 222,1128"/>
+                <Baseline points="231,1236 257,1233 283,1230 309,1230 335,1229 361,1230 388,1230 414,1232 440,1232 466,1233 492,1234 518,1235 545,1235"/>
+                <TextEquiv>
+                    <Unicode>Reben 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rt9jB_1l4" custom="readingOrder {index:3;}">
+                <Coords points="265,1351 301,1357 310,1348 330,1349 352,1339 362,1348 382,1343 411,1355 434,1348 431,1256 386,1268 370,1255 354,1267 336,1268 318,1253 309,1260 298,1251 274,1268 262,1268"/>
+                <Baseline points="275,1337 304,1338 333,1337 363,1334 392,1334 422,1334"/>
+                <TextEquiv>
+                    <Unicode>ns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rt9jB_1l5" custom="readingOrder {index:4;}">
+                <Coords points="257,1433 273,1431 292,1452 319,1461 342,1448 375,1465 421,1446 440,1465 461,1450 479,1452 482,1351 444,1348 423,1359 392,1353 381,1342 363,1350 352,1341 338,1352 320,1347 297,1369 259,1356"/>
+                <Baseline points="269,1434 297,1436 325,1436 353,1437 382,1439 410,1439 438,1439 467,1440"/>
+                <TextEquiv>
+                    <Unicode>Meitte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/1558
+Reben 1
+ns
+Meitte</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r26n5_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="786,246 2240,246 2240,432 786,432"/>
+            <TextLine id="r26n5_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1259,424 1304,392 1405,418 1447,382 1679,431 1881,383 2198,400 2197,299 2132,327 1849,307 1543,331 1258,298"/>
+                <Baseline points="1269,374 1314,374 1360,374 1406,372 1452,372 1498,372 1544,371 1590,371 1636,369 1682,369 1728,368 1773,368 1819,368 1865,366 1911,366 1957,366 2003,366 2049,365 2095,365 2141,365 2187,366"/>
+                <TextEquiv>
+                    <Unicode>DD Dor Aboidad S.DEl SaASELAd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>DD Dor Aboidad S.DEl SaASELAd.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rBFzz_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="639,416 2671,416 2671,1933 639,1933"/>
+            <TextLine id="rBFzz_3l1" custom="readingOrder {index:0;}">
+                <Coords points="787,495 803,495 817,482 826,492 844,481 866,484 888,502 932,483 965,493 979,482 1006,490 1008,393 992,393 958,416 938,414 906,426 879,412 855,420 841,413 825,422 790,407"/>
+                <Baseline points="800,459 828,466 856,470 884,470 912,470 940,469 968,468 996,470"/>
+                <TextEquiv>
+                    <Unicode>2526.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l2" custom="readingOrder {index:1;}">
+                <Coords points="737,594 809,612 933,587 1052,622 1160,588 1205,611 1362,598 1363,492 1223,496 1178,474 1084,482 1034,516 987,484 924,520 819,481 738,515"/>
+                <Baseline points="749,554 779,555 809,557 839,558 869,559 899,560 929,561 960,563 990,563 1020,563 1050,563 1080,563 1110,563 1140,563 1171,563 1201,561 1231,561 1261,560 1291,558 1321,557 1352,555"/>
+                <TextEquiv>
+                    <Unicode>Martin Streiff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l3" custom="readingOrder {index:2;}">
+                <Coords points="709,696 2527,716 2527,606 1963,629 1664,533 1259,621 709,611"/>
+                <Baseline points="719,668 808,666 898,665 988,663 1078,663 1168,663 1258,662 1347,662 1437,662 1527,662 1617,662 1707,662 1797,662 1887,662 1976,662 2066,663 2156,663 2246,663 2336,663 2426,663 2516,663"/>
+                <TextEquiv>
+                    <Unicode>von synem Hus in Eschenervorstatt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l4" custom="readingOrder {index:3;}">
+                <Coords points="706,803 2061,804 2061,685 1656,736 1501,670 1387,731 1081,699 964,734 903,689 705,717"/>
+                <Baseline points="717,765 783,765 850,765 916,765 983,765 1050,765 1116,764 1183,764 1249,764 1316,764 1383,762 1449,762 1516,762 1582,761 1649,761 1715,761 1782,759 1849,759 1915,759 1982,759 2049,758"/>
+                <TextEquiv>
+                    <Unicode>nebent dem Rappen 5ß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l5" custom="readingOrder {index:4;}">
+                <Coords points="703,905 1818,896 1817,826 1685,811 702,813"/>
+                <Baseline points="713,870 767,872 822,873 876,875 931,875 986,875 1040,875 1095,875 1150,875 1204,874 1259,873 1314,872 1368,872 1423,871 1478,870 1532,870 1587,870 1642,870 1696,870 1751,871 1806,872"/>
+                <TextEquiv>
+                    <Unicode>SDo Ao 1520 1520 1520 1530 1551</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1713,1100 1913,1089 1998,1127 2052,1100 2187,1123 2277,1089 2374,1121 2374,1004 2345,997 2275,1015 2149,995 2115,1011 2082,986 1902,994 1846,1021 1713,1008"/>
+                <Baseline points="1724,1052 1757,1053 1791,1055 1824,1056 1858,1057 1892,1058 1925,1058 1959,1058 1993,1058 2026,1058 2060,1058 2093,1058 2127,1058 2161,1057 2194,1056 2228,1056 2262,1056 2295,1056 2329,1056 2363,1056"/>
+                <TextEquiv>
+                    <Unicode>St. S1520 - O00028.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l7" custom="readingOrder {index:6;}">
+                <Coords points="777,1518 1667,1542 1941,1619 2447,1580 2447,1454 2387,1438 1834,1455 1596,1405 1506,1450 1294,1400 1198,1461 778,1359"/>
+                <Baseline points="788,1512 870,1520 952,1527 1035,1532 1117,1535 1199,1538 1282,1538 1364,1538 1446,1537 1529,1536 1611,1534 1693,1532 1776,1530 1858,1529 1940,1527 2023,1527 2105,1527 2187,1529 2270,1531 2352,1535 2435,1541"/>
+                <TextEquiv>
+                    <Unicode>Th v 15 Mitte hat ob Zins ao 1567</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l8" custom="readingOrder {index:7;}">
+                <Coords points="824,1739 2148,1751 2197,1722 2197,1634 824,1642"/>
+                <Baseline points="836,1740 903,1739 971,1739 1038,1737 1106,1736 1173,1736 1241,1736 1308,1736 1376,1736 1443,1736 1511,1736 1579,1736 1646,1736 1714,1736 1781,1736 1849,1736 1916,1737 1984,1737 2051,1737 2119,1737 2187,1737"/>
+                <TextEquiv>
+                    <Unicode>Th v 15 neben 13 und Th v 15 Meitto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rBFzz_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1011,1847 1330,1849 1436,1884 1519,1839 1741,1835 1829,1864 1901,1839 1885,1756 1766,1756 1633,1801 1521,1747 1404,1804 1377,1781 1217,1797 1132,1745 1011,1750"/>
+                <Baseline points="1023,1836 1066,1838 1109,1839 1152,1841 1196,1842 1239,1842 1282,1842 1326,1842 1369,1842 1412,1842 1456,1842 1499,1841 1542,1841 1585,1840 1629,1839 1672,1839 1715,1839 1759,1839 1802,1839 1845,1840 1889,1841"/>
+                <TextEquiv>
+                    <Unicode>sund verungst seit 1510</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2526.
+Martin Streiff
+von synem Hus in Eschenervorstatt
+nebent dem Rappen 5ß
+SDo Ao 1520 1520 1520 1530 1551
+St. S1520 - O00028.
+Th v 15 Mitte hat ob Zins ao 1567
+Th v 15 neben 13 und Th v 15 Meitto
+sund verungst seit 1510</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

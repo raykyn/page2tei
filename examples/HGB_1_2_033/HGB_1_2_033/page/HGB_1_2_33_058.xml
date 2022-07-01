@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:58</Created>
+        <LastChange>2020-04-19T01:33:58.984+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869527" pageNr="58" tsid="27912777" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=GMNDCJHCCWNQUUNWWKRCYONH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPILQDCFCAVZPEJQVZZEOISE" imageId="5736390"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_058.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242868" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rrPlm_1"/>
+                <RegionRefIndexed index="1" regionRef="rZi9n_2"/>
+                <RegionRefIndexed index="2" regionRef="r5fRe_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rrPlm_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,726 632,726 632,1169 190,1169"/>
+            <TextLine id="rrPlm_1l1" custom="readingOrder {index:0;}">
+                <Coords points="187,905 244,929 273,921 307,947 385,936 424,955 574,936 581,795 516,797 444,750 419,763 372,746 333,773 278,773 196,730"/>
+                <Baseline points="201,869 226,870 252,872 278,875 304,878 330,881 356,884 382,887 408,888 434,890 460,890 486,889 512,887 538,883 564,878"/>
+                <TextEquiv>
+                    <Unicode>2/1784</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rrPlm_1l2" custom="readingOrder {index:1;}">
+                <Coords points="257,1041 286,1034 302,1044 324,1029 350,1027 372,1027 393,1039 415,1023 453,1025 491,1013 491,963 472,965 451,949 422,953 410,941 389,939 360,955 329,936 312,946 279,941 257,948"/>
+                <Baseline points="269,999 295,1005 321,1008 347,1008 374,1008 400,1007 426,1005 452,1005 479,1005"/>
+                <TextEquiv>
+                    <Unicode>Elen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rrPlm_1l3" custom="readingOrder {index:2;}">
+                <Coords points="310,1156 348,1156 361,1145 384,1149 403,1162 433,1145 461,1145 467,1071 422,1056 406,1042 387,1044 371,1028 318,1032"/>
+                <Baseline points="323,1128 348,1129 373,1131 398,1134 423,1136 449,1134"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2/1784
+Elen
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rZi9n_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="621,264 2147,264 2147,427 621,427"/>
+            <TextLine id="rZi9n_2l1" custom="readingOrder {index:0;}">
+                <Coords points="652,427 824,389 1193,435 1365,406 1465,435 1570,387 1788,404 1788,333 1657,342 1506,282 1159,332 994,274 880,305 734,274 652,314"/>
+                <Baseline points="665,380 720,379 776,378 831,378 887,378 942,378 998,377 1053,377 1109,377 1164,377 1220,377 1276,377 1331,377 1387,377 1442,378 1498,378 1553,378 1609,380 1664,380 1720,381 1776,381"/>
+                <TextEquiv>
+                    <Unicode>1693 Traesen Pfingsten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1693 Traesen Pfingsten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5fRe_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="624,390 2621,390 2621,1842 624,1842"/>
+            <TextLine id="r5fRe_3l1" custom="readingOrder {index:0;}">
+                <Coords points="645,480 1198,485 1274,555 1518,487 1668,541 2422,512 2422,431 2276,406 1540,461 645,425"/>
+                <Baseline points="656,473 743,474 831,476 919,477 1007,478 1094,479 1182,480 1270,480 1358,482 1445,482 1533,483 1621,483 1709,483 1796,485 1884,485 1972,485 2060,485 2147,485 2235,483 2323,483 2411,483"/>
+                <TextEquiv>
+                    <Unicode>Item die herberg zum Rappen - 10ß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l2" custom="readingOrder {index:1;}">
+                <Coords points="646,621 728,586 940,630 1082,588 1125,608 1154,586 1244,608 1245,515 1168,541 1121,519 986,552 805,527 774,495 647,521"/>
+                <Baseline points="659,569 687,571 716,575 745,576 773,579 802,579 831,581 859,581 888,582 917,581 946,581 974,581 1003,581 1032,580 1060,579 1089,579 1118,578 1146,578 1175,578 1204,578 1233,578"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1694.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l3" custom="readingOrder {index:2;}">
+                <Coords points="648,686 1239,753 1382,696 2057,679 2401,741 2401,622 2068,650 1896,588 1633,650 1102,598 648,643"/>
+                <Baseline points="659,680 745,680 831,680 918,680 1004,680 1091,680 1177,680 1264,681 1350,681 1437,683 1523,683 1609,683 1696,683 1782,683 1869,683 1955,683 2042,682 2128,681 2215,679 2301,677 2388,675"/>
+                <TextEquiv>
+                    <Unicode>1695 die herberg zum Raaben - 10ß</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l4" custom="readingOrder {index:3;}">
+                <Coords points="669,792 2536,840 2603,833 2604,723 669,718"/>
+                <Baseline points="680,771 775,774 871,776 966,777 1062,779 1158,780 1253,780 1349,780 1444,780 1540,780 1636,779 1731,779 1827,779 1922,779 2018,779 2114,779 2209,780 2305,781 2400,783 2496,785 2592,788"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1696. Ebenso 1697. Ebenso 1698.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l5" custom="readingOrder {index:4;}">
+                <Coords points="679,887 2594,924 2594,828 2415,806 1855,845 1600,792 1320,847 679,796"/>
+                <Baseline points="692,869 786,874 881,878 975,879 1070,882 1164,882 1259,882 1353,882 1448,882 1542,881 1637,881 1732,879 1826,878 1921,877 2015,876 2110,876 2204,876 2299,878 2393,878 2488,881 2583,884"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1699. 1700 fehlt. 1701 wie oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l6" custom="readingOrder {index:5;}">
+                <Coords points="681,986 984,1046 1233,984 2333,1030 2531,1023 2532,930 681,907"/>
+                <Baseline points="692,975 783,975 874,975 966,977 1057,977 1148,977 1240,978 1331,978 1422,978 1514,978 1605,978 1696,979 1788,978 1879,978 1970,978 2062,978 2153,978 2244,978 2336,977 2427,977 2519,975"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1702. Ebenso 1703. Ebenso 1704.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l7" custom="readingOrder {index:6;}">
+                <Coords points="656,1102 1720,1132 1883,1063 2342,1142 2557,1091 2480,1005 2091,991 1959,1046 1490,1047 1407,994 656,1030"/>
+                <Baseline points="668,1076 761,1077 855,1079 949,1079 1043,1080 1137,1080 1231,1079 1325,1079 1419,1079 1513,1077 1607,1077 1700,1076 1794,1076 1888,1075 1982,1074 2076,1076 2170,1076 2264,1077 2358,1079 2452,1080 2546,1083"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1705. Ebenso 1706. Ebenso 1707.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l8" custom="readingOrder {index:7;}">
+                <Coords points="678,1187 1780,1236 2419,1184 2507,1249 2522,1111 678,1120"/>
+                <Baseline points="689,1173 780,1175 871,1175 962,1176 1053,1176 1144,1178 1235,1178 1326,1178 1417,1178 1508,1178 1599,1178 1690,1178 1781,1178 1872,1178 1963,1179 2054,1179 2145,1181 2236,1182 2327,1184 2418,1185 2510,1188"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1708. Ebenso 1709. Ebenso 1710.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l9" custom="readingOrder {index:8;}">
+                <Coords points="680,1313 2478,1311 2478,1204 2253,1251 2115,1191 1904,1247 1402,1186 680,1224"/>
+                <Baseline points="692,1272 780,1272 869,1274 957,1274 1046,1274 1135,1275 1223,1276 1312,1277 1401,1277 1489,1277 1578,1278 1667,1278 1755,1278 1844,1278 1933,1278 2021,1278 2110,1278 2199,1278 2287,1278 2376,1278 2465,1277"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1711. Ebenso 1712. Ebenso 1713.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l10" custom="readingOrder {index:9;}">
+                <Coords points="667,1395 1234,1424 1320,1384 1514,1416 1889,1394 1889,1325 1756,1298 1105,1309 914,1349 825,1305 668,1316"/>
+                <Baseline points="680,1370 739,1371 799,1373 859,1374 919,1374 979,1376 1039,1374 1098,1374 1158,1374 1218,1373 1278,1373 1338,1373 1398,1371 1458,1371 1517,1373 1577,1373 1637,1374 1697,1376 1757,1379 1817,1382 1877,1386"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1714. Ebenso 1715.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1784,1555 1941,1579 2135,1572 2178,1546 2563,1588 2563,1506 2530,1492 2331,1503 2023,1419 1977,1438 1925,1407 1784,1416"/>
+                <Baseline points="1796,1548 1833,1550 1871,1550 1909,1551 1947,1551 1985,1551 2022,1551 2060,1551 2098,1551 2136,1551 2174,1551 2211,1551 2249,1550 2287,1550 2325,1550 2363,1550 2400,1550 2438,1551 2476,1551 2514,1553 2552,1554"/>
+                <TextEquiv>
+                    <Unicode>DDrpe5 dat voroTADTAD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5fRe_3l12" custom="readingOrder {index:11;}">
+                <Coords points="1786,1648 2205,1669 2319,1646 2444,1668 2559,1640 2559,1602 2446,1591 1786,1596"/>
+                <Baseline points="1799,1641 1836,1641 1873,1640 1911,1640 1948,1641 1986,1641 2023,1641 2060,1641 2098,1641 2135,1641 2173,1641 2210,1641 2247,1642 2285,1643 2322,1643 2360,1643 2397,1643 2434,1643 2472,1643 2509,1643 2547,1643"/>
+                <TextEquiv>
+                    <Unicode>DoASTTEENSTNASEUDDDB.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item die herberg zum Rappen - 10ß
+Ebenso 1694.
+1695 die herberg zum Raaben - 10ß
+Ebenso 1696. Ebenso 1697. Ebenso 1698.
+Ebenso 1699. 1700 fehlt. 1701 wie oben.
+Ebenso 1702. Ebenso 1703. Ebenso 1704.
+Ebenso 1705. Ebenso 1706. Ebenso 1707.
+Ebenso 1708. Ebenso 1709. Ebenso 1710.
+Ebenso 1711. Ebenso 1712. Ebenso 1713.
+Ebenso 1714. Ebenso 1715.
+DDrpe5 dat voroTADTAD
+DoASTTEENSTNASEUDDDB.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

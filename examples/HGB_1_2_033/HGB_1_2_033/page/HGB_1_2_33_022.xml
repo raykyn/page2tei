@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:29</Created>
+        <LastChange>2020-04-19T01:24:00.144+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869395" pageNr="22" tsid="27912456" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=CUKNVCBXOGNEKKIAZZLUDVOE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DINEUIPQYTRCWNTJBEAJMFQL" imageId="5736258"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_022.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242829" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="ryzx6_1"/>
+                <RegionRefIndexed index="1" regionRef="r08Z8_2"/>
+                <RegionRefIndexed index="2" regionRef="r4xyG_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="ryzx6_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="276,931 585,931 585,1335 276,1335"/>
+            <TextLine id="ryzx6_1l1" custom="readingOrder {index:0;}">
+                <Coords points="276,1050 302,1052 322,1071 346,1068 378,1095 436,1060 470,1080 515,1057 540,1077 583,1076 594,959 552,950 528,924 459,940 388,902 290,902"/>
+                <Baseline points="291,1028 316,1028 342,1029 367,1032 393,1036 419,1039 444,1041 470,1045 496,1048 521,1049 547,1048 573,1046"/>
+                <TextEquiv>
+                    <Unicode>15/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryzx6_1l2" custom="readingOrder {index:1;}">
+                <Coords points="303,1200 389,1208 400,1219 412,1215 449,1230 462,1219 500,1225 536,1202 548,1203 551,1160 511,1154 481,1118 453,1108 392,1120 346,1101 311,1115"/>
+                <Baseline points="317,1167 344,1171 372,1174 399,1178 427,1180 454,1182 482,1185 509,1185 537,1187"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="ryzx6_1l3" custom="readingOrder {index:2;}">
+                <Coords points="359,1322 387,1319 420,1304 440,1308 459,1322 476,1317 490,1322 502,1310 514,1309 512,1242 465,1239 431,1218 407,1216 402,1221 390,1209 356,1210"/>
+                <Baseline points="369,1296 395,1299 421,1299 448,1297 474,1296 501,1296"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1518
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r08Z8_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1188,244 2233,244 2233,436 1188,436"/>
+            <TextLine id="r08Z8_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1337,403 1417,423 1492,398 1527,420 1731,402 1759,427 2039,398 2120,426 2147,412 2148,347 2081,317 1935,336 1874,309 1765,343 1656,320 1600,352 1553,318 1458,312 1338,336"/>
+                <Baseline points="1350,380 1389,381 1428,382 1467,383 1507,384 1546,384 1585,384 1625,386 1664,386 1703,387 1743,387 1782,387 1821,389 1860,389 1900,390 1939,390 1978,391 2018,392 2057,393 2096,393 2136,395"/>
+                <TextEquiv>
+                    <Unicode>AotEETAD DDT SESSSER SEAEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AotEETAD DDT SESSSER SEAEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4xyG_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="621,405 2686,405 2686,1641 621,1641"/>
+            <TextLine id="r4xyG_3l1" custom="readingOrder {index:0;}">
+                <Coords points="684,507 708,504 716,511 737,501 756,513 768,501 821,505 849,502 861,492 878,501 902,491 900,419 881,427 845,420 817,435 776,417 735,423 721,435 683,428"/>
+                <Baseline points="695,488 722,485 750,484 778,483 806,483 834,483 862,483 890,482"/>
+                <TextEquiv>
+                    <Unicode>14510.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l2" custom="readingOrder {index:1;}">
+                <Coords points="774,605 2439,632 2439,531 2179,496 1923,554 1734,464 773,505"/>
+                <Baseline points="786,579 868,580 950,581 1032,582 1114,584 1196,584 1278,584 1360,584 1442,584 1524,584 1606,582 1688,582 1770,582 1852,581 1934,581 2016,580 2098,579 2180,579 2262,578 2344,578 2427,578"/>
+                <TextEquiv>
+                    <Unicode>Hans Küw, der Virt zum Rappen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l3" custom="readingOrder {index:2;}">
+                <Coords points="860,731 1986,693 2098,724 2144,712 2144,631 2074,653 1902,598 1503,650 1243,598 860,645"/>
+                <Baseline points="873,681 939,681 1005,680 1071,680 1138,680 1204,679 1270,678 1336,678 1403,678 1469,678 1535,678 1601,678 1668,678 1734,680 1800,680 1866,680 1933,680 1999,680 2065,680 2132,681"/>
+                <TextEquiv>
+                    <Unicode>vorhin Martin zum Rappen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l4" custom="readingOrder {index:3;}">
+                <Coords points="685,842 994,802 1161,823 1199,797 1517,831 1517,699 1417,730 1228,699 1144,735 1072,735 1037,701 886,737 798,701 685,708"/>
+                <Baseline points="696,777 736,780 777,782 817,782 858,783 898,783 939,783 979,783 1020,783 1060,783 1101,783 1141,783 1182,783 1222,782 1263,782 1303,782 1344,782 1384,782 1425,782 1465,782 1506,782"/>
+                <TextEquiv>
+                    <Unicode>Getzt Jacob Rud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l5" custom="readingOrder {index:4;}">
+                <Coords points="723,949 806,898 2649,916 2634,809 722,829"/>
+                <Baseline points="734,878 829,881 924,881 1019,882 1114,882 1209,882 1304,881 1399,881 1494,879 1589,879 1685,878 1780,878 1875,876 1970,876 2065,875 2160,875 2255,875 2350,876 2445,876 2540,879 2636,881"/>
+                <TextEquiv>
+                    <Unicode>Gibt von Huß und Getteren wie Jun 30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l6" custom="readingOrder {index:5;}">
+                <Coords points="704,1034 2417,999 2611,1060 2640,912 704,941"/>
+                <Baseline points="716,983 811,983 907,983 1002,983 1098,983 1193,984 1289,984 1384,984 1480,984 1575,983 1671,983 1767,983 1862,983 1958,983 2053,983 2149,983 2244,983 2340,981 2435,981 2531,981 2627,980"/>
+                <TextEquiv>
+                    <Unicode>Jorbuch verzeichnet stosst 3 ℔ 14 ß 62</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l7" custom="readingOrder {index:6;}">
+                <Coords points="717,1102 928,1122 1033,1102 1097,1128 1138,1099 1566,1113 1565,1058 1348,1014 1283,1041 1190,1013 1047,1040 987,1021 894,1058 848,1029 820,1051 717,1033"/>
+                <Baseline points="729,1080 770,1083 811,1085 852,1086 894,1088 935,1088 976,1088 1017,1088 1059,1086 1100,1086 1141,1085 1182,1084 1224,1083 1265,1082 1306,1081 1347,1080 1389,1080 1430,1080 1471,1082 1512,1083 1554,1085"/>
+                <TextEquiv>
+                    <Unicode>snfostet Ebenso: 1072.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l8" custom="readingOrder {index:7;}">
+                <Coords points="736,1214 1869,1216 1869,1123 1181,1150 736,1114"/>
+                <Baseline points="749,1178 804,1181 859,1184 915,1185 970,1187 1025,1188 1081,1188 1136,1190 1191,1190 1247,1190 1302,1189 1357,1188 1413,1188 1468,1188 1523,1188 1579,1188 1634,1188 1689,1188 1745,1190 1800,1191 1856,1193"/>
+                <TextEquiv>
+                    <Unicode>Wis ADo ISTao 1583. AST2 fort.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l9" custom="readingOrder {index:8;}">
+                <Coords points="713,1319 2554,1338 2554,1242 2342,1220 1997,1270 714,1235"/>
+                <Baseline points="726,1280 816,1283 907,1286 998,1287 1089,1289 1179,1289 1270,1290 1361,1290 1452,1290 1542,1290 1633,1290 1724,1290 1815,1290 1905,1290 1996,1292 2087,1292 2178,1293 2268,1293 2359,1295 2450,1298 2541,1299"/>
+                <TextEquiv>
+                    <Unicode>Wis SooA: 1518, 1516. 1588. 10 S. 1570. 1020. 16320.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l10" custom="readingOrder {index:9;}">
+                <Coords points="693,1430 1950,1404 1949,1359 1752,1297 1268,1360 1018,1306 976,1343 861,1299 691,1332"/>
+                <Baseline points="704,1389 765,1392 827,1394 888,1395 950,1395 1012,1395 1073,1394 1135,1394 1197,1392 1258,1391 1320,1389 1382,1388 1443,1386 1505,1385 1567,1383 1628,1382 1690,1382 1752,1382 1813,1382 1875,1382 1937,1383"/>
+                <TextEquiv>
+                    <Unicode>1552. 1553. 155t. 1585. 1056. 1587.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4xyG_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1685,1564 1938,1580 2022,1559 2211,1582 2299,1569 2300,1518 1686,1504"/>
+                <Baseline points="1697,1556 1726,1557 1756,1559 1785,1559 1815,1560 1844,1560 1874,1560 1903,1562 1933,1562 1962,1562 1992,1560 2022,1560 2051,1560 2081,1560 2110,1560 2140,1561 2169,1562 2199,1562 2228,1562 2258,1563 2288,1565"/>
+                <TextEquiv>
+                    <Unicode>Str 51800 – O0v025.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>14510.
+Hans Küw, der Virt zum Rappen,
+vorhin Martin zum Rappen,
+Getzt Jacob Rud
+Gibt von Huß und Getteren wie Jun 30.
+Jorbuch verzeichnet stosst 3 ℔ 14 ß 62
+snfostet Ebenso: 1072.
+Wis ADo ISTao 1583. AST2 fort.)
+Wis SooA: 1518, 1516. 1588. 10 S. 1570. 1020. 16320.
+1552. 1553. 155t. 1585. 1056. 1587.
+Str 51800 – O0v025.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

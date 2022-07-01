@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>19694</docId>
+    <title>u-17_0075</title>
+    <uploadTimestamp>1495794339968</uploadTimestamp>
+    <scriptType>GOTHIC</scriptType>
+    <uploader>sabine.stettler@uzh.ch</uploader>
+    <uploaderId>6202</uploaderId>
+    <nrOfPages>2</nrOfPages>
+    <pageId>520878</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=WGRJHSTPBFKVUEYLXIKOGTKN</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=WGRJHSTPBFKVUEYLXIKOGTKN</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_19694</fimgStoreColl>
+    <createdFromTimestamp>0</createdFromTimestamp>
+    <createdToTimestamp>0</createdToTimestamp>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>5657</colId>
+            <colName>Königsfelden Agnes 1 (bis u.17/0187a)</colName>
+            <description>created by tobias.hodel@uzh.ch</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>20790</colId>
+            <colName>Comb_Charter-Coll</colName>
+            <description>created by tobias.hodel@uzh.ch</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+        <colList>
+            <colId>53439</colId>
+            <colName>Königsfelden_ALL_inclusive_nur-softcopy</colName>
+            <description>created by tobias.hodel@uzh.ch</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+</trpDocMetadata>

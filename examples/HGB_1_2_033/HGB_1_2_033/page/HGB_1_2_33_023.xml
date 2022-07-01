@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:30</Created>
+        <LastChange>2020-04-19T01:24:20.704+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869397" pageNr="23" tsid="27912468" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=SSQMBKQZEDTKLEWNPILEREEE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKYIJYFYVPUMPKKYKEYZGWFQ" imageId="5736260"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_023.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242830" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rIGmy_2"/>
+                <RegionRefIndexed index="1" regionRef="r49X8_4"/>
+                <RegionRefIndexed index="2" regionRef="r91un_3"/>
+                <RegionRefIndexed index="3" regionRef="rqZPD_1"/>
+                <RegionRefIndexed index="4" regionRef="rLETz_5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rIGmy_2" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,731 617,731 617,1244 197,1244"/>
+            <TextLine id="rIGmy_2l1" custom="readingOrder {index:0;}">
+                <Coords points="185,816 243,833 289,796 339,790 399,808 461,798 490,817 527,819 531,738 508,739 483,711 455,712 390,744 313,701 291,710 250,686 190,710"/>
+                <Baseline points="200,771 226,774 252,775 278,777 305,779 331,780 357,781 383,783 410,783 436,785 462,785 488,785 515,785"/>
+                <TextEquiv>
+                    <Unicode>Alsch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIGmy_2l2" custom="readingOrder {index:1;}">
+                <Coords points="216,999 358,1036 433,984 532,985 558,1006 615,998 618,900 582,886 559,898 485,851 445,850 424,827 374,847 293,842 221,866"/>
+                <Baseline points="231,957 257,957 284,957 310,957 337,957 363,959 390,959 417,960 443,960 470,962 496,963 523,964 549,966 576,968 603,971"/>
+                <TextEquiv>
+                    <Unicode>13/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIGmy_2l3" custom="readingOrder {index:2;}">
+                <Coords points="296,1111 395,1110 404,1100 422,1114 446,1108 467,1120 488,1102 510,1103 507,1027 449,1042 407,1036 363,1055 331,1046 319,1056 294,1057"/>
+                <Baseline points="309,1098 335,1101 362,1101 389,1101 416,1100 443,1097 470,1095 497,1094"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rIGmy_2l4" custom="readingOrder {index:3;}">
+                <Coords points="334,1243 346,1243 364,1227 392,1251 425,1238 459,1257 491,1248 498,1103 486,1103 468,1119 444,1111 421,1114 410,1104 372,1122 360,1114 340,1115"/>
+                <Baseline points="347,1206 373,1204 400,1206 426,1209 453,1211 480,1208"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Alsch
+13/1518
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r49X8_4" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,272 2492,272 2492,414 642,414"/>
+            <TextLine id="r49X8_4l1" custom="readingOrder {index:0;}">
+                <Coords points="674,377 831,423 1699,385 1785,450 1972,382 2144,430 2496,392 2497,284 2440,271 1766,268 1496,343 1368,280 675,289"/>
+                <Baseline points="686,366 775,366 865,366 955,368 1045,368 1135,369 1225,371 1314,372 1404,373 1494,374 1584,375 1674,377 1764,377 1854,378 1943,378 2033,377 2123,377 2213,375 2303,374 2393,372 2483,368"/>
+                <TextEquiv>
+                    <Unicode>1574 Martini, Bonen und Pfenning Zinse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1574 Martini, Bonen und Pfenning Zinse</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r91un_3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="1504,1381 1601,1381 1601,1401 1504,1401"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rqZPD_1" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="1562,1324 1608,1324 1608,1392 1562,1392"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rLETz_5" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="621,401 2643,401 2643,2152 621,2152"/>
+            <TextLine id="rLETz_5l1" custom="readingOrder {index:0;}">
+                <Coords points="671,515 2034,482 2417,543 2624,477 2506,383 1989,450 672,392"/>
+                <Baseline points="683,471 779,471 875,470 972,470 1068,470 1165,470 1261,470 1358,471 1454,471 1551,473 1647,473 1743,474 1840,476 1936,476 2033,476 2129,477 2226,477 2322,477 2419,477 2515,477 2612,476"/>
+                <TextEquiv>
+                    <Unicode>Item Jacob Reuw der Wurt zum Rappen giebt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l2" custom="readingOrder {index:1;}">
+                <Coords points="652,624 2644,604 2644,535 2531,510 652,506"/>
+                <Baseline points="665,573 763,573 861,572 959,572 1058,572 1156,572 1254,572 1353,573 1451,573 1549,573 1648,575 1746,575 1844,576 1942,576 2041,578 2139,578 2237,578 2336,578 2434,576 2532,576 2631,575"/>
+                <TextEquiv>
+                    <Unicode>jerlich von dem hoff genant Meyspach in pfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l3" custom="readingOrder {index:2;}">
+                <Coords points="662,673 851,742 1171,685 1262,741 1446,682 2454,716 2494,566 2002,650 1668,591 1579,645 662,624"/>
+                <Baseline points="674,671 764,671 854,672 945,674 1035,674 1125,674 1216,674 1306,674 1396,674 1487,674 1577,674 1667,674 1758,674 1848,674 1938,672 2029,672 2119,672 2209,672 2300,671 2390,671 2481,671"/>
+                <TextEquiv>
+                    <Unicode>ing zinß - 15ß, in bonen zins - 7 ß63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l4" custom="readingOrder {index:3;}">
+                <Coords points="1346,800 2076,816 2263,782 2504,825 2485,702 2175,745 2060,685 1949,742 1347,704"/>
+                <Baseline points="1358,765 1414,767 1471,767 1528,768 1585,769 1641,770 1698,771 1755,771 1812,773 1868,773 1925,773 1982,773 2039,773 2095,773 2152,773 2209,773 2266,773 2322,773 2379,771 2436,770 2493,770"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1576. Ebenso 1577.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l5" custom="readingOrder {index:4;}">
+                <Coords points="652,811 770,777 794,794 856,777 1020,817 1072,793 1119,805 1175,788 1176,719 1085,707 1050,724 1021,709 976,743 908,706 853,743 728,696 652,725"/>
+                <Baseline points="665,768 691,770 717,771 743,771 769,773 796,773 822,773 848,773 874,773 900,773 927,773 953,771 979,771 1005,771 1031,771 1058,771 1084,773 1110,773 1136,773 1163,774"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1575.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l6" custom="readingOrder {index:5;}">
+                <Coords points="663,916 889,916 982,879 1157,919 1285,882 1476,907 1477,831 1317,784 1273,811 1142,791 968,835 872,805 663,837"/>
+                <Baseline points="674,872 713,871 753,870 792,869 832,869 871,869 911,869 950,869 990,869 1029,870 1069,870 1108,870 1148,870 1187,872 1227,872 1266,872 1306,872 1345,871 1385,870 1424,869 1464,869"/>
+                <TextEquiv>
+                    <Unicode>1578 - 1583 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l7" custom="readingOrder {index:6;}">
+                <Coords points="657,993 2535,995 2429,897 1766,944 1547,892 657,905"/>
+                <Baseline points="669,971 761,971 854,971 946,971 1039,971 1132,971 1224,971 1317,971 1410,972 1502,972 1595,972 1688,972 1780,972 1873,972 1966,972 2058,972 2151,972 2244,971 2336,971 2429,969 2522,969"/>
+                <TextEquiv>
+                    <Unicode>1584 Merspach der hoff, sez das Wurtzhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l8" custom="readingOrder {index:7;}">
+                <Coords points="653,1126 776,1082 1061,1132 1167,1078 1263,1134 1636,1078 2138,1082 2291,1147 2519,1110 2484,1009 2160,988 1963,1040 1744,977 1324,1043 1019,977 653,1016"/>
+                <Baseline points="665,1070 757,1071 849,1072 941,1073 1033,1073 1125,1073 1217,1073 1309,1071 1401,1071 1493,1070 1586,1068 1678,1068 1770,1067 1862,1067 1954,1065 2046,1065 2138,1065 2230,1067 2322,1068 2414,1070 2507,1071"/>
+                <TextEquiv>
+                    <Unicode>zum Kappen zinst jerlich  1 ℔ 2ß 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l9" custom="readingOrder {index:8;}">
+                <Coords points="697,1180 2462,1198 2517,1112 1636,1144 1487,1092 1339,1153 697,1091"/>
+                <Baseline points="710,1161 799,1164 889,1165 979,1166 1069,1167 1158,1167 1248,1169 1338,1169 1428,1169 1517,1169 1607,1169 1697,1169 1787,1169 1876,1169 1966,1169 2056,1169 2146,1169 2235,1169 2325,1170 2415,1170 2505,1172"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1585. Ebenso 1586. Ebenso 1587.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l10" custom="readingOrder {index:9;}">
+                <Coords points="692,1289 1934,1298 1934,1192 1651,1229 1511,1179 1388,1224 1137,1189 928,1235 692,1198"/>
+                <Baseline points="704,1268 764,1268 825,1268 886,1268 947,1266 1008,1266 1069,1266 1130,1265 1191,1265 1252,1265 1313,1265 1373,1265 1434,1265 1495,1265 1556,1265 1617,1265 1678,1266 1739,1268 1800,1269 1861,1271 1922,1272"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1588. Ebenso 1589.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l11" custom="readingOrder {index:10;}">
+                <Coords points="674,1381 1033,1375 1175,1419 1220,1380 1510,1375 1620,1435 1734,1383 2068,1401 2069,1334 1966,1282 1874,1350 1614,1340 1526,1292 889,1342 791,1282 675,1291"/>
+                <Baseline points="686,1361 754,1364 823,1365 891,1367 960,1368 1028,1370 1097,1370 1165,1371 1234,1371 1302,1371 1371,1371 1440,1371 1508,1371 1577,1372 1645,1373 1714,1373 1782,1374 1851,1376 1919,1377 1988,1380 2057,1382"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1590 ist aber gestrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l12" custom="readingOrder {index:11;}">
+                <Coords points="674,1490 738,1508 807,1482 888,1496 964,1475 1060,1479 1104,1504 1173,1485 1200,1508 1229,1503 1231,1432 1044,1397 948,1445 871,1434 825,1399 786,1406 754,1378 676,1382"/>
+                <Baseline points="686,1458 712,1461 739,1463 765,1464 792,1466 818,1467 845,1467 871,1468 898,1469 924,1469 951,1469 978,1469 1004,1469 1031,1469 1057,1469 1084,1469 1110,1469 1137,1469 1163,1469 1190,1470 1217,1470"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1591.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l13" custom="readingOrder {index:12;}">
+                <Coords points="657,1577 1495,1578 1726,1640 1970,1581 2643,1602 2592,1494 1741,1539 1670,1480 657,1481"/>
+                <Baseline points="669,1568 767,1568 865,1569 963,1569 1061,1571 1159,1571 1257,1571 1355,1571 1453,1571 1551,1571 1649,1571 1747,1571 1845,1571 1943,1571 2041,1571 2139,1571 2237,1571 2335,1571 2433,1572 2531,1572 2630,1572"/>
+                <TextEquiv>
+                    <Unicode>1592 Meispach der hoff, jetz das Wirtshus zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l14" custom="readingOrder {index:13;}">
+                <Coords points="662,1691 817,1733 878,1679 1058,1724 1161,1673 1306,1737 1392,1678 1662,1711 1722,1679 1773,1726 2009,1682 2009,1628 1909,1611 1663,1644 1562,1590 1370,1634 1247,1592 982,1648 662,1578"/>
+                <Baseline points="674,1671 740,1670 806,1668 872,1668 938,1668 1004,1667 1070,1667 1137,1668 1203,1668 1269,1668 1335,1670 1401,1670 1467,1670 1533,1671 1600,1671 1666,1671 1732,1671 1798,1671 1864,1671 1930,1671 1997,1670"/>
+                <TextEquiv>
+                    <Unicode>Kappen zinst järlich in geltt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l15" custom="readingOrder {index:14;}">
+                <Coords points="2179,1717 2248,1696 2321,1731 2349,1717 2425,1735 2464,1716 2503,1734 2565,1715 2604,1727 2641,1718 2643,1605 2606,1605 2566,1634 2537,1606 2488,1610 2440,1639 2367,1604 2180,1606"/>
+                <Baseline points="2192,1667 2217,1669 2243,1671 2269,1673 2295,1673 2320,1674 2346,1674 2372,1674 2398,1674 2423,1674 2449,1674 2475,1673 2501,1673 2526,1673 2552,1674 2578,1676 2604,1676 2630,1679"/>
+                <TextEquiv>
+                    <Unicode>1 ℔. 2 ß 63</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l16" custom="readingOrder {index:15;}">
+                <Coords points="678,1778 783,1798 862,1779 896,1802 955,1782 1095,1803 1140,1776 1186,1799 1208,1794 1209,1691 1150,1673 1113,1710 1022,1714 978,1741 875,1723 818,1735 759,1692 722,1705 678,1689"/>
+                <Baseline points="690,1760 715,1762 740,1763 765,1764 791,1766 816,1766 841,1766 867,1766 892,1766 917,1766 943,1766 968,1766 993,1766 1018,1766 1044,1766 1069,1766 1094,1766 1120,1766 1145,1766 1170,1767 1196,1769"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1593</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l17" custom="readingOrder {index:16;}">
+                <Coords points="670,1877 938,1915 1307,1875 1557,1937 1644,1884 1959,1891 1959,1824 1827,1778 1559,1824 1451,1781 671,1806"/>
+                <Baseline points="683,1859 746,1860 809,1860 872,1862 935,1862 999,1863 1062,1863 1125,1863 1188,1865 1251,1865 1315,1865 1378,1866 1441,1866 1504,1868 1567,1868 1631,1869 1694,1870 1757,1872 1820,1874 1883,1875 1947,1877"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1594 ist aber gedrichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l18" custom="readingOrder {index:17;}">
+                <Coords points="663,1992 784,1997 871,1972 988,1987 1028,1968 1108,2005 1239,2008 1241,1922 1196,1923 1138,1887 1044,1907 936,1895 847,1928 762,1879 666,1879"/>
+                <Baseline points="677,1959 704,1961 731,1961 759,1962 786,1962 814,1964 841,1964 869,1965 896,1965 924,1965 951,1966 978,1967 1006,1967 1033,1967 1061,1968 1088,1968 1116,1970 1143,1971 1171,1971 1198,1972 1226,1974"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1595.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l19" custom="readingOrder {index:18;}">
+                <Coords points="1320,2022 1362,2029 1424,2090 1470,2105 1599,2054 1684,2086 1730,2056 1780,2074 1838,2060 1846,1987 1792,1978 1711,2002 1617,1952 1530,1953 1467,1917 1370,1929 1332,1907"/>
+                <Baseline points="1334,2003 1359,2008 1385,2011 1411,2017 1437,2021 1463,2026 1489,2031 1515,2035 1541,2039 1567,2043 1593,2046 1619,2049 1645,2051 1671,2052 1697,2054 1723,2054 1749,2054 1775,2054 1801,2052 1827,2049"/>
+                <TextEquiv>
+                    <Unicode>Ryg neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l20" custom="readingOrder {index:19;}">
+                <Coords points="875,2128 921,2121 983,2144 1010,2129 1037,2152 1101,2157 1155,2123 1244,2126 1288,2094 1315,2109 1332,2092 1396,2135 1413,2130 1414,2041 1328,2009 1224,2040 1171,2010 1028,2031 967,1979 876,1981"/>
+                <Baseline points="888,2055 913,2064 939,2071 964,2075 990,2079 1016,2084 1041,2085 1067,2087 1093,2087 1118,2087 1144,2087 1170,2085 1195,2084 1221,2082 1247,2080 1272,2079 1298,2077 1324,2076 1349,2075 1375,2073 1401,2073"/>
+                <TextEquiv>
+                    <Unicode>Kappen =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLETz_5l21" custom="readingOrder {index:20;}">
+                <Coords points="1540,2151 1601,2159 1618,2147 1670,2149 1709,2167 1731,2152 1820,2150 1852,2165 1894,2150 1894,2067 1805,2076 1768,2096 1724,2061 1685,2088 1606,2053 1582,2068 1540,2063"/>
+                <Baseline points="1553,2142 1578,2141 1603,2140 1628,2139 1653,2139 1679,2139 1704,2139 1729,2139 1754,2140 1780,2141 1805,2141 1830,2141 1855,2141 1881,2141"/>
+                <TextEquiv>
+                    <Unicode>Runhart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item Jacob Reuw der Wurt zum Rappen giebt 
+jerlich von dem hoff genant Meyspach in pfen
+ing zinß - 15ß, in bonen zins - 7 ß63
+Ebenso 1576. Ebenso 1577.
+Ebenso 1575.
+1578 - 1583 fehlen.
+1584 Merspach der hoff, sez das Wurtzhaus
+zum Kappen zinst jerlich  1 ℔ 2ß 63
+Ebenso 1585. Ebenso 1586. Ebenso 1587.
+Ebenso 1588. Ebenso 1589.
+Ebenso 1590 ist aber gestrichen.
+Ebenso 1591.
+1592 Meispach der hoff, jetz das Wirtshus zum
+Kappen zinst järlich in geltt
+1 ℔. 2 ß 63
+Ebenso 1593
+Ebenso 1594 ist aber gedrichen.
+Ebenso 1595.
+Ryg neb 13
+Kappen =
+Runhart</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:59</Created>
+        <LastChange>2020-04-19T01:24:51.220+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869401" pageNr="25" tsid="27912481" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=UPTYMIALPAFVZZZKKOXKNZNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QVQKPZEZQVRLRNQRSHYZBIRT" imageId="5736264"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_025.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242833" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rTBJz_1"/>
+                <RegionRefIndexed index="1" regionRef="rqjjA_2"/>
+                <RegionRefIndexed index="2" regionRef="rqb3U_4"/>
+                <RegionRefIndexed index="3" regionRef="raQHL_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rTBJz_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="319,1311 545,1311 545,1409 319,1409"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rqjjA_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1210,233 2377,233 2377,425 1210,425"/>
+            <TextLine id="rqjjA_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1239,413 2295,424 2326,346 2140,313 2026,357 1850,349 1805,313 1559,364 1464,323 1240,337"/>
+                <Baseline points="1251,381 1304,384 1357,387 1410,389 1463,390 1516,392 1569,393 1622,393 1675,393 1728,393 1782,393 1835,393 1888,393 1941,392 1994,392 2047,392 2100,392 2153,392 2206,393 2259,393 2313,395"/>
+                <TextEquiv>
+                    <Unicode>1577. Zwinger, Methodus apodemia.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1577. Zwinger, Methodus apodemia.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rqb3U_4" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="290,318 2686,318 2686,2143 290,2143"/>
+            <TextLine id="rqb3U_4l1" custom="readingOrder {index:0;}">
+                <Coords points="2465,403 2480,403 2510,421 2537,426 2553,421 2590,438 2626,416 2646,413 2646,336 2603,348 2591,335 2573,348 2538,323 2495,355 2465,348"/>
+                <Baseline points="2478,393 2504,392 2530,392 2556,392 2582,393 2608,393 2634,392"/>
+                <TextEquiv>
+                    <Unicode>3/175.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l2" custom="readingOrder {index:1;}">
+                <Coords points="1421,544 1675,528 1726,497 1806,551 2123,519 2123,456 2068,423 1995,458 1907,425 1794,460 1653,424 1600,452 1477,434 1422,451"/>
+                <Baseline points="1433,492 1466,494 1500,495 1534,497 1568,497 1602,497 1636,498 1670,498 1704,498 1738,498 1772,500 1805,500 1839,499 1873,498 1907,498 1941,498 1975,498 2009,497 2043,497 2077,496 2111,495"/>
+                <TextEquiv>
+                    <Unicode>Dispositio arhficalis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l3" custom="readingOrder {index:2;}">
+                <Coords points="736,621 1438,604 1485,629 1551,601 1679,629 1679,544 1563,526 1506,559 1375,538 1151,571 945,521 849,551 736,495"/>
+                <Baseline points="749,591 794,593 840,593 886,593 932,593 978,594 1024,594 1070,594 1116,594 1162,594 1208,594 1253,594 1299,594 1345,593 1391,593 1437,593 1483,593 1529,593 1575,593 1621,594 1667,594"/>
+                <TextEquiv>
+                    <Unicode>Dorta Cinercea -. dessenderli.-.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l4" custom="readingOrder {index:3;}">
+                <Coords points="649,721 1889,725 1888,616 1848,609 1640,667 1398,632 649,648"/>
+                <Baseline points="662,692 722,693 783,693 844,695 905,695 965,695 1026,695 1087,695 1148,695 1208,695 1269,695 1330,695 1391,695 1451,694 1512,693 1573,693 1634,693 1694,693 1755,693 1816,693 1877,693"/>
+                <TextEquiv>
+                    <Unicode>Inter Postam et Müros interiores sese offert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l5" custom="readingOrder {index:4;}">
+                <Coords points="754,799 771,802 808,831 833,817 853,820 869,813 901,822 924,807 950,803 951,765 908,767 889,746 871,743 863,750 836,752 826,741 811,746 796,733 783,732 770,745 755,744"/>
+                <Baseline points="767,792 795,794 823,795 851,797 879,797 907,798 936,797"/>
+                <TextEquiv>
+                    <Unicode>Reita</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l6" custom="readingOrder {index:5;}">
+                <Coords points="325,942 358,934 378,940 410,917 447,914 476,890 507,889 511,819 493,821 481,812 465,817 422,786 406,798 396,798 387,787 374,794 334,789"/>
+                <Baseline points="341,879 366,883 392,887 417,889 443,891 468,890 494,885"/>
+                <TextEquiv>
+                    <Unicode>Eh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l7" custom="readingOrder {index:6;}">
+                <Coords points="860,909 2640,908 2640,838 860,831"/>
+                <Baseline points="872,894 959,896 1047,896 1135,896 1223,896 1311,896 1398,897 1486,897 1574,897 1662,897 1750,897 1837,897 1925,897 2013,897 2101,898 2189,899 2276,899 2364,899 2452,899 2540,899 2628,897"/>
+                <TextEquiv>
+                    <Unicode>Zuburbüm Vilianum, perpetuis fabrorum Laberibus iregnillum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l8" custom="readingOrder {index:7;}">
+                <Coords points="290,990 318,994 349,1018 365,1003 375,1009 408,992 523,1030 527,924 507,918 486,928 460,904 429,918 417,910 375,948 322,893 294,890"/>
+                <Baseline points="302,978 328,981 354,983 380,984 407,985 433,986 459,987 485,987 512,987"/>
+                <TextEquiv>
+                    <Unicode>Ueschen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l9" custom="readingOrder {index:8;}">
+                <Coords points="839,1028 1166,999 1259,1047 1450,1005 1636,1056 1887,1004 2000,1029 2000,956 1805,931 1757,968 1573,965 1420,919 1279,957 1204,926 839,958"/>
+                <Baseline points="851,998 907,997 964,996 1021,995 1078,995 1135,995 1192,995 1249,995 1306,995 1363,995 1420,996 1476,996 1533,996 1590,998 1647,998 1704,998 1761,998 1818,999 1875,999 1932,998 1989,998"/>
+                <TextEquiv>
+                    <Unicode>Diversoria Cerwi, Sellae, Convi, Leonis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l10" custom="readingOrder {index:9;}">
+                <Coords points="843,1108 861,1105 877,1119 906,1108 918,1119 944,1108 973,1116 992,1107 1006,1121 1017,1112 1032,1113 1035,1070 1010,1071 990,1059 970,1065 921,1046 911,1035 904,1040 886,1034 868,1047 848,1043"/>
+                <Baseline points="857,1083 884,1090 911,1094 938,1096 965,1097 992,1097 1019,1098"/>
+                <TextEquiv>
+                    <Unicode>Sons.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l11" custom="readingOrder {index:10;}">
+                <Coords points="276,1184 304,1186 362,1223 476,1203 524,1212 566,1184 601,1189 611,1049 571,1041 540,1059 446,1025 392,1051 289,1008"/>
+                <Baseline points="290,1155 315,1153 340,1151 365,1151 390,1151 415,1154 440,1157 465,1160 490,1162 515,1166 540,1167 565,1169 591,1169"/>
+                <TextEquiv>
+                    <Unicode>13/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l12" custom="readingOrder {index:11;}">
+                <Coords points="860,1214 998,1237 1129,1201 1295,1242 1463,1249 1508,1221 1578,1255 1714,1253 1787,1226 1788,1101 1454,1166 1311,1129 1102,1170 976,1127 860,1148"/>
+                <Baseline points="873,1199 918,1199 963,1199 1008,1199 1053,1199 1098,1199 1143,1200 1189,1200 1234,1200 1279,1200 1324,1200 1369,1202 1414,1202 1459,1202 1505,1203 1550,1203 1595,1203 1640,1205 1685,1205 1730,1205 1776,1206"/>
+                <TextEquiv>
+                    <Unicode>Aondrion Sodalum zum Rupff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l13" custom="readingOrder {index:12;}">
+                <Coords points="288,1323 311,1329 352,1308 387,1310 398,1300 412,1308 449,1290 497,1330 528,1314 552,1333 577,1334 583,1221 475,1203 404,1223 382,1216 319,1256 292,1257"/>
+                <Baseline points="302,1283 328,1283 354,1283 381,1285 407,1286 434,1288 460,1290 486,1291 513,1292 539,1293 566,1293"/>
+                <TextEquiv>
+                    <Unicode>neben 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l14" custom="readingOrder {index:13;}">
+                <Coords points="845,1310 873,1313 903,1338 966,1321 1021,1336 1062,1314 1107,1330 1147,1320 1187,1333 1188,1250 1165,1257 1133,1229 1040,1213 984,1241 944,1243 904,1215 846,1212"/>
+                <Baseline points="857,1298 883,1298 910,1299 936,1300 963,1301 989,1301 1016,1301 1043,1301 1069,1301 1096,1301 1122,1301 1149,1301 1176,1301"/>
+                <TextEquiv>
+                    <Unicode>Fons alter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l15" custom="readingOrder {index:14;}">
+                <Coords points="291,1456 452,1411 583,1437 699,1391 774,1422 1038,1432 1038,1334 998,1327 782,1341 694,1314 623,1341 475,1308 394,1356 292,1315"/>
+                <Baseline points="305,1394 341,1397 377,1400 413,1401 449,1403 485,1403 521,1404 557,1404 593,1403 629,1403 665,1402 701,1401 737,1401 773,1400 809,1399 845,1398 881,1400 917,1400 953,1401 989,1404 1025,1407"/>
+                <TextEquiv>
+                    <Unicode> kiff Sistia,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l16" custom="readingOrder {index:15;}">
+                <Coords points="839,1512 1170,1546 1359,1507 1555,1534 1686,1496 1685,1436 1560,1411 1462,1444 1326,1412 1183,1468 1135,1446 1105,1466 1047,1428 964,1469 886,1429 838,1439"/>
+                <Baseline points="851,1496 892,1497 933,1499 974,1500 1015,1500 1056,1502 1097,1502 1139,1502 1180,1500 1221,1500 1262,1500 1303,1499 1344,1499 1385,1498 1427,1497 1468,1497 1509,1497 1550,1496 1591,1497 1632,1497 1674,1497"/>
+                <TextEquiv>
+                    <Unicode>Fons. Jude ad J. Elisabethae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l17" custom="readingOrder {index:16;}">
+                <Coords points="847,1622 2667,1626 2667,1548 847,1529"/>
+                <Baseline points="860,1598 949,1598 1039,1599 1129,1599 1219,1601 1308,1601 1398,1601 1488,1601 1578,1602 1667,1602 1757,1602 1847,1604 1937,1604 2026,1604 2116,1605 2206,1605 2296,1607 2385,1607 2475,1608 2565,1610 2655,1610"/>
+                <TextEquiv>
+                    <Unicode>Clisus Sapidorus dietus der Steinenberg, ad Diseium dessendit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l18" custom="readingOrder {index:17;}">
+                <Coords points="743,1711 862,1749 1000,1711 1513,1702 1621,1750 2030,1716 2138,1764 2139,1653 2088,1648 744,1663"/>
+                <Baseline points="755,1706 823,1704 892,1704 960,1704 1029,1704 1098,1703 1166,1703 1235,1703 1303,1703 1372,1704 1441,1704 1509,1704 1578,1704 1646,1704 1715,1704 1784,1706 1852,1706 1921,1706 1989,1706 2058,1706 2127,1706"/>
+                <TextEquiv>
+                    <Unicode>Dentra seiundum Possam ad J. Albanum dneit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l19" custom="readingOrder {index:18;}">
+                <Coords points="658,1845 2694,1816 2536,1725 658,1745"/>
+                <Baseline points="671,1806 771,1806 872,1806 972,1806 1073,1808 1173,1808 1274,1806 1374,1806 1475,1806 1575,1806 1676,1806 1776,1806 1877,1806 1977,1806 2078,1806 2178,1806 2279,1806 2379,1806 2480,1808 2580,1808 2681,1808"/>
+                <TextEquiv>
+                    <Unicode>Vurris subinde quadrata, earier heodie, elin porta urbis veteris Nsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l20" custom="readingOrder {index:19;}">
+                <Coords points="764,1908 784,1906 804,1922 822,1915 832,1923 852,1913 857,1919 880,1914 892,1927 955,1927 956,1869 924,1868 884,1842 862,1838 836,1850 816,1844 766,1855"/>
+                <Baseline points="776,1899 804,1901 832,1902 860,1904 888,1904 916,1904 944,1905"/>
+                <TextEquiv>
+                    <Unicode>mide.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rqb3U_4l21" custom="readingOrder {index:20;}">
+                <Coords points="668,2019 760,2039 866,2017 921,2043 1004,2013 1092,2056 1175,2016 1334,2022 1334,1929 1032,1960 874,1917 819,1914 761,1956 698,1918 668,1926"/>
+                <Baseline points="681,2006 714,2007 748,2007 781,2007 815,2007 849,2007 882,2008 916,2009 950,2009 983,2009 1017,2009 1050,2009 1084,2009 1118,2009 1151,2009 1185,2009 1219,2009 1252,2009 1286,2009 1320,2009"/>
+                <TextEquiv>
+                    <Unicode>Inter Türrim et Jorum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3/175.
+Dispositio arhficalis.
+Dorta Cinercea -. dessenderli.-.
+Inter Postam et Müros interiores sese offert
+Reita
+Eh
+Zuburbüm Vilianum, perpetuis fabrorum Laberibus iregnillum.
+Ueschen
+Diversoria Cerwi, Sellae, Convi, Leonis.
+Sons.
+13/1518
+Aondrion Sodalum zum Rupff.
+neben 13.
+Fons alter.
+ kiff Sistia,
+Fons. Jude ad J. Elisabethae
+Clisus Sapidorus dietus der Steinenberg, ad Diseium dessendit.
+Dentra seiundum Possam ad J. Albanum dneit.
+Vurris subinde quadrata, earier heodie, elin porta urbis veteris Nsche
+mide.
+Inter Türrim et Jorum</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="raQHL_3" custom="readingOrder {index:3;} structure {type:header;}">
+            <Coords points="2366,185 2549,185 2549,301 2366,301"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

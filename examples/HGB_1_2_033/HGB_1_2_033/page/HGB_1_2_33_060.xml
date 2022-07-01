@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:49</Created>
+        <LastChange>2020-04-19T01:34:31.071+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869536" pageNr="60" tsid="27912794" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=NYMVDVMQRIPDICRNNNIJLNIT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AGGSCBGMDVCIQRAYTGERIAVV" imageId="5736399"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_060.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rLxW2_1"/>
+                <RegionRefIndexed index="1" regionRef="r2tVg_2"/>
+                <RegionRefIndexed index="2" regionRef="rcPai_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rLxW2_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,731 675,731 675,1152 211,1152"/>
+            <TextLine id="rLxW2_1l1" custom="readingOrder {index:0;}">
+                <Coords points="332,809 355,812 381,798 418,815 468,776 507,788 564,770 566,644 481,641 472,648 442,624 405,623 388,611 351,627 334,624"/>
+                <Baseline points="345,744 370,746 396,747 422,748 448,749 474,749 500,749 526,748 552,747"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLxW2_1l2" custom="readingOrder {index:1;}">
+                <Coords points="211,929 293,919 317,937 344,918 389,935 435,906 492,930 522,903 630,921 628,785 515,779 446,793 396,762 335,780 300,762 207,798"/>
+                <Baseline points="221,873 247,872 273,872 300,870 326,869 353,869 379,867 406,867 432,866 459,866 485,864 512,864 538,863 565,863 591,861 618,860"/>
+                <TextEquiv>
+                    <Unicode>15/138</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLxW2_1l3" custom="readingOrder {index:2;}">
+                <Coords points="287,998 354,1003 370,1017 415,1009 454,1027 466,1020 491,1035 529,1036 533,915 514,914 497,928 444,919 394,943 352,925 319,941 289,928"/>
+                <Baseline points="300,980 327,982 354,985 382,986 409,987 436,987 464,987 491,987 519,989"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rLxW2_1l4" custom="readingOrder {index:3;}">
+                <Coords points="333,1142 354,1146 380,1136 399,1147 420,1145 456,1120 487,1115 485,1022 462,1020 455,1027 415,1009 370,1017 351,1003 330,1008"/>
+                <Baseline points="344,1100 370,1101 396,1100 422,1100 448,1099 474,1098"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Th v
+15/138
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2tVg_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,251 2449,251 2449,449 642,449"/>
+            <TextLine id="r2tVg_2l1" custom="readingOrder {index:0;}">
+                <Coords points="657,365 671,363 694,378 720,381 736,374 750,381 772,367 792,377 807,370 816,378 830,376 832,287 790,274 752,295 736,297 705,284 658,295"/>
+                <Baseline points="669,341 698,344 728,345 758,345 788,345 818,345"/>
+                <TextEquiv>
+                    <Unicode>17200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2tVg_2l2" custom="readingOrder {index:1;}">
+                <Coords points="1445,377 1469,380 1490,368 1513,380 1551,371 1567,383 1605,365 1628,379 1660,379 1677,396 1698,396 1699,300 1678,302 1650,281 1624,300 1577,266 1559,273 1535,266 1510,282 1484,263 1447,258"/>
+                <Baseline points="1458,342 1483,345 1508,347 1534,347 1559,346 1584,345 1610,345 1635,345 1660,347 1686,350"/>
+                <TextEquiv>
+                    <Unicode>o 176.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2tVg_2l3" custom="readingOrder {index:2;}">
+                <Coords points="2337,395 2349,395 2362,385 2381,387 2388,393 2397,388 2412,390 2423,378 2435,378 2431,266 2405,269 2391,265 2385,272 2373,272 2357,287 2345,275 2333,276"/>
+                <Baseline points="2348,353 2373,354 2398,354 2423,350"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2tVg_2l4" custom="readingOrder {index:3;}">
+                <Coords points="754,468 2435,515 2578,466 2578,304 2279,419 2117,365 1979,416 1612,364 1255,410 1049,342 890,410 755,375"/>
+                <Baseline points="767,447 857,449 947,449 1037,450 1127,450 1217,450 1307,450 1397,452 1487,452 1577,452 1667,452 1757,452 1847,452 1937,452 2027,452 2117,452 2207,452 2297,451 2387,450 2477,450 2567,450"/>
+                <TextEquiv>
+                    <Unicode>Herr Johannes Marckht der Junger Sall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>17200
+o 176.
+15
+Herr Johannes Marckht der Junger Sall</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rcPai_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="642,416 2657,416 2657,1719 642,1719"/>
+            <TextLine id="rcPai_3l1" custom="readingOrder {index:0;}">
+                <Coords points="719,561 2215,565 2350,629 2509,581 2510,478 2031,526 1610,465 1285,520 719,481"/>
+                <Baseline points="731,546 819,546 907,546 996,546 1084,546 1172,546 1261,548 1349,548 1437,549 1526,549 1614,551 1702,551 1791,552 1879,552 1967,554 2056,554 2144,554 2232,554 2321,554 2409,554 2498,552"/>
+                <TextEquiv>
+                    <Unicode>- ℔ 5ß -d auf Martini vom Vurtshaufs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l2" custom="readingOrder {index:1;}">
+                <Coords points="688,693 1252,643 1675,702 2582,675 2582,589 2336,626 2189,565 2061,621 689,597"/>
+                <Baseline points="701,647 794,647 887,648 981,648 1074,650 1168,650 1261,650 1355,650 1448,650 1542,650 1635,650 1728,650 1822,650 1915,650 2009,650 2102,650 2196,650 2289,650 2383,651 2476,651 2570,653"/>
+                <TextEquiv>
+                    <Unicode>zum Raben 1 seits neben dem Raraders</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l3" custom="readingOrder {index:2;}">
+                <Coords points="680,771 2064,767 2384,818 2548,776 2548,687 1763,666 1531,729 1251,643 680,699"/>
+                <Baseline points="693,741 785,746 877,750 969,752 1061,755 1154,756 1246,756 1338,756 1430,756 1522,756 1615,755 1707,754 1799,753 1891,752 1983,750 2076,750 2168,750 2260,750 2352,750 2444,752 2537,753"/>
+                <TextEquiv>
+                    <Unicode>50 H. Prart Leißlers sel. frau Wittib besitzt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l4" custom="readingOrder {index:3;}">
+                <Coords points="688,907 2483,887 2537,881 2538,785 2119,830 1872,764 1654,823 689,771"/>
+                <Baseline points="701,845 792,845 883,843 974,845 1066,845 1157,845 1248,846 1339,848 1431,848 1522,849 1613,851 1704,852 1796,854 1887,855 1978,856 2069,857 2161,858 2252,858 2343,858 2434,858 2526,858"/>
+                <TextEquiv>
+                    <Unicode>Dseits neben. Aücko 3 &amp; Hoffmann dem S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l5" custom="readingOrder {index:4;}">
+                <Coords points="688,981 1966,1006 2275,973 2276,917 2035,880 1895,924 1769,869 1593,920 1217,863 688,904"/>
+                <Baseline points="701,947 779,948 857,948 935,949 1013,950 1091,950 1169,950 1248,950 1326,950 1404,950 1482,950 1560,950 1638,950 1716,950 1795,950 1873,951 1951,953 2029,955 2107,957 2185,960 2264,965"/>
+                <TextEquiv>
+                    <Unicode>gistichen, Salathe dem Schumacher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1290,1180 2302,1168 2566,1206 2565,1078 2511,1069 2124,1111 1289,1075"/>
+                <Baseline points="1302,1154 1364,1151 1427,1151 1489,1149 1552,1148 1614,1148 1677,1146 1739,1146 1802,1146 1864,1145 1927,1145 1990,1145 2052,1145 2115,1145 2177,1143 2240,1143 2302,1143 2365,1143 2427,1143 2490,1143 2553,1143"/>
+                <TextEquiv>
+                    <Unicode>Disetorum der Schaactor. Stadt o1825.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1796,1281 1840,1254 1866,1261 1936,1238 1957,1247 1976,1231 1997,1244 2065,1236 2076,1248 2123,1235 2122,1160 2082,1175 1991,1167 1914,1192 1846,1172 1818,1191 1795,1185"/>
+                <Baseline points="1808,1235 1833,1237 1858,1238 1883,1238 1909,1238 1934,1238 1959,1238 1984,1237 2010,1236 2035,1235 2060,1233 2085,1233 2111,1232"/>
+                <TextEquiv>
+                    <Unicode>2ot. 366.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l8" custom="readingOrder {index:7;}">
+                <Coords points="1484,1377 1498,1377 1503,1381 1510,1377 1529,1388 1545,1384 1561,1388 1566,1384 1578,1384 1578,1323 1531,1318 1519,1323 1503,1337 1484,1339"/>
+                <Baseline points="1497,1377 1531,1377 1566,1377"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l9" custom="readingOrder {index:8;}">
+                <Coords points="712,1497 828,1525 1138,1467 1278,1468 1359,1528 1509,1488 1588,1522 1711,1473 1953,1501 1956,1374 1448,1403 1357,1364 1134,1414 716,1282"/>
+                <Baseline points="725,1433 785,1440 846,1445 907,1449 968,1453 1029,1455 1090,1456 1151,1457 1212,1457 1273,1457 1334,1457 1394,1455 1455,1455 1516,1455 1577,1455 1638,1457 1699,1458 1760,1461 1821,1464 1882,1469 1943,1475"/>
+                <TextEquiv>
+                    <Unicode>Kappen = Eg 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rcPai_3l10" custom="readingOrder {index:9;}">
+                <Coords points="736,1692 802,1703 879,1675 909,1705 1148,1715 1267,1670 1347,1709 1515,1696 1514,1598 1453,1568 1154,1598 1096,1577 1040,1603 873,1541 735,1542"/>
+                <Baseline points="747,1653 784,1658 822,1661 860,1664 898,1667 935,1668 973,1668 1011,1668 1049,1668 1086,1668 1124,1667 1162,1665 1200,1664 1237,1663 1275,1662 1313,1661 1351,1659 1388,1658 1426,1658 1464,1658 1502,1658"/>
+                <TextEquiv>
+                    <Unicode>Paradit = 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>- ℔ 5ß -d auf Martini vom Vurtshaufs
+zum Raben 1 seits neben dem Raraders
+50 H. Prart Leißlers sel. frau Wittib besitzt,
+Dseits neben. Aücko 3 &amp; Hoffmann dem S
+gistichen, Salathe dem Schumacher.
+Disetorum der Schaactor. Stadt o1825.
+2ot. 366.
+1
+Kappen = Eg 15 neb 13
+Paradit = 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

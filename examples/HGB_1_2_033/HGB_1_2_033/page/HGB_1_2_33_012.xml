@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:10</Created>
+        <LastChange>2020-04-19T01:21:36.249+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869374" pageNr="12" tsid="27912375" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=QLLIVPXJEYZVTDSSFZWZLBKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQVXKIHAAIVXZKDZJJAFAWPE" imageId="5736237"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_012.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242819" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rZluB_1"/>
+                <RegionRefIndexed index="1" regionRef="rFbq9_2"/>
+                <RegionRefIndexed index="2" regionRef="r8K1Q_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rZluB_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="233,805 660,805 660,1196 233,1196"/>
+            <TextLine id="rZluB_1l1" custom="readingOrder {index:0;}">
+                <Coords points="242,943 296,951 310,937 365,970 429,932 490,953 522,932 579,972 611,968 614,842 541,840 469,797 440,811 411,796 379,827 308,832 281,854 245,848"/>
+                <Baseline points="255,918 281,917 307,915 334,915 360,917 387,918 413,920 440,922 466,923 493,924 519,924 546,923 572,921 599,918"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rZluB_1l2" custom="readingOrder {index:1;}">
+                <Coords points="288,1074 309,1080 317,1073 341,1086 353,1074 375,1082 421,1066 513,1072 516,1001 494,996 481,1007 407,974 392,983 359,975 349,984 290,985"/>
+                <Baseline points="300,1037 325,1042 350,1044 375,1046 400,1046 425,1046 450,1046 475,1046 501,1046"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rZluB_1l3" custom="readingOrder {index:2;}">
+                <Coords points="288,1188 322,1186 343,1201 375,1199 421,1231 440,1214 460,1221 461,1073 434,1078 417,1068 381,1080 352,1077 315,1101 288,1096"/>
+                <Baseline points="299,1160 324,1163 349,1164 374,1164 399,1163 424,1163 449,1163"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+neben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rFbq9_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="693,220 1766,220 1766,419 693,419"/>
+            <TextLine id="rFbq9_2l1" custom="readingOrder {index:0;}">
+                <Coords points="770,387 876,401 901,387 939,407 1013,384 1053,406 1095,399 1103,251 968,284 952,266 906,254 866,274 838,262 776,276"/>
+                <Baseline points="785,347 810,347 835,349 860,353 885,356 910,359 935,360 960,363 985,364 1010,365 1035,363 1060,361 1086,357"/>
+                <TextEquiv>
+                    <Unicode>1533.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFbq9_2l2" custom="readingOrder {index:1;}">
+                <Coords points="1154,370 1353,373 1385,400 1518,380 1587,408 1620,380 1692,384 1697,299 1604,304 1579,279 1522,302 1441,271 1350,281 1295,271 1251,232 1224,248 1161,230"/>
+                <Baseline points="1167,350 1192,352 1218,355 1243,357 1269,360 1295,363 1320,365 1346,366 1372,368 1397,370 1423,371 1449,372 1474,374 1500,375 1526,375 1551,375 1577,377 1603,377 1628,377 1654,377 1680,377"/>
+                <TextEquiv>
+                    <Unicode>Juli 10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1533.
+Juli 10.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r8K1Q_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="678,408 2700,408 2700,2060 678,2060"/>
+            <TextLine id="r8K1Q_3l1" custom="readingOrder {index:0;}">
+                <Coords points="707,575 2578,593 2557,501 2105,537 1987,473 708,511"/>
+                <Baseline points="719,557 811,558 903,560 995,561 1088,562 1180,563 1272,564 1365,564 1457,566 1549,566 1642,566 1734,567 1826,567 1918,567 2011,567 2103,569 2195,569 2288,569 2380,569 2472,569 2565,569"/>
+                <TextEquiv>
+                    <Unicode>Martin Kistler der Schnider contra</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l2" custom="readingOrder {index:1;}">
+                <Coords points="705,686 2670,711 2670,631 2363,572 2028,630 1851,582 1719,647 1419,590 1282,645 1213,584 705,623"/>
+                <Baseline points="717,654 814,659 911,663 1008,666 1105,668 1202,669 1299,671 1396,672 1493,672 1590,672 1687,672 1784,672 1881,672 1978,672 2075,674 2172,674 2269,675 2366,675 2463,678 2560,680 2657,683"/>
+                <TextEquiv>
+                    <Unicode>Martin Streffen zum Rappen in Eschemer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l3" custom="readingOrder {index:2;}">
+                <Coords points="721,815 2638,796 2609,725 2073,687 1961,738 721,691"/>
+                <Baseline points="734,765 828,767 923,767 1017,767 1112,767 1206,767 1301,767 1395,767 1490,767 1584,767 1679,767 1774,767 1868,767 1963,768 2057,768 2152,768 2246,770 2341,770 2435,771 2530,772 2625,773"/>
+                <TextEquiv>
+                    <Unicode>Vorstatt, betreffend einem Huslin das in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l4" custom="readingOrder {index:3;}">
+                <Coords points="701,892 2550,912 2649,886 2650,820 702,814"/>
+                <Baseline points="713,863 809,863 905,864 1001,864 1097,864 1194,866 1290,866 1386,867 1482,867 1578,867 1675,869 1771,869 1867,870 1963,870 2059,870 2156,872 2252,872 2348,872 2444,872 2540,872 2637,872"/>
+                <TextEquiv>
+                    <Unicode>Bekl. Gartten hinden gestanden hat, ferner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l5" custom="readingOrder {index:4;}">
+                <Coords points="712,981 856,969 957,1005 1326,972 1450,1008 1525,969 1600,1011 1666,994 1666,928 1564,931 1472,885 1363,935 1254,875 938,918 797,881 712,927"/>
+                <Baseline points="725,963 771,963 818,965 864,965 911,965 957,965 1004,965 1050,963 1097,963 1143,962 1190,962 1236,962 1283,962 1329,960 1376,962 1422,962 1469,963 1515,963 1562,966 1608,968 1655,971"/>
+                <TextEquiv>
+                    <Unicode>betreffend Büw Gang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l6" custom="readingOrder {index:5;}">
+                <Coords points="731,1071 2538,1126 2681,1088 2682,1025 2502,973 2259,1036 1306,988 925,1033 731,978"/>
+                <Baseline points="744,1062 840,1064 936,1065 1032,1065 1129,1065 1225,1067 1321,1067 1418,1067 1514,1067 1610,1067 1707,1067 1803,1067 1899,1067 1995,1067 2092,1067 2188,1068 2284,1069 2381,1070 2477,1071 2573,1073 2670,1076"/>
+                <TextEquiv>
+                    <Unicode>Vonegkers sel. Wwer vorige Besitzerin des Ganges.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1502,1282 1745,1287 1882,1350 2259,1275 2613,1279 2678,1314 2680,1212 2493,1239 2430,1197 2163,1184 1949,1225 1693,1126 1504,1151"/>
+                <Baseline points="1514,1251 1571,1255 1629,1259 1686,1263 1744,1266 1802,1268 1859,1269 1917,1271 1974,1271 2032,1272 2090,1272 2147,1272 2205,1272 2262,1271 2320,1271 2378,1271 2435,1271 2493,1272 2550,1272 2608,1274 2666,1275"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 3. 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l8" custom="readingOrder {index:7;}">
+                <Coords points="1264,1417 1281,1415 1288,1422 1296,1422 1305,1412 1327,1415 1337,1405 1349,1405 1349,1274 1332,1274 1317,1286 1310,1283 1283,1296 1264,1293"/>
+                <Baseline points="1277,1394 1307,1397 1337,1394"/>
+                <TextEquiv>
+                    <Unicode>ɋ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l9" custom="readingOrder {index:8;}">
+                <Coords points="770,1512 864,1540 920,1528 948,1547 1034,1498 1110,1520 1158,1501 1204,1530 1227,1515 1295,1526 1301,1417 1205,1401 1177,1422 1024,1330 974,1352 891,1327 831,1351 780,1345"/>
+                <Baseline points="786,1442 811,1443 836,1446 861,1449 886,1451 911,1454 936,1457 961,1460 986,1462 1011,1465 1036,1467 1061,1469 1086,1470 1111,1472 1136,1472 1161,1472 1186,1472 1211,1471 1236,1469 1261,1465 1287,1463"/>
+                <TextEquiv>
+                    <Unicode>Rappeng</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l10" custom="readingOrder {index:9;}">
+                <Coords points="1315,1491 1482,1519 1541,1472 1623,1518 1671,1515 1743,1570 1808,1572 1813,1404 1619,1394 1550,1422 1492,1393 1465,1405 1410,1389 1385,1410 1317,1411"/>
+                <Baseline points="1328,1472 1354,1468 1380,1467 1406,1465 1432,1464 1458,1464 1485,1464 1511,1464 1537,1466 1563,1468 1589,1469 1615,1470 1642,1472 1668,1473 1694,1475 1720,1475 1746,1476 1772,1476 1799,1476"/>
+                <TextEquiv>
+                    <Unicode>15 neben 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l11" custom="readingOrder {index:10;}">
+                <Coords points="806,1725 1248,1714 1308,1670 1508,1741 1626,1686 1755,1724 1832,1668 2182,1701 2181,1599 2042,1569 1951,1618 1712,1569 1606,1619 1254,1571 1024,1612 805,1536"/>
+                <Baseline points="819,1670 886,1671 954,1671 1021,1671 1089,1670 1156,1670 1224,1668 1291,1667 1359,1667 1426,1665 1494,1664 1561,1662 1629,1661 1696,1661 1764,1660 1831,1659 1899,1660 1966,1661 2034,1662 2101,1664 2169,1667"/>
+                <TextEquiv>
+                    <Unicode>Wonecher Joh Eg v 13 ao 1515</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l12" custom="readingOrder {index:11;}">
+                <Coords points="1444,1850 1658,1789 1898,1851 1942,1817 2194,1797 2429,1840 2430,1717 2350,1733 2304,1701 1921,1752 1834,1717 1627,1752 1445,1731"/>
+                <Baseline points="1458,1791 1506,1791 1554,1791 1602,1791 1650,1791 1698,1793 1746,1793 1794,1793 1842,1794 1890,1795 1938,1796 1986,1796 2034,1797 2082,1797 2130,1797 2178,1797 2226,1797 2274,1797 2322,1797 2370,1796 2418,1794"/>
+                <TextEquiv>
+                    <Unicode>Eg v Albeing 4 bis 1536</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8K1Q_3l13" custom="readingOrder {index:12;}">
+                <Coords points="1444,1996 1670,1976 1807,2013 1944,1970 2182,1984 2185,1807 2003,1818 1956,1853 1811,1851 1775,1826 1447,1848"/>
+                <Baseline points="1457,1922 1492,1924 1528,1925 1564,1926 1599,1927 1635,1928 1671,1928 1706,1928 1742,1929 1778,1929 1814,1929 1849,1929 1885,1929 1921,1931 1956,1931 1992,1932 2028,1933 2063,1935 2099,1936 2135,1940 2171,1941"/>
+                <TextEquiv>
+                    <Unicode>Eg v 3 bis 1520</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Martin Kistler der Schnider contra
+Martin Streffen zum Rappen in Eschemer-
+Vorstatt, betreffend einem Huslin das in
+Bekl. Gartten hinden gestanden hat, ferner
+betreffend Büw Gang.
+Vonegkers sel. Wwer vorige Besitzerin des Ganges.
+Fünfergerichtsprot. 3. 1.
+ɋ
+Rappeng
+15 neben 13.
+Wonecher Joh Eg v 13 ao 1515
+Eg v Albeing 4 bis 1536
+Eg v 3 bis 1520</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:29</Created>
+        <LastChange>2020-04-19T01:32:03.838+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869495" pageNr="51" tsid="27912719" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=PCJOQHJJHNRZYKASNTRGMNKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IXPZCNBKDZXKUUWZGQJUVJKU" imageId="5736358"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_051.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242861" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rHmNG_1"/>
+                <RegionRefIndexed index="1" regionRef="rXJK8_2"/>
+                <RegionRefIndexed index="2" regionRef="rWCFZ_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rHmNG_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,866 606,866 606,1292 211,1292"/>
+            <TextLine id="rHmNG_1l1" custom="readingOrder {index:0;}">
+                <Coords points="208,1089 323,1086 407,1019 474,1022 515,1054 549,1033 574,1035 571,912 506,917 428,876 358,896 303,884 244,906 203,900"/>
+                <Baseline points="218,1017 244,1015 270,1013 296,1013 323,1010 349,1010 375,1008 402,1008 428,1007 454,1007 481,1007 507,1007 533,1008 560,1008"/>
+                <TextEquiv>
+                    <Unicode>15/1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rHmNG_1l2" custom="readingOrder {index:1;}">
+                <Coords points="286,1142 322,1133 334,1143 369,1132 421,1151 464,1140 486,1153 519,1151 522,1049 492,1038 434,1064 384,1060 353,1086 336,1078 288,1082"/>
+                <Baseline points="300,1124 325,1126 351,1128 377,1130 403,1130 428,1131 454,1131 480,1131 506,1131"/>
+                <TextEquiv>
+                    <Unicode>nebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rHmNG_1l3" custom="readingOrder {index:2;}">
+                <Coords points="317,1253 360,1247 399,1261 477,1263 488,1141 476,1140 454,1156 445,1147 426,1158 417,1147 383,1136 328,1139"/>
+                <Baseline points="332,1229 359,1237 386,1241 413,1243 440,1244 467,1242"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1518
+nebene
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rXJK8_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="599,229 1558,229 1558,445 599,445"/>
+            <TextLine id="rXJK8_2l1" custom="readingOrder {index:0;}">
+                <Coords points="672,405 874,416 952,383 1204,386 1339,428 1421,398 1422,301 1212,301 1104,248 954,266 889,231 672,278"/>
+                <Baseline points="684,377 720,377 756,377 792,375 829,375 865,375 901,375 938,375 974,375 1010,375 1047,375 1083,377 1119,377 1155,377 1192,377 1228,377 1264,377 1301,377 1337,376 1373,375 1410,375"/>
+                <TextEquiv>
+                    <Unicode>1658. Juni 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1658. Juni 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rWCFZ_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="599,451 2693,451 2693,2003 599,2003"/>
+            <TextLine id="rWCFZ_3l1" custom="readingOrder {index:0;}">
+                <Coords points="655,582 775,612 860,584 1110,584 1245,616 1302,581 1467,594 1467,529 1205,459 1135,459 977,532 812,429 655,449"/>
+                <Baseline points="668,567 707,570 746,572 785,573 825,575 864,575 903,575 943,576 982,576 1021,575 1061,575 1100,575 1139,574 1178,573 1218,573 1257,572 1296,572 1336,572 1375,572 1414,572 1454,572"/>
+                <TextEquiv>
+                    <Unicode>Schultheissen Urkunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l2" custom="readingOrder {index:1;}">
+                <Coords points="682,689 2104,684 2187,741 2649,694 2649,589 2566,579 2127,646 1934,589 1797,645 1637,573 1070,638 682,592"/>
+                <Baseline points="696,675 793,675 890,674 987,674 1084,674 1181,674 1278,674 1375,674 1472,674 1569,674 1666,672 1763,672 1860,672 1957,672 2054,672 2151,671 2248,671 2345,669 2442,668 2539,666 2636,665"/>
+                <TextEquiv>
+                    <Unicode>Mr. Hannss Märfiht der Sührman kauft von weyl. Trauen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l3" custom="readingOrder {index:2;}">
+                <Coords points="679,795 2646,810 2646,698 2518,683 1943,740 1778,677 679,690"/>
+                <Baseline points="692,768 789,771 886,771 983,773 1080,773 1177,774 1274,774 1371,774 1468,773 1565,773 1662,773 1759,771 1856,771 1953,770 2050,770 2147,770 2244,768 2341,768 2438,768 2535,768 2633,768"/>
+                <TextEquiv>
+                    <Unicode>Erlisabetha Jselin, Hin. Hans Frentzen dess Raths sel. Wittib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l4" custom="readingOrder {index:3;}">
+                <Coords points="675,883 1239,879 1370,938 1499,883 2074,931 2446,878 2596,940 2674,922 2674,822 674,798"/>
+                <Baseline points="687,873 785,873 884,873 983,873 1081,873 1180,873 1279,873 1377,873 1476,872 1575,872 1674,870 1772,870 1871,870 1970,869 2068,869 2167,869 2266,869 2364,869 2463,869 2562,869 2661,870"/>
+                <TextEquiv>
+                    <Unicode>Erben die Wirttschaft Zun Raaben genant, sambt Scheuen-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l5" custom="readingOrder {index:4;}">
+                <Coords points="644,988 946,1043 1014,985 2558,980 2288,876 2068,936 1831,877 1658,937 644,901"/>
+                <Baseline points="656,966 750,969 845,969 939,971 1034,972 1128,972 1223,972 1317,972 1412,972 1506,971 1601,971 1695,971 1790,969 1884,969 1979,968 2073,968 2168,968 2262,968 2357,968 2451,968 2546,968"/>
+                <TextEquiv>
+                    <Unicode>Stallung, Gartten, auch darzu die Stallina dess Lapplins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l6" custom="readingOrder {index:5;}">
+                <Coords points="644,1079 2536,1119 2503,972 2276,1042 2041,961 1826,1047 1498,981 941,1051 644,992"/>
+                <Baseline points="656,1067 749,1068 842,1070 935,1071 1029,1071 1122,1073 1215,1073 1309,1073 1402,1072 1495,1071 1589,1071 1682,1070 1775,1070 1868,1068 1962,1067 2055,1067 2148,1065 2242,1065 2335,1064 2428,1064 2522,1062"/>
+                <TextEquiv>
+                    <Unicode>Stall venant, in Eschemer Vorstatt einseits neben dem Hoof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l7" custom="readingOrder {index:6;}">
+                <Coords points="641,1195 1516,1174 1761,1244 2170,1175 2378,1242 2665,1176 2665,1106 2480,1141 2320,1082 1138,1146 641,1080"/>
+                <Baseline points="654,1172 753,1172 853,1172 953,1172 1053,1172 1153,1172 1253,1172 1353,1172 1453,1172 1553,1170 1653,1170 1752,1170 1852,1169 1952,1169 2052,1169 2152,1169 2252,1167 2352,1167 2452,1167 2552,1167 2652,1167"/>
+                <TextEquiv>
+                    <Unicode>Dun Paraders, anderseits neben Greyorio Schulern gelegen, und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l8" custom="readingOrder {index:7;}">
+                <Coords points="649,1321 1893,1263 2238,1341 2643,1317 2642,1229 2452,1198 1952,1180 1708,1244 1570,1189 648,1194"/>
+                <Baseline points="660,1275 758,1274 857,1274 955,1272 1054,1272 1152,1271 1251,1271 1349,1270 1448,1269 1546,1269 1645,1269 1744,1269 1842,1269 1941,1268 2039,1268 2138,1268 2236,1266 2335,1266 2433,1266 2532,1265 2631,1263"/>
+                <TextEquiv>
+                    <Unicode>hinden auf den Wirttembergischen Hoot stossend, dessgleichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l9" custom="readingOrder {index:8;}">
+                <Coords points="647,1391 820,1435 1549,1366 1732,1440 1974,1374 2366,1440 2553,1371 2553,1324 1923,1264 1781,1323 1436,1277 647,1324"/>
+                <Baseline points="660,1374 754,1373 848,1373 942,1373 1036,1371 1130,1371 1224,1371 1318,1371 1412,1370 1506,1370 1600,1370 1694,1368 1788,1368 1882,1368 1976,1367 2070,1367 2164,1367 2258,1365 2352,1365 2446,1364 2541,1364"/>
+                <TextEquiv>
+                    <Unicode>des zu solcher Wirttschaft ithörigen Fischbronnen auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l10" custom="readingOrder {index:9;}">
+                <Coords points="636,1480 1066,1485 1237,1537 1361,1486 1556,1547 1743,1491 1743,1438 1550,1367 1498,1407 1263,1391 1201,1449 1101,1405 1051,1435 821,1429 716,1377 636,1405"/>
+                <Baseline points="650,1458 704,1464 758,1468 812,1472 866,1473 920,1475 974,1475 1028,1475 1082,1475 1136,1473 1190,1472 1244,1470 1298,1469 1352,1467 1406,1466 1460,1464 1514,1464 1568,1463 1622,1464 1676,1465 1730,1467"/>
+                <TextEquiv>
+                    <Unicode>Bluombing, sum 3800 ℔ Ofelts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1436,1697 1473,1712 1553,1675 1718,1713 1766,1678 1798,1698 1911,1675 2168,1698 2168,1619 2048,1573 1866,1573 1753,1623 1514,1520 1436,1525"/>
+                <Baseline points="1448,1656 1483,1659 1518,1661 1554,1664 1589,1665 1625,1665 1660,1666 1695,1667 1731,1667 1766,1666 1802,1665 1837,1665 1872,1664 1908,1664 1943,1664 1979,1663 2014,1662 2049,1662 2085,1664 2120,1664 2156,1665"/>
+                <TextEquiv>
+                    <Unicode>St. Urk. No 3881.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l12" custom="readingOrder {index:11;}">
+                <Coords points="715,1799 772,1828 802,1811 1005,1845 1130,1794 1197,1822 1250,1814 1287,1846 1370,1826 1369,1708 1237,1734 1177,1714 1107,1747 857,1668 759,1696 714,1684"/>
+                <Baseline points="728,1790 759,1795 791,1799 822,1802 854,1805 885,1806 917,1806 948,1806 980,1806 1011,1805 1043,1804 1074,1802 1106,1802 1137,1800 1169,1799 1200,1797 1232,1797 1263,1797 1295,1798 1326,1800 1358,1802"/>
+                <TextEquiv>
+                    <Unicode>Kerben = 25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWCFZ_3l13" custom="readingOrder {index:12;}">
+                <Coords points="742,1980 995,1991 1361,1931 1461,1954 1521,1941 1519,1816 1404,1820 1337,1854 1121,1791 1074,1832 892,1843 834,1821 740,1860"/>
+                <Baseline points="753,1940 790,1943 828,1946 866,1948 904,1949 942,1950 979,1950 1017,1949 1055,1949 1093,1947 1131,1946 1168,1944 1206,1942 1244,1941 1282,1939 1320,1938 1357,1937 1395,1936 1433,1935 1471,1935 1509,1937"/>
+                <TextEquiv>
+                    <Unicode>Paradir = 13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Schultheissen Urkunde
+Mr. Hannss Märfiht der Sührman kauft von weyl. Trauen
+Erlisabetha Jselin, Hin. Hans Frentzen dess Raths sel. Wittib
+Erben die Wirttschaft Zun Raaben genant, sambt Scheuen-
+Stallung, Gartten, auch darzu die Stallina dess Lapplins
+Stall venant, in Eschemer Vorstatt einseits neben dem Hoof
+Dun Paraders, anderseits neben Greyorio Schulern gelegen, und
+hinden auf den Wirttembergischen Hoot stossend, dessgleichen
+des zu solcher Wirttschaft ithörigen Fischbronnen auf dem
+Bluombing, sum 3800 ℔ Ofelts.
+St. Urk. No 3881.
+Kerben = 25
+Paradir = 13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

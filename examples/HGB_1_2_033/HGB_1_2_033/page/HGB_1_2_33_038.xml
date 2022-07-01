@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:30:12</Created>
+        <LastChange>2020-04-19T01:28:19.688+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869438" pageNr="38" tsid="27912613" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=JEOXBAMFHUPDKXFRHHBSWFBW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCIMXWERSPHCBJKSBIMEHHOG" imageId="5736301"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_038.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rtv8E_1"/>
+                <RegionRefIndexed index="1" regionRef="r5TsD_2"/>
+                <RegionRefIndexed index="2" regionRef="r2zcO_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rtv8E_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="190,761 653,761 653,1187 190,1187"/>
+            <TextLine id="rtv8E_1l1" custom="readingOrder {index:0;}">
+                <Coords points="189,961 223,948 313,968 430,967 457,952 547,961 546,790 474,793 449,810 332,781 295,806 260,799 188,829"/>
+                <Baseline points="201,897 226,893 252,891 277,890 303,890 329,890 354,890 380,890 405,890 431,891 457,891 482,891 508,891 534,891"/>
+                <TextEquiv>
+                    <Unicode>22/1544</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtv8E_1l2" custom="readingOrder {index:1;}">
+                <Coords points="275,1040 315,1040 352,1063 377,1051 426,1064 466,1047 489,1065 506,1050 526,1048 527,986 484,990 430,980 397,1004 380,991 358,999 340,983 318,998 301,985 276,985"/>
+                <Baseline points="287,1035 312,1038 337,1041 362,1043 387,1043 412,1043 437,1042 462,1041 487,1041 513,1040"/>
+                <TextEquiv>
+                    <Unicode>Rerlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtv8E_1l3" custom="readingOrder {index:2;}">
+                <Coords points="304,1191 327,1193 342,1186 361,1193 367,1188 371,1194 384,1190 410,1209 426,1198 453,1205 462,1094 441,1097 401,1071 380,1090 355,1085 342,1097 312,1089"/>
+                <Baseline points="321,1145 351,1152 382,1154 413,1155 444,1157"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22/1544
+Rerlin
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5TsD_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="642,251 1673,251 1673,390 642,390"/>
+            <TextLine id="r5TsD_2l1" custom="readingOrder {index:0;}">
+                <Coords points="661,395 877,423 957,385 1029,436 1206,399 1344,449 1449,386 1531,420 1690,401 1693,264 1608,253 1418,316 1211,255 1026,297 940,260 837,293 664,268"/>
+                <Baseline points="674,363 724,365 774,366 824,368 875,369 925,371 975,372 1025,373 1076,374 1126,375 1176,377 1226,377 1277,378 1327,378 1377,380 1427,380 1478,380 1528,380 1578,381 1628,381 1679,381"/>
+                <TextEquiv>
+                    <Unicode>1624 uf Püngsten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1624 uf Püngsten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2zcO_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,366 2671,366 2671,1885 628,1885"/>
+            <TextLine id="r2zcO_3l1" custom="readingOrder {index:0;}">
+                <Coords points="645,491 2511,553 2658,506 2658,325 2268,451 1923,393 1406,452 645,411"/>
+                <Baseline points="659,468 758,472 857,474 957,476 1056,477 1155,479 1255,479 1354,479 1453,479 1553,477 1652,477 1751,476 1851,476 1950,476 2049,476 2149,476 2248,476 2347,476 2447,477 2546,479 2646,482"/>
+                <TextEquiv>
+                    <Unicode>Item die herberg zum Rappen zinst Jer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l2" custom="readingOrder {index:1;}">
+                <Coords points="649,606 2505,631 2505,539 2346,516 649,534"/>
+                <Baseline points="662,575 753,575 845,575 936,575 1028,575 1119,573 1211,573 1302,573 1394,573 1485,573 1577,573 1669,573 1760,573 1852,575 1943,575 2035,576 2126,578 2218,579 2309,581 2401,582 2493,585"/>
+                <TextEquiv>
+                    <Unicode>lich in gelt - 10 ß oder ein wagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l3" custom="readingOrder {index:2;}">
+                <Coords points="650,684 812,684 879,706 901,691 960,744 995,748 1127,698 1129,606 1099,600 1027,629 950,595 920,614 891,586 830,625 652,607"/>
+                <Baseline points="662,663 687,666 712,668 737,669 762,671 788,672 813,672 838,674 863,674 889,674 914,674 939,674 964,674 989,674 1015,674 1040,675 1065,675 1090,675 1116,675"/>
+                <TextEquiv>
+                    <Unicode>mit höltz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l4" custom="readingOrder {index:3;}">
+                <Coords points="670,796 2486,834 2600,812 2601,725 670,707"/>
+                <Baseline points="683,767 778,770 873,773 968,774 1064,776 1159,776 1254,776 1349,776 1445,776 1540,774 1635,774 1730,773 1826,773 1921,771 2016,771 2111,772 2207,773 2302,774 2397,776 2492,779 2588,783"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1625. Ebenso 1656. Ebenso 1627.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l5" custom="readingOrder {index:4;}">
+                <Coords points="692,893 2593,936 2643,842 2270,783 2002,839 692,793"/>
+                <Baseline points="704,866 800,869 896,870 992,872 1089,873 1185,873 1281,873 1378,873 1474,873 1570,873 1667,872 1763,872 1859,872 1955,872 2052,872 2148,873 2244,873 2341,876 2437,878 2533,881 2630,885"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1638. Ebenso 1629. Ebenso 1630.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l6" custom="readingOrder {index:5;}">
+                <Coords points="676,1004 2612,989 2612,912 2530,897 1638,944 676,895"/>
+                <Baseline points="689,968 784,971 880,972 975,974 1071,975 1166,977 1262,977 1357,976 1453,975 1548,975 1644,974 1740,974 1835,973 1931,972 2026,972 2122,972 2217,972 2313,972 2408,974 2504,975 2600,978"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1631. Ebenso 1632. 1633 fehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l7" custom="readingOrder {index:6;}">
+                <Coords points="676,1101 2654,1109 2674,997 676,1014"/>
+                <Baseline points="689,1067 787,1071 886,1073 984,1074 1083,1076 1181,1077 1280,1077 1378,1077 1477,1077 1575,1076 1674,1076 1773,1074 1871,1074 1970,1073 2068,1073 2167,1073 2265,1073 2364,1073 2462,1074 2561,1076 2660,1077"/>
+                <TextEquiv>
+                    <Unicode>1634 wie oben. Ebenso 1635. Ebenso 1636.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l8" custom="readingOrder {index:7;}">
+                <Coords points="685,1185 752,1202 816,1182 921,1197 998,1182 1020,1204 1062,1194 1109,1231 1157,1212 1187,1224 1226,1192 1278,1194 1278,1112 1102,1090 1003,1142 821,1088 781,1110 684,1105"/>
+                <Baseline points="696,1169 724,1170 752,1172 781,1173 809,1173 838,1175 866,1175 895,1175 923,1175 952,1175 980,1175 1008,1175 1037,1173 1065,1173 1094,1172 1122,1172 1151,1172 1179,1172 1208,1172 1236,1172 1265,1172"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1637.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1448,1198 2207,1184 2328,1220 2495,1185 2658,1221 2659,1139 2620,1119 2344,1136 2163,1084 1626,1136 1564,1090 1450,1094"/>
+                <Baseline points="1460,1164 1519,1167 1578,1169 1637,1172 1697,1173 1756,1173 1815,1175 1875,1175 1934,1175 1993,1175 2053,1174 2112,1173 2171,1173 2230,1173 2290,1175 2349,1175 2408,1176 2468,1178 2527,1181 2586,1184 2646,1188"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1638. Ebenso 1639.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l10" custom="readingOrder {index:9;}">
+                <Coords points="686,1300 2674,1290 2674,1228 2438,1188 686,1223"/>
+                <Baseline points="698,1268 796,1271 894,1272 992,1274 1090,1274 1188,1275 1286,1275 1384,1275 1482,1274 1580,1274 1679,1272 1777,1272 1875,1271 1973,1271 2071,1271 2169,1271 2267,1271 2365,1272 2463,1274 2561,1275 2660,1278"/>
+                <TextEquiv>
+                    <Unicode>Ebenso 1640. 1641 fehlt. 1642 wie oben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l11" custom="readingOrder {index:10;}">
+                <Coords points="655,1415 720,1438 797,1416 859,1429 951,1390 1038,1442 1123,1403 1167,1421 1210,1401 1331,1409 1332,1337 1247,1337 1146,1299 1004,1333 942,1310 790,1334 718,1301 656,1306"/>
+                <Baseline points="668,1374 700,1376 733,1376 765,1376 798,1376 830,1377 863,1377 895,1377 928,1376 960,1376 993,1376 1026,1376 1058,1376 1091,1376 1123,1377 1156,1377 1188,1377 1221,1379 1253,1379 1286,1380 1319,1382"/>
+                <TextEquiv>
+                    <Unicode>1643 - 1647 fehlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2zcO_3l12" custom="readingOrder {index:11;}">
+                <Coords points="1374,1594 1589,1621 2049,1545 2443,1569 2514,1540 2513,1482 2362,1496 2173,1426 2097,1467 1970,1433 1755,1490 1372,1507"/>
+                <Baseline points="1386,1554 1441,1554 1497,1554 1553,1553 1609,1551 1665,1550 1720,1550 1776,1548 1832,1547 1888,1545 1944,1544 1999,1542 2055,1541 2111,1539 2167,1538 2223,1536 2278,1535 2334,1533 2390,1533 2446,1532 2502,1532"/>
+                <TextEquiv>
+                    <Unicode>ODT BAS ADT BADTTASER ADD DTASEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item die herberg zum Rappen zinst Jer.
+lich in gelt - 10 ß oder ein wagen
+mit höltz.
+Ebenso 1625. Ebenso 1656. Ebenso 1627.
+Ebenso 1638. Ebenso 1629. Ebenso 1630.
+Ebenso 1631. Ebenso 1632. 1633 fehlt.
+1634 wie oben. Ebenso 1635. Ebenso 1636.
+Ebenso 1637.
+Ebenso 1638. Ebenso 1639.
+Ebenso 1640. 1641 fehlt. 1642 wie oben
+1643 - 1647 fehlen.
+ODT BAS ADT BADTTASER ADD DTASEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

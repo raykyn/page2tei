@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:50</Created>
+        <LastChange>2020-04-19T01:36:26.715+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869576" pageNr="67" tsid="27912934" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=IRTRXGQSRISUATRTRFFQQXRJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZNATDTNQWGBGCCPQGNIYHQUP" imageId="5736439"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_067.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242877" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rA4SH_1"/>
+                <RegionRefIndexed index="1" regionRef="rOTi3_2"/>
+                <RegionRefIndexed index="2" regionRef="rXmPO_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rA4SH_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="197,622 632,622 632,1056 197,1056"/>
+            <TextLine id="rA4SH_1l1" custom="readingOrder {index:0;}">
+                <Coords points="310,662 374,670 409,663 438,694 488,696 492,569 452,563 426,544 410,551 391,533 369,532 347,512 329,526 314,523"/>
+                <Baseline points="323,660 348,659 374,660 399,662 425,663 450,663 476,663"/>
+                <TextEquiv>
+                    <Unicode>h v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rA4SH_1l2" custom="readingOrder {index:1;}">
+                <Coords points="188,863 260,859 307,875 405,820 438,833 453,824 477,844 530,820 582,817 584,715 532,704 490,718 394,668 334,669 312,649 193,646"/>
+                <Baseline points="201,795 227,793 253,791 280,791 306,791 332,792 359,792 385,794 411,797 438,797 464,798 490,800 517,798 543,797 570,795"/>
+                <TextEquiv>
+                    <Unicode>15/ 1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rA4SH_1l3" custom="readingOrder {index:2;}">
+                <Coords points="281,915 367,931 392,952 422,933 490,928 520,917 523,835 458,850 429,826 419,831 404,820 389,834 364,836 338,860 328,857 297,886 282,883"/>
+                <Baseline points="293,912 319,915 346,918 373,918 400,920 426,920 453,920 480,921 507,923"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rA4SH_1l4" custom="readingOrder {index:3;}">
+                <Coords points="307,1035 327,1037 341,1050 370,1032 404,1046 433,1021 460,1020 464,963 451,962 435,951 425,953 410,939 390,951 368,932 314,929"/>
+                <Baseline points="320,1014 345,1021 371,1025 397,1026 423,1025 449,1023"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>h v
+15/ 1518
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rOTi3_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="628,246 1612,246 1612,445 628,445"/>
+            <TextLine id="rOTi3_2l1" custom="readingOrder {index:0;}">
+                <Coords points="668,393 760,442 991,386 1059,427 1225,391 1392,432 1474,404 1541,424 1540,302 1483,324 1286,264 1197,292 1110,268 953,321 667,303"/>
+                <Baseline points="680,383 722,383 764,383 807,383 849,383 892,383 934,383 977,383 1019,383 1062,382 1104,381 1146,381 1189,381 1231,381 1274,381 1316,380 1359,380 1401,378 1444,378 1486,377 1529,375"/>
+                <TextEquiv>
+                    <Unicode>1737. Juli. 17.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1737. Juli. 17.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rXmPO_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="624,447 2657,447 2657,1676 624,1676"/>
+            <TextLine id="rXmPO_3l1" custom="readingOrder {index:0;}">
+                <Coords points="643,584 2586,584 2554,510 2158,483 1165,549 643,509"/>
+                <Baseline points="656,572 751,575 847,578 943,579 1039,581 1135,581 1231,581 1327,581 1423,581 1519,581 1615,581 1710,579 1806,579 1902,578 1998,578 2094,578 2190,576 2286,576 2382,576 2478,576 2574,578"/>
+                <TextEquiv>
+                    <Unicode>Johannes Marcht, Gastgeb zum Raaben sel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l2" custom="readingOrder {index:1;}">
+                <Coords points="653,716 2146,682 2579,738 2579,648 2206,590 1726,651 653,584"/>
+                <Baseline points="665,675 760,677 855,678 950,678 1045,678 1140,680 1235,680 1330,680 1425,680 1520,680 1616,680 1711,680 1806,680 1901,680 1996,680 2091,680 2186,680 2281,681 2376,681 2471,683 2567,684"/>
+                <TextEquiv>
+                    <Unicode>frau Wittib, Besitzerin dieses Wurthshauses in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l3" custom="readingOrder {index:2;}">
+                <Coords points="656,815 2537,788 2398,701 656,716"/>
+                <Baseline points="669,780 761,779 854,778 947,777 1040,777 1133,777 1225,777 1318,776 1411,776 1504,776 1597,776 1689,776 1782,776 1875,776 1968,776 2061,776 2153,776 2246,776 2339,776 2432,776 2525,774"/>
+                <TextEquiv>
+                    <Unicode>Eschen Vorstatt, klagt wider Hans Georg Nadler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l4" custom="readingOrder {index:3;}">
+                <Coords points="637,903 2603,918 2653,811 637,829"/>
+                <Baseline points="650,872 749,875 849,876 948,878 1048,878 1147,879 1247,879 1346,879 1446,879 1545,879 1645,879 1744,879 1844,879 1943,878 2043,878 2142,878 2242,876 2341,876 2441,876 2540,876 2640,876"/>
+                <TextEquiv>
+                    <Unicode>Besitzer der Echebehausung in Gemeinengasslin, befr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l5" custom="readingOrder {index:4;}">
+                <Coords points="660,983 714,1004 764,982 826,1011 886,982 990,996 1080,982 1127,1000 1182,976 1183,929 1073,945 1029,902 967,931 900,897 837,924 703,914 661,894"/>
+                <Baseline points="671,974 697,974 723,974 749,974 775,974 802,974 828,974 854,975 880,975 906,977 933,977 959,977 985,978 1011,978 1037,978 1064,978 1090,980 1116,980 1142,980 1169,980"/>
+                <TextEquiv>
+                    <Unicode>Wasserstein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1356,1127 1687,1156 1836,1087 1978,1140 2269,1081 2633,1120 2656,986 2382,1022 2073,991 1921,1042 1531,928 1357,940"/>
+                <Baseline points="1368,1065 1431,1068 1495,1070 1559,1072 1623,1074 1686,1074 1750,1076 1814,1076 1878,1076 1941,1076 2005,1076 2069,1076 2133,1074 2196,1074 2260,1074 2324,1074 2388,1074 2451,1076 2515,1076 2579,1077 2643,1079"/>
+                <TextEquiv>
+                    <Unicode>Fünfergerichtsprot. 29. 341.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l7" custom="readingOrder {index:6;}">
+                <Coords points="1218,1332 1238,1327 1255,1342 1280,1338 1310,1358 1325,1356 1367,1314 1395,1309 1396,1192 1344,1191 1326,1204 1307,1191 1264,1193 1254,1183 1220,1180"/>
+                <Baseline points="1230,1316 1255,1317 1281,1319 1306,1320 1332,1320 1357,1319 1383,1316"/>
+                <TextEquiv>
+                    <Unicode>Th v</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l8" custom="readingOrder {index:7;}">
+                <Coords points="692,1387 1095,1455 1260,1379 1453,1439 1533,1393 1740,1423 1740,1356 1649,1305 1581,1339 1512,1290 1413,1299 1325,1355 1198,1321 1156,1353 959,1351 823,1272 693,1308"/>
+                <Baseline points="704,1365 755,1375 806,1382 857,1388 908,1391 959,1394 1010,1395 1062,1395 1113,1395 1164,1395 1215,1394 1266,1392 1317,1391 1368,1389 1420,1389 1471,1389 1522,1389 1573,1391 1624,1394 1675,1398 1727,1403"/>
+                <TextEquiv>
+                    <Unicode>Rappung = 15 neb 13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1581,1503 1738,1487 1889,1514 1922,1497 2066,1506 2068,1436 2007,1410 1923,1458 1835,1415 1762,1441 1698,1414 1584,1406"/>
+                <Baseline points="1595,1487 1620,1487 1646,1487 1671,1487 1697,1487 1722,1487 1748,1488 1773,1489 1799,1490 1825,1491 1850,1492 1876,1493 1901,1494 1927,1494 1952,1496 1978,1496 2003,1496 2029,1496 2055,1496"/>
+                <TextEquiv>
+                    <Unicode>Th v (neben 15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rXmPO_3l10" custom="readingOrder {index:9;}">
+                <Coords points="674,1607 1044,1647 1273,1594 1425,1645 2067,1587 2172,1640 2301,1621 2302,1491 1772,1488 1704,1540 1463,1478 1087,1521 675,1448"/>
+                <Baseline points="686,1574 766,1575 846,1577 926,1578 1006,1578 1086,1578 1166,1578 1246,1578 1326,1578 1406,1578 1487,1577 1567,1577 1647,1577 1727,1578 1807,1578 1887,1580 1967,1581 2047,1583 2127,1586 2207,1590 2288,1593"/>
+                <TextEquiv>
+                    <Unicode>Mächt Joh Eig v 153 seit 1658</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Johannes Marcht, Gastgeb zum Raaben sel.
+frau Wittib, Besitzerin dieses Wurthshauses in
+Eschen Vorstatt, klagt wider Hans Georg Nadler
+Besitzer der Echebehausung in Gemeinengasslin, befr.
+Wasserstein
+Fünfergerichtsprot. 29. 341.
+Th v
+Rappung = 15 neb 13
+Th v (neben 15
+Mächt Joh Eig v 153 seit 1658</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

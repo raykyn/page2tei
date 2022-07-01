@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:00</Created>
+        <LastChange>2020-04-19T01:28:34.821+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869442" pageNr="39" tsid="27912620" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=RRPHUWHLZDVISPOYADNNZSYC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BUFMLXTWJHXVJKTMLHGSEHNE" imageId="5736305"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_039.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242849" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r3sGz_1"/>
+                <RegionRefIndexed index="1" regionRef="rHuYo_2"/>
+                <RegionRefIndexed index="2" regionRef="r8KZv_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r3sGz_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="226,844 632,844 632,1213 226,1213"/>
+            <TextLine id="r3sGz_1l1" custom="readingOrder {index:0;}">
+                <Coords points="272,993 321,985 363,1022 401,991 442,982 505,986 531,1002 568,985 590,990 598,913 574,900 462,891 426,847 289,826"/>
+                <Baseline points="290,950 316,954 342,957 368,960 394,964 420,968 447,971 473,973 499,975 525,976 551,977 578,978"/>
+                <TextEquiv>
+                    <Unicode>2/ 1518</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3sGz_1l2" custom="readingOrder {index:1;}">
+                <Coords points="330,1071 350,1069 370,1086 407,1094 427,1112 483,1075 508,1090 550,1090 551,1023 498,1032 448,1004 408,1024 383,1006 365,1021 330,1011"/>
+                <Baseline points="342,1067 370,1070 398,1070 426,1071 454,1071 482,1070 510,1070 539,1071"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3sGz_1l3" custom="readingOrder {index:2;}">
+                <Coords points="366,1193 386,1192 398,1200 411,1189 419,1189 428,1197 441,1198 477,1178 490,1179 492,1131 465,1127 444,1110 411,1106 397,1092 392,1095 385,1089 372,1088"/>
+                <Baseline points="378,1175 410,1181 443,1182 476,1182"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>2/ 1518
+neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rHuYo_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="793,233 2075,233 2075,397 793,397"/>
+            <TextLine id="rHuYo_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1042,368 1173,365 1279,414 1514,369 1595,403 1747,368 2026,398 2024,295 1966,286 1854,303 1740,270 1575,313 1502,272 1204,312 1041,272"/>
+                <Baseline points="1055,357 1102,356 1150,356 1198,355 1246,354 1294,353 1342,353 1389,351 1437,350 1485,350 1533,348 1581,347 1629,347 1677,345 1724,345 1772,344 1820,344 1868,342 1916,342 1964,342 2012,342"/>
+                <TextEquiv>
+                    <Unicode>AdTADDDD DDT STDSTSA SEDET BASSEL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AdTADDDD DDT STDSTSA SEDET BASSEL.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r8KZv_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="628,381 2686,381 2686,1807 628,1807"/>
+            <TextLine id="r8KZv_3l1" custom="readingOrder {index:0;}">
+                <Coords points="694,470 711,470 724,457 759,459 764,454 799,461 831,453 867,460 866,399 833,403 820,395 803,408 788,401 766,414 730,402 718,410 693,408"/>
+                <Baseline points="705,450 730,452 755,452 780,450 805,449 830,449 855,450"/>
+                <TextEquiv>
+                    <Unicode>1630.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l2" custom="readingOrder {index:1;}">
+                <Coords points="727,566 1303,619 1451,567 2020,618 2590,581 2590,503 2360,442 2191,491 1853,446 1645,516 1251,431 1098,508 933,436 727,468"/>
+                <Baseline points="738,545 834,545 931,545 1028,545 1125,546 1221,546 1318,548 1415,548 1512,549 1609,549 1705,551 1802,551 1899,552 1996,552 2093,552 2189,553 2286,554 2383,553 2480,552 2577,552"/>
+                <TextEquiv>
+                    <Unicode>Wilhelm Thernysen, des Wirths zum Kappen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l3" custom="readingOrder {index:2;}">
+                <Coords points="667,677 748,666 768,684 808,684 825,670 845,687 888,673 915,696 1074,652 1111,677 1131,673 1133,610 1097,607 1035,568 957,587 920,558 860,587 832,579 799,596 764,583 669,609"/>
+                <Baseline points="680,645 705,644 731,644 757,644 783,644 808,644 834,644 860,645 886,646 911,647 937,647 963,648 989,648 1014,650 1040,650 1066,650 1092,650 1118,650"/>
+                <TextEquiv>
+                    <Unicode>sel. Erben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l4" custom="readingOrder {index:3;}">
+                <Coords points="771,791 2647,781 2647,696 2128,715 1932,627 1511,714 1235,621 1165,676 771,683"/>
+                <Baseline points="785,747 877,747 969,747 1062,747 1154,747 1247,749 1339,749 1432,750 1524,750 1617,752 1709,752 1801,753 1894,753 1986,753 2079,753 2171,753 2264,752 2356,750 2449,749 2541,746 2634,743"/>
+                <TextEquiv>
+                    <Unicode>zuvor Georg Schlotser, Jacob Reino undt Martin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l5" custom="readingOrder {index:4;}">
+                <Coords points="674,908 716,888 749,891 784,868 814,888 872,866 892,886 922,881 947,896 980,883 980,781 955,771 912,791 849,783 809,796 787,788 769,801 734,783 674,803"/>
+                <Baseline points="687,846 712,847 737,848 763,848 788,849 813,849 839,849 864,849 889,849 915,848 940,847 966,846"/>
+                <TextEquiv>
+                    <Unicode>Streiff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l6" custom="readingOrder {index:5;}">
+                <Coords points="698,979 2626,980 2626,905 1844,906 1674,813 1493,887 1305,828 1092,903 698,893"/>
+                <Baseline points="710,947 805,945 900,945 995,945 1090,945 1185,945 1280,947 1376,947 1471,948 1566,950 1661,950 1756,951 1851,951 1946,953 2042,953 2137,953 2232,953 2327,953 2422,951 2517,950 2613,948"/>
+                <TextEquiv>
+                    <Unicode>geben vom Hauß zum Rappen und desselbigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l7" custom="readingOrder {index:6;}">
+                <Coords points="671,1094 2642,1112 2642,989 2561,976 671,1006"/>
+                <Baseline points="683,1049 780,1049 877,1049 975,1049 1072,1049 1169,1049 1267,1050 1364,1050 1461,1050 1559,1052 1656,1052 1753,1052 1851,1053 1948,1053 2045,1053 2143,1052 2240,1052 2337,1052 2435,1050 2532,1049 2630,1047"/>
+                <TextEquiv>
+                    <Unicode>Giefferen laut des dritten fährbuch 3 ℔ 14 ß bis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l8" custom="readingOrder {index:7;}">
+                <Coords points="683,1166 2571,1190 2571,1102 2418,1085 683,1085"/>
+                <Baseline points="695,1154 788,1152 881,1151 974,1149 1067,1149 1160,1149 1253,1149 1347,1149 1440,1151 1533,1151 1626,1152 1719,1152 1812,1154 1905,1154 1999,1154 2092,1154 2185,1152 2278,1151 2371,1149 2464,1146 2558,1142"/>
+                <TextEquiv>
+                    <Unicode>und von 7 Juchf Acklers in der mithleren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l9" custom="readingOrder {index:8;}">
+                <Coords points="656,1267 1859,1333 1939,1273 2391,1263 2536,1319 2684,1300 2685,1184 656,1192"/>
+                <Baseline points="668,1242 768,1242 868,1244 968,1244 1069,1245 1169,1245 1269,1247 1369,1247 1470,1248 1570,1248 1670,1250 1770,1250 1871,1251 1971,1251 2071,1251 2171,1253 2272,1252 2372,1251 2472,1251 2572,1250 2673,1250"/>
+                <TextEquiv>
+                    <Unicode>Hardt 1 ℔ 1 ß. Thuet zusammen 4 ℔ 15ß63.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l10" custom="readingOrder {index:9;}">
+                <Coords points="673,1387 726,1365 929,1389 1087,1369 1165,1394 1380,1378 1441,1405 1440,1305 1375,1283 1337,1305 996,1309 964,1289 869,1314 673,1285"/>
+                <Baseline points="686,1350 723,1350 760,1352 797,1352 834,1352 871,1352 908,1352 945,1352 982,1352 1019,1352 1057,1352 1094,1352 1131,1352 1168,1352 1205,1352 1242,1350 1279,1350 1316,1350 1353,1350 1390,1349 1428,1349"/>
+                <TextEquiv>
+                    <Unicode>140450o 1031 1532 1833</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8KZv_3l11" custom="readingOrder {index:10;}">
+                <Coords points="1777,1570 1851,1593 2038,1570 2149,1618 2258,1600 2347,1611 2351,1516 2314,1504 2266,1517 2204,1494 2096,1505 2019,1479 1978,1498 1781,1477"/>
+                <Baseline points="1790,1539 1817,1539 1844,1539 1872,1541 1899,1541 1926,1542 1954,1544 1981,1544 2008,1545 2036,1547 2063,1548 2090,1549 2118,1550 2145,1551 2172,1553 2200,1554 2227,1556 2254,1557 2282,1557 2309,1559 2337,1560"/>
+                <TextEquiv>
+                    <Unicode>S. Jtar - 60bord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1630.
+Wilhelm Thernysen, des Wirths zum Kappen
+sel. Erben.
+zuvor Georg Schlotser, Jacob Reino undt Martin
+Streiff
+geben vom Hauß zum Rappen und desselbigen
+Giefferen laut des dritten fährbuch 3 ℔ 14 ß bis
+und von 7 Juchf Acklers in der mithleren
+Hardt 1 ℔ 1 ß. Thuet zusammen 4 ℔ 15ß63.
+140450o 1031 1532 1833
+S. Jtar - 60bord</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

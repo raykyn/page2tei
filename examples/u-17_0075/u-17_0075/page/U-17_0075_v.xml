@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-03-05T13:25:15.355+01:00</Created>
+        <LastChange>2020-12-09T10:20:06.800+01:00</LastChange>
+        <TranskribusMetadata docId="19694" pageId="5014906" pageNr="2" tsid="50206118" status="IN_PROGRESS" userId="6767" imgUrl="https://files.transkribus.eu/Get?id=OKRSBLLKMSBDAOBFCWAQJHLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTRKQKQCNERSYHNTSOXBTGUH" imageId="2928871"/>
+    </Metadata>
+    <Page imageFilename="U-17_0075_v.jpg" imageWidth="7360" imageHeight="4912">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656673903765" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1551800333345_1598"/>
+                <RegionRefIndexed index="1" regionRef="region_1551800605412_1607"/>
+                <RegionRefIndexed index="2" regionRef="region_1551800616600_1621"/>
+                <RegionRefIndexed index="3" regionRef="region_1551800655974_1656"/>
+                <RegionRefIndexed index="4" regionRef="region_1551800639210_1644"/>
+                <RegionRefIndexed index="5" regionRef="region_1551800663094_1664"/>
+                <RegionRefIndexed index="6" regionRef="region_1551800689784_1686"/>
+                <RegionRefIndexed index="7" regionRef="region_1551800628381_1631"/>
+                <RegionRefIndexed index="8" regionRef="region_1551800682627_1678"/>
+                <RegionRefIndexed index="9" regionRef="region_1551800702536_1702"/>
+                <RegionRefIndexed index="10" regionRef="region_1551800831640_1713"/>
+                <RegionRefIndexed index="11" regionRef="region_1551800838796_1721"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1551800333345_1598" custom="readingOrder {index:0;} structure {type:Dorsual_StAAG;}">
+            <Coords points="2055,461 3008,461 3008,716 2055,716"/>
+            <TextLine id="line_1551800336174_1601" custom="readingOrder {index:0;} abbrev {offset:0; length:8;expansion:Königsfelden;}">
+                <Coords points="2082,593 2924,580 2925,630 2083,643"/>
+                <Baseline points="2083,638 2925,625"/>
+                <TextEquiv>
+                    <Unicode>Königsf. 75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Königsf. 75</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800605412_1607" custom="readingOrder {index:1;} structure {type:Dorsual_Regesta;}">
+            <Coords points="3042,465 4366,465 4366,846 3042,846"/>
+            <TextLine id="line_1551800608475_1610" custom="readingOrder {index:0;}">
+                <Coords points="3113,583 4376,565 4377,615 3114,633"/>
+                <Baseline points="3114,628 4377,610"/>
+                <TextEquiv>
+                    <Unicode>wie der hoff Ellfingenn ✳ an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1551800610273_1615" custom="readingOrder {index:1;} abbrev {offset:13; length:7;expansion:kommenn;}">
+                <Coords points="3201,698 4169,661 4171,711 3203,748"/>
+                <Baseline points="3203,743 4171,706"/>
+                <TextEquiv>
+                    <Unicode>Kùngsfeldenn komēnn ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>wie der hoff Ellfingenn ✳ an
+Kùngsfeldenn komēnn ✳</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800616600_1621" custom="readingOrder {index:2;} structure {type:Dorsual_Jahreszahl-Drei;}">
+            <Coords points="3603,795 3818,795 3818,722 3603,722"/>
+            <TextLine id="line_1551800620301_1624" custom="readingOrder {index:0;}">
+                <Coords points="3626,739 3805,726 3808,776 3629,789"/>
+                <Baseline points="3629,784 3808,771"/>
+                <TextEquiv>
+                    <Unicode>322</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>322</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800655974_1656" custom="readingOrder {index:3;} structure {type:Unsicher;}">
+            <Coords points="3554,1014 3780,1014 3780,1123 3554,1123"/>
+            <TextLine id="line_1551800658928_1659" custom="readingOrder {index:0;}">
+                <Coords points="3560,1072 3754,1031 3764,1080 3570,1121"/>
+                <Baseline points="3569,1116 3763,1075"/>
+                <TextEquiv>
+                    <Unicode>der hoff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der hoff</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800639210_1644" custom="readingOrder {index:4;} structure {type:uber_3;}">
+            <Coords points="3125,1076 3577,1076 3577,1219 3125,1219"/>
+            <TextLine id="line_1551800642373_1647" custom="readingOrder {index:0;}">
+                <Coords points="3147,1127 3573,1135 3572,1185 3146,1177"/>
+                <Baseline points="3146,1172 3572,1180"/>
+                <TextEquiv>
+                    <Unicode>uber ✳ Elvingen ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>uber ✳ Elvingen ✳</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800663094_1664" custom="readingOrder {index:5;} structure {type:Doppel;}">
+            <Coords points="3578,1204 3892,1204 3882,1105 3568,1105"/>
+            <TextLine id="line_1551800674499_1671" custom="readingOrder {index:0;}">
+                <Coords points="3581,1120 3883,1127 3882,1177 3580,1170"/>
+                <Baseline points="3580,1165 3882,1172"/>
+                <TextEquiv>
+                    <Unicode>der ij brief</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>der ij brief</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800689784_1686" custom="readingOrder {index:6;} structure {type:Dorsual_Sigle;}">
+            <Coords points="3435,1827 4048,1827 4048,1174 3435,1174"/>
+            <TextLine id="line_1551800692319_1689" custom="readingOrder {index:0;}">
+                <Coords points="3688,1483 3976,1558 3964,1607 3676,1532"/>
+                <Baseline points="3677,1527 3965,1602"/>
+                <TextEquiv>
+                    <Unicode>K ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1551800694182_1694" custom="readingOrder {index:1;}">
+                <Coords points="3492,1724 4027,1731 4026,1781 3491,1774"/>
+                <Baseline points="3491,1769 4026,1776"/>
+                <TextEquiv>
+                    <Unicode>Q ✳ 6 ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>K ✳
+Q ✳ 6 ✳</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800628381_1631" custom="readingOrder {index:7;} structure {type:Dorsual_StAAG-Stempel;}">
+            <Coords points="2920,1224 3434,1224 3434,1544 2920,1544"/>
+            <TextLine id="line_1551800631855_1634" custom="readingOrder {index:0;}">
+                <Coords points="2934,1320 3399,1327 3398,1377 2933,1370"/>
+                <Baseline points="2933,1365 3398,1372"/>
+                <TextEquiv>
+                    <Unicode>Staatsarchiv</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1551800634378_1639" custom="readingOrder {index:1;}">
+                <Coords points="2978,1421 3347,1429 3346,1479 2977,1471"/>
+                <Baseline points="2977,1466 3346,1474"/>
+                <TextEquiv>
+                    <Unicode>AARGAU</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Staatsarchiv
+AARGAU</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800682627_1678" custom="readingOrder {index:8;} structure {type:Dorsual_Textualis;}">
+            <Coords points="3551,1747 3810,1747 3810,1956 3551,1956"/>
+            <TextLine id="line_1551800685884_1681" custom="readingOrder {index:0;}">
+                <Coords points="3570,1749 3791,1769 3807,1907 3586,1887"/>
+                <Baseline points="3580,1873 3801,1893"/>
+                <TextEquiv>
+                    <Unicode>xvij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>xvij</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800702536_1702" custom="readingOrder {index:9;} structure {type:StAAG_modern;}">
+            <Coords points="4543,2146 5209,2146 5209,2398 4543,2398"/>
+            <TextLine id="line_1551800716005_1705" custom="readingOrder {index:0;} abbrev {offset:0; length:5;expansion:Königsfelden;}">
+                <Coords points="4587,2270 5181,2304 5178,2354 4584,2320"/>
+                <Baseline points="4584,2315 5178,2349"/>
+                <TextEquiv>
+                    <Unicode>Kgsf. 75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Kgsf. 75</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800831640_1713" custom="readingOrder {index:10;} structure {type:Unsicher;}">
+            <Coords points="2508,2265 2808,2265 2808,2399 2508,2399"/>
+            <TextLine id="line_1551800835230_1716" custom="readingOrder {index:0;}">
+                <Coords points="2547,2323 2800,2328 2799,2378 2546,2373"/>
+                <Baseline points="2546,2368 2799,2373"/>
+                <TextEquiv>
+                    <Unicode>Ellfingin ✳</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ellfingin ✳</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1551800838796_1721" custom="readingOrder {index:11;} structure {type:Doppel;}">
+            <Coords points="2976,2399 2801,2399 2801,2267 2976,2267"/>
+            <TextLine id="line_1551800841951_1724" custom="readingOrder {index:0;} abbrev {offset:0; length:2;expansion:der;} abbrev {offset:8; length:1;expansion:brief;}">
+                <Coords points="2822,2325 2966,2327 2965,2377 2821,2375"/>
+                <Baseline points="2821,2370 2965,2372"/>
+                <TextEquiv>
+                    <Unicode>dˀ ✳ ij b</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dˀ ✳ ij b</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

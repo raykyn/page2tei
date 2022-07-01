@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:31:00</Created>
+        <LastChange>2020-04-19T01:19:48.491+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869340" pageNr="5" tsid="27912319" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=YLMTFFMMLRCDGMOPGMFVWYXH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGFIBSLLXVDXYPXYWPUVALJF" imageId="5736203"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_005.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242812" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rhfq6_8"/>
+                <RegionRefIndexed index="1" regionRef="rlFSg_3"/>
+                <RegionRefIndexed index="2" regionRef="rECVj_7"/>
+                <RegionRefIndexed index="3" regionRef="rYyom_5"/>
+                <RegionRefIndexed index="4" regionRef="rV0pm_6"/>
+                <RegionRefIndexed index="5" regionRef="reAVi_4"/>
+                <RegionRefIndexed index="6" regionRef="rGayb_2"/>
+                <RegionRefIndexed index="7" regionRef="rui0v_1"/>
+                <RegionRefIndexed index="8" regionRef="rX5SW_9"/>
+                <RegionRefIndexed index="9" regionRef="rFyd6_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="rhfq6_8" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="147,1324 323,1324 323,1401 147,1401"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rlFSg_3" custom="readingOrder {index:1;} structure {type:marginalia;}">
+            <Coords points="333,966 395,966 395,1004 333,1004"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rECVj_7" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="351,1333 445,1333 445,1370 351,1370"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rYyom_5" custom="readingOrder {index:3;} structure {type:marginalia;}">
+            <Coords points="463,857 506,857 506,901 463,901"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rV0pm_6" custom="readingOrder {index:4;} structure {type:marginalia;}">
+            <Coords points="520,844 556,844 556,881 520,881"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="reAVi_4" custom="readingOrder {index:5;} structure {type:marginalia;}">
+            <Coords points="491,897 592,897 592,947 491,947"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rGayb_2" custom="readingOrder {index:6;} structure {type:marginalia;}">
+            <Coords points="226,1071 693,1071 693,1209 226,1209"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="rui0v_1" custom="readingOrder {index:7;} structure {type:marginalia;}">
+            <Coords points="140,1272 693,1272 693,1658 140,1658"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rX5SW_9" custom="readingOrder {index:8;} structure {type:header;}">
+            <Coords points="556,242 2154,242 2154,445 556,445"/>
+            <TextLine id="rX5SW_9l1" custom="readingOrder {index:0;}">
+                <Coords points="553,414 2078,388 2078,343 1987,317 1799,335 1574,264 1392,335 1281,293 1109,341 1007,280 554,321"/>
+                <Baseline points="566,365 641,366 716,366 791,368 866,368 941,369 1016,369 1091,369 1166,369 1241,369 1316,369 1391,369 1466,369 1541,369 1616,371 1691,371 1766,371 1841,372 1916,374 1991,375 2067,377"/>
+                <TextEquiv>
+                    <Unicode>voneig. 9 Caper, desgl von Jarziten wegen den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>voneig. 9 Caper, desgl von Jarziten wegen den</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rFyd6_10" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="506,410 2671,410 2671,1671 506,1671"/>
+            <TextLine id="rFyd6_10l1" custom="readingOrder {index:0;}">
+                <Coords points="511,510 1031,485 1136,523 1245,485 1756,525 1835,500 1836,403 1473,457 1119,376 895,444 747,387 512,421"/>
+                <Baseline points="522,470 587,470 652,471 717,473 782,473 847,474 912,476 977,476 1042,477 1107,477 1173,479 1238,479 1303,480 1368,480 1433,480 1498,482 1563,482 1628,482 1693,482 1758,482 1824,483"/>
+                <TextEquiv>
+                    <Unicode>hau 5sh. u. den Frauen an den steiner 5sh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l2" custom="readingOrder {index:1;}">
+                <Coords points="516,631 2026,638 2126,618 2127,532 1885,565 1785,518 1641,568 1309,491 1137,566 1072,517 881,562 800,503 516,538"/>
+                <Baseline points="527,588 606,588 685,590 765,590 844,590 923,590 1003,591 1082,591 1161,591 1241,591 1320,593 1399,593 1479,594 1558,594 1637,594 1717,596 1796,597 1875,597 1955,599 2034,600 2114,602"/>
+                <TextEquiv>
+                    <Unicode>jm 3 Jucl. matter vor Eschamenthor, im Kaper Klapf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l3" custom="readingOrder {index:2;}">
+                <Coords points="494,746 1205,715 1391,771 1702,715 1814,769 1916,713 2063,727 2063,632 1930,669 1754,609 1410,678 1210,624 1022,680 494,633"/>
+                <Baseline points="506,704 583,704 660,704 737,704 815,704 892,705 969,705 1047,705 1124,705 1201,705 1279,705 1356,707 1433,707 1510,707 1588,707 1665,706 1742,705 1820,705 1897,705 1974,705 2052,705"/>
+                <TextEquiv>
+                    <Unicode>usen Nagel dem schumacher u. Wilh. Lang wetten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l4" custom="readingOrder {index:3;}">
+                <Coords points="506,835 1335,831 1442,878 1728,825 2018,844 1993,739 1496,796 1282,733 933,789 506,747"/>
+                <Baseline points="518,819 592,819 666,818 741,818 815,818 890,818 964,818 1038,818 1113,818 1187,819 1262,819 1336,819 1410,819 1485,819 1559,819 1634,821 1708,821 1782,819 1857,819 1931,819 2006,819"/>
+                <TextEquiv>
+                    <Unicode>t den heuen s. Alban 5sh. u. zulch ab der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l5" custom="readingOrder {index:4;}">
+                <Coords points="492,981 771,952 857,992 1017,940 2112,985 2126,906 1476,856 1259,904 1006,844 918,890 492,872"/>
+                <Baseline points="503,929 583,929 664,930 744,930 825,930 905,932 986,932 1066,932 1147,932 1227,932 1308,932 1389,932 1469,932 1550,933 1630,933 1711,933 1791,935 1872,936 1952,938 2033,939 2114,941"/>
+                <TextEquiv>
+                    <Unicode>15 Juch. by s. Jacob an der Bus glegen, stosst an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l6" custom="readingOrder {index:5;}">
+                <Coords points="502,1060 2124,1067 2124,999 1434,997 1236,948 1029,1018 913,969 502,1002"/>
+                <Baseline points="513,1046 597,1046 681,1046 765,1044 849,1044 933,1044 1017,1043 1102,1043 1186,1043 1270,1043 1354,1043 1438,1043 1522,1043 1607,1043 1691,1043 1775,1044 1859,1044 1943,1046 2027,1046 2112,1047"/>
+                <TextEquiv>
+                    <Unicode>natten, u. sinst allenthalb an die Allmend, zinst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l7" custom="readingOrder {index:6;}">
+                <Coords points="220,1169 2100,1192 2100,1113 2025,1078 1793,1134 1530,1067 1330,1112 1258,1058 996,1119 675,1073 220,1113"/>
+                <Baseline points="231,1154 323,1155 416,1155 509,1157 602,1157 695,1157 787,1157 880,1157 973,1157 1066,1157 1159,1155 1251,1155 1344,1155 1437,1154 1530,1154 1623,1154 1715,1154 1808,1154 1901,1155 1994,1155 2087,1157"/>
+                <TextEquiv>
+                    <Unicode>big. gmelten hern s. Alban 1 ℔ 3sh. sonst frei, sum 100 fl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l8" custom="readingOrder {index:7;}">
+                <Coords points="1437,1412 1478,1420 1581,1392 1615,1420 1667,1401 1732,1443 1808,1383 1878,1409 1927,1384 1990,1395 1990,1272 1971,1265 1632,1311 1500,1236 1437,1245"/>
+                <Baseline points="1449,1373 1475,1375 1501,1377 1528,1379 1554,1380 1581,1380 1607,1382 1633,1382 1660,1382 1686,1382 1713,1382 1739,1382 1765,1380 1792,1380 1818,1380 1845,1379 1871,1379 1897,1379 1924,1379 1950,1379 1977,1379"/>
+                <TextEquiv>
+                    <Unicode>fertigungsbuch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l9" custom="readingOrder {index:8;}">
+                <Coords points="144,1383 682,1432 748,1400 994,1403 997,1284 867,1270 675,1343 486,1281 294,1333 146,1298"/>
+                <Baseline points="155,1365 196,1368 237,1370 279,1373 320,1376 362,1377 403,1379 445,1380 486,1380 528,1382 569,1382 610,1383 652,1383 693,1383 735,1383 776,1383 818,1383 859,1385 901,1385 942,1385 984,1385"/>
+                <TextEquiv>
+                    <Unicode>Martin Shauf u. seine Frau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l10" custom="readingOrder {index:9;}">
+                <Coords points="133,1513 1776,1547 2015,1503 2016,1406 1681,1456 963,1393 133,1429"/>
+                <Baseline points="146,1482 238,1485 331,1487 424,1490 517,1491 610,1493 703,1494 796,1494 889,1496 982,1496 1075,1496 1167,1496 1260,1496 1353,1494 1446,1494 1539,1493 1632,1491 1725,1491 1818,1490 1911,1487 2004,1485"/>
+                <TextEquiv>
+                    <Unicode>haben bekaund die 5 ℔ u. j Hptg. so deren von Lenherin ab den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rFyd6_10l11" custom="readingOrder {index:10;}">
+                <Coords points="129,1637 213,1610 331,1650 459,1618 649,1671 729,1624 1119,1634 1150,1586 1026,1539 634,1587 463,1530 323,1557 131,1520"/>
+                <Baseline points="141,1593 190,1596 240,1598 290,1601 340,1604 390,1607 439,1608 489,1610 539,1611 589,1613 639,1614 688,1614 738,1616 788,1616 838,1616 888,1616 937,1616 987,1616 1037,1616 1087,1614 1137,1614"/>
+                <TextEquiv>
+                    <Unicode>Hus zum Rapen gand. abzulösen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>hau 5sh. u. den Frauen an den steiner 5sh.
+jm 3 Jucl. matter vor Eschamenthor, im Kaper Klapf.
+usen Nagel dem schumacher u. Wilh. Lang wetten
+t den heuen s. Alban 5sh. u. zulch ab der
+15 Juch. by s. Jacob an der Bus glegen, stosst an
+natten, u. sinst allenthalb an die Allmend, zinst
+big. gmelten hern s. Alban 1 ℔ 3sh. sonst frei, sum 100 fl
+fertigungsbuch
+Martin Shauf u. seine Frau
+haben bekaund die 5 ℔ u. j Hptg. so deren von Lenherin ab den
+Hus zum Rapen gand. abzulösen,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

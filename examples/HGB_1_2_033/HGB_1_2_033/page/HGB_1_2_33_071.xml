@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:32:03</Created>
+        <LastChange>2020-04-19T01:37:36.153+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869598" pageNr="71" tsid="27912971" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=RLSUJBMCZHBTRZMYZHZBXVEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPGIRDCSQGTTRNLARNPATCAT" imageId="5736461"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_071.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rWILJ_1"/>
+                <RegionRefIndexed index="1" regionRef="rxaZ3_2"/>
+                <RegionRefIndexed index="2" regionRef="rvcMz_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rWILJ_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="211,962 617,962 617,1361 211,1361"/>
+            <TextLine id="rWILJ_1l1" custom="readingOrder {index:0;}">
+                <Coords points="209,1118 245,1106 312,1144 358,1110 405,1124 467,1096 546,1146 599,1145 611,1005 473,1024 454,1007 431,1013 394,972 221,963"/>
+                <Baseline points="224,1083 250,1082 276,1082 302,1082 328,1083 354,1086 380,1087 407,1090 433,1092 459,1095 485,1100 511,1102 537,1104 563,1106 590,1107"/>
+                <TextEquiv>
+                    <Unicode>15/1538</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWILJ_1l2" custom="readingOrder {index:1;}">
+                <Coords points="217,1227 248,1219 267,1230 288,1226 312,1243 338,1231 372,1256 385,1244 409,1253 456,1228 476,1232 479,1172 443,1149 400,1150 376,1138 340,1151 305,1139 280,1143 244,1118 223,1122"/>
+                <Baseline points="231,1208 257,1211 283,1214 309,1217 335,1218 361,1220 387,1220 413,1221 439,1221 465,1223"/>
+                <TextEquiv>
+                    <Unicode>hieben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rWILJ_1l3" custom="readingOrder {index:2;}">
+                <Coords points="265,1338 280,1339 287,1347 292,1342 312,1351 329,1349 342,1357 369,1354 389,1370 409,1371 414,1276 401,1275 390,1262 372,1258 350,1242 304,1270 269,1255"/>
+                <Baseline points="278,1326 308,1331 338,1333 368,1335 398,1332"/>
+                <TextEquiv>
+                    <Unicode>13.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>15/1538
+hieben
+13.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rxaZ3_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="614,283 1299,283 1299,484 614,484"/>
+            <TextLine id="rxaZ3_2l1" custom="readingOrder {index:0;}">
+                <Coords points="652,450 695,435 795,453 878,436 1059,450 1094,435 1095,337 1032,344 989,329 964,351 942,341 919,356 834,318 798,340 701,322 653,334"/>
+                <Baseline points="666,383 692,383 718,384 744,384 770,386 796,386 822,386 848,387 874,387 900,387 926,387 952,387 978,387 1004,387 1030,386 1056,386 1082,386"/>
+                <TextEquiv>
+                    <Unicode>1753. August 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1753. August 1.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="rvcMz_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="599,456 2661,456 2661,2165 599,2165"/>
+            <TextLine id="rvcMz_3l1" custom="readingOrder {index:0;}">
+                <Coords points="854,600 919,601 974,642 1040,598 1103,593 1148,612 1188,599 1189,534 1149,531 1121,511 1046,532 961,496 893,503 856,492"/>
+                <Baseline points="867,582 892,582 918,582 944,581 970,582 995,582 1021,582 1047,582 1073,584 1098,584 1124,584 1150,585 1176,585"/>
+                <TextEquiv>
+                    <Unicode>Obligatio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l2" custom="readingOrder {index:1;}">
+                <Coords points="657,709 2046,743 2468,706 2485,630 657,631"/>
+                <Baseline points="671,683 761,684 851,684 941,686 1031,686 1121,686 1211,686 1302,686 1392,686 1482,686 1572,686 1662,686 1752,686 1842,686 1933,686 2023,686 2113,686 2203,686 2293,686 2383,687 2474,687"/>
+                <TextEquiv>
+                    <Unicode>Creditor. Lueas Christ der Handelsmann segtlicher Weise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l3" custom="readingOrder {index:2;}">
+                <Coords points="641,813 2449,833 2667,806 2667,723 641,743"/>
+                <Baseline points="653,782 753,783 853,785 953,785 1053,785 1153,786 1253,786 1353,786 1453,786 1553,788 1653,788 1753,788 1853,788 1953,788 2053,788 2153,788 2253,788 2353,788 2453,789 2553,789 2654,789"/>
+                <TextEquiv>
+                    <Unicode>Debitores: Johannes Märht Rabbenwerth und seine Frau Maria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l4" custom="readingOrder {index:3;}">
+                <Coords points="1082,913 1202,944 1343,895 1453,926 1594,894 1672,930 1695,910 1752,927 1753,817 1620,834 1514,793 1436,840 1333,819 1273,847 1195,801 1082,853"/>
+                <Baseline points="1094,882 1126,884 1158,884 1190,884 1223,884 1255,884 1287,884 1319,885 1352,885 1384,885 1416,885 1448,885 1481,885 1513,885 1545,885 1577,886 1610,887 1642,887 1674,887 1706,887 1739,888"/>
+                <TextEquiv>
+                    <Unicode>Magdalena Brodbech.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l5" custom="readingOrder {index:4;}">
+                <Coords points="664,1027 1832,996 2080,1060 2495,1006 2495,939 2352,905 2221,950 665,919"/>
+                <Baseline points="677,984 767,984 857,984 947,984 1038,984 1128,984 1218,984 1309,984 1399,984 1489,984 1580,986 1670,986 1760,986 1850,986 1941,987 2031,987 2121,989 2212,989 2302,989 2392,990 2483,990"/>
+                <TextEquiv>
+                    <Unicode>Capital: 4000 ℔. jährlich mit 23/4 procento zu verzinnsen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l6" custom="readingOrder {index:5;}">
+                <Coords points="1258,1118 1296,1123 1361,1098 1474,1139 1564,1126 1592,1142 1647,1096 1740,1112 1740,1036 1708,1026 1610,1049 1565,1021 1529,1038 1474,1023 1436,1041 1326,1000 1258,1033"/>
+                <Baseline points="1271,1080 1296,1081 1321,1082 1347,1083 1372,1083 1397,1083 1423,1083 1448,1083 1474,1083 1499,1083 1524,1083 1550,1083 1575,1083 1601,1082 1626,1082 1651,1082 1677,1083 1702,1083 1728,1085"/>
+                <TextEquiv>
+                    <Unicode>Unterpfander</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l7" custom="readingOrder {index:6;}">
+                <Coords points="660,1212 2672,1231 2672,1148 2419,1107 2263,1162 1803,1101 661,1149"/>
+                <Baseline points="672,1188 771,1187 870,1187 970,1187 1069,1187 1169,1187 1268,1187 1367,1187 1467,1187 1566,1187 1666,1187 1765,1187 1864,1188 1964,1188 2063,1188 2163,1190 2262,1190 2361,1190 2461,1190 2560,1191 2660,1191"/>
+                <TextEquiv>
+                    <Unicode>Erstens: Das. Wirtohaus zum Raben mit Scherren, Stallungen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l8" custom="readingOrder {index:7;}">
+                <Coords points="662,1303 2101,1344 2586,1325 2669,1245 662,1215"/>
+                <Baseline points="674,1284 773,1284 872,1286 971,1286 1070,1286 1169,1287 1268,1287 1368,1287 1467,1287 1566,1287 1665,1287 1764,1289 1863,1289 1962,1289 2062,1289 2161,1289 2260,1289 2359,1289 2458,1289 2557,1290 2657,1290"/>
+                <TextEquiv>
+                    <Unicode>Schütten Garten, Hoff. Matten und Zugehördt, alles beieiman</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l9" custom="readingOrder {index:8;}">
+                <Coords points="640,1415 2235,1398 2348,1458 2675,1403 2630,1310 2466,1363 2321,1312 641,1350"/>
+                <Baseline points="653,1386 753,1386 853,1386 954,1386 1054,1386 1155,1388 1255,1388 1355,1388 1456,1388 1556,1388 1657,1388 1757,1389 1857,1389 1958,1389 2058,1389 2159,1389 2259,1389 2359,1389 2460,1389 2560,1389 2661,1388"/>
+                <TextEquiv>
+                    <Unicode>der in der Ascheiner Porstatt, einseit neben dem Haus zum Para-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l10" custom="readingOrder {index:9;}">
+                <Coords points="640,1506 2669,1532 2669,1422 2561,1402 2390,1467 2245,1406 640,1448"/>
+                <Baseline points="653,1487 753,1487 853,1487 953,1487 1053,1487 1154,1487 1254,1487 1354,1487 1454,1488 1554,1488 1655,1488 1755,1488 1855,1488 1955,1488 2055,1490 2156,1490 2256,1490 2356,1490 2456,1490 2556,1490 2657,1491"/>
+                <TextEquiv>
+                    <Unicode>dies, anderseit neben Mr. Heinrich Salate dem Schumacher gelegen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l11" custom="readingOrder {index:10;}">
+                <Coords points="644,1613 1365,1598 1478,1651 2043,1593 2204,1656 2608,1606 2551,1531 2264,1558 2159,1505 1830,1563 1712,1495 645,1545"/>
+                <Baseline points="656,1586 753,1586 850,1586 947,1586 1044,1586 1141,1586 1238,1586 1335,1586 1432,1586 1529,1586 1626,1587 1723,1587 1820,1587 1917,1587 2014,1587 2111,1587 2208,1587 2305,1587 2402,1587 2499,1586 2597,1586"/>
+                <TextEquiv>
+                    <Unicode>hinden an den Würtenberger Hof, mit dem Ausgang an ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l12" custom="readingOrder {index:11;}">
+                <Coords points="639,1739 2659,1698 2614,1615 640,1646"/>
+                <Baseline points="653,1685 752,1685 852,1685 951,1685 1051,1685 1151,1686 1250,1686 1350,1686 1450,1686 1549,1686 1649,1686 1749,1686 1848,1688 1948,1688 2048,1688 2147,1688 2247,1688 2347,1688 2446,1688 2546,1688 2646,1688"/>
+                <TextEquiv>
+                    <Unicode>gemeines Gasslin stossend; sannnt Ein und Ansfahrt zwischen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l13" custom="readingOrder {index:12;}">
+                <Coords points="643,1794 2459,1844 2625,1794 2138,1703 643,1736"/>
+                <Baseline points="656,1785 753,1785 851,1785 949,1785 1047,1785 1145,1785 1243,1785 1340,1785 1438,1785 1536,1785 1634,1785 1732,1785 1830,1785 1928,1785 2025,1785 2123,1787 2221,1787 2319,1787 2417,1787 2515,1787 2613,1787"/>
+                <TextEquiv>
+                    <Unicode>Mr. Georg Hrausen sel. Wittib, und Daniel Erkenstein dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l14" custom="readingOrder {index:13;}">
+                <Coords points="645,1899 1162,1953 1361,1891 1931,1939 2217,1892 2433,1945 2646,1925 2647,1840 2051,1799 1830,1859 1532,1800 1248,1858 1024,1795 645,1852"/>
+                <Baseline points="657,1884 755,1884 854,1884 953,1886 1052,1886 1151,1886 1250,1886 1348,1886 1447,1886 1546,1886 1645,1886 1744,1886 1843,1886 1942,1886 2040,1886 2139,1886 2238,1886 2337,1887 2436,1887 2535,1889 2634,1889"/>
+                <TextEquiv>
+                    <Unicode>Büchdrucker gelegen, ist ausser dem gewohnlichen Bodenzinns,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l15" custom="readingOrder {index:14;}">
+                <Coords points="668,2032 688,2034 713,2026 741,2041 756,2026 786,2029 806,2011 834,2006 833,1928 791,1933 778,1921 740,1911 703,1944 668,1941"/>
+                <Baseline points="681,1982 709,1983 737,1985 765,1983 793,1983 822,1982"/>
+                <TextEquiv>
+                    <Unicode>frey.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l16" custom="readingOrder {index:15;}">
+                <Coords points="1595,2006 1903,1994 2089,2039 2227,1992 2290,2045 2536,2020 2536,1924 2421,1954 2333,1919 2278,1944 1871,1914 1803,1939 1748,1898 1595,1926"/>
+                <Baseline points="1608,1977 1653,1982 1699,1984 1745,1986 1791,1988 1836,1989 1882,1991 1928,1991 1974,1991 2019,1991 2065,1991 2111,1991 2157,1990 2202,1989 2248,1989 2294,1988 2340,1986 2385,1986 2431,1985 2477,1985 2523,1985"/>
+                <TextEquiv>
+                    <Unicode>DDT BASTSER B EL. BA. 6.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rvcMz_3l17" custom="readingOrder {index:16;}">
+                <Coords points="859,2095 2466,2144 2488,2034 860,2025"/>
+                <Baseline points="872,2076 952,2082 1032,2086 1112,2091 1192,2094 1272,2096 1352,2097 1432,2099 1512,2100 1592,2100 1673,2102 1753,2102 1833,2102 1913,2103 1993,2103 2073,2105 2153,2106 2233,2108 2313,2110 2393,2114 2474,2117"/>
+                <TextEquiv>
+                    <Unicode>Sclanther Hrch Eig v Th v 15 neben 17 ao 1563</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Obligatio.
+Creditor. Lueas Christ der Handelsmann segtlicher Weise.
+Debitores: Johannes Märht Rabbenwerth und seine Frau Maria
+Magdalena Brodbech.
+Capital: 4000 ℔. jährlich mit 23/4 procento zu verzinnsen.
+Unterpfander
+Erstens: Das. Wirtohaus zum Raben mit Scherren, Stallungen,
+Schütten Garten, Hoff. Matten und Zugehördt, alles beieiman
+der in der Ascheiner Porstatt, einseit neben dem Haus zum Para-
+dies, anderseit neben Mr. Heinrich Salate dem Schumacher gelegen
+hinden an den Würtenberger Hof, mit dem Ausgang an ein
+gemeines Gasslin stossend; sannnt Ein und Ansfahrt zwischen
+Mr. Georg Hrausen sel. Wittib, und Daniel Erkenstein dem
+Büchdrucker gelegen, ist ausser dem gewohnlichen Bodenzinns,
+frey.
+DDT BASTSER B EL. BA. 6.
+Sclanther Hrch Eig v Th v 15 neben 17 ao 1563</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

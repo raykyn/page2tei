@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=HGB_M5++M2(htr_id=22369)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+P2PaLA-PRHLT</Creator>
+        <Created>2020-04-18T17:29:29</Created>
+        <LastChange>2020-04-19T01:22:46.561+02:00</LastChange>
+        <TranskribusMetadata docId="206250" pageId="8869386" pageNr="17" tsid="27912418" status="IN_PROGRESS" userId="2526" imgUrl="https://files.transkribus.eu/Get?id=PSMUQCNWQSTIQXEYEPXZHQOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OKGNHVVBVBPINPECCLOYKFEN" imageId="5736249"/>
+    </Metadata>
+    <Page imageFilename="HGB_1_2_33_017.jpg" imageWidth="2758" imageHeight="2235">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1656672242824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="rtY58_1"/>
+                <RegionRefIndexed index="1" regionRef="r1NuX_2"/>
+                <RegionRefIndexed index="2" regionRef="r2b3s_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="rtY58_1" custom="readingOrder {index:0;} structure {type:marginalia;}">
+            <Coords points="233,835 617,835 617,1226 233,1226"/>
+            <TextLine id="rtY58_1l1" custom="readingOrder {index:0;}">
+                <Coords points="287,1103 322,1097 341,1110 357,1096 382,1106 422,1092 479,1126 506,1120 504,1009 469,993 447,994 420,1016 409,1011 378,1039 339,1028 285,1032"/>
+                <Baseline points="300,1080 327,1082 354,1081 381,1080 409,1079 436,1079 463,1078 491,1079"/>
+                <TextEquiv>
+                    <Unicode>neben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="rtY58_1l2" custom="readingOrder {index:1;}">
+                <Coords points="323,1199 342,1203 350,1198 381,1225 392,1217 417,1217 427,1226 441,1219 468,1229 476,1118 441,1113 430,1120 407,1104 359,1125 329,1123"/>
+                <Baseline points="339,1175 368,1181 398,1185 428,1185 458,1185"/>
+                <TextEquiv>
+                    <Unicode>13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>neben
+13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1NuX_2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="649,237 2248,237 2248,432 649,432"/>
+            <TextLine id="r1NuX_2l1" custom="readingOrder {index:0;}">
+                <Coords points="1238,384 1764,386 1847,440 1939,409 2156,430 2251,418 2253,337 2057,344 1966,299 1835,334 1714,293 1575,334 1446,282 1240,292"/>
+                <Baseline points="1253,365 1302,365 1351,366 1400,366 1449,368 1499,368 1548,369 1597,370 1646,371 1695,372 1745,374 1794,375 1843,377 1892,378 1941,378 1991,380 2040,381 2089,381 2138,381 2187,383 2237,383"/>
+                <TextEquiv>
+                    <Unicode>88 vor Apodor S.at. PaNElos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>88 vor Apodor S.at. PaNElos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2b3s_3" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="578,405 2671,405 2671,1444 578,1444"/>
+            <TextLine id="r2b3s_3l1" custom="readingOrder {index:0;}">
+                <Coords points="661,503 688,508 705,491 751,483 786,499 859,507 889,482 919,487 918,395 829,393 785,410 745,396 696,421 661,424"/>
+                <Baseline points="674,462 699,464 725,465 751,465 776,464 802,463 828,462 853,462 879,463 905,465"/>
+                <TextEquiv>
+                    <Unicode>1543.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l2" custom="readingOrder {index:1;}">
+                <Coords points="817,597 1177,585 1250,616 1321,597 1380,633 1529,608 1531,454 1257,448 1145,517 1027,488 988,515 940,482 818,510"/>
+                <Baseline points="830,552 864,556 898,560 933,562 967,563 1001,565 1036,566 1070,567 1104,567 1139,567 1173,567 1207,567 1242,567 1276,567 1310,566 1345,566 1379,566 1413,566 1448,566 1482,566 1517,567"/>
+                <TextEquiv>
+                    <Unicode>Martin Streiff.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l3" custom="readingOrder {index:2;}">
+                <Coords points="667,702 699,684 715,694 721,688 746,709 781,701 796,684 849,706 892,693 886,582 835,582 819,599 792,595 771,610 714,602 688,584 662,596"/>
+                <Baseline points="678,666 706,666 734,664 762,663 790,662 818,660 846,659 875,656"/>
+                <TextEquiv>
+                    <Unicode>1517.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l4" custom="readingOrder {index:3;}">
+                <Coords points="841,792 2602,817 2603,708 2456,729 2302,647 1988,724 842,716"/>
+                <Baseline points="854,758 940,759 1027,761 1114,762 1201,764 1287,764 1374,764 1461,764 1548,764 1634,764 1721,764 1808,764 1895,764 1981,765 2068,765 2155,765 2242,765 2328,767 2415,768 2502,770 2589,771"/>
+                <TextEquiv>
+                    <Unicode>Martin Maller, der Würt zum Rappen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l5" custom="readingOrder {index:4;}">
+                <Coords points="692,908 1922,926 2407,903 2467,824 692,805"/>
+                <Baseline points="707,863 794,864 881,866 968,866 1056,866 1143,867 1230,867 1318,867 1405,866 1492,866 1580,866 1667,866 1754,866 1841,866 1929,866 2016,866 2103,866 2191,867 2278,867 2365,869 2453,870"/>
+                <TextEquiv>
+                    <Unicode>gitt von Huß und Guttern wie im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l6" custom="readingOrder {index:5;}">
+                <Coords points="234,1012 1616,959 2276,1024 2428,1003 2429,925 858,927 504,805 235,828"/>
+                <Baseline points="248,944 356,950 464,954 572,958 681,960 789,963 897,965 1006,966 1114,966 1222,968 1331,968 1439,968 1547,968 1655,966 1764,966 1872,966 1980,966 2089,966 2197,968 2305,968 2414,969"/>
+                <TextEquiv>
+                    <Unicode>No 14588, dem 80 . Johibuch geschrieben statt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l7" custom="readingOrder {index:6;}">
+                <Coords points="676,1109 743,1083 1340,1112 1526,1083 1597,1112 1654,1084 1652,968 1417,1006 1100,982 1049,1026 989,986 759,994 675,1025"/>
+                <Baseline points="690,1067 737,1065 785,1065 832,1065 880,1064 927,1063 975,1062 1022,1061 1070,1060 1117,1059 1165,1058 1213,1056 1260,1056 1308,1055 1355,1055 1403,1055 1450,1055 1498,1056 1545,1058 1593,1059 1641,1061"/>
+                <TextEquiv>
+                    <Unicode>jährlich 13 ℔ 14 ß bez.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l8" custom="readingOrder {index:7;}">
+                <Coords points="674,1224 978,1185 1183,1232 1246,1192 1636,1184 1750,1236 1828,1207 1829,1123 1312,1101 1152,1132 762,1083 675,1110"/>
+                <Baseline points="689,1164 745,1166 801,1166 857,1167 914,1167 970,1167 1026,1169 1083,1169 1139,1169 1195,1170 1252,1170 1308,1170 1364,1172 1420,1172 1477,1172 1533,1172 1589,1172 1646,1172 1702,1172 1758,1172 1815,1172"/>
+                <TextEquiv>
+                    <Unicode>Ebens 1826 1528 A5II 100 ℔ 1530</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2b3s_3l9" custom="readingOrder {index:8;}">
+                <Coords points="1826,1399 1945,1382 2005,1418 2056,1412 2186,1347 2230,1366 2452,1362 2476,1354 2476,1232 2300,1263 2151,1266 2072,1228 2013,1263 1826,1250"/>
+                <Baseline points="1839,1344 1870,1344 1901,1344 1932,1345 1963,1346 1995,1346 2026,1346 2057,1346 2088,1346 2119,1346 2151,1346 2182,1346 2213,1344 2244,1344 2275,1344 2307,1344 2338,1344 2369,1344 2400,1344 2431,1344 2463,1344"/>
+                <TextEquiv>
+                    <Unicode>Sb" 51000 - Ooroad.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1543.
+Martin Streiff.
+1517.
+Martin Maller, der Würt zum Rappen,
+gitt von Huß und Guttern wie im
+No 14588, dem 80 . Johibuch geschrieben statt,
+jährlich 13 ℔ 14 ß bez.
+Ebens 1826 1528 A5II 100 ℔ 1530
+Sb" 51000 - Ooroad.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
